@@ -13,7 +13,7 @@ tags: [retailer, publisher, youtube-channel, uk, global-shipping]
 
 # DROIX
 
-DROIX (always all-caps — never "DroiX" or "Droix") is a UK-based retailer of handheld gaming PCs, Android handhelds, UMPCs, mini PCs, eGPUs, and related accessories, and the publisher of the DROIX YouTube channel which produces reviews of the products it sells. DROIX is both the origin of this knowledge base and a major voice in its coverage.
+DROIX is a UK-based retailer of handheld gaming PCs, Android handhelds, UMPCs, mini PCs, eGPUs, and related accessories, and the publisher of the DROIX YouTube channel which produces reviews of the products it sells. DROIX is both the origin of this knowledge base and a major voice in its coverage.
 
 ## Retail
 

@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-04-21] ingest-prep | Full corpus queue and tooling
+- Created: [[mini-pc]], [[ingest-ledger]]
+- Updated: [[index]]
+- Tooling: added `tools/wiki_ingest.py` for source scanning, canonical batch selection, classification validation, structural linting, ledger generation, and batch reporting.
+- Notes: Scanner tracks 856 pending records: 828 staged ingest sources plus 28 archived GPD supplier-resource bundles. Open classification/onboarding issues are recorded in [[ingest-ledger]].
+
 ## [2026-04-21] restructure | Wiki schema v3 — navigation, technology brands, benchmarks, archive
 
 **Schema (AGENTS.md):**
@@ -53,17 +59,17 @@
 - **wiki/products/** — created 14 product hubs + 8 variant pages across GPD, AYANEO, ONEXPLAYER, AYN, Anbernic, KONKR. Hub + variant pattern adopted; reviews link variant-primary, hub-secondary.
 - **wiki/sources/** — renamed the 15 existing review slugs to the new dated `YYYY-MM-DD-<brand>-<product>-<kind>` form (e.g. `gpd-win-5-review.md` → [[2025-10-23-gpd-win-5-review-youtube]]). All 16 pre-existing source pages migrated to the new frontmatter schema (subtype / brand / product / variant / raw / source_url). Seeded 6 GPD WIN 5 resource pages ([[gpd-win-5-firmware-win11-25h2]], [[gpd-win-5-firmware-win11-24h2]], [[gpd-win-5-bios-v2-25]], [[gpd-win-5-drivers-2025-10-30]], [[gpd-motionassistant-v1-2-0-9]], [[gpd-win-5-user-manual-2025-09-04]]) and 3 first-party content pages ([[gpd-win-5-product-page]], [[gpd-win-5-getting-started]], [[gpd-win-5-faq]]).
 - **wiki/entities/** — rewrote all 7 brand entities to the new schema with `products: [...]` manifests, added new stub [[retroid]], and added 2 chipset entities [[amd-ryzen-ai-max]] and [[qualcomm-snapdragon-g3-gen-3]]. Fixed [[droix]] to always use the "DROIX" spelling.
-- **wiki/concepts/** — 7 concept pages relinked to the new slug scheme (product hubs + dated source slugs), replaced all `[[DroiX]]` wikilinks with `[[droix|DROIX]]`, and updated frontmatter `sources:` lists to the new dated slugs.
+- **wiki/concepts/** — 7 concept pages relinked to the new slug scheme (product hubs + dated source slugs), replaced incorrect DROIX-case wikilinks with `[[droix|DROIX]]`, and updated frontmatter `sources:` lists to the new dated slugs.
 - **wiki/index.md** — rebuilt from scratch around the new structure (Brands / Products by brand / Sources by subtype / Entities / Concepts / Analysis).
 - Notes: Schema migration only — no new data ingested. Next ingest should onboard the full product catalogue (Retroid line, additional GPD/AYANEO/ONEXPLAYER/AYN SKUs) and backfill resource pages for products beyond the WIN 5.
 
 ## [2026-04-21] ingest | GPD WIN 5 Review (GPD Store blog)
 - Created: [[gpd-win-5-blog-review]]
-- Updated: [[gpd-win-5-review]] (added 85W TDP update, linked blog review), [[gpd]] (added WIN Mini 2025 and WIN MAX 2 2025, blog rating), [[egpu-docking]] (added GPD Store quote, 85W TDP note)
+- Updated: [[2025-10-23-gpd-win-5-review-youtube]] (added 85W TDP update, linked blog review), [[gpd]] (added WIN Mini 2025 and WIN MAX 2 2025, blog rating), [[egpu-docking]] (added GPD Store quote, 85W TDP note)
 - Notes: First-party written review from gpdstore.net by Dave. Same device as DROIX video but adds 85W TDP launch update, 6 extra game benchmarks, idle battery life, BIWIN Mini SSD brand, and 4.9/5 rating.
 
 ## [2026-04-21] ingest | Batch ingest of 15 DROIX video transcripts
-- Created: [[ayaneo-pocket-ace-review]], [[ayaneo-ag01-review]], [[anbernic-rg-slide-review]], [[ayaneo-pocket-s2-review]], [[gpd-micropc-2-review]], [[onexplayer-g1-review]], [[gpd-win-5-review]], [[ayaneo-flip-1s-ds-review]], [[konkr-pocket-fit-review]], [[gpd-win-5-smart-dock-review]], [[ayaneo-pocket-ds-review]], [[ayn-thor-review]], [[onexfly-apex-review]], [[ayn-odin-3-review]], [[ayaneo-pocket-vert-review]]
+- Created: [[2025-05-23-ayaneo-pocket-ace-review-youtube]], [[2025-06-25-ayaneo-ag01-review-youtube]], [[2025-07-02-anbernic-rg-slide-review-youtube]], [[2025-07-18-ayaneo-pocket-s2-review-youtube]], [[2025-07-24-gpd-micropc-2-review-youtube]], [[2025-08-29-onexplayer-g1-review-youtube]], [[2025-10-23-gpd-win-5-review-youtube]], [[2025-11-07-ayaneo-flip-1s-ds-review-youtube]], [[2025-11-14-konkr-pocket-fit-review-youtube]], [[2025-11-20-gpd-win-5-smart-dock-review]], [[2025-11-21-ayaneo-pocket-ds-review-youtube]], [[2026-01-27-ayn-thor-review-youtube]], [[2026-03-04-onexplayer-onexfly-apex-review-youtube]], [[2026-03-13-ayn-odin-3-review-youtube]], [[2026-03-31-ayaneo-pocket-vert-review-youtube]]
 - Created: [[droix]], [[ayaneo]], [[ayn]], [[gpd]], [[onexplayer]], [[anbernic]], [[konkr]]
 - Created: [[android-handheld-gaming]], [[windows-handheld-gaming]], [[emulation-performance]], [[egpu-docking]], [[dual-screen-handhelds]], [[display-technology]], [[benchmark-methodology]]
 - Notes: First batch ingest. 15 source pages, 7 entity pages, 7 concept pages created. Sources span 2025-05-23 to 2026-03-31. Covers Android handhelds (AYANEO, AYN, Anbernic, KONKR), Windows handhelds (GPD, ONEXPLAYER, AYANEO), eGPU (AG01), UMPC (MicroPC 2), and accessories (Win 5 dock).

@@ -22,6 +22,7 @@ Quick navigation hub. Every page in the wiki is reachable from here. All page ty
 - [[handheld-pc]] — Windows gaming handhelds: GPD WIN 5, ONEXFLY Apex, AYANEO Flip 1S DS, ONEXPLAYER G1
 - [[android-handheld]] — Android gaming handhelds: AYANEO Pocket line, AYN Odin/Thor, Anbernic, KONKR
 - [[umpc]] — Ultra-mobile PCs: GPD MicroPC 2, GPD Pocket 4
+- [[mini-pc]] — Compact desktop PCs from Beelink, MinisForum, GEEKOM, GMKTec, ACEPC, Chuwi, and similar brands
 - [[egpu]] — External GPU docks: AYANEO AG01
 - [[accessory]] — Docks and peripherals: GPD WIN 5 Smart Dock
 
@@ -152,4 +153,4 @@ Cross-product topic pages in `wiki/concepts/`.
 
 Cross-source synthesis pages in `wiki/analysis/`.
 
-_No analysis pages yet._
+- [[ingest-ledger]] — canonical queue and classification ledger for staged source ingestion
