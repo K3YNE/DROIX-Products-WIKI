@@ -40,6 +40,8 @@ Contents
 
 ## Anbernic RG35XX Plus review video
 
+<https://youtu.be/6fXZQM1cs2M>
+
 ## Unboxing the Anbernic RG35XX Plus
 
 Kicking off our Anbernic RG35XX Plus review we have a brief unboxing. First we have the [Anbernic RG35XX Plus](https://droix.net/product/anbernic-rg35xx-plus/) itself which we will take a closer look at shortly.

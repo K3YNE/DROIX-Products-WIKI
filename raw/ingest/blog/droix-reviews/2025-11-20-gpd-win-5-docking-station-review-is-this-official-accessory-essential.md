@@ -24,6 +24,8 @@ Contents
 
 ## GPD WIN 5 Docking Station Review Video
 
+<https://youtu.be/4ZKjtuUZwbc>
+
 ## Overview of the GPD WIN 5 Smart Docking Station
 
 The [GPD WIN 5 Docking Station](https://droix.net/product/gpd-win-5-docking-station/ "GPD WIN 5 Docking Station") measures around 7.4 x 6.6 x 1.49 inches. Additionally, the unit weighs in at about 317 grams. As you can tell, the GPD WIN 5 Smart Docking Station is very light for its size. It is made entirely from plastic. Unfortunately, the GPD WIN 5 Docking Station doesn’t feel like there is much going on inside.

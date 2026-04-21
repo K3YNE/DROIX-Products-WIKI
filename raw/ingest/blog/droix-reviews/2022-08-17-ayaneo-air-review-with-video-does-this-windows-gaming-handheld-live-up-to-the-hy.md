@@ -90,6 +90,8 @@ Contents
 
 ## AYANEO Air Review Video
 
+<https://youtu.be/3EoEJhE3OiI>
+
 If the video is not showing above, you can watch it via Youtube at <https://www.youtube.com/watch?v=3EoEJhE3OiI>
 
 ## AYANEO Air Unboxing

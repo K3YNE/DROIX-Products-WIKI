@@ -80,6 +80,8 @@ Contents
 
 ## ONEXPLAYER ONEXFLY Apex Review Video
 
+<https://youtu.be/xwq0FquJdfM>
+
 ## ONEXPLAYER ONEXFLY Apex Overview
 
 To start our [ONEXPLAYER ONEXFLY Apex](https://droix.net/product/onexplayer-onexfly-apex/ "ONEXPLAYER ONEXFLY Apex") review, let us look at the dimensions. The standard model measures around 11.42 x 4.86 x 0.88 inches (29 x 12.3 x 2.25 cm). It weighs approximately 706g (1.55 lbs), with an extra 70g added if you choose the water-cooled model.

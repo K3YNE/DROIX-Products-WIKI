@@ -68,6 +68,8 @@ Contents
 
 ## ONEXPLAYER Mini Pro Review Video
 
+<https://youtu.be/dO9B6sVJ4c8>
+
 ## Unboxing the ONEXPLAYER Mini Pro
 
 Inside the box we have the [ONEXPLAYER Mini Pro](https://droix.net/product/onexplayer-mini-pro/) handheld PC. We will show it in more detail shortly.

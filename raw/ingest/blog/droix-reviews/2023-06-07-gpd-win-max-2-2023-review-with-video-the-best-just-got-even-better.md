@@ -60,6 +60,8 @@ Contents
 
 ## GPD WIN MAX 2 2023 Review Video
 
+<https://youtu.be/nUufdqaeSFk>
+
 GPD WIN MAX 2 2023 Review Video
 
 ## Unboxing the GPD WIN MAX 2 2023

@@ -26,3 +26,5 @@ While we permit self-repairs, any damage you cause yourself is not covered by ou
 04:40 Reconnecting the battery   
 05:33 Putting everything back together   
 07:49 Like & Subscribe
+
+<https://youtu.be/ZmPe-McWUvA>

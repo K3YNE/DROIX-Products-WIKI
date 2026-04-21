@@ -34,6 +34,8 @@ Contents
 
 ## DroiX PM13 portable monitor review video
 
+<https://youtu.be/Tdn_xHGUYHU>
+
 ## Unboxing the DroiX PM13 portable monitor for laptop
 
 First out of the box we have the [DroiX PM13 portable monitor](https://droix.net/product/droix-pm13-portable-monitor/) itself, we will take a closer look at it shortly.

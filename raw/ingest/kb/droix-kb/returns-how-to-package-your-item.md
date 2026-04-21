@@ -17,8 +17,12 @@ If we believe that the issue with the device may be related to an accessory (Say
 
 Below you will find a video on how to package your return for repair to ensure a safe journey, and a fast inbound processing by us.
 
+<https://youtu.be/STJugmiSpMM>
+
 # For Refund
 
 When you return your order to us for a full refund, we require all the original box, packaging & accessories that were originally shipped with your order.
 
 Below you will find a video on how to package your return for repair to ensure a safe journey, and a fast inbound processing by us.
+
+<https://youtu.be/ZomiOweIcpk>

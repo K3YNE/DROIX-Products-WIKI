@@ -38,6 +38,8 @@ Contents
 
 ## Anbernic RG ARC-S & ARC-D review video
 
+<https://youtu.be/ooaQDovWaPI>
+
 ## Unboxing the Anbernic RG ARC-S & ARC-D
 
 We start our Anbernic RG ARC-S & ARC-D review with the unboxing. The box contents for both retro gaming handhelds are the same apart from the colours. First we have the [Anbernic](https://droix.net/product-attribute/brands/anbernic/) ARC itself which we will check out in more detail shortly.

@@ -11,6 +11,8 @@ Imagine harnessing the force of a full-fledged desktop gaming rig within a devic
 
 ## GPD WIN 5 Review Video
 
+<https://youtu.be/TlVHymX4oSc>
+
 ## GPD WIN 5 Overview
 
 Let’s begin with the physical characteristics. The [GPD WIN 5](https://gpdstore.net/product/gpd-win-5/ "GPD WIN 5") comes in at dimensions of roughly 10.5 x 4.3 x 0.95 inches (26.7 x 11.1 x 2.4 cm) with a weight of about 565g (1.24 lbs). Its companion external battery pack is sized at 4.36 x 4.34 x 0.71 inches (11.07 x 11.03 x 1.81 cm) and adds around 350g (0.77 lbs) of weight, creating a flexible portable gaming PC.

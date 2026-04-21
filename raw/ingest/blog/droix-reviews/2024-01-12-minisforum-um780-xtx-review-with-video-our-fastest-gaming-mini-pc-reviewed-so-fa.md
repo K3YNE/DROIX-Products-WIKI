@@ -44,6 +44,8 @@ Contents
 
 ## Minisforum UM780 XTX review video
 
+<https://youtu.be/c1O-s16WME0>
+
 ## Unboxing the Minisforum UM780 XTX
 
 We start our Minisforum UM780 XTX review with an unboxing. First out of the box is the [Minisforum UM780 XTX](https://droix.net/product/minisforum-elitemini-um780-xtx/) small form factor gaming PC, we will take a closer look at it shortly.

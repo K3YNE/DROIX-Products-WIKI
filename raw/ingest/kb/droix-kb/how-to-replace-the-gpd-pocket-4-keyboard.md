@@ -12,3 +12,5 @@ Our video on how to replace the [GPD Pocket 4](https://droix.net/product/gpd-poc
 As always, while we do allow self repairs, any damage caused by yourself is not covered by our warranty (see [Terms & Conditions here](https://droix.net/terms-and-conditions/)). Please only do so if you feel you are confident that you can do it. Watch the video first, and judge for yourself.
 
 ## GPD Pocket 4 keyboard replacement video
+
+<https://youtu.be/5rDAFl6zCn8>

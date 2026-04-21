@@ -42,6 +42,8 @@ Contents
 
 ## One Netbook A1 Pro review video
 
+<https://youtu.be/3GZu5F8b18k>
+
 ## One Netbook A1 Pro Unboxing
 
 First out of the box we have the A1 Pro [ultrabook](https://droix.net/product-category/laptops/ultrabooks/) itself. We will check it out in more detail in a moment.

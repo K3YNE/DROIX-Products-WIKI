@@ -40,6 +40,8 @@ Contents
 
 ## GPD WIN 4 2023 Review Video
 
+<https://youtu.be/hXliA00htdM>
+
 ## Unboxing the GPD WIN 4 2023
 
 As always we start off our GPD WIN 4 2023 review with the unboxing. Inside we have the [GPD WIN 4 2023](https://droix.net/product/gpd-win-4-2023/) itself which we will take a closer look at shortly. Underneath is a screen protector which you can apply if you wish to.

@@ -46,6 +46,8 @@ Contents
 
 ## Beelink GTR4 Review Video
 
+<https://youtu.be/NyqNC3wYyuo>
+
 ## Beelink GTR4 Unboxing
 
 As always we start the Beelink GTR4 review with the unboxing. First up we have the User Guide which is in multiple languages including English, German, Italian and Japanese. Next we have the [Beelink GTR4](https://droix.net/product/beelink-gtr4-ryzen-9-mini-pc/) Mini PC, which we will show in more detail shortly.

@@ -70,6 +70,8 @@ Contents
 
 ## Beelink SEi 11 PRO Review Video
 
+<https://youtu.be/_Nfo07_bkJM>
+
 ## Unboxing the Beelink SEi 11 PRO
 
 We start off with the unboxing. Opening the box shows the user manual which is in multiple languages including English, German, Spanish and Italian. Underneath is the [Beelink SEi 11 PRO](https://droix.net/product/beelink-sei-11-pro/) mini PC which we will show in more detail shortly.

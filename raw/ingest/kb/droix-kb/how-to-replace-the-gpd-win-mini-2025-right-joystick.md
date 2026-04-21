@@ -21,3 +21,5 @@ As always, while we do allow self repairs, any damage caused by yourself is not 
 05:51 Reconnect the battery (optional)   
 06:09 Put the back case back on   
 07:15 Like & Subscribe
+
+<https://youtu.be/21cmDQbBrpc>

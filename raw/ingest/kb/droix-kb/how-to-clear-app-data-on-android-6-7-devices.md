@@ -9,6 +9,8 @@ wp_id: 334
 
 This guide demonstrates how to clear app data for Android 6 and Android 7 devices.  You can watch the video demo which starts with Android 6, skip to 48 seconds for Android 7, or follow the text guide below.
 
+<https://youtu.be/ql1CFkzT6oY>
+
 ### **Android 6 & Android 7 steps**
 
 * From the homescreen, choose the **Settings** icon (two cogs).

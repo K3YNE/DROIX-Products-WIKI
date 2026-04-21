@@ -34,6 +34,8 @@ Contents
 
 ## One Netbook 5 Review Video
 
+<https://youtu.be/UY92RjsAI9I>
+
 ## One Netbook 5 Unboxing
 
 First, in our One Netbook 5 review, the unboxing. Inside we have the One Netbook 5 itself, we will check it out in more detail in a moment.

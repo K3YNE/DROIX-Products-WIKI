@@ -18,6 +18,8 @@ Contents
 
 ## AYA NEO Case Review Video
 
+<https://youtu.be/BdSgz7g8VBY>
+
 ## AYA NEO Official Case Review
 
 The top of the case features the [Aya](https://go.droix.co.uk/AYANEO) logo which looks cool and gives the case a premium feel than a generic case. The material feels high quality and is toughened to help prevent any knocks or scrapes.

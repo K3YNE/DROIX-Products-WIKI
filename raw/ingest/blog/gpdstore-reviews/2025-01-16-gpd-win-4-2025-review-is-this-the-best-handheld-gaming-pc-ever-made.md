@@ -17,6 +17,8 @@ In this [GPD WIN 4 2025](https://gpdstore.net/blog/gpd-win-4-2025-review/gpd-win
 
 ## GPD WIN 4 2025 review video
 
+<https://youtu.be/EudjvGSp11A>
+
 ## Meet the GPD WIN 4 2025: A Refined Portable Gaming Computer
 
 Let’s kick off our GPD WIN 4 2025 review with an overview. The [GPD WIN 4 2025](https://gpdstore.net/blog/gpd-win-4-2025-review/gpd-win-4-2025/) continues the tradition of its predecessors with a sleek, familiar design. This compact gaming PC measures 6 x 3.6 x 1.1 inches (22.0 x 9.2 x 2.8 cm) and weighs 598g (1.31 lbs).

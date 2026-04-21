@@ -32,6 +32,8 @@ Contents
 
 ## Beelink U59 Review video
 
+<https://youtu.be/NUADCiLs2Kg>
+
 ## Unboxing
 
 First we have the [Beelink U59 mini pc](https://droix.net/product/beelink-u59/) which we will show in more detail shortly.

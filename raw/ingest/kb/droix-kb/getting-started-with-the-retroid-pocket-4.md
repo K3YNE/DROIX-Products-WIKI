@@ -134,11 +134,15 @@ If however, you’re experiencing issues with your Pocket 4 or simply want to st
 
 > [How to Factory Reset Your Android Device](https://droix.net/knowledge-base/article/factory-reset-android/)
 
+<https://droix.net/knowledge-base/article/factory-reset-android/embed/#?secret=nb91BVeXeQ#?secret=hBDqXD9qiI>
+
 ## Installing & Setting Up New Games
 
 For those looking to build an expansive game library on the Pocket 4, but don’t know how or where to start, we already have a detailed guide embedded below. This guide is designed to be a universal resource for all our Getting Started guides, ensuring you can set up and personalize your game library regardless of OS. Follow the Android instructions in the guide to begin curating a collection of games for your Retroid Pocket 4.
 
 > [How to Add New Games & ROMS to Your Handheld](https://droix.net/knowledge-base/article/installing-games-and-roms/)
+
+<https://droix.net/knowledge-base/article/installing-games-and-roms/embed/#?secret=uEvNI7LWet#?secret=XXaZN63p4o>
 
 At DroiX, we do not preload or preinstall any games on our devices. However, we fully support your gaming passion by providing a detailed, reusable [guide](https://droix.net/knowledge-base/article/installing-games-and-roms/) on adding, installing, and updating games (ROMs) on your device.
 
@@ -148,11 +152,15 @@ At DroiX, we do not preload or preinstall any games on our devices. However, we 
 
 > [How to install and set up RetroArch on your Windows or Android devices](https://droix.net/knowledge-base/article/retroarch/)
 
+<https://droix.net/knowledge-base/article/retroarch/embed/#?secret=oJiGOBTtSW#?secret=OIFqwYmp7X>
+
 ## Ingame Overlay
 
 Game Assist is a bespoke in-game overlay software for Retroid devices, which also allows you to configure keymapping controls for your device. If you’re interested in doing so, please check out our Retroid section in our comprehensive [Key Mapping Guide](https://droix.net/knowledge-base/article/key-mapping-on-android-devices/) linked below.
 
 > [Key Mapping on Android Handhelds & Phones](https://droix.net/knowledge-base/article/key-mapping-on-android-devices/)
+
+<https://droix.net/knowledge-base/article/key-mapping-on-android-devices/embed/#?secret=h91l7Y3cLh#?secret=UFpLWDNwan>
 
 ## Connecting an External Display
 

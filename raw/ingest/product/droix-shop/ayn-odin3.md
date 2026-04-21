@@ -4,7 +4,7 @@ source_url: "https://droix.net/product/ayn-odin3"
 source_site: droix.net
 type: product-page
 instock: true
-price: Starting at$2,101.95
+price: Starting at$2914.67
 ---
 
 [](https://droix.net/wp-content/uploads/2025/09/videoplayback-1.mp4)

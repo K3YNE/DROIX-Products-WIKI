@@ -14,6 +14,10 @@ If you want to update to the latest version of IPVanish, please see the video at
 
 The following video demonstrates how to setup and use the IPVanish app with your DroiX®.
 
+<https://youtu.be/36qaoVlT_Q4>
+
 You can read more about our partnership with IPVanish and details on how to get your first month for just 99 cents (around 68 pence) on our blog post at <https://droidbox.co.uk/blog/droidbox-announces-partnership-with-ipvanish-vpn> .
 
-Updating to version 3
+Updating to version 3  
+
+<https://youtu.be/-9cC3gPgPCQ>

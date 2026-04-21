@@ -62,6 +62,8 @@ Contents
 
 ## AOKZOE A1 PRO Review Video
 
+<https://youtu.be/Y12TztHczoU>
+
 ## Unboxing the AOKZOE A1 Pro
 
 We start the AOKZOE A1 Pro review with the unboxing. Up first we have the [AOKZOE A1 Pro](https://droix.net/product/aokzoe-a1-pro/) portable gaming PC itself which we will take a closer look at shortly.

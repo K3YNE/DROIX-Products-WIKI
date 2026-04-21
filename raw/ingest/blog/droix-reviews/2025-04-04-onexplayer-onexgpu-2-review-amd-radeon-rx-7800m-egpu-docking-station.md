@@ -40,6 +40,8 @@ Contents
 
 ## ONEXPLAYER ONEXGPU 2 Review Video
 
+<https://youtu.be/sBYy7tOwpXM>
+
 ## ONEXPLAYER ONEXGPU 2 Overview
 
 We start our ONEXPLAYER ONEXGPU 2 review with a look at the [eGPU](https://droix.net/product-category/egpu/) docking station itself. The [ONEXPLAYER ONEXGPU 2](https://droix.net/product/onexplayer-onexgpu-2/) measures around 9.03 x 6.8 x 1.6 inches (22.9 x 17.5 x 4.3 cm) and weighs around 1.6kg (3.5lbs) without the power supply, 2.3kg with the power supply. The ONEXGPU 2 stands upright to take up less desk space. On the front is a power button, turbo button and a RGB mode cycle button.

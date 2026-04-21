@@ -64,6 +64,8 @@ Contents
 
 ## AYANEO 2S Review Video
 
+<https://youtu.be/JACpSOxnsQo>
+
 ## Unboxing the AYANEO 2S
 
 We start our AYANEO 2S review with the unboxing. We have a bunch of manuals which are in English and Chinese. There is also a small pack of tools if you need to open your device for say a SSD upgrade. Underneath is the [AYANEO 2S](https://droix.net/product/aya-neo-2s/) portable gaming PC itself. We will show it in more detail shortly.

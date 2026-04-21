@@ -64,6 +64,8 @@ Contents
 
 ## Retroid Pocket 3 Review Video
 
+<https://youtu.be/fZcdMj48lEw>
+
 ## Retroid Pocket 3 Unboxing
 
 As always we start with the unboxing. First we have the [Retroid Pocket 3](https://droix.net/product/retroid-pocket-3/) retro gaming handheld which we will take a closer look at shortly.

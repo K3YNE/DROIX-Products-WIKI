@@ -42,6 +42,8 @@ While this may seem underwhelming, many would argue that the metal shell really 
 
 As usual, we’ve compiled the bulk of our thoughts into this video – our RG351M Review. There is also a text version below for easier reading.
 
+<https://youtu.be/h2cFuAqqBys>
+
 Inside the box we have the RG351M which we will look at in more detail shortly. There is a USB Type-C charge cable. We recommend using this cable instead of your own to charge the handheld. And there is a user manual which is in full English. It covers everything to get up and running.
 
 Matte Black and Space Grey Colours

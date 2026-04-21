@@ -26,6 +26,8 @@ Task Manager CPU
 
 ## GPD WIN 4 ***2022*** BIOS Update Video
 
+<https://youtu.be/lQZ8fFINtTE>
+
 Turn on subtitles for multi-language text
 
 ## Download and Extract the BIOS update

@@ -44,6 +44,8 @@ Although, as standard, the Gameforce does not come with a Micro SD Card and Oper
 
 You can watch our Gameforce Chi Review video below, and underneath is text and image based version.
 
+<https://youtu.be/3D-FyyfX9Aw>
+
 ## Gameforce Chi Unboxing
 
 Inside the box we first have a carry case. The case is a green colour for all three colour variants of the Gameforce. There is a user guide which covers everything you need to know how to get started and operate the Gameforce. A cleaning cloth is included for cleaning the screen.

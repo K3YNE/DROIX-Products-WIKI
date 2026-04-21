@@ -22,6 +22,8 @@ Contents
 
 ## AYN Odin 2 Super Dock review video
 
+<https://youtu.be/doDb0a8HsJ4>
+
 ## AYN Odin 2 Super Dock overview
 
 We start the AYN Odin 2 Super Dock review with a brief unboxing and overview of the features. Inside the box is a user guide which is in English and Chinese. And we have the [AYN Odin 2 Super Dock](https://droix.net/product/ayn-odin-2-super-dock/) itself. It measures around 4.9 x 3.7 x 1 inches (12.5 x 9.5 x 2.6 cm ) and weighs around 252g.

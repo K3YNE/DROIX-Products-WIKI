@@ -36,6 +36,8 @@ Contents
 
 ## ACEPC Picobox Pro review video
 
+<https://youtu.be/K4mw7itlucw>
+
 ## Unboxing the ACEPC Picobox Pro
 
 First in the box we have a user manual which is in multiple languages including English, French and German. Next we have the [ACEPC Picobox Pro](https://droix.net/product/acepc-picobox-pro/) mini PC itself. We will take a closer look at it in a moment.

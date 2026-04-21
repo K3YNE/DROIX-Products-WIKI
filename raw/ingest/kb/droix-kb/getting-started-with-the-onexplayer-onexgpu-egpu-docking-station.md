@@ -49,6 +49,8 @@ If the ONEXGPU is not detected or appears as a generic name, you simply wish to 
 
 > [How to uninstall old AMD graphics drivers and install new ones](https://droix.net/knowledge-base/article/update-amd-graphics-drivers/)
 
+<https://droix.net/knowledge-base/article/update-amd-graphics-drivers/embed/#?secret=FG6fFig8vp#?secret=kp8m8ww6ut>
+
 ## Troubleshooting Your ONEXPLAYER ONEXGPU
 
 ### Games Running Slower Than Expected?

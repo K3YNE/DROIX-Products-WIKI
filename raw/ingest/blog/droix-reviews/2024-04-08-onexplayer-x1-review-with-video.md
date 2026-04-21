@@ -44,6 +44,8 @@ Contents
 
 ## ONEXPLAYER X1 review video
 
+<https://youtu.be/4l7G5q_w8_Y>
+
 ## Unboxing the ONEXPLAYER X1
 
 We start our ONEXPLAYER X1 review with the unboxing. First out of the box we have a user guide which is in Chinese & English. Next we have the [ONEXPLAYER X1](https://droix.net/product/onexplayer-x1/) portable gaming PC itself, we will show it in more detail in a moment.

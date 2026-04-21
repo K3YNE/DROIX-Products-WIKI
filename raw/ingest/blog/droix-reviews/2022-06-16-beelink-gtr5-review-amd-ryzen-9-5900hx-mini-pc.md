@@ -42,6 +42,8 @@ Contents
 
 [Where to buy the Beelink GTR5?](#where-to-buy-the-beelink-gtr5)
 
+<https://youtu.be/S2NU89ZdaOY>
+
 ## Unboxing the Beelink GTR5
 
 As always we start with the unboxing. We have a User Guide which is in multiple languages including English, Italian, German, and Japanese. Underneath we have the [Beelink GTR5](https://droix.net/product/beelink-gtr5-ryzen-9-mini-pc/) Mini PC which we will show in more detail shortly.

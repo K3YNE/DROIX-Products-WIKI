@@ -18,6 +18,8 @@ Contents
 
 ## DroiX NT8 Clear USB Hub review video
 
+<https://youtu.be/TOGo3HPQ3Y8>
+
 ## DroiX NT8 Clear USB Hub Unboxing & Overview
 
 [DroiX NT8 Clear USB Hub](https://droix.net/product/droix-nt8-clear-usb-hub/) measures around 4 x 1.6 x 0.5 in (10.4 x 4.3 x 1.3 cm) and weighs 131g. The case is made partially with a zinc alloy frame for heat dissipation, and clear plastic top so you can see the components inside.

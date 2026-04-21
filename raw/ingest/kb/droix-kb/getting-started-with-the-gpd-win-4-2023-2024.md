@@ -15,6 +15,8 @@ The first thing you need to do when you take your device out of the box is to en
 
 > [How To Test Your Hardware](https://droix.net/knowledge-base/article/test-your-hardware/)
 
+<https://droix.net/knowledge-base/article/test-your-hardware/embed/#?secret=0J6KAQey3o#?secret=CWHLOjhX4G>
+
 Here at DroiX, we’re big proponents of the user’s Right to Repair your device. So if you find any issues and feel confident enough to repair them we encourage you! Reach out to [DroiX customer support](https://droix.net/contact-us/) for any assistance in doing so.
 
 ## Updating Windows, Firmware & Drivers
@@ -27,11 +29,15 @@ We’ve got an article describing how to update Windows and its drivers [here](h
 
 > [How to Update Windows and Drivers](https://droix.net/knowledge-base/article/update-windows-and-drivers/)
 
+<https://droix.net/knowledge-base/article/update-windows-and-drivers/embed/#?secret=puqXwu5ZUL#?secret=1O4A0g4RZO>
+
 ### Graphics Drivers
 
 We also have a dedicated article on how to [install, update and delete AMD drivers here](https://droix.net/knowledge-base/article/how-to-uninstall-old-amd-graphics-drivers-and-install-new-ones/), and also embedded below. These drivers are responsible for your graphics card.
 
 > [How to uninstall old AMD graphics drivers and install new ones](https://droix.net/knowledge-base/article/update-amd-graphics-drivers/)
+
+<https://droix.net/knowledge-base/article/update-amd-graphics-drivers/embed/#?secret=HQP4mTXiwS#?secret=jO0NExXdpt>
 
 ### Device-Specific Drivers
 
@@ -61,6 +67,8 @@ Below you can find the unique Firmware and Drivers specific to your GPD WIN 4 20
 Alright, your device is working properly, with no issues with the buttons or anything like that, and you’ve got the latest updates all installed and ready to go. Do you want to go in the slow lane and start downloading unreasonably large 100GB+ games, *cough cough* Call of Duty *cough cough*,. Or do you wanna take this baby for a spin? If the latter, take a look at our article [here](https://droix.net/knowledge-base/article/how-to-stress-test-your-pc/) and embedded below to see what your GPD WIN 4 2023 is capable of. Don’t worry, it’s designed to be able to handle the most intense workloads.
 
 > [How to Benchmark Your Windows Device](https://droix.net/knowledge-base/article/how-to-benchmark/)
+
+<https://droix.net/knowledge-base/article/how-to-benchmark/embed/#?secret=iBEzXnziCp#?secret=ZHUjA6Q1oa>
 
 ## Troubleshooting
 
@@ -92,6 +100,8 @@ Let’s not forget, this is [Windows 11](https://www.microsoft.com/en-gb/windows
 
 It is so useful, that we have partnered with them to ensure they get the hardware to support the devices we sell! You can learn more about Handheld Companion in our article [here](https://droix.net/knowledge-base/article/handheld-companion/?utm_source=socialmedia&utm_medium=link&utm_campaign=Handheld_Companion) or the video below.
 
+<https://youtu.be/v73GMHgRYac>
+
 ## Gaming
 
 ### Game Stores
@@ -112,6 +122,8 @@ Learn how to set up RetroArch in our article [here](https://droix.net/knowledge-
 
 > [How to install and set up RetroArch on your Windows or Android devices](https://droix.net/knowledge-base/article/retroarch/)
 
+<https://droix.net/knowledge-base/article/retroarch/embed/#?secret=FOlcJkWSik#?secret=KM5CPKrQRJ>
+
 ### Launchers
 
 Not a fan of the desktop environment and want a more console-like experience? Install from several launchers to provide a smooth, creative and gaming-focused experience. Launchers such as Steam Big Screen, [Playnite](https://playnite.link/) and [GOG Galaxy](https://www.gog.com/galaxy) collate your games in one beautiful screen. They allow you to easily find, run and categorise all of the games on your PC, whether it’s from [Steam](https://store.steampowered.com/), [Epic Games](https://www.epicgames.com/site/), EA, XBOX or anywhere else.
@@ -123,6 +135,8 @@ The [GPD G1 eGPU docking station](https://droix.net/product/gpd-g1/) provides mo
 The GPD WIN 4 2023 features an Oculink port so you can take advantage of the best data transfer speeds. Our [Getting Started with the GPD G1 eGPU docking station guide](https://droix.net/knowledge-base/article/gpd-g1-egpu-docking-station/), also embedded below, shows how to set up and use the GPD WIN 4 2023 with GPD G1.
 
 > [Getting Started with the GPD G1 eGPU Docking Station](https://droix.net/knowledge-base/article/gpd-g1-egpu-docking-station/)
+
+<https://droix.net/knowledge-base/article/gpd-g1-egpu-docking-station/embed/#?secret=qAR21lCY8F#?secret=gBpVdZcWDi>
 
 ## Replacement Parts
 

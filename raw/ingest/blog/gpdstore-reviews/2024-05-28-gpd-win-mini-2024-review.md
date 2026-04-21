@@ -17,6 +17,8 @@ The [GPD WIN Mini 2024](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-min
 
 ## GPD WIN Mini 2024 Review Video
 
+<https://youtu.be/l7VrnGGMYkI>
+
 ## Unboxing the GPD WIN Mini 2024
 
 As always, we start the GPD WIN Mini 2024 review with the unboxing. First out of the box is an envelope containing the user guide in English and Chinese. Next, we have the GPD WIN Mini 2024 itself; we will take a closer look at it shortly. Underneath, there is a USB Type-C charge cable and a charger with the correct adapter for your country.

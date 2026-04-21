@@ -32,6 +32,8 @@ Today we are checking out the [MinisForum JB95 Mini PC](https://go.droix.co.uk/M
 
 ## MinisForum JB95 Review video
 
+<https://youtu.be/__3cPQ0p_QU>
+
 ## MinisForum JB95 Unboxing
 
 Lets get started with the unboxing. Inside we have a user guide which is in multiple languages including English and Chinese. Next, there is the MinisForum [JB95 mini PC](https://go.droix.co.uk/MINISFORUM-JB95) which we will show in more detail shortly.

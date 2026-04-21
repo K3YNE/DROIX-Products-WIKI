@@ -4,7 +4,7 @@ source_url: "https://droix.net/product/gmktec-nucbox-g3"
 source_site: droix.net
 type: product-page
 instock: true
-price: Starting at$2,101.95
+price: Starting at$2921.82
 ---
 
 [![](https://droix.net/wp-content/uploads/2024/05/maxresdefault.jpg)](https://droix.net/wp-content/uploads/2024/07/GMKtec-NucBox-G3-Lush-Green-Most-Cost-Effective-Intel-N100-Mini-PC.mp4)

@@ -50,6 +50,8 @@ Contents
 
 ## AYN Odin Pro Review Video
 
+<https://youtu.be/W0ObedX9ZCI>
+
 ## Unboxing the AYN Odin Pro
 
 We start our AYN Odin Pro review with the unboxing. Inside we have the AYN Odin Pro portable game console itself. We will take a closer look at it shortly.

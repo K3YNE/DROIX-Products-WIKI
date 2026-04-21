@@ -75,6 +75,8 @@ We do have a more detailed guide [here](https://droix.net/knowledge-base/article
 
 > [How to Add New Games & ROMS to Your Handheld](https://droix.net/knowledge-base/article/installing-games-and-roms/)
 
+<https://droix.net/knowledge-base/article/installing-games-and-roms/embed/#?secret=MsLn7E0vju#?secret=8OXKRY10ns>
+
 ## Installing Custom Firmware
 
 We have prepared a guide which you can read [here](https://droix.net/knowledge-base/article/how-to-install-onionos-for-retro-handhelds/), and also embedded below which shows how to install the excellent [OnionOS](https://onionui.github.io/) for the Miyoo Mini Plus+. OnionOS provides more emulators, features and improved overall performance.
@@ -82,6 +84,8 @@ We have prepared a guide which you can read [here](https://droix.net/knowledge-b
 We do advise using another micro SD card to install OnionOS as they offer larger storage space for example, OnionOS is not without its bugs but less than before, so be aware of this before installing it.
 
 > [How to Install OnionOS for Retro Handhelds](https://droix.net/knowledge-base/article/install-onionos/)
+
+<https://droix.net/knowledge-base/article/install-onionos/embed/#?secret=QPszK2izqB#?secret=9hX1fpiGyg>
 
 
 

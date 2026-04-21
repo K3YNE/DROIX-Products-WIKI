@@ -13,6 +13,8 @@ While we do permit self-repairs, any damage you cause is not covered by our warr
 
 ## GPD WIN Mini Teardown Video
 
+<https://youtu.be/Jvx-Yvgn2Q0>
+
 ## GPD WIN Mini 2025 Gaming Handheld PC
 
 [Shop now](https://gpdstore.net/product/gpd-win-mini-2025/)

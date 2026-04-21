@@ -30,6 +30,8 @@ Contents
 
 ## Anbernic RG35XXSP Review Video
 
+<https://youtu.be/lc70DixEtCo>
+
 ## Anbernic RG35XXSP Unboxing
 
 Anbernic RG35XXSP Unboxing

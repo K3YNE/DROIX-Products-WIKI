@@ -30,6 +30,8 @@ Contents
 
 ## Miyoo Mini Plus+ Review Video
 
+<https://youtu.be/uI2p4PwduIU>
+
 Before we get started, I would just like to say a quick thanks to all of the 10,000 subscribers that we recently reached. We appreciate your support and feedback! Thanks for subscribing and if you have not, you know what to do!
 
 ## Unboxing the Miyoo Mini Plus+

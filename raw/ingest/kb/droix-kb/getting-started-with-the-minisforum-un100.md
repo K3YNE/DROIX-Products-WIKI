@@ -49,6 +49,8 @@ Windows is the preinstalled Operating System on your Minisforum UN100, so updati
 
 > [How to Update Windows and Drivers](https://droix.net/knowledge-base/article/update-windows-and-drivers/)
 
+<https://droix.net/knowledge-base/article/update-windows-and-drivers/embed/#?secret=HT6PzzSRiT#?secret=NTZPaFsfU8>
+
 ### Update Intel Drivers
 
 Updating your UN100 graphics drivers doesn’t only boost the in-game frame rate but it can also improve general device stability and performances for any software. Old drivers can’t always communicate with the latest software and updates, and outdated drivers can cause poor performance, screen flickering, and even program and system crashes. We recommend typically updating your graphics drivers as soon as a new update is available, or whenever you encounter graphical problems, so be sure to check often.
@@ -72,6 +74,8 @@ If you’re unsure or just want some guidance, please see our article below.
 
 > [How to Benchmark Your Windows Device](https://droix.net/knowledge-base/article/how-to-benchmark/)
 
+<https://droix.net/knowledge-base/article/how-to-benchmark/embed/#?secret=K6YU8SmWQv#?secret=hCPAY1Zw2J>
+
 ## (Optional) Upgrading Storage
 
 Whilst the RAM is non-upgradeable, you can upgrade or even install an additional storage device in your UN100. Before buying new components, please ensure that it is compatible with your mini PC. Refer to the user manual or our product listing for the specifications. If you are not sure, please [contact us](https://droix.net/contact-us/) and we can confirm the specs.
@@ -93,6 +97,8 @@ To install, remove and replace the current component (old storage or Wi-Fi/Bluet
 You also have the option to expand storage by installing a 2.5″ drive. If you’re wondering how to install a 2.5″ HDD/SSD, please read our curated guide embedded below.
 
 > [How to install 2.5″ HDD or SSD in the Minisforum UN100](https://droix.net/knowledge-base/article/how-to-install-2-5-hdd-or-ssd-in-the-minisforum-un100/)
+
+<https://droix.net/knowledge-base/article/how-to-install-2-5-hdd-or-ssd-in-the-minisforum-un100/embed/#?secret=R3Tr0o6liy#?secret=HHgaEiYqyz>
 
 ## **Accessories and Add-Ons**
 

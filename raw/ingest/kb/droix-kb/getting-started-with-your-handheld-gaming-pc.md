@@ -33,6 +33,8 @@ The first thing you need to do is to ensure that your portable gaming PC works a
 
 > [How To Test Your Hardware](https://droix.net/knowledge-base/article/test-your-hardware/)
 
+<https://droix.net/knowledge-base/article/test-your-hardware/embed/#?secret=MZrVjuxuCW#?secret=VHnx5HvwZu>
+
 Here at DroiX, we’re big proponents of the user’s Right to Repair your device. So if you find any issues and feel confident enough to repair them we encourage you! Reach out to [DroiX customer support](https://droix.net/contact-us/) for any assistance in doing so.
 
 ## Update Windows, Firmware & Drivers
@@ -43,15 +45,21 @@ We’ve got an article describing how to update Windows and its drivers [here](h
 
 > [How to Update Windows and Drivers](https://droix.net/knowledge-base/article/update-windows-and-drivers/)
 
+<https://droix.net/knowledge-base/article/update-windows-and-drivers/embed/#?secret=JAxFkC96sS#?secret=IUwdcZFsIF>
+
 We also have a dedicated article on how to [install, update and delete AMD drivers here](https://droix.net/knowledge-base/article/how-to-uninstall-old-amd-graphics-drivers-and-install-new-ones/), and also embedded below.
 
 > [How to uninstall old AMD graphics drivers and install new ones](https://droix.net/knowledge-base/article/update-amd-graphics-drivers/)
+
+<https://droix.net/knowledge-base/article/update-amd-graphics-drivers/embed/#?secret=p9z5PafokG#?secret=0XBDaicwSb>
 
 ## Stress testing your handheld gaming computer
 
 Alright, your device is working properly, with no issues with the buttons or anything like that, and you’ve got the latest updates all installed and ready to go. Do you really want to go in the slow lane and start downloading unreasonably large 100GB+ games, *cough cough* Call of Duty *cough cough*,. Or do you wanna take this baby for a spin? If the latter, take a look at our article [here](https://droix.net/knowledge-base/article/how-to-stress-test-your-pc/) and embedded below to see what your handheld PC is capable of. Don’t worry, it’s designed to be able to handle the most intense workloads.
 
 > [How to Benchmark Your Windows Device](https://droix.net/knowledge-base/article/how-to-benchmark/)
+
+<https://droix.net/knowledge-base/article/how-to-benchmark/embed/#?secret=iKYcBa9NxE#?secret=Iga4d7iPbA>
 
 ## Software
 
@@ -60,6 +68,8 @@ Alright, your device is working properly, with no issues with the buttons or any
 Let’s not forget, this is Windows. If you’re not a fan of the preinstalled companion apps, you can install whatever you’d like as long as it is supported. Software such as [Handheld Companion](https://github.com/Valkirie/HandheldCompanion) is one that we highly recommend! You can unlock even more additional controls and settings, including setting up hotkeys for your functions. Or enabling on-screen stats to keep a close eye on performance. And even enabling and adjusting motion control allows you to get just that much more immersed in your games.
 
 It is so useful, that we have partnered with them to ensure they get the hardware to support the devices we sell! You can learn more about Handheld Companion in our article [here](https://droix.net/knowledge-base/article/handheld-companion/?utm_source=socialmedia&utm_medium=link&utm_campaign=Handheld_Companion) or the video below.
+
+<https://youtu.be/v73GMHgRYac>
 
 ## Gaming
 
@@ -81,6 +91,8 @@ Learn how to set up RetroArch in our article [here](https://droix.net/knowledge-
 
 > [How to install and set up RetroArch on your Windows or Android devices](https://droix.net/knowledge-base/article/retroarch/)
 
+<https://droix.net/knowledge-base/article/retroarch/embed/#?secret=BzqGHgdN6S#?secret=awqMyWvoQG>
+
 ### Launchers
 
 Not a fan of the desktop environment and want a more console-like experience? Choose from several launchers to provide a smooth, creative and gaming-focused experience. Launchers such as Steam Big Screen, [Playnite](https://playnite.link/) and [GOG Galaxy](https://www.gog.com/galaxy) collate your games in one beautiful screen. They allow you to easily find, run and categorise all of the games on your PC, whether it’s from [Steam](https://store.steampowered.com/), [Epic Games](https://www.epicgames.com/site/), EA, XBOX or anywhere else.
@@ -92,6 +104,8 @@ The GPD G1 eGPU docking station provides more USB ports as well as HDMI and Disp
 If your handheld features an Oculink port you can take advantage of the best data transfer speeds. But do not worry if not, if your handheld supports [USB 4.0](https://www.techradar.com/news/usb4-everything-you-need-to-know) then you can still use it. Refer to your user manual if it supports USB 4.0 Our [Getting Started with the GPD G1 eGPU docking station guide](https://droix.net/knowledge-base/getting-started-with-the-gpd-g1-egpu-docking-station/), also embedded below, shows how to set up and use compatible handhelds with GPD G1.
 
 > [Getting started with the GPD G1 eGPU docking station](https://droix.net/knowledge-base/article/gpd-g1-egpu-docking-station/)
+
+<https://droix.net/knowledge-base/article/gpd-g1-egpu-docking-station/embed/#?secret=j0z0S225jk#?secret=vgyqsr42v9>
 
 ## Replacement Parts
 

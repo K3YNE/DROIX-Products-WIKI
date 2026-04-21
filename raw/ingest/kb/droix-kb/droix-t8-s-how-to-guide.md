@@ -41,7 +41,10 @@ DroidShare is a new service available only on the T8-S that enables you to contr
 
 #### Getting your T8/T8-S set up at first use
 
-Before running your T8-S for the first time, it would be helpful to have a quick look at this video as it shows the first run setup and how to access the settings to set up your network among other things.
+Before running your T8-S for the first time, it would be helpful to have a quick look at this video as it shows the first run setup and how to access the settings to set up your network among other things.  
+  
+
+<https://youtu.be/xrQ_R6K9AGM>
 
 [Return to top](#top)
 
@@ -51,11 +54,15 @@ It is very easy to install a hard drive into the DroiX® T8-S.
 
 #### PLEASE MAKE SURE YOU REMOVE ALL USB STORAGE DEVICES BEFORE CLICKING THIS OPTION. openELEC/Linux does not differentiate between internally connected and USB connected drives.
 
+<https://youtu.be/KJNDGdJyJLk>
+
 [Return to top](#top)
 
 #### An Intro to DroiX® Share
 
 This video gives a good idea of all the things you can do with DroiX® Share.
+
+<https://youtu.be/qcXykn7tTfE>
 
 [Return to top](#top)
 
@@ -63,11 +70,15 @@ This video gives a good idea of all the things you can do with DroiX® Share.
 
 Showbox is a great app which allows you to download a program and store it on a local drive. Mobdro is another media streaming service that allows you to watch media from across the web.
 
+<https://youtu.be/Opgt5SijWbk>
+
 [Return to top](#top)
 
 #### Setting up a Kids Profile for DroiX®
 
 It can be handy to set up a kids profile so they can safely watch media without the chance of them seeing something they shouldn’t.
+
+<https://youtu.be/GeztRbKvwqs>
 
 [Return to top](#top)
 
@@ -75,11 +86,15 @@ It can be handy to set up a kids profile so they can safely watch media without 
 
 Sometimes the simplest thing to to do to solve issues with your device is to do a factory reset. This will restore the DroiX® back to the condition it was in when you took it out of the box the first time. Ideally you should only do this if instructed by a DroiX® support person, but over time you may become comfortable in knowing when you may need to do this and how to go about it.
 
+<https://youtu.be/psOrMVm9DAI>
+
 [Return to top](#top)
 
 #### How to fix “Kodi 4 DroiX® has been denied superuser permission” error
 
 Kodi needs access to areas of the operating system that is normally locked safely away. If you block it from this access it cannot perform properly. If you accidentally block it, this video will show you how to grant superuser access at a later stage.
+
+<https://youtu.be/1p5PB-iGSKE>
 
 [Return to top](#top)
 
@@ -87,11 +102,15 @@ Kodi needs access to areas of the operating system that is normally locked safel
 
 Kodi ships without a default keyboard nationality selected. This often results in a blank keyboard. The fix is quite simple and can be seen below.
 
+<https://youtu.be/Gtt7-uY2750>
+
 [Return to top](#top)
 
 #### How to reinstall DroiX® Media Centre based on Kodi/SPMC
 
 Sometimes you might need to reinstall the DroiX® Media Centre, these simple steps will help you get the most recent version for Kodi/XBMC/SPMC
+
+<https://youtu.be/QBAjw4GIjuM>
 
 [Return to top](#top)
 
@@ -99,11 +118,15 @@ Sometimes you might need to reinstall the DroiX® Media Centre, these simple ste
 
 You can update your T8-S using the OTA (Over-the-air) Update application. This will install the latest version of the firmware for your device. Because it does a full update you will need to [set up your wifi](https://droidbox.co.uk/blog/faq-2/how-to-use-the-droidbox-wizard-add-on-in-xbmc/)  again. The video below shows you how to run the OTA update.
 
+<https://youtu.be/JeutSLU7BBY>
+
 [Return to top](#top)
 
 #### BT Home Hub Parental Controls causing Script Errors
 
 The BT Home Hub cause a few issues, which can be easily fixed with a few simple steps seen in the video below.
+
+<https://youtu.be/e62Z5MgkRKM>
 
 Some more links on the ISP’s blocking content (Virgin & BT Customers):  
 <https://droidbox.co.uk/blog/faq-2/bt-are-your-isp-and-droidbox-wizard-or-add-on-problems/>  
@@ -114,5 +137,7 @@ Alternatively, see the [BT webpage – Stay safe with BT Parental Controls](http
 #### How to use Quick Support
 
 You may encounter an issue that you cannot solve yourself or using one of the many helpful videos on this site and YouTube. If you call our support team, they may need to “remote” into your DroiX® to help you solve the issue. To do this they use software called Quick Support. You can see what you will need to do on their request in the video below.
+
+<https://youtu.be/jK2Mvv4qYG0>
 
 [Return to top](#top)

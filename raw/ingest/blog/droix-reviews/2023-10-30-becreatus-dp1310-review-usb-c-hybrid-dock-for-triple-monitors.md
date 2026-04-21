@@ -26,6 +26,8 @@ Disclaimer: BenQ kindly provided the beCreatus DP1310 docking station to us free
 
 ## BenQ beCreatus DP1310 Overview Video
 
+<https://youtu.be/85SO5SRcxmQ>
+
 ## Unboxing the beCreatus DP1310
 
 Inside the box we first have a quick start guide that shows the steps on installing.

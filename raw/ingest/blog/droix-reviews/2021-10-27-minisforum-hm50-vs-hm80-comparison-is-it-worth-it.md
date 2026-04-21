@@ -46,6 +46,8 @@ Contents
 
 ## MinisForum HM50 vs HM80 Comparison Video
 
+<https://youtu.be/mmvh3d-YZ10>
+
 ## MinisForum HM80 Unboxing
 
 Let’s start with the unboxing. Both models are identical in appearance and box contents. We begin with the quick start guide which is in multiple languages including English, German and French. Next we have the [MinisForum mini PC](https://go.droix.co.uk/MINISFORUM) which we will show in more detail shortly.

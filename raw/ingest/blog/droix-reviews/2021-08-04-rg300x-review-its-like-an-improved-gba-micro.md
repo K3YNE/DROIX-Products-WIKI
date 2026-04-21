@@ -32,6 +32,8 @@ The RG300X specs include the JZ4770 processor found in the older RG350 series of
 
 You can watch our video review below which covers unboxing, the RG300X overview and specs, as well as some emulator gameplay footage. Scroll down a little further for a text based review.
 
+<https://youtu.be/XNyWKZcc_Jo>
+
 ## RG300X Review
 
 ## RG300X Unboxing

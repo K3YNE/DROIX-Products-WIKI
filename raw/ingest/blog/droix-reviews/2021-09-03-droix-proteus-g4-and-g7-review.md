@@ -44,7 +44,11 @@ Contents
 
 ## DroiX Proteus Review & Benchmarks Videos
 
+<https://youtu.be/8SFpmsN8yzA>
 
+
+
+<https://youtu.be/o2fwJvslTw0>
 
 ## DroiX Proteus Unboxing
 

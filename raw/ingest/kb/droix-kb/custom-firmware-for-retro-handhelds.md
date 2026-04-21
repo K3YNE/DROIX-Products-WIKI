@@ -357,3 +357,5 @@ We already have a dedicated installation & setup guide for GammaOS on RK3566 dev
 Note: although this guide uses the [Anbernic RG ARC-D](https://droix.net/product/anbernic-rg-arc-d/), it applies to all RK3566 devices (ARC-D/353P/353V/353M).
 
 > [How to Install & Setup GammaOS on the Anbernic RG ARC-D](https://droix.net/knowledge-base/article/install-gammaos-anbernic-rg-arc-d/)
+
+<https://droix.net/knowledge-base/article/install-gammaos-anbernic-rg-arc-d/embed/#?secret=8iLNoCHW1l#?secret=0cVcCDoLJI>

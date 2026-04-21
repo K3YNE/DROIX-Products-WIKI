@@ -50,6 +50,8 @@ Windows is the preinstalled Operating System on your Minisforum UM780 XTX, so up
 
 > [How to Update Windows and Drivers](https://droix.net/knowledge-base/article/update-windows-and-drivers/)
 
+<https://droix.net/knowledge-base/article/update-windows-and-drivers/embed/#?secret=ZezjdqfGwI#?secret=yDwzXQSvsx>
+
 ### Update AMD Graphics Drivers
 
 Updating your UM780 XTX graphics drivers doesn’t only boost the in-game frame rate but it can also improve general device stability and performances for any software. Old drivers can’t always communicate with the latest software and updates, and outdated drivers can cause poor performance, screen flickering, and even program and system crashes. We recommend typically updating your graphics drivers as soon as a new update is available, or whenever you encounter graphical problems, so be sure to check often.
@@ -57,6 +59,8 @@ Updating your UM780 XTX graphics drivers doesn’t only boost the in-game frame 
 We’ve got a short and straightforward how-to guide below covering where to find, and how to install these drivers.
 
 > [How to uninstall old AMD graphics drivers and install new ones](https://droix.net/knowledge-base/article/update-amd-graphics-drivers/)
+
+<https://droix.net/knowledge-base/article/update-amd-graphics-drivers/embed/#?secret=yyeyJWTSkk#?secret=iLjrxPXxRY>
 
 ### Update Device-Specific Drivers
 
@@ -74,6 +78,8 @@ If you’re unsure or just want some guidance, please see our article below.
 
 > [How to Benchmark Your Windows Device](https://droix.net/knowledge-base/article/how-to-benchmark/)
 
+<https://droix.net/knowledge-base/article/how-to-benchmark/embed/#?secret=4ysZeBXoXs#?secret=DmyN6qZCce>
+
 ## (Optional) Upgrading RAM & Storage
 
 It’s possible to install and upgrade both the RAM & SSD for your UM780 XTX. Before buying new components, please ensure that it is compatible with your mini PC. Refer to the user manual or our product listing for the specifications. If you are not sure, please [contact us](https://droix.net/contact-us/) and we can confirm the specs.
@@ -82,11 +88,15 @@ If need any guidance on how to do this, please see our article below.
 
 > [SSD & RAM Install for Mini PCs](https://droix.net/knowledge-base/article/ssd-ram-install-for-mini-pcs/)
 
+<https://droix.net/knowledge-base/article/ssd-ram-install-for-mini-pcs/embed/#?secret=Q4wCXBaAeh#?secret=espQi3Mc8A>
+
 ## (Optional) Installing PCIe to OcuLink Adapter
 
 If you’re interested in how to install the PCIe to OcuLink adapter board on your Minisforum UM780 XTX, check out our dedicated and straightforward guide below.
 
 > [How to install the PCIe to OcuLink adapter on Minisforum UM780 XTX](https://droix.net/knowledge-base/article/how-to-install-the-pcie-to-oculink-adapter-on-minisforum-um780-xtx/)
+
+<https://droix.net/knowledge-base/article/how-to-install-the-pcie-to-oculink-adapter-on-minisforum-um780-xtx/embed/#?secret=SALRxETmfa#?secret=qUqFoIt1uW>
 
 ## (Optional) Troubleshooting OcuLink Cable
 
@@ -117,6 +127,8 @@ This process may take a few hours to decrypt your drive and you may also be requ
 The [GPD G1 eGPU](https://droix.net/product/gpd-g1/) docking station provides more port accessibility (USB, HDMI and a DisplayPort) for your device. The biggest feature is the built-in [Radeon RX 7600M XT](https://www.amd.com/en/products/graphics/amd-radeon-rx-7600m-xt) eGPU! It allows you to run games at higher FPS and visuals at higher resolutions. Even if you do not connect the eGPU via the OcuLink port, you can instead use a USB 4.0 port. Check out our Getting Started guide for the GPD G1 eGPU docking station, also embedded below, which shows how to set up and use your UM780 mini PC with the GPD G1.
 
 > [Getting Started with the GPD G1 eGPU Docking Station](https://droix.net/knowledge-base/article/gpd-g1-egpu-docking-station/)
+
+<https://droix.net/knowledge-base/article/gpd-g1-egpu-docking-station/embed/#?secret=TH6UVIgG1X#?secret=GFnTgqNvsy>
 
 ## **Accessories and Add-Ons**
 

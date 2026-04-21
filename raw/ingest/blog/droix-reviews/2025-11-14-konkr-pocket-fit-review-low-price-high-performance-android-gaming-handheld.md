@@ -46,6 +46,8 @@ Contents
 
 [The Feel and Display Showdown](#the-feel-and-display-showdown)
 
+<https://youtu.be/Vs3Yo2I2sK8>
+
 ## First Impressions: A Closer Look At The KONKR Pocket FIT
 
 First, we begin our [KONKR Pocket FIT](https://droix.net/product/konkr-pocket-fit/ "KONKR Pocket FIT") review with a close look at the console itself. The device measures approximately 10 x 3.5 x 0.6 inches (22.5 x 8.89 x 1.7 cm). However, the grips add a little extra thickness, bringing the total to 1.1 inches (2.8cm). In terms of weight, it comes in at around 386g (0.85lbs).

@@ -66,6 +66,8 @@ Contents
 
 ## GMKtec NUCBOX5 Review Video
 
+<https://youtu.be/OnRSiwdLWpo>
+
 ## Unboxing the GMKtec NUCBOX5
 
 As always, let’s get the [GMKtec NUCBOX5](https://droix.net/product/gmk-nucbox/) review started with the unboxing! Inside we have a quick start guide that is in full English and covers how to set it up and use it. Underneath is the GMKtec NUCBOX5 which we will show in more detail shortly.

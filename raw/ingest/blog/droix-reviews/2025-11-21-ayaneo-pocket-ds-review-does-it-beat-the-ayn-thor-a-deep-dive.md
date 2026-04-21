@@ -46,6 +46,8 @@ Contents
 
 ## AYANEO Pocket DS Review Video
 
+<https://youtu.be/1k_LhjXL2ig>
+
 ## AYANEO Pocket DS Overview
 
 Lets get the AYANEO Pocket DS review underway with a close inspection of it. The [AYANEO Pocket DS](https://droix.net/product/ayaneo-pocket-ds/ "AYANEO Pocket DS") Android gaming device measures around 7.07 x 4.0 x 0.98 inches (17.98 x 10.18 x 2.5 cm) and weighs around 540g (1.19 lbs). Furthermore, it comes in three colours: Shadow Black, Retro Gray, and Starry Yellow shown here.

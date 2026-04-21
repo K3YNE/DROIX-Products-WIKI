@@ -8,6 +8,8 @@ date: 2023-01-20
 
 In our [AYANEO multi docking station](https://droix.net/product/ayaneo-multi-station-docking/) review we check out the features and test it with HDMI output.
 
+<https://youtu.be/mOgsLdJkyNo>
+
 The [AYANEO multi docking station](https://droix.net/product/ayaneo-multi-station-docking/) is available in two colours; Almond Grey and Graphite Black. It measures 5.9 x 2.7 x 1.45 inches (15.1 x 7.0 x 3.7 cm) and weighs around 200g. There is a patented base plug that is USB Type-C. This can be adjusted to fit all models of the [AYANEO](https://droix.net/blogs/brand/ayaneo/) range including [AYANEO 2](https://droix.net/product/ayaneo-2/), [AYANEO Geek](https://droix.net/product/geek-ayaneo/), [AYANEO Air Pro](https://droix.net/product/ayaneo-air/), [AYANEO Next](https://droix.net/product/ayaneo-next/), [AYANEO Next Pro](https://droix.net/product/ayaneo-next-pro/), [AYANEO 2021](https://droix.net/product/aya-neo/) and [AYANEO 2021 Pro](https://droix.net/product/aya-neo-pro/).
 
 AYANEO Multi Station Dock Dimensions

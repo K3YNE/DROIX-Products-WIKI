@@ -48,6 +48,8 @@ Contents
 
 ## GMKTec NucBox 7 review video
 
+<https://youtu.be/e2HGPE4dC7E>
+
 ## Unboxing the GMKTec NucBox7
 
 We start our NucBox7 review with the unboxing. First, we have a user manual which is in English and Chinese. It’s got everything you need to get up and running. Next there is the [GMKTec NucBox7](https://droix.net/product/gmktec-nucbox7/) which we will show in more detail shortly.

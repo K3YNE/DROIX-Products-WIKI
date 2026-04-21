@@ -40,6 +40,8 @@ Contents
 
 ## RockTek G2 RTX-5000 Review Video
 
+<https://youtu.be/evTLncWztl8>
+
 ## RockTek G2 Overview
 
 The [RockTek G2 RTX-5000](https://droix.net/product/rocktek-g2-rtx5000/) measures around 4.3 x 4.3 x 0.78 inches  (11 x 11 x 2 cm) and weighs only 142g. On the front is a power LED which lights up Blue for on and Red for Standby.

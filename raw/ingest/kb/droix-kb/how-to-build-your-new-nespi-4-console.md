@@ -15,6 +15,8 @@ The NESPi 4 case comes with a neat feature in the form of a plastic, SNES-styled
 
 You can view the full video here:
 
+<https://youtu.be/ZR-5avkSmz0>
+
 …but we also figured we’d create a written guide as a kind of transcript of the video for those who prefer it, so read on to find out how to get started with your device!
 
 ## Step 1: Open The Case

@@ -11,6 +11,8 @@ This guide will show how to install the [GPD WIN MAX 2 2025](https://droix.net/p
 
 ## GPD WIN MAX 2 2025 4G Module Install video
 
+<https://youtu.be/hlSVFBn5IfY>
+
 ## New Back Panel parts transfer
 
 When receiving your bew [GPD WIN MAX 2 2025 4G module](https://droix.net/product/gpd-win-max-2-2025-4g-lte-add-on/) and new back plate, it will require you to make a few adjustments. Upon receiving your back plate it will look like this:

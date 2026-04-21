@@ -36,6 +36,8 @@ Contents
 
 ## Retroid Pocket 4 vs Retroid Pocket 4 PRO
 
+<https://youtu.be/vj8O8Ot-1kw>
+
 ## Retroid Pocket 4 unboxing
 
 We start our Retroid Pocket 4 vs Retroid Pocket 4 PRO review with a very brief unboxing for the [Retroid Pocket 4](https://droix.net/product/retroid-pocket-4-pro/).

@@ -24,6 +24,8 @@ Contents
 
 ## EasySMX ESM-9013 Review Video
 
+<https://youtu.be/vn7a_gwhLGU>
+
 ## Unboxing the EasySMX ESM-9013
 
 Inside you have the [EasySMX ESM-9013 game controller](https://go.droix.co.uk/EASYSMX-ESM-9013) which we will show in more detail in a moment.

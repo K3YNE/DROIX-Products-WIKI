@@ -44,6 +44,8 @@ Contents
 
 ## MinisForum X500 Review Video
 
+<https://youtu.be/-pctyt0BTRc>
+
 ## MinisForum X500 Unboxing
 
 First out of the box we have the quick start guide which is in multiple languages including English, Chinese and German. Next, there is the [MinisForum X500](https://go.droix.co.uk/MINISFORUM-X500) desk mini PC which we will show in more detail shortly.

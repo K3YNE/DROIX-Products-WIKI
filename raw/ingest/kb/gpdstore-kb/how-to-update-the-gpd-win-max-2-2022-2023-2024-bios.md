@@ -54,6 +54,8 @@ In the example image above we have the 8840U model which is the GPD WIN MAX 2 20
 
 We have a video tutorial that demonstrates how to install a BIOS update on GPD devices. Although the video features a GPD WIN 4, the process is identical for other models. Additionally, we have written instructions below the video that are specifically tailored for the WIN MAX 2.
 
+<https://youtu.be/lQZ8fFINtTE>
+
 Do not download or use the file shown in the video, and instead download the BIOS update files found above, which is intended for the WIN MAX 2.
 
 ## I**nstalling The Firmware Update**

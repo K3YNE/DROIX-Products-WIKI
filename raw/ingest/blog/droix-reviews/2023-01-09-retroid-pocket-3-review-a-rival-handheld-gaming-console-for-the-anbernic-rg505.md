@@ -40,6 +40,8 @@ Contents
 
 ## Retroid Pocket 3+ Review Video
 
+<https://youtu.be/-m6-kafH-2k>
+
 ## Unboxing the Retroid Pocket 3+
 
 First we have a user manual, and that’s in the loosest term as it literally an explanation of the handhelds layout and the tech specs. Underneath is a screen protector which you can apply to your screen.

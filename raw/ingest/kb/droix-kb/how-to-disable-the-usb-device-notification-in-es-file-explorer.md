@@ -11,4 +11,6 @@ If you see a message pop up each time you turn on your DroiX®, letting you know
 
 Please watch the video below, which explains where to disable this message.
 
+<https://youtu.be/Ne68Q2S8A3E>
+
 If your ES File Explorer interface looks different, it may be that you’ve not yet signed into Google’s Play Store and allowed all the applications to be updated. Please see <https://droix.net/first-run-of-googles-play-store/> if you’re unsure how to do this.

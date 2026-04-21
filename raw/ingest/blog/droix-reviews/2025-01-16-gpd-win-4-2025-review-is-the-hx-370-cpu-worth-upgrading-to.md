@@ -52,6 +52,8 @@ Contents
 
 ## GPD WIN 4 2025 Review Video
 
+<https://youtu.be/EudjvGSp11A>
+
 ## GPD WIN 4 2025 Overview
 
 Let’s start our GPD WIN 4 2025 review with an overview. The [GPD WIN 4 2025](https://droix.net/product/gpd-win-4-2025/) portable gaming PC is physically essentially the same device as the previous Win 4 generations. It measures around 6 x 3.6 x 1.1 inches (22.0 x 9.2 x 2.8 cm) and weighs 598g (1.31 lbs).

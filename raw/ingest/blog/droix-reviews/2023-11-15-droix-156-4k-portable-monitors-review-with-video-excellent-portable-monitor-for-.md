@@ -80,15 +80,21 @@ There are a total four different models of portable monitor for laptop, we will 
 
 ### Adobe RGB with internal rechargeable battery portable monitor for laptop
 
+<https://youtu.be/YmQMcgsIl7U>
+
 This model is the [portable monitor with Adobe RGB and battery](https://droix.net/product/15-6-4k-portable-monitor-with-adobe-rgb/). With an [Adobe RGB](https://en.wikipedia.org/wiki/Adobe_RGB_color_space) monitor, the colours on the monitor can match the colours in a print for example, allowing for improved soft proofing accuracy. This is great for video production, CG, and animation fields of work, where it is necessary to display images according to industry standards such as DCI and BT. 709.
 
 This model of the portable monitor also has a built in 10000 mAh rechargeable battery. It is great for while travelling, not near a power source or do not wish to use your devices power. With the rechargeable battery you can use it anywhere with ease.
 
 ### Portable screen model with internal rechargeable battery
 
+<https://youtu.be/ZSe-w4DLcOE>
+
 This model of the portable monitor has a built in 10000 mAh rechargeable battery with no Adobe RGB support. A [portable monitor with battery](https://droix.net/product/15-6-4k-portable-monitor-with-touchscreen/) is great for while travelling, not near a power source or do not wish to use your devices power. With the rechargeable battery you can use it anywhere with ease.
 
 ### portable monitor for laptop with no internal rechargeable battery
+
+<https://youtu.be/GxXqXQx60lY>
 
 This model does not feature a built-in battery. You will need to power the [portable monitor with no battery](https://droix.net/product/15-6-4k-portable-monitor-with-touchscreen/) via the USB, either from the included power supply or from your compatible device as we will show later.
 

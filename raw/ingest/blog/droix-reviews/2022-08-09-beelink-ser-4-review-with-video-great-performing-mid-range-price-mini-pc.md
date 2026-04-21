@@ -46,6 +46,8 @@ Contents
 
 ## Beelink SER 4 Review Video
 
+<https://youtu.be/fCyDQYpMf7I>
+
 ## Unboxing the Beelink SER 4
 
 Inside we have a user manual which is in multiple languages including English, German, Spanish and Italian. Underneath is the [Beelink SER 4](https://droix.net/product/beelink-ser4-ryzen-7-mini-pc/) mini PC. We will take a closer look at it shortly.

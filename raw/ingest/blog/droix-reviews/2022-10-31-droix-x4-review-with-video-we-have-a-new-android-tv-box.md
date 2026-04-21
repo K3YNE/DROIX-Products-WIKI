@@ -40,6 +40,8 @@ Contents
 
 ## DroiX X4 Review Video
 
+<https://youtu.be/lOWQwA9Q2qs>
+
 ## Unboxing the DroiX X4 Android TV box
 
 Let’s get straight on with the unboxing.  Up first we have the [DroiX X4](https://droix.net/product/droix-x4/) Android TV box which we will show in more detail shortly.

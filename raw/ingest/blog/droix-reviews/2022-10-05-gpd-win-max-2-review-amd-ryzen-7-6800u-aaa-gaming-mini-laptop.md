@@ -88,6 +88,8 @@ Contents
 
 ## GPD WIN MAX 2 Review Video
 
+<https://youtu.be/5XUengrR4g8>
+
 ## Unboxing the GPD WIN MAX 2 AMD
 
 As always we start off with the unboxing. Lifting the lid reveals a screen protector and wipe to clean the screen before applying. Underneath is the [GPD WIN MAX 2](https://droix.net/product/gpd-win-max-2/) gaming mini laptop itself. We will show it in more detail shortly.

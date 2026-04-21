@@ -11,6 +11,8 @@ Follow these instructions to install the 4G module for your [GPD WIN MAX 2 2025]
 
 ## GPD WIN MAX 2 2025 4G Module Install Video
 
+<https://youtu.be/hlSVFBn5IfY>
+
 ## Transfering some parts to the new back plate
 
 After you get the new bottom plate and the [GPD WIN MAX 2 2025 4G module](https://gpdstore.net/accessories/gpd-win-max-2-2025-4g-lte-add-on/), you’ll have to make some adjustments. When you first take out your new bottom plate, this is what it will look like:

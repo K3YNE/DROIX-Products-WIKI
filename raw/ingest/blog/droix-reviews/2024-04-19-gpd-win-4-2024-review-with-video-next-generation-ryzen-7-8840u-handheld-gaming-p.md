@@ -44,6 +44,8 @@ Contents
 
 ## GPD WIN 4 2024 Review Video
 
+<https://youtu.be/_wa_CEXbS6Y>
+
 ## Unboxing the GPD WIN 4 2024
 
 We start our GPD WIN 4 2024 review with the unboxing. First out of the box we have a screen protector which you can apply to the Win 4. Next we have the [GPD WIN 4 2024](https://droix.net/product/gpd-win-4-2024/) itself, we will check it out in more detail in a moment.

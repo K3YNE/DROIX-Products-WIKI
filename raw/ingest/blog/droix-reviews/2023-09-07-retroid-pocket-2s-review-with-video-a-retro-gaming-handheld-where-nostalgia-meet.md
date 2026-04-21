@@ -34,6 +34,8 @@ Contents
 
 ## Retroid Pocket 2S Review Video
 
+<https://youtu.be/l5PErbAck_8>
+
 ## Unboxing the Retroid Pocket 2S
 
 We start our Retroid Pocket 2S review with a brief unboxing. Up first we have a card with some information on the device and the specs. No quick start guide included, but there is an app on the device going over all the info you need.

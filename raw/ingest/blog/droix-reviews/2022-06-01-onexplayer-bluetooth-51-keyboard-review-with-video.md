@@ -22,6 +22,8 @@ Contents
 
 ## ONEXPLAYER keyboard review video
 
+<https://youtu.be/GKTMysqDdrQ>
+
 ## Unboxing the ONEXPLAYER keyboard
 
 The [ONEXPLAYER](https://droix.net/blogs/brand/onexplayer/) Bluetooth 5.1 keyboard comes in a nice box matching the ONEXPLAYER black and orange theme. Lifting the lid reveals an instruction manual that is in Chinese. This may be updated to include English language in the future. Though to be honest, it’s pretty straightforward how to connect and use as we will show shortly.

@@ -15,6 +15,8 @@ $864.95 – $1,007.95Price range: $864.95 through $1,007.95
 
 The last instalment in the GPD series of handheld gaming PCs is here. This review will delve into how the [GPD WIN MAX 2 2024](https://gpdstore.net/gpd-win-max-2-2024/) stands up against its 2023 predecessor and its sister models, the [GPD WIN 4 2024](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-4-2024/) and [GPD WIN Mini 2024](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-mini-2024/) models.
 
+<https://youtu.be/Uj-p6fOBT_s>
+
 ## Unboxing The GPD WIN Max 2 2024
 
 ### What’s in the Box

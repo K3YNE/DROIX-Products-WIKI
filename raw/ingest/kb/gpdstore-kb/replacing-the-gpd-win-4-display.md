@@ -22,6 +22,8 @@ Please be advised that while we permit customers to perform their own repairs, o
 04:29 Removing the glue covers  
 05:26 Fitting the new display
 
+<https://youtu.be/byPHtLyPhdc>
+
 ## GPD WIN 4 2025 Gaming Handheld PC
 
 [Shop now](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-4-2025/)

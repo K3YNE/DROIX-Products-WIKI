@@ -11,6 +11,8 @@ As standard, the Gameforce Chi retro console does not come with a micro SD Card 
   
 You can watch our video guide below, or scroll down a little further for the text guide.
 
+<https://youtu.be/NBD8gjg9HRE>
+
 ## Step by Step Text Guide
 
 ### Downloading EmuELEC and Balena Etcher

@@ -12,3 +12,5 @@ This video guide shows how to fix the ‘crackling’ noise when you press the [
 As always, while we do allow self repairs, any damage caused by yourself is not covered by our warranty (see [Terms & Conditions here](https://droix.net/terms-and-conditions/)). Please only do so if you feel you are confident that you can do it. Watch the video first, and judge for yourself.
 
 ## How to fix GPD WIN 5 ‘crackling’ triggers video
+
+<https://youtu.be/yAXqhsdrYYI>

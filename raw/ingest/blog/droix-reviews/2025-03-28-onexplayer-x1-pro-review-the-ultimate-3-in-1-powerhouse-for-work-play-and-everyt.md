@@ -58,6 +58,8 @@ Contents
 
 ## ONEXPLAYER X1 PRO Review Video
 
+<https://youtu.be/Q-EPvu9bnBU>
+
 ## ONEXPLAYER X1 PRO Overview
 
 We start our ONEXPLAYER X1 Pro review with an overview of the device. The [ONEXPLAYER X1 Pro](https://droix.net/product/onexplayer-x1-pro/) with detachable kickstand measures around 9.9 x 6.4 x 0.6 inches (25.2 x 16.3 x 1.7 cm) and weighs around 958g (2.1 lbs).

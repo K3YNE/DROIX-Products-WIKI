@@ -34,6 +34,8 @@ Contents
 
 ## Beelink MINI S Video Review
 
+<https://youtu.be/s-Sv8eueF7c>
+
 ## Unboxing the Beelink MINI S
 
 As always we start with the unboxing. First we have the user guide which is in multiple languages including English, German, Spanish and Italian. It’s got everything you need to get started. Next we have the [Beelink MINI S](https://droix.net/product/beelink-mini-s/) itself, we will show it in more detail shortly.

@@ -7,6 +7,8 @@ date: 2023-06-02
 wp_id: 2736
 ---
 
+<https://youtu.be/iDv-UKZ2nxg>
+
 Whether to get additional space and performance or just replace a faulty part the SSD and RAM are two of the easiest parts of a PC to replace. If this is your first foray into the innards of your computer or you’re a seasoned builder this guide will help you to take apart, upgrade and put your computer back together. Follow along to find out how.
 
 The first thing you’ll need to do is open up your computer. This is different for every model but for the most part, it will involve removing a set of screws on the bottom and prying open the cover. So be sure to place the screws somewhere safe.

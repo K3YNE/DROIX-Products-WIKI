@@ -13,4 +13,6 @@ As always, while we do allow self repairs, any damage caused by yourself is not 
 
 ## How to replace the AYN Thor fan video
 
+<https://youtu.be/pFK4Am493l4>
+
 You can learn more about and buy the [AYN Thor here](https://droix.net/product/ayn-thor/).

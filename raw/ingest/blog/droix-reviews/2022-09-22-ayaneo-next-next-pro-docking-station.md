@@ -10,6 +10,8 @@ We are taking a brief look at the official [AYANEO Next docking station](https:/
 
 ## AYANEO Next & Next Pro docking station video
 
+<https://youtu.be/hb8MLJi4GWg>
+
 Opening the box we have a quick guide which show the devices functions and specifications
 
 Docking station guide

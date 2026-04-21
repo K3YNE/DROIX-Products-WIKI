@@ -76,4 +76,6 @@ Once download is finished, clicking the Start button will simply start the game.
 
 Here is the video on how to use the DroiX® PlayMarket App:
 
+<https://youtu.be/Ih9aoZ74nKI>
+
 Happy gaming

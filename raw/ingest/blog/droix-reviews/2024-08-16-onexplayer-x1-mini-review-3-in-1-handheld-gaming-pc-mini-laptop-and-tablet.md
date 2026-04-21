@@ -70,6 +70,8 @@ Contents
 
 ## ONEXPLAYER X1 Mini Review Video
 
+<https://youtu.be/W7lHJNVqirU>
+
 ## ONEXPLAYER X1 Mini 8840U Overview
 
 We start the ONEXPLAYER X1 Mini review with a closer look at the portable gaming PC. The [ONEXPLAYER X1 Mini](https://droix.net/product/onexplayer-x1-mini/) measures around 8.2 x 5.07 x 0.78 inches (21.0 x 12.9 x 2.0 cm) and weighs 737g (1.62 lbs) without the controllers attached. With controllers it measures around 12.4 inches (31.5 cm) and weighs 859g (1.89 lbs).

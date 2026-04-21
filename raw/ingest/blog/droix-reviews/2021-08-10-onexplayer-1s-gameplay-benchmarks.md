@@ -54,6 +54,8 @@ The ONEXPLAYER is available in two models; an Intel Core i5-1135G7, or Intel Cor
 
 You can watch our video below which has a minute or so of ONEXPLAYER 1S gameplay footage per game. Or if you prefer a text and image version, scroll down a little further.
 
+<https://youtu.be/ibMNie5t1MM>
+
 ## Gameplay Introduction
 
 Unless stated, all ONEXPLAYER 1S gameplay footage is at the default recommended settings if they are provided by the game. We recommend playing at 1280×800 (or 720 if not supported) as this seems to be the sweet spot for graphics and performance on the OneNetbook ONEXPLAYER. But of course, if the game runs well you can increase the settings as needed.
@@ -141,6 +143,8 @@ The [ONEXPLAYER 1S i7 1195G7](https://droix.net/product/onexplayer-1s/) model wi
 Our video can be watched below. Or if you prefer reading, scroll a little further down for a text and image based version.
 
 ### ONEXPLAYER 1S Gameplay Video
+
+<https://youtu.be/4F_EzWRBzYc>
 
 ### ONEXPLAYER 1S Gameplay Article
 

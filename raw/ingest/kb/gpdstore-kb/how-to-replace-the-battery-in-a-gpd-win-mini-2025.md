@@ -12,3 +12,5 @@ This instructional video demonstrates the procedure for how to replace the batte
 While we do permit self-repairs, any damage you cause is not covered by our warranty (see our [Terms & Conditions here](https://gpdstore.net/terms-of-service/)). Please only attempt this repair if you are confident in your abilities. We recommend watching the full video first to decide if you are comfortable with the process.
 
 ## How to replace the battery in a GPD WIN MINI 2025 Video
+
+<https://youtu.be/KhAzwt9HLW4>

@@ -46,6 +46,8 @@ Contents
 
 ## AYANEO Pocket ACE Review Video
 
+<https://youtu.be/tckvHJcnpPg>
+
 ## AYANEO Pocket ACE Overview
 
 Lets get the AYANEO Pocket ACE review started with an overview of the Android handheld. The [AYANEO Pocket ACE](https://droix.net/product/ayaneo-pocket-ace/) measures around 6.9 x 3.2 x 0.72 inches (17.6 x 8.25 x 1.84 cm) and weighs around 310g (0.68 lbs).

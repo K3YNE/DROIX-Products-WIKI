@@ -37,6 +37,8 @@ As well as HDMI for video you can use the supplied USB-C to USB-C cable on compa
 
 We have prepared a video guide on the best ways to connect your [DroiX PM13](https://droix.net/product/droix-pm13-portable-monitor/) portable monitor to your device.
 
+<https://youtu.be/rjiS5bDpjkE>
+
 
 
 |  |  |

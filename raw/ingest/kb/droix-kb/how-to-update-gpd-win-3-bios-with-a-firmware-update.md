@@ -22,6 +22,8 @@ Ways to identify your CPU on your device:
 
 Task Manager CPU
 
+<https://youtu.be/hNc7jVEiFeI>
+
 First of all you will need to download and extract the firmware update to your GPD Win 3. You can download it [here](https://t.co/jpLp3CKvA5). This update fixes an issue with mouse/joystick not always responding after resuming from sleep mode.
 
 Once you have download the file, extracted the contents and double click on the executable file.

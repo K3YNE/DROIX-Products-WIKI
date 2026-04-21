@@ -11,6 +11,8 @@ Installing a 2.5″ HDD or SSD into your [DroiX Proteus 11](https://droix.net/pr
 
 ## Video Guide
 
+<https://youtu.be/QmkkIiMQ9PM>
+
 ## Text Guide
 
 Remove the two screws located on the back on the DroiX Proteus 11.

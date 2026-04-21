@@ -20,6 +20,8 @@ Please be advised that while we permit customers to perform their own repairs, o
 04:58 Replacing the Battery  
 11:39 Put everything back together again
 
+<https://youtu.be/JkmYZ99Xo60>
+
 ## GPD WIN MAX 2 2025 Gaming Handheld PC
 
 [Shop now](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-max-2-2025/)

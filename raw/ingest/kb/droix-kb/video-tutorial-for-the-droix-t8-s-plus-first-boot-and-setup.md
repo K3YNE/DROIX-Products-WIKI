@@ -10,3 +10,5 @@ wp_id: 723
 This video shows a typical first boot with our DroiX® T8-S Plus model.
 
 It covers connecting to the internet and checking you can browse the internet. Also changing the screen size (in case you can’t see it all on your TV), setting your location for weather reports and switching to the second operating system – openELEC (and how to configure this OS to connect to the internet).
+
+<https://youtu.be/TaV1bc8Y-Ro>

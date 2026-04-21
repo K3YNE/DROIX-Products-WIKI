@@ -36,6 +36,8 @@ Contents
 
 ## GMKTec Gbook Review Video
 
+<https://youtu.be/XHKm1bwJnv8>
+
 ## Unboxing the GMKTec Gbook
 
 We start our GMKTec Gbook review with the unboxing. There is a user guide which is in English and Chinese. It shows the [GMKTec Gbook](https://droix.net/product/gmktec-gbook/) functions and tech specs. Inside the box we have a 65W charger and power cable. We will include the correct plug adaptor for your country.

@@ -48,6 +48,8 @@ Contents
 
 ## GPD P2 MAX 2022 Review Video
 
+<https://youtu.be/ny-UO2iVl8g>
+
 ## GPD P2 MAX 2022 Unboxing
 
 As always, let’s start with the unboxing. Inside we have the GPD P2 MAX 2022 which we will take a closer look at shortly.

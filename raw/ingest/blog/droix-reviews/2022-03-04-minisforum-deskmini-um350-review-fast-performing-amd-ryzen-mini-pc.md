@@ -48,6 +48,8 @@ Contents
 
 ## Minisforum Deskmini UM350 Review Video
 
+<https://youtu.be/q3BgAMZu5lM>
+
 ## Unboxing the Minisforum Deskmini UM350
 
 Inside the box we have first a user manual which is in multiple languages including English, Chinese and German. We have the [Minisforum UM350 mini computer](https://go.droix.co.uk/MINISFORUM-UM350) which we will take a closer look at shortly.

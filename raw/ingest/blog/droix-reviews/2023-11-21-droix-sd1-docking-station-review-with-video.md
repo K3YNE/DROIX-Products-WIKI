@@ -24,6 +24,8 @@ Contents
 
 ## DroiX SD1 docking station review video
 
+<https://youtu.be/5BT8Ivlg0Mk>
+
 ## Unboxing & overview of the DroiX SD1 docking station
 
 We start our DroiX SD1 docking station review with a brief unboxing and overview. The box comes with our own design which shows just some of the many handheld gaming PC’s it supports, not only the Steam Deck.

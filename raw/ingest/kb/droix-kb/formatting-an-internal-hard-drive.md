@@ -11,6 +11,8 @@ If you’re familiar with this process on a T8-S, it is exactly the same procedu
 
 For everyone else, please watch a video
 
+<https://youtu.be/TaV1bc8Y-Ro>
+
 4 minutes 54 second is the relevant part (the rest is the How To Video for the T8-S Plus)  
 We’re interested in pausing at around 8 minutes 26.  
 Format internal HDD is the menu entry you want.

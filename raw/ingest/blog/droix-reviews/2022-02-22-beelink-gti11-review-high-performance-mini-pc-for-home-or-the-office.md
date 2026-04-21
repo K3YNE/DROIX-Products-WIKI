@@ -40,6 +40,8 @@ Contents
 
 ## Beelink GTI11 Review Video
 
+<https://youtu.be/6J_asozA1Ec>
+
 ## Unboxing the Beelink GTI11
 
 First, we have the Beelink GTI11 which we will take a closer look at shortly.

@@ -44,6 +44,8 @@ Once you see this, you are done and have installed v4.05 Gamepad Firmware on you
 
 Below is the step by step guide to installing the fix for the 60Hz stutter issue on the **GPD WIN 4 6800U model ONLY**.
 
+<https://youtu.be/NvvXpKJNNzc>
+
 The files needed for the GPD WIN 4 stuttering fix can be downloaded below.
 
 [DOWNLOAD FIRMWARE UPDATE FILE](https://droidbox.sharepoint.com/:u:/s/Purchasing/ERoRnsgD1qRPnqebN3EQ2JMBx9WjVwfhMma6Hgzt3PgA5Q?e=pfxs4S)
@@ -105,6 +107,8 @@ Allow it to progress, this will take several minutes. When it is done reboot you
 We will update this page as newer BIOS releases are made for the GPD WIN 4. The process below shows how to prepare and update the GPD WIN 4 to the latest firmware.
 
 ### GPD WIN 4 BIOS Update Video
+
+<https://youtu.be/lQZ8fFINtTE>
 
 Turn on subtitles for multi-language text
 

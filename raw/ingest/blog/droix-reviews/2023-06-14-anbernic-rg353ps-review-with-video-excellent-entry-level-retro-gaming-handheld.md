@@ -54,6 +54,8 @@ Contents
 
 ## Anbernic RG353PS Review Video
 
+<https://youtu.be/5BfRfvHLdgc>
+
 Anbernic RG353PS Review Video
 
 ## Unboxing the Anbernic RG353PS

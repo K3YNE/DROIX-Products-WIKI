@@ -20,8 +20,12 @@ The [RS-97 Pro](https://droix.net/product-category/retro-game-console/) supports
 
 ## RS-97 PRO
 
+<https://youtu.be/O-v6MkHMZxI>
+
 Find out more about the RS-97 Pro [here](https://droix.net/product-category/retro-game-console/).
 
 ## RS-07 Arcade
+
+<https://youtu.be/nCTHDWkAgiI>
 
 You can find out more about the RS-07 Arcade [here](https://droix.net/product-category/retro-game-console/).

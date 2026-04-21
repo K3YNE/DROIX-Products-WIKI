@@ -19,3 +19,5 @@ As always, while we do allow self repairs, any damage caused by yourself is not 
 02:33 Replacing the Right Trigger  
 04:58 Replacing the Battery  
 11:39 Put everything back together again
+
+<https://youtu.be/JkmYZ99Xo60>

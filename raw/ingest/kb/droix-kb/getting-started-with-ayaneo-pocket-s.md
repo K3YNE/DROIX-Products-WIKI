@@ -113,17 +113,23 @@ For those eager to build their game library on the AYANEO Pocket S, we have an i
 
 > [How to Add New Games & ROMS to Your Handheld](https://droix.net/knowledge-base/article/installing-games-and-roms/)
 
+<https://droix.net/knowledge-base/article/installing-games-and-roms/embed/#?secret=wpOzetGNWl#?secret=v7uQEQU9sT>
+
 ### RetroArch
 
 [RetroArch](https://www.retroarch.com/) is a powerful open-source emulation frontend that simplifies retro gaming from a wide range of devices. To help you get started with RetroArch on your device, we’ve created a detailed guide, which walks you through the setup steps, ensuring a smooth and enjoyable gaming experience. Check out the [setup guide here](https://droix.net/knowledge-base/article/how-to-install-and-set-up-retroarch-on-your-windows-or-android-devices/) and find it embedded below for easy access.
 
 > [How to install and set up RetroArch on your Windows or Android devices](https://droix.net/knowledge-base/article/retroarch/)
 
+<https://droix.net/knowledge-base/article/retroarch/embed/#?secret=IciYMglYT9#?secret=lvvAFWKdsc>
+
 ## (Optional) Factory Resetting the AYANEO Pocket S
 
 If however, you’re experiencing issues with your Pocket 4 or simply want to start fresh, a factory reset can be the ideal solution. This will restore your device to its original and earliest settings, erasing all your data and installed applications. To proceed with a factory reset, and learn more about when or why this can be beneficial, follow the comprehensive guide embedded below. Please remember to back up any important data before starting the reset process, as this action is irreversible.
 
 > [How to Factory Reset Your Android Device](https://droix.net/knowledge-base/article/factory-reset-android/)
+
+<https://droix.net/knowledge-base/article/factory-reset-android/embed/#?secret=O58YgolgLN#?secret=Sy9DFx7vnd>
 
 ## Accessories & Add-Ons
 

@@ -24,6 +24,8 @@ Contents
 
 ## EasySMX ESM-9110 Review Video
 
+<https://youtu.be/Yceka8Ag-bQ>
+
 ## Unboxing the EasySMX ESM-9110
 
 First we have the EasySMX ESM-9110 gamepad itself which is available in two colours, we will show them in more detail shortly. This is the black colour.

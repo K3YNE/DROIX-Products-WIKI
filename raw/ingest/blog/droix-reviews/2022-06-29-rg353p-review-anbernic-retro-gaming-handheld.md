@@ -74,6 +74,8 @@ Contents
 
 ## RG353P Review Video
 
+<https://youtu.be/08ye_7sNSFY>
+
 ## Unboxing the RG353P
 
 As always we start with the unboxing. Something different to this model is a new brand of packaging which looks more professional than the plain white packaging we have seen in the past models. It’s a nice touch!

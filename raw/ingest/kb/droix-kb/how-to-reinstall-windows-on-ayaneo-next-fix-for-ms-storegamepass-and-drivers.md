@@ -45,6 +45,8 @@ Press the power button on your AYANEO Next and then press the F7 Key on your key
 
 Select the UEFI Flash Storage (The Windows 11 bootable USB stick) and continue with the windows installation.
 
+<https://youtu.be/SPTr6vbVPCA>
+
 Now you should have a brand-new clean install of Windows 11 on your AYANEO Next or Next Pro, let’s install some drivers.
 
 ## How to install Drivers on AYANEO Next and AYANEO Next Pro
@@ -55,6 +57,8 @@ Now download the following drivers.
 2. AMD Radeon Drivers – [Download](https://www.amd.com/en/support) – Download the Auto-Detect tool
 3. AYANEO Next Driver package – [Download](https://cdn.ayaneo.com/ayaneo/downloads/AYANEONEXTFullDriver.zip)
 4. AYANEO Universal Gyro Driver – [Download](https://cdn.ayaneo.com/ayaneo/downloads/UMDF2.0_BMI260_V1.0.23_5ID_signed_20H1.zip)
+
+<https://youtu.be/cMIBbElmtfA>
 
 After you have installed all the above successfully, check Device Manager to make sure that you have no unrecognised devices.
 

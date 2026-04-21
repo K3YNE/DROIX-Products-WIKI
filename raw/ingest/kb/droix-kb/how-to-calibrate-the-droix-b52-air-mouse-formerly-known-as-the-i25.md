@@ -10,6 +10,8 @@ wp_id: 925
 If you find that the movements of your remote control don’t correlate precisely to the cursor on your screen moving, you may need to calibrate your DroiX® B52 remote control.  
 To calibrate the remote control please follow the steps outlined in the video below:
 
-Video:
+Video:  
+
+<https://youtu.be/txAkLIAzCkE>
 
 Watch it over at YouTube’s site – <https://www.youtube.com/watch?v=txAkLIAzCkE>

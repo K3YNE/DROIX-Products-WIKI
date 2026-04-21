@@ -18,6 +18,8 @@ Contents
 
 ## AYA NEO new packaging unboxing video
 
+<https://youtu.be/NCj_jv4-1qU>
+
 ## Text based version of the video
 
 Underneath the packaging is the quick start user guide.

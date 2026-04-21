@@ -72,6 +72,8 @@ Contents
 
 ## GPD Pocket 3 Review Video
 
+<https://youtu.be/RwF6C13X1kY>
+
 ## Unboxing the GPD Pocket 3
 
 We have the GPD Pocket 3 which we will show in more detail shortly.
@@ -250,6 +252,8 @@ It’s been some time since we updated this FAQ! So let’s not waste time on id
 
 First of all, if you haven’t seen it already. The official DroiX review of the GPD Pocket 3 is now online and available to the public. You can either check out our GPD Pocket 3 Review blogpost, or watch the video below to learn more about this awesome mini laptop.
 
+<https://youtu.be/RwF6C13X1kY>
+
 Se
 
 Second, the GPD Pocket 3 is available to order directly from [droix.co.uk](https://droix.net/product/gpd-pocket-3/) and [droix.net](https://droix.net/product/gpd-pocket-3/). This includes both the high-end and low-end versions.
@@ -283,6 +287,11 @@ The first samples of the GPD Pocket 3 have started to arrive with reviewers, so 
 
 See below for a few videos showcasing the GPD Pocket 3 in action:
 
+<https://youtu.be/hsRixkYu5I0>
+
+
+
+<https://youtu.be/WKy054Hj4UU>
 
 
 
@@ -293,6 +302,8 @@ See below for a few videos showcasing the GPD Pocket 3 in action:
 It’s been a while since our last update! Since then, a large amount of information on the GPD Pocket 3 has been revealed.
 
 First of all, there’s now official video footage of the GPD Pocket 3, which you can see in the video below!
+
+<https://youtu.be/DKylje8j26E>
 
 GPD Pocket 3 Video Reveal Gameplay
 
@@ -345,6 +356,8 @@ With built-in-speakers, a microphone and a camera, the GPD Pocket 3 is fully equ
 It’s been a while since our last update! Since then, a large amount of information on the GPD Pocket 3 has been revealed.
 
 First of all, there’s now official video footage of the GPD Pocket 3, which you can see in the video below!
+
+<https://youtu.be/DKylje8j26E>
 
 GPD Pocket 3 Video Reveal Gameplay
 
@@ -581,11 +594,15 @@ A GPD representative confirmed that the RAM is soldered onto the motherboard
 
 **[20/10/2021]** *GPD have uploaded video footage of the high-end GPD Pocket 3, running Devil May Cry 5. You can view it below:*
 
+<https://youtu.be/DKylje8j26E>
+
 *As we expected, the GPD Pocket 3 is about as competent at gaming as the GPD Win 3, OneXplayer and the [GPD WIN MAX 2021](https://droix.net/product/gpd-win-max-2021-pc-gaming-handheld/). It will easily be able to handle productivity tasks too.*
 
 The Pentium N6000 is a more difficult processor to observe however. When it comes to Pentium processors, it is generally understood that they are a weaker, cheaper, more energy-efficient alternative to Intel’s “Core” line, and so comprehensive benchmarks are not often made.
 
 Despite this, we’ve managed to locate a video of a Pentium N6000 laptop below. Albeit not in English.
+
+<https://youtu.be/NL-7AGjlLXo>
 
 If you plan to do any heavyweight tasks with the N6000, it may be a tough sell. But if you’re just using it as a hobby device (something to put on your workbench/etc.) or a daily driver/commute partner (emails, watching videos), it will handle that just fine.
 

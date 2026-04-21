@@ -39,6 +39,8 @@ You can download the latest BIOS update file for your respective model below and
 
 ## Updating GPD BIOS Video
 
+<https://youtu.be/lQZ8fFINtTE>
+
 ## Installing the Firmware Update
 
 ### **Prepare Firmware Update**

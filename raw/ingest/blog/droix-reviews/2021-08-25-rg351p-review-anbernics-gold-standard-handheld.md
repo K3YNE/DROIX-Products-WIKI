@@ -48,6 +48,8 @@ The RG351P also supports rudimentary online functionality in the form of online 
 
 You can see our full video review here, or read our RG351P review in text further below:
 
+<https://youtu.be/rGjB_kl2bu0>
+
 ## RG351P Unboxing
 
 First up we have the [RG351P retro gaming handheld](https://go.droix.co.uk/RG351P) which we will show in more detail at the moment. We have a USB Type-C charge cable. You can use any USB such as a mobile phone charger or PC for example. It is also recommended using this cable as ones you may already have may not be compatible. It plugs into the OTG/DC USB port found on the right side when front facing.

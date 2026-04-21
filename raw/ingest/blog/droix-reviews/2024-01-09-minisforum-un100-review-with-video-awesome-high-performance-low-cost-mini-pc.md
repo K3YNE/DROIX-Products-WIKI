@@ -36,6 +36,8 @@ Contents
 
 ## Minisforum UN100 review video
 
+<https://youtu.be/YA8IP261KRs>
+
 ## Unboxing the Minisforum UN100
 
 We start the Minisforum UN100 review with an unboxing. Inside the box we first have the [Minisforum UN100](https://droix.net/product/minisforum-un100/) mini PC with Intel processor, we will check it out in more detail shortly.

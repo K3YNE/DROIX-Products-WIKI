@@ -11,6 +11,8 @@ Embark on an exciting journey to transform your [retro handheld](https://droix.n
 
 You can also watch our brief overview video embedded below or [here](https://www.youtube.com/watch?v=doDb0a8HsJ4), covering all the essentials from Setup to M.2 installation.
 
+<https://youtu.be/doDb0a8HsJ4>
+
 Here at DroiX, we’re big proponents of the user’s *Right to Repair*. So, if you find any issues and feel confident enough to repair them, we encourage you! You can also contact [DroiX Customer Support](https://droix.net/contact-us/) for any assistance or questions.
 
 ## Unboxing

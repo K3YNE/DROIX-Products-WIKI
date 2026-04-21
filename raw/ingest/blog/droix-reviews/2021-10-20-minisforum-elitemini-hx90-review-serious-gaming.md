@@ -44,6 +44,8 @@ Contents
 
 ## MinisForum EliteMini HX90 Review Video
 
+<https://youtu.be/-pDN2F6Ua7k>
+
 ## MinisForum EliteMini HX90 Unboxing
 
 Let’s get started with the unboxing. Up first we have the user manual which is in multiple languages including English, Chinese and German. Next is the [MinisForum EliteMini HX90](https://go.droix.co.uk/MINISFORUM-HX90) which we will show in more detail shortly.

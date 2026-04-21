@@ -40,6 +40,8 @@ Contents
 
 ## Beelink SEi 10 i5 Review Video
 
+<https://youtu.be/GT_e2g2KOKc>
+
 ## Beelink SEi 10 Unboxing
 
 Lets get on with the unboxing. First, we have the [Beelink SEi 10](https://go.droix.co.uk/BEELINK-SEI-10-i5) which we will look at in more detail shortly.

@@ -17,6 +17,8 @@ The [GPD Duo](https://gpdstore.net/laptops/gpd-duo/) is coming soon and we were 
 
 ## GPD Duo Review Video
 
+<https://youtu.be/VZfkYk87NG8>
+
 ## **GPD Duo Overview**
 
 Let’s kick off this GPD Duo review by diving into the dual displays and the different modes it offers.

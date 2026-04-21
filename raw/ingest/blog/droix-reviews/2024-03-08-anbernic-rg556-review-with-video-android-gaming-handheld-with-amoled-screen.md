@@ -38,6 +38,8 @@ Contents
 
 ## Anbernic RG556 review video
 
+<https://youtu.be/BgSr-TEmxkI>
+
 ## Unboxing the Anbernic RG556
 
 We start our Anbernic RG556 review with a brief unboxing. First out of the box is the [Anbernic RG556](https://droix.net/product/anbernic-rg556) itself, we will take a closer look at it shortly.

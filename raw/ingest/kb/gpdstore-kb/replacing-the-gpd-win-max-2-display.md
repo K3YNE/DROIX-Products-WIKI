@@ -24,6 +24,8 @@ Please be advised that while we permit customers to perform their own repairs, o
 07:00 Fitting the display  
 07:47 Fitting the hinge cover
 
+<https://youtu.be/bQGD4rot6iE>
+
 ## GPD WIN MAX 2 2025 Gaming Handheld PC
 
 [Shop now](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-max-2-2025/)

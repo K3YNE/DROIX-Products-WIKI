@@ -94,6 +94,8 @@ Contents
 
 ## Watch Our Full GPD WIN 5 Review Video
 
+<https://youtu.be/TlVHymX4oSc>
+
 ## A Closer Look at the GPD WIN 5 Design
 
 First, let’s look at the physical design. The [GPD WIN 5](https://droix.net/product/gpd-win-5/ "GPD WIN 5") measures around 10.5 x 4.3 x 0.95 inches (26.7 x 11.1 x 2.4 cm). Furthermore, it weighs approximately 565g (1.24 lbs).

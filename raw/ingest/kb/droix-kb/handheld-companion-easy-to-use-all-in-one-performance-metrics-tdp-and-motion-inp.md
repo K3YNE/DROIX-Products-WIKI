@@ -11,6 +11,8 @@ wp_id: 3009
 
 ## Handheld Companion Overview Video
 
+<https://youtu.be/v73GMHgRYac>
+
 ## What does Handheld Companion work on?
 
 Handheld Companion runs with a vast number of handheld gaming PCs. Not all features may be present on some models due to hardware differences such as a built-in gyroscope.

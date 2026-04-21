@@ -34,6 +34,8 @@ Contents
 
 ## AYANEO AM02 review video
 
+<https://youtu.be/OeDGFR6qFZc>
+
 ## Unboxing the AYA NEO AM02
 
 As always we start with the unboxing for the AYANEO AM02 review. First out of the box we have user manuals which are in Chinese and English. Next we have the AYA NEO AM02 gaming mini PC itself. We will take a closer look at it shortly.

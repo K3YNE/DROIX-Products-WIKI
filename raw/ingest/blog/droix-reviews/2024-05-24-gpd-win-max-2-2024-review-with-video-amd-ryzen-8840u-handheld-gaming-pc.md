@@ -54,6 +54,8 @@ Contents
 
 ## GPD WIN MAX 2 2024 Review Video
 
+<https://youtu.be/Uj-p6fOBT_s>
+
 ## Unboxing the GPD WIN MAX 2 2024
 
 We start the GPD WIN MAX 2 2024 review with the unboxing. Inside the box we have the [GPD WIN MAX 2 2024](https://droix.net/product/gpd-win-max-2-2024/) itself, we will take a closer look at it shortly.

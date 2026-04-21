@@ -17,6 +17,8 @@ We provide our kit with a microSD card since it’s the most lightweight and eas
 
 ## [Video] How to install a RetroPie image
 
+<https://youtu.be/J1fGwdXcKT4>
+
 We also wrote a transcript of the video on how to install a RetroPie image for those who may be harder of hearing, or unable to listen right now!
 
 ```

@@ -48,6 +48,8 @@ Contents
 
 ## ONEXPLAYER AMD & MINI 5800U review video
 
+<https://youtu.be/r6OyVd9zpaA>
+
 ## ONEXPLAYER AMD & MINI 5800U Unboxing
 
 Let’s start the ONEXPLAYER AMD & MINI 5800U review with unboxing the [ONEXPLAYER Mini](https://droix.net/product/onexplayer-mini/). Inside there is the ONEXPLAYER Mini handheld gaming PC which we will take a closer look at in a moment.

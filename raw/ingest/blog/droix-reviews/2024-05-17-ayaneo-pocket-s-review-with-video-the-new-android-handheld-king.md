@@ -52,6 +52,8 @@ Contents
 
 ## AYANEO Pocket S Review Video
 
+<https://youtu.be/b2UgbPUudx0>
+
 ## Unboxing the AYANEO Pocket S
 
 Nice packaging as always from AYANEO. Inside we first have the [AYANEO Pocket S](https://droix.net/product/ayaneo-pocket-s/) handheld itself, we will take a closer look at it in a moment.

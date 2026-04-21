@@ -22,6 +22,8 @@ Contents
 
 ## EasySMX ESM-9101 Review Video
 
+<https://youtu.be/-V_1L4J7RfQ>
+
 ## Unboxing the EasySMX ESM-9101
 
 Inside the box is the [ESM-9101 gamepad](https://droix.net/product/easysmx-esm-9101/) which we will take a close look at shortly.

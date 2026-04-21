@@ -30,3 +30,5 @@ Please follow the steps below to update your T8-S Plus.
 **Important Notes:**
 
 If the OTA updates app does not work or does not show any available update please factory reset the device as in the video below and then try the OTA updates again.
+
+<https://youtu.be/YY_wtA0vqQM>

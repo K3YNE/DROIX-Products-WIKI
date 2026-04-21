@@ -40,6 +40,8 @@ Contents
 
 ## GPD Win MAX 2021 AMD Review Video
 
+<https://youtu.be/KRO64d9tbyk>
+
 ## GPD Win MAX 2021 AMD Unboxing
 
 We have already unboxed and had a closer look at GPD Win MAX 2021 in our [Intel model review](https://go.droix.co.uk/GPD-WIN-MAX-2021-REVIEW) a few months back. The box contents and device are visibly identical. If you would like to see the unboxing and overview, you can find the video and text review [here](https://go.droix.co.uk/GPD-WIN-MAX-2021-REVIEW).

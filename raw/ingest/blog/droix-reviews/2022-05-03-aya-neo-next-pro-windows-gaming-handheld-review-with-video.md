@@ -56,6 +56,8 @@ Contents
 
 ## AYA NEO NEXT PRO Review Video
 
+<https://youtu.be/7-a4jFiSs0Q>
+
 ## AYA NEO NEXT PRO Unboxing
 
 As always, let’s get started with the unboxing.

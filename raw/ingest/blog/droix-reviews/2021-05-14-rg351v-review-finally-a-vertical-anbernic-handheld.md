@@ -44,6 +44,8 @@ We’ve made an unboxing video and a text version of the RG351V review if you wi
 
 ## [Video] RG351V Unboxing
 
+<https://youtu.be/XO3xb7rmq8w>
+
 ## RG351V Unboxing
 
 Inside we have the RG351V by Anbernic which we will take a look at in more detail shortly.

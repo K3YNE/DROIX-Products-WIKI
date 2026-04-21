@@ -52,6 +52,8 @@ Contents
 
 ## ONEXPLAYER G1 Review Video
 
+<https://youtu.be/DcZjqAtySf4>
+
 ## ONEXPLAYER G1 Overview
 
 We start our ONEXPLAYER G1 review with an overview of the handheld. The ONEXPLAYER G1 measures around 8.1 x 5.8 x 1.2 inches (20.8 x 14.65 x 3.2 cm) and weighs around 880g (1.94 lbs), and with the detachable keyboard an extra 142g (0.31 lbs).

@@ -36,6 +36,8 @@ Contents
 
 ## Chuwi LarkBox X review video
 
+<https://youtu.be/EalSkqceG1A>
+
 ## Unboxing the Chuwi LarkBox X
 
 As always we start with the unboxing for our Chuwi LarkBox X review. Inside the envelope is a fold out user guide which has multiple languages including English, Chinese, Italian and German. Next we have the [Chuwi LarkBox X](https://hubs.li/Q02gx5kw0) which we will take a closer look at shortly.

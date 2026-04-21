@@ -258,14 +258,20 @@ Dive deeper with RetroArch! We’ve already created a detailed guide that covers
 
 > [How to install and set up RetroArch on your Windows or Android devices](https://droix.net/knowledge-base/en-gb/article/retroarch/)
 
+<https://droix.net/knowledge-base/en-gb/article/retroarch/embed/#?secret=GWbjKpGS1w#?secret=I7McFutVNJ>
+
 ## Installing New Games
 
 At DroiX, we do not preload or preinstall any games on our devices. However, we fully support your gaming passion… that’s why we’ve created a detailed, reusable guide on how to add, install, and update games (ROMs) on your device. This guide is designed to be a universal resource for all our [Getting Started guides](https://droix.net/knowledge-base/tag/getting-started/), ensuring you can set up and personalize your game library to your liking. Follow the instructions in the embedded guide to begin curating a collection of games that cater to your unique gaming tastes and preferences.
 
 > [How to Add New Games & ROMS to Your Handheld](https://droix.net/knowledge-base/en-gb/article/installing-games-and-roms/)
 
+<https://droix.net/knowledge-base/en-gb/article/installing-games-and-roms/embed/#?secret=I285V93LU6#?secret=vy5rRmxozu>
+
 ## Charging your handheld
 
 Please refer to the included guide on the best practises for charging your handheld.
 
 > [Anbernic Device Charging Guide: Safety First](https://droix.net/knowledge-base/article/anbernic-device-charging-guide-safety-first/)
+
+<https://droix.net/knowledge-base/article/anbernic-device-charging-guide-safety-first/embed/#?secret=1qmsBCqGLk#?secret=kVczGgJtbg>

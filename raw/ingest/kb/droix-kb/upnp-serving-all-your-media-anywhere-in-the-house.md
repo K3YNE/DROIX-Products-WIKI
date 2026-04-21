@@ -28,6 +28,8 @@ Another option is to install an application via Google’s Play Store (please se
 
 To see an example of using UPnP to stream media *to* your DroiX, see the video below. You can obviously instead install the application onto your DroiX itself, so the media all comes from storage devices connected to it, rather than from your phone/tablet.
 
+<https://youtu.be/Z4ZV1McFuJQ>
+
 However you choose to set up your DroiX device as a UPnP server, once completed you will find you can now use your existing UPnP clients/services on devices throughout your household to enjoy your media in a location and at a time convenient for you. You won’t need to remember IP addresses or passwords, and you will also find that the UPnP capable playback application will have ways or sorting/categorizing your media collection, making browsing an intuitive experience.
 
 One thing to consider when using UPnP is the type of media you are sharing. Visitors to your house (with your WiFi password or a network cable) will be able to easily access your shared pictures/videos/music, so make sure you don’t have anything shared that would embarrass you. Likewise, if you have young children in your house, they will find it trivial to scan through your shared media, so you may want to use an alternative approach (such as [SMB/Samba sharing](https://droix.net/network-sharing-local-storage-for-kodi-and-dbmc/) with a username and password set) if you have a lot of violent horror movies for example.

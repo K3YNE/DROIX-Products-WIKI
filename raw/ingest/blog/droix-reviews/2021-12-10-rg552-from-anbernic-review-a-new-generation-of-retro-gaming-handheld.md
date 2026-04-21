@@ -78,6 +78,8 @@ Contents
 
 ## RG552 Review Video
 
+<https://youtu.be/OOaDTGpo9f8>
+
 ## RG552 from Anbernic Unboxing
 
 As always, let’s get started with the unboxing. First we have the [RG552 retro gaming handheld](https://go.droix.co.uk/RG552) which we will show in more detail shortly.
@@ -269,6 +271,8 @@ Check it out below!
 
 > [Anbernic RG552 Getting Started Guide](https://droix.net/blogs/anbernic-rg552-getting-started/)
 
+<https://droix.net/blogs/anbernic-rg552-getting-started/embed/#?secret=ZG0BcPTTXZ#?secret=Gnz1CMZJvi>
+
 ### 15/12/2021 Update:
 
 If you were not aware, the initial batch of RG552’s came with firmware that was not quite up to scratch. That’s why we’ve prepared a handy guide on [how to update the firmware for the RG552](https://go.droix.co.uk/RG552-UPDATE), with the official update released by ANBERNIC very recently.
@@ -277,9 +281,13 @@ Take a look at the linked post below for more info!
 
 > [RG552 Firmware Update – How to update Android & Linux OS Firmware](https://droix.net/blogs/rg552-firmware-update-how-to-update-android-linux-os-firmware/)
 
+<https://droix.net/blogs/rg552-firmware-update-how-to-update-android-linux-os-firmware/embed/#?secret=NvZRFboE03#?secret=lwi2si3N3i>
+
 ### 10/12/2021 Update: RG552 Review Video
 
 Our review of the RG552 from Anbernic is now live! You can read the text version on our [blog post here](https://go.droix.co.uk/RG552-REVIEW) or watch the video below.
+
+<https://youtu.be/OOaDTGpo9f8>
 
 ### 6/12/2021 Update: RG552 Pre-Orders Closed Temporarily
 
@@ -328,6 +336,8 @@ It seems as though the initial estimate of the 29th that we were given by ANBERN
 
 That aside, we have more exciting news! The RG552 now has an official promo video revealed as of this morning on the 30th of November. See below for the full premiere.
 
+<https://youtu.be/kYOMHxousqY>
+
 Blink and you’ll miss it – it’s only about 20 seconds in length, but it’s nice to have confirmation of the device’s existence that isn’t just sly nudges and winks via the odd image here and there.
 
 Stay tuned for the release and **final** pricing, which we’ll update this post with as soon as they’re available (keep an eye on our website too – the listing should be live in the coming weeks so you can place your pre-order!).
@@ -370,6 +380,8 @@ Retro gaming handheld hobbyist [DIYGameModz](https://www.youtube.com/c/DIYGameMo
 While not much, it is nice to see more video footage of the device. One interesting thing we noticed is that at 18 seconds in, the directories indicate that this RetroArch installation is running on top of Android. Meaning that the RG552 is now confirmed to **run** Android.
 
 It is unknown what version of Android it will be however. We would guess somewhere between Android 8 and Android 10.
+
+<https://youtu.be/Naf6628hewI>
 
 Popular gadget reviewer [Taki Udon](https://www.youtube.com/c/TakiUdon) also teased that he is in possession of an RG552 earlier last week.
 

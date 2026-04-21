@@ -36,6 +36,8 @@ Contents
 
 ## ACEPC Picobox Mini Review Video
 
+<https://youtu.be/JIHiFJgqrlU>
+
 ## Unboxing the ACEPC Picobox Mini
 
 First out of the box is the [ACEPC Picobox Mini](https://droix.net/product/acepc-picobox-mini/), small enough to fit in the palm of your hand. We will take a closer look at it shortly.

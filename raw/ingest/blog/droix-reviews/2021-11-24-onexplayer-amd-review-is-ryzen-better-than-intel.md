@@ -44,6 +44,8 @@ Contents
 
 ## ONEXPLAYER AMD Review Video
 
+<https://youtu.be/XSbi-iRN4VQ>
+
 ## ONEXPLAYER AMD Unboxing
 
 Lets get started with unboxing. Up first is the [ONEXPLAYER AMD](https://go.droix.co.uk/ONEXPLAYER-AMD) which we will show in more detail shortly. There is a user manual which is in Chinese and English. Inside the box is a charger, we will include the correct adaptor for your country. And a USB Type- C charge cable.

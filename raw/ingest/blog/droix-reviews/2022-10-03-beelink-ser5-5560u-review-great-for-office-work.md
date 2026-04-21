@@ -48,6 +48,8 @@ Contents
 
 ## Beelink SER5 5560U Review Video
 
+<https://youtu.be/9MyRCBKM98I>
+
 ## Unboxing the Beelink SER5 5560U
 
 In the box we first have the User Manual which is in multiple languages including English, German, Spanish and Italian. There is also a quick guide on how to install a 2.5” drive inside the [mini PC](https://droix.net/blogs/product-category/mini-pcs/). Underneath is the [Beelink SER5 5560U](https://droix.net/product/beelink-ser-pro-amd-ryzen-5-mini-pc/) mini PC, we will show it in more detail shortly.

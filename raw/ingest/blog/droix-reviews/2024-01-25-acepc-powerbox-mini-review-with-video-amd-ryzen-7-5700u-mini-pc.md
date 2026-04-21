@@ -38,6 +38,8 @@ Contents
 
 ## ACEPC Powerbox Mini review video
 
+<https://youtu.be/HuL6AZ0wO0Y>
+
 ## Unboxing the ACEPC Powerbox Mini
 
 We start our ACEPC Powerbox Mini review with the unboxing. First out of the box we have the [ACEPC Powerbox Mini](https://droix.net/product/acepc-powerbox-mini), we will take a closer look at it in a moment.

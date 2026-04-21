@@ -15,6 +15,8 @@ $690.95
 
 [Shop now](https://gpdstore.net/accessories/gpd-g1/)
 
+<https://youtu.be/Azz9Y-nlzdc>
+
 ## Unboxing the GPD G1 eGPU
 
 Our GPD G1 review begins with the unboxing of the [GPD G1 eGPU](https://gpdstore.net/accessories/gpd-g1/) Docking Station. Inside the box, you will find a user manual available in both Chinese and English. Beneath the manual is the GPD G1 eGPU Docking Station, a power lead with the appropriate adapter for your country, and a USB 4.0 cable. Note that an [Oculink cable](https://gpdstore.net/accessories/gpd-oculink-sff8611-cable-m-2-8612-adapter-card/) is not included but is available as a bundle option when ordering.

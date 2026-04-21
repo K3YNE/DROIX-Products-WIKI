@@ -34,6 +34,8 @@ Contents
 
 ## Beelink GK35 Pro Review Video
 
+<https://youtu.be/96T4HSkv7KE>
+
 ## Unboxing the Beelink GK35 Pro
 
 The user guide is up first. It is in multiple languages including English. German, Spanish and Italian. Underneath is the [Beelink GK35 Pro](https://droix.net/product/beelink-gk35/) mini computer, we will show it in more detail shortly.

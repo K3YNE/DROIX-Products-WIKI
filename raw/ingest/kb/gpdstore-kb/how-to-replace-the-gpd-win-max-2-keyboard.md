@@ -13,6 +13,8 @@ While we do permit self-repairs, any damage you cause is not covered by our warr
 
 ## How to replace the GPD WIN MAX 2 keyboard video
 
+<https://youtu.be/c7S6uRfPnyE>
+
 ## GPD WIN MAX 2 2025 Gaming Handheld PC
 
 [Shop now](https://gpdstore.net/product/gpd-win-max-2-2025/)

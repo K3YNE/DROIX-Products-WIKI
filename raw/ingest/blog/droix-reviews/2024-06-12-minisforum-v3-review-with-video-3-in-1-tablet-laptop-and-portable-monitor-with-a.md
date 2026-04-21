@@ -42,6 +42,8 @@ Contents
 
 ## Minisforum V3 Review Video
 
+<https://youtu.be/24BRLMay1L8>
+
 ## Unboxing the Minisforum V3
 
 We start our Minisforum V3 review with a brief unboxing. Inside the box you can find the [Minisforum V3](https://droix.net/product/minisforum-v3/) lightweight laptop, user manual, USB Type-C cable and a charger.

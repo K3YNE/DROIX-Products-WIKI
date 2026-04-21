@@ -13,6 +13,8 @@ Please be advised that while we permit customers to perform their own repairs, o
 
 ## Replacing the GPD Pocket 4 keyboard video
 
+<https://youtu.be/5rDAFl6zCn8>
+
 ## GPD Pocket 4 Mini Laptop
 
 [Shop now](https://gpdstore.net/gpd-mini-laptop/gpd-pocket-4/)

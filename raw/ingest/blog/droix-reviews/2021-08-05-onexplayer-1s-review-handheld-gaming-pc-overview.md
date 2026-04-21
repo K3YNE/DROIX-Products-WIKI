@@ -46,6 +46,8 @@ The [ONEXPLAYER](https://droix.net/product/onexplayer-1s/) is available to buy i
 
 You can watch our ONEXPLAYER 1S review video below. Or if you prefer you scroll down a little further for a text based version with images.
 
+<https://youtu.be/3yETUfHQhdg>
+
 ## ONEXPLAYER 1S Unboxing
 
 Starting off the OneXPlayer 1S review, we’ll take a look at the unboxing experience for this awesome portable gaming handheld PC.

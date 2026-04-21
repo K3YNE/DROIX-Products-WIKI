@@ -48,6 +48,8 @@ Contents
 
 ## ONEXPLAYER Mini Review Video
 
+<https://youtu.be/qU974I_vNEw>
+
 ## ONEXPLAYER Mini Unboxing
 
 As always let’s get started with the unboxing. First up we have the [ONEXPLAYER Mini handheld PC](https://go.droix.co.uk/ONEXPLAYER-MINI) which we will take a closer look at shortly.
@@ -226,6 +228,8 @@ Welcome to our FAQ for the OneXPlayer mini! We’ll provide all the latest info 
 On December 20th, One Netbook announced the latest entry in their line of gaming handhelds. Called the OneXPlayer Mini, a successor to their wildly popular OneXPlayer line of handhelds.
 
 The announcement game in the form of a video released on the official One Netbook youtube channel, which can be seen below.
+
+<https://youtu.be/qpsp-HeNlL4>
 
 This announcement comes hot off the heels of the recently released AMD variant of the OneXPlayer. But curiously, it features the same intel processor as seen in the OneXPlayer 1S (the i7-1195G7).
 

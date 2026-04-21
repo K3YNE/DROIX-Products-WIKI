@@ -50,6 +50,8 @@ Contents
 
 ## AYANEO Pocket Micro Review Video
 
+<https://youtu.be/h-7nuGJy5ik>
+
 ## AYANEO Pocket Micro Overview
 
 We start our AYANEO Pocket Micro review with an overview of the Android gaming console. The [AYANEO Pocket Micro](https://droix.net/product/ayaneo-pocket-micro/) measures 6.1 x 2.4 x 0.7 inches (15.6 x 6.3 x 1.8 cm) and weighs 233g (0.51 lbs). The shell is aluminium alloy which gives it a very solid premium feel and does feel heavier than it looks. At this size it’s pocketable, though you may want to keep this in a jacket pocket or bag due to the analogue sticks.

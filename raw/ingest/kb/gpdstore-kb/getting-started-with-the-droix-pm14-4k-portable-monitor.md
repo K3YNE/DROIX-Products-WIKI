@@ -39,6 +39,8 @@ In addition to HDMI for video, you can also use the included USB-C to USB-C cabl
 
 The below video guide to show you the best ways to connect your DroiX PM14 portable monitor to your device.
 
+<https://youtu.be/9NpUeLtLnd0>
+
 
 
 |  |  |

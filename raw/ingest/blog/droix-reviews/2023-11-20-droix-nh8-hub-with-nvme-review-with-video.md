@@ -18,6 +18,8 @@ Contents
 
 ## DroiX NH8 hub with NVMe review video
 
+<https://youtu.be/SWbjtkCR5X0>
+
 ## DroiX NH8 hub with NVMe unboxing and overview
 
 We start the DroiX NH8 hub with NVMe review with a brief unboxing and overview. Inside the box we have have the [DroiX NH8 hub with NVMe](https://droix.net/product/droix-nh8-nvme-usb-hub/) itself. It measures 6.1 x 1.8 x 0.6 inches (15.6 x 4.6 x 1.6 cm) and weighs 116g.

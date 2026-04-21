@@ -34,6 +34,8 @@ Contents
 
 ## Beelink SER3 Review Video
 
+<https://youtu.be/oz57b3nAziY>
+
 ## Beelink SER3 Unboxing
 
 As always, let’s start with the unboxing. Inside we have the [Beelink SER3](https://droix.net/product/beelink-ser3/) which we will take a closer look at shortly.

@@ -48,6 +48,8 @@ Contents
 
 ## Retroid Pocket 4 PRO Review Video
 
+<https://youtu.be/WbYs5Zdph3Y>
+
 ## Retroid Pocket 4 PRO Unboxing
 
 As always we start with the unboxing to kick off the Retroid Pocket 4 PRO review. Inside the box we have the [Retroid Pocket 4 PRO](https://droix.net/product/retroid-pocket-4-pro/), we will take a closer look at it in a moment.

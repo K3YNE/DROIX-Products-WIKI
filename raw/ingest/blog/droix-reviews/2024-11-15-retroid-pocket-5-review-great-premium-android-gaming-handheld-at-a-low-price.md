@@ -36,6 +36,8 @@ Contents
 
 ## Retroid Pocket 5 review video
 
+<https://youtu.be/Yqysc19R0tc>
+
 ## Retroid Pocket 5 Overview
 
 We start our Retroid Pocket 5 review with an overview and comparison with the previous Android gaming console. The Retroid Pocket 5 measures around 7.8 x 3.0 x 0.6 inches (19.9 x 7.85 x 1.56 cm) and weighs around 280g (0.6 lbs).

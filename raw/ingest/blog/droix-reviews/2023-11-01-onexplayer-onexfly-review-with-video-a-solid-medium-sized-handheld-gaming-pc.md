@@ -42,6 +42,8 @@ Contents
 
 ## ONEXPLAYER ONEXFLY Review Video
 
+<https://youtu.be/bvAauBxNa4Q>
+
 ## ONEXFLY Unboxing
 
 We start our ONEXPLAYER ONEXFLY review with the unboxing. First we have the [ONEXPLAYER ONEXFLY](https://droix.net/product/onexplayer-onexfly/) itself, we will take a closer look at it shortly.

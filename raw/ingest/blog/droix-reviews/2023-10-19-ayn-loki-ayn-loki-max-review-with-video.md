@@ -40,6 +40,8 @@ Contents
 
 ## AYN Loki & AYN Loki Max Review Video
 
+<https://youtu.be/MZkWUfMhePw>
+
 ## Unboxing the AYN Loki MAX
 
 We start our AYN Loki and [AYN Loki Max](https://droix.net/product/ayn-loki/) review with the unboxing. The AYN Loki and Max models boxes are essentially the same. Inside the envelope we have a quick overview of the handheld and its functions. There is also a screen protector which you can apply if you wish to.

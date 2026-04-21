@@ -36,6 +36,8 @@ Contents
 
 ## AYN Odin3 Review Video
 
+<https://youtu.be/f0DbCUVYJKQ>
+
 ## Unboxing and Design in our AYN Odin3 Review
 
 The [AYN Odin3](https://droix.net/product/ayn-odin3/ "AYN Odin3") measures around 8.8 x 3.4 x 0.65 inches (22.4 x 8.7 x 1.6 cm) and weighs roughly 390g (0.85 lbs). Currently, the AYN Odin 3 is available in five colours. These brilliant options include Black, White, Rainbow, Clear Blue, and Clear Purple.

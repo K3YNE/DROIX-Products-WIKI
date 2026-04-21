@@ -44,7 +44,11 @@ Contents
 
 ## DroiX Proteus Mini PC Review Videos
 
+<https://youtu.be/3w6iQz1alUw>
 
+
+
+<https://youtu.be/3ikogFNzBkU>
 
 ## DroiX Proteus Unboxing
 

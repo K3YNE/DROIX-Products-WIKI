@@ -9,6 +9,8 @@ wp_id: 1081518
 
 This guide available in both video and text will show how to replace the fan on the GPD Pocket 4.
 
+<https://youtu.be/mqy-yXzJ9LE>
+
 Remove the seven screws on the bottom of the GPD Pocket 4
 
 Remove the seven screws

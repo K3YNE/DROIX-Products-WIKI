@@ -38,6 +38,8 @@ Contents
 
 ## GPD Pocket 3 Review Video
 
+<https://youtu.be/qpeD0XNHEL8>
+
 ## GPD Pocket 3 Unboxing
 
 GPD Pocket 3 Box Contents

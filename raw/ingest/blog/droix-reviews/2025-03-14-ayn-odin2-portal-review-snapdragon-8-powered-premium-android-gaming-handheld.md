@@ -48,6 +48,8 @@ Contents
 
 ## AYN Odin2 Portal Review Video
 
+<https://youtu.be/UJUZmCCszyA>
+
 ## AYN Odin2 Portal Overview
 
 Let’s start this AYN Odin2 Portal review with an overview of the Android gaming console. The [AYN Odin2 Portal](https://droix.net/product/ayn-odin2-portal/) measures 10.1 x 3.8 x 0.6 inches (25.7 x 9.8 x 1.2 cm) and weighs around 430g (0.94 lbs).

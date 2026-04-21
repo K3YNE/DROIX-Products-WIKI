@@ -180,3 +180,5 @@ Once you’ve successfully installed all your applications, your work here is do
 If you’ve sideloaded emulators but find yourself in need of games to play, don’t worry. We have a handy guide on how to find and add new games and ROMs to your Android device. Just make sure to navigate to the relevant section of the article, as it covers instructions for both Windows and Android operating systems. This guide will ensure you get the most out of your gaming experience.
 
 > [How to Add New Games & ROMS to Your Handheld](https://droix.net/knowledge-base/article/installing-games-and-roms/)
+
+<https://droix.net/knowledge-base/article/installing-games-and-roms/embed/#?secret=LhjEcvVpN5#?secret=wuf4sK2hih>

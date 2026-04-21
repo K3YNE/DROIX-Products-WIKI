@@ -34,6 +34,8 @@ Contents
 
 ## GPD G1 eGPU docking station review video
 
+<https://youtu.be/Azz9Y-nlzdc>
+
 ## Unboxing the GPD G1 eGPU docking station
 
 As always we start our GPD G1 eGPU docking station review with a quick unboxing.  First we have a user manual which is in Chinese and English. Underneath is the [GPD G1 eGPU docking station](https://droix.net/product/gpd-g1/) itself which we will show in more detail shortly.

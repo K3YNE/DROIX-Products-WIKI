@@ -17,6 +17,8 @@ If you want to disable this filter, the exact procedure differs according to you
 
 If you’re a domestic BT customer (in terms of an internet provider), please watch the following video:
 
+<https://youtu.be/ApDsOmtgzC4>
+
 Please note the most important part of the process is to complete BT’s Smart Setup process. Until that Get Started button is clicked, BT won’t allow most data to be sent to your DroiX®!
 
 If you have installed software from BT, please see <http://bt.custhelp.com/ci/fattach/get/2293980/1329825561/redirect/1> for details on how to alter your settings.

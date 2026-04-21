@@ -9,6 +9,8 @@ wp_id: 701
 
 #### Please watch the video below:
 
+<https://youtu.be/qcXykn7tTfE>
+
 Please follow the links below to get DroiX® Share installed on Apple Devices:  
 [Iphone](https://itunes.apple.com/gb/app/droidbox-share/id1002235210?mt=8)  
 [Ipad](https://itunes.apple.com/gb/app/droidbox-share-hd/id1002251489?mt=8)
@@ -28,3 +30,5 @@ DroiX® Share for Apple devices:
 **iPhone** – <https://itunes.apple.com/gb/app/droidbox-share/id1002235210?mt=8>
 
 **iPad** – <https://itunes.apple.com/gb/app/droidbox-share-hd/id1002251489?mt=8>
+
+<https://youtu.be/qcXykn7tTfE>

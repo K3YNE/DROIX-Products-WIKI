@@ -34,6 +34,8 @@ Contents
 
 ## Anbernic RG405V Review Video
 
+<https://youtu.be/rih4n5WIprE>
+
 ## Anbernic RG405V Unboxing
 
 We start our Anbernic RG405V review with the unboxing. First out of the box is the [Anbernic RG405V](https://droix.net/product/anbernic-rg405v/) console gaming handheld itself, which we will check out in more detail shortly.

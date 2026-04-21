@@ -46,6 +46,8 @@ Contents
 
 ## AYANEO AG01 Starship Review Video
 
+<https://youtu.be/jIyTNBh9sgI>
+
 ## AYANEO AG01 Starship Overview
 
 Lets get this AYANEO AG01 review started with an overview of the [eGPU](https://droix.net/product-category/egpu/). The [AYANEO AG01 Starship graphics dock](https://droix.net/product/ayaneo-ag01/) measures around 9.4 x 4.6 x 2.0 inches (24.0 x 11.8 x 5.1 cm) and weighs around 960g (2.11 lbs).

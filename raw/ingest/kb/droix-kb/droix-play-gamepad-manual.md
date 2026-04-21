@@ -9,6 +9,8 @@ wp_id: 714
 
 Here Is How You Can Pair Your Gamepad To DroiX:
 
+<https://youtu.be/hB4Fw1EDu2s>
+
 We’re including the text from the above so people can find it more easily. This version has no formatting, refer to the images above for the table layouts.
 
 Thanks very much for choosing our DroiX® Bluetooth gamepad. In order to give you a  

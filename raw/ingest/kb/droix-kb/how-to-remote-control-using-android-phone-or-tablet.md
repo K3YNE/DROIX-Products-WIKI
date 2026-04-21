@@ -12,3 +12,5 @@ This video will guide you how you can remote control you DroiX® T8/T8-S/T8-S Pl
 You can get remote app from Google Play:
 
 <https://play.google.com/store/apps/details?id=com.rcclient.RemoteIME&hl=en_GB>
+
+<https://youtu.be/TxL7A3CSLjs>

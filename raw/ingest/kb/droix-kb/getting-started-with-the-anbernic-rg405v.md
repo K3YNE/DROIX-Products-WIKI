@@ -164,18 +164,26 @@ Dive deeper with [RetroArch](https://www.retroarch.com/)! We’ve already create
 
 > [How to install and set up RetroArch on your Windows or Android devices](https://droix.net/knowledge-base/article/retroarch/)
 
+<https://droix.net/knowledge-base/article/retroarch/embed/#?secret=3ExEckVxN4#?secret=SxWPfqNBVV>
+
 ## Installing New Games
 
 For those eager to build their game library on the Anbernic RG405V, we have a detailed guide embedded right here for you. At DroiX, we do not preload or preinstall any games on our devices. Nor do we provide links to download ROMs However, we fully support your gaming passion by providing a detailed, reusable guide on how to add, install, and update games (ROMs) on your device. This guide is designed to be a universal resource for all our *Getting Started* device guides, ensuring you can set up and personalize your game library to your liking. Follow the instructions in the embedded guide to begin personalising a collection of games that cater to your unique gaming tastes and preferences.
 
 > [How to Add New Games & ROMS to Your Handheld](https://droix.net/knowledge-base/en-gb/article/installing-games-and-roms/)
 
+<https://droix.net/knowledge-base/en-gb/article/installing-games-and-roms/embed/#?secret=EGjEuWdsBE#?secret=KMnpD3oX8n>
+
 
 
 > [Anbernic Device Charging Guide: Safety First](https://droix.net/knowledge-base/article/anbernic-device-charging-guide-safety-first/)
+
+<https://droix.net/knowledge-base/article/anbernic-device-charging-guide-safety-first/embed/#?secret=F2HsIJLnfF#?secret=8SnZHZpKkw>
 
 ## Charging your handheld
 
 Please refer to the included guide on the best practises for charging your handheld.
 
 > [Anbernic Device Charging Guide: Safety First](https://droix.net/knowledge-base/article/anbernic-device-charging-guide-safety-first/)
+
+<https://droix.net/knowledge-base/article/anbernic-device-charging-guide-safety-first/embed/#?secret=F2HsIJLnfF#?secret=8SnZHZpKkw>

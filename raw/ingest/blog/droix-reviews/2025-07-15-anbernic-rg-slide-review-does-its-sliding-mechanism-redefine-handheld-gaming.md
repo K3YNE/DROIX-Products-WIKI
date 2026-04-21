@@ -36,6 +36,8 @@ Contents
 
 ## Anbernic RG Slide Review Video
 
+<https://youtu.be/5CVQup-apUM>
+
 ## Anbernic RG Slide Overview
 
 We will start off our Anbernic RG Slide review with an overview. The [Anbernic RG Slide](https://droix.net/product/anbernic-rg-slide/) is available in two colours, Black & White. When closed it measures around 6.06 x 3.54 x 1.02 inches (15.4 x 9 x 2.6 cm) and weighs around 379g (0.836 lbs). It’s quite thick, but not beyond fitting in your pocket.

@@ -12,3 +12,5 @@ This video will show you step by step on how to replace the [GPD WIN MAX 2 2025]
 As always, while we do allow self repairs, any damage caused by yourself is not covered by our warranty (see [Terms & Conditions here](https://droix.net/terms-and-conditions/)). Please only do so if you feel you are confident that you can do it. Watch the video first, and judge for yourself.
 
 ## How to replace the GPD WIN MAX 2 Display Video
+
+<https://youtu.be/bQGD4rot6iE>

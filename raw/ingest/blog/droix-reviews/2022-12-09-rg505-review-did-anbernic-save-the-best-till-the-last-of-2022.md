@@ -40,6 +40,8 @@ Contents
 
 ## RG505 Review Video
 
+<https://youtu.be/pBqUP4RKDXE>
+
 ## Unboxing the RG505
 
 We start our RG505 review with the unboxing. There is some nice new packaging for the RG505 which is good to see. Inside is the [RG505](https://droix.net/product/anbernic-rg505/) handheld itself which we will show in more detail shortly.

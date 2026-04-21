@@ -32,6 +32,8 @@ Contents
 
 ## GPD Pocket Review Video
 
+<https://youtu.be/OTqPChEh6uc>
+
 In 2006, the concept of Ultra Mobile PCs (UMPC) became a reality with small, inexpensive laptops aimed at the masses. UMPC was a collaboration between Intel and Microsoft to create a new market for peripherals. With touch screens and support for a stylus, UMPC was a precursor to modern smartphones, but without cellular connectivity.
 
 While the concept died in 2010, could 2017 be the right time for such devices to return? GPD is testing the waters with its crowdfunded GPD Pocket, a true handheld running Windows 10.

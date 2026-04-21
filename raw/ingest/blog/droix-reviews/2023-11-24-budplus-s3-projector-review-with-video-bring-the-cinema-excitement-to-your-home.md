@@ -36,6 +36,8 @@ Contents
 
 ## BudPlus S3 Projector Review Video
 
+<https://youtu.be/41SmTcrlzf0>
+
 ## BudPlus S3 Projector Unboxing
 
 We start our BudPlus S3 Projector review with an unboxing. First we have the [BudPlus S3 projector](https://droix.net/product/budplus-s3-projector/) itself. We will take a closer look at it shortly.

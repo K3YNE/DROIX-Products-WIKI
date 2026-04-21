@@ -175,6 +175,8 @@ Follow the instructions in the guide below to begin personalising a collection o
 
 > [How to Add New Games & ROMS to Your Handheld](https://droix.net/knowledge-base/article/installing-games-and-roms/)
 
+<https://droix.net/knowledge-base/article/installing-games-and-roms/embed/#?secret=vPjiPs0XVp#?secret=0hmQFKwfkv>
+
 ## Update Firmware
 
 |  |  |
@@ -193,3 +195,5 @@ That’s the end of our Anbernic RG35XX Plus guide – we hope you’ve managed 
 Please refer to the included guide on the best practises for charging your handheld.
 
 > [Anbernic Device Charging Guide: Safety First](https://droix.net/knowledge-base/article/anbernic-device-charging-guide-safety-first/)
+
+<https://droix.net/knowledge-base/article/anbernic-device-charging-guide-safety-first/embed/#?secret=877n0vqQkM#?secret=X3LUsYXh1K>

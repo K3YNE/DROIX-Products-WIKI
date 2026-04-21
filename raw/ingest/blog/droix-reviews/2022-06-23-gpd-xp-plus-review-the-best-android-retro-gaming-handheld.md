@@ -72,6 +72,8 @@ Contents
 
 ## GPD XP Plus Review Video
 
+<https://youtu.be/WQuCTVnuB8s>
+
 ## Unboxing the GPD XP Plus
 
 We start the [GPD XP Plus](https://droix.net/product/gpd-xp-plus/) review as always with the unboxing. Lifting up the first part of the packaging we get straight onto the GPD XP Plus Android handheld itself. We will be showing it in more detail shortly.

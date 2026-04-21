@@ -40,6 +40,8 @@ Contents
 
 ## MinisForum TL50 Review Video
 
+<https://youtu.be/0_R3tZw0Wjc>
+
 ## MinisForum TL50 Unboxing
 
 Let’s start with the unboxing. Inside we have a quick start guide which is in multiple languages including English, German  and Chinese.

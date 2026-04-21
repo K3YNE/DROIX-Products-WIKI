@@ -11,7 +11,11 @@ We wrap up our “Streaming and Casting with your DroiX® video series with a lo
 
 **Using iPhone Airplay with DroiX® TV set top box based on Android**
 
+<https://youtu.be/8yCdyZvpiGk>
+
 **Using YouTube casting with DroidBOX® TV set top box based on Android**
+
+<https://youtu.be/JlT34Ey6Y9g>
 
 Please watch our other videos in the series below:
 

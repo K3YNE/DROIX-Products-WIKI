@@ -50,6 +50,8 @@ Contents
 
 ## AYANEO Pocket Air review video
 
+<https://youtu.be/93OMHIupqTw>
+
 ## Unboxing the AYA NEO Pocket Air
 
 We start our AYANEO Pocket AIR review with the unboxing. Inside the box we first have the [AYANEO Pocket Air](https://droix.net/product/aya-neo-pocket-air/) itself, we will take a closer look at it shortly.

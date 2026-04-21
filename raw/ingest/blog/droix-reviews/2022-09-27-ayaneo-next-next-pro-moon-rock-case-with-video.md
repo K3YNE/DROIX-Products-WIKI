@@ -10,6 +10,8 @@ We are taking a brief look at the brand new official [Moon Rock case](https://dr
 
 ## AYANEO NEXT & NEXT PRO Moon Rock case video
 
+<https://youtu.be/RcmOtYR2hf0>
+
 Watch on YouTube at <https://www.youtube.com/watch?v=RcmOtYR2hf0>
 
 The front of the case has a moon style landscape on it with embossed AYANEO Next text. There are also raised areas for the controls to keep everything from moving when inside the case.

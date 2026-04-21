@@ -9,6 +9,8 @@ wp_id: 2692
 
 **IMPORTANT NOTE: This fix only applies to the first-generation GPD WIN 4 6800U models. If you have purchased your GPD WIN 4 2023 recently or have a 7xxxU model then please DO NOT install this update.** Below is the step-by-step guide to installing the fix for the 60Hz stutter issue on the first generation GPD WIN 4.
 
+<https://youtu.be/NvvXpKJNNzc>
+
 The files needed for the GPD WIN 4 stuttering fix can be downloaded below. **IMPORTANT NOTE: This fix only applies to the first-generation GPD WIN 4 6800U models. If you have purchased your GPD WIN 4 2023 recently or have a 7xxxU model then please DO NOT install this update.**
 
 CONTACT CUSTOMER SERVICE FOR THE LINK

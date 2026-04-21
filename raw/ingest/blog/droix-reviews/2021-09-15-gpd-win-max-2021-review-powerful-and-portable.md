@@ -82,6 +82,8 @@ Contents
 
 Below you can find a [YouTube Playlist](https://youtube.com/playlist?list=PLVw5P-Y4ZrPhfo0g5FNNTwrOPbQqyMC1W) of our GPD Win MAX 2021 review videos.
 
+<https://youtu.be/videoseries>
+
 Our YouTube playlist of GPD Win MAX 2021 videos
 
 ## Unboxing
@@ -360,6 +362,8 @@ One model contains an AMD Ryzen 7 4800U as the core of the unit, and the other m
 #### The AMD Path – The Ryzen 7 4800U
 
 While no price has been stated yet, one would expect the AMD offering to be the cheaper of the two. While there’s very little video footage out at the time of writing, due to the 4800U already being out in the wild in a variety of existing gaming laptops, it is possible to get a *loose* idea of how it will perform in games.
+
+<https://youtu.be/aa-IN3eBdyg>
 
 **This video is not 100% representative of the WIN MAX 2021’s Performance**!
 

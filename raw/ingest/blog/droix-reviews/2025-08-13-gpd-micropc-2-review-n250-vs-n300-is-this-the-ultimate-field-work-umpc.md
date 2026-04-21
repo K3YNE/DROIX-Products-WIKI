@@ -32,6 +32,8 @@ Contents
 
 ## GPD MicroPC 2 Review Video
 
+<https://youtu.be/7b_6Ha2PMvg>
+
 ## GPD MicroPC 2 Overview
 
 We kick off our GPD MicroPC 2 review with an overview. The [GPD MicroPC 2](https://droix.net/product/gpd-micropc-2/) laptop for business measures around 6.7 x 4.3 x 0.92 inches (17.12 × 11.08 × 2.35 cm) and weighs around 500g (1.10 lbs). It’s slightly wider than the first model due to the larger screen size.

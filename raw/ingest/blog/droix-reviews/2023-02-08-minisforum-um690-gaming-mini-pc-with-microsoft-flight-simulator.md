@@ -8,6 +8,8 @@ date: 2023-02-08
 
 Good afternoon, welcome to flight UM690 with your captain Dave. We will be taking a brief tour of London via the [Minisforum UM690](https://droix.net/product/minisforum-elitemini-um690/) gaming mini PC.
 
+<https://youtu.be/gpLn5Z05AMQ>
+
 We start our trip with a flyby of the DroiX office on your right Did you know you can collect your orders from here if you cant wait for delivery Next we have the millennium dome now called the O2 arena where you can buy overpriced food and drinks
 
 While we reach our next destination, the [Minisforum UM690 gaming mini PC](https://droix.net/product/minisforum-elitemini-um690/) is great for gaming on. It has the [AMD Ryzen 9 6900HX](https://droix.net/product-attribute/processor-cpu-model/ryzen-9-6900hx/) with [AMD Radeon 680M](https://droix.net/product-attribute/graphics-gpu-model/radeon-680m/). Microsoft Flight Simulator is a very demanding game so we are running at 720P with the Low settings. You can tweak a few settings to Medium if you want to.

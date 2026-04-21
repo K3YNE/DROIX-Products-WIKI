@@ -52,6 +52,8 @@ Contents
 
 ## AYN Odin 2 Review Video
 
+<https://youtu.be/oj3BH2gImrE>
+
 ## Unboxing the AYN Odin2
 
 We start our AYN Odin 2 review with the unboxing. The box slides out with a card that has all the controls and specs on it. A bit useless, but at least it’s shiny round the edges. Underneath we have the [AYN Odin2](https://droix.net/product/ayn-odin-2/) itself, we will show it in more detail in a moment.

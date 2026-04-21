@@ -11,6 +11,8 @@ You would be excused for not knowing about the GPD MicroPC. First appearing in 2
 
 ## GPD MicroPC 2 Review Video
 
+<https://youtu.be/7b_6Ha2PMvg>
+
 ## **GPD MicroPC 2 at a Glance**
 
 We begin our GPD MicroPC 2 review with a physical tour of the device. The [GPD MicroPC 2](https://gpdstore.net/laptops/gpd-micropc-2/) has dimensions of approximately 6.7 x 4.3 x 0.92 inches (17.12 x 11.08 x 2.35 cm) and tips the scales at around 500g (1.10 lbs). Its width has increased slightly from the first iteration to accommodate a larger screen.

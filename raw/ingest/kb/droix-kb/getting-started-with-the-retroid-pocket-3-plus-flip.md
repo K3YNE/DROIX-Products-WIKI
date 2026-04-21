@@ -51,6 +51,8 @@ We have prepared a guide on how to set up your micro SD card ready to use with t
 
 > [How to Add New Games & ROMS to Your Handheld](https://droix.net/knowledge-base/article/installing-games-and-roms/)
 
+<https://droix.net/knowledge-base/article/installing-games-and-roms/embed/#?secret=BfsF2s8tQK#?secret=A59dqZLmPQ>
+
 ## Setting up RetroArch
 
 Whether you are using the Retroid Launcher or AOSP Launcher you will need to set up the RetroArch app. [RetroArch](https://www.retroarch.com/) is an all-in-one frontend and emulator system (known as cores) that makes it very easy to play many classic computers and consoles.
@@ -58,6 +60,8 @@ Whether you are using the Retroid Launcher or AOSP Launcher you will need to set
 We have prepared a guide on how to set up RetroArch which is required for use with Retroid Launcher, or as an individual app. Learn how to set up RetroArch in our article [here](https://droix.net/knowledge-base/article/how-to-install-and-set-up-retroarch-on-your-windows-or-android-devices/) and embedded below.
 
 > [How to install and set up RetroArch on your Windows or Android devices](https://droix.net/knowledge-base/article/retroarch/)
+
+<https://droix.net/knowledge-base/article/retroarch/embed/#?secret=WcrcHKaXDR#?secret=nTTj1dZgOu>
 
 ## Setting up and using the Retroid Launcher
 

@@ -36,6 +36,8 @@ We have a video review below which you can check out below for more information.
 
 ## Retroid Pocket 2 Review Video
 
+<https://youtu.be/o5Bs1oVtAK4>
+
 We’ve also provided the script for the above video for those who’d prefer to read:
 
 ## Retroid Pocket 2 Unboxing

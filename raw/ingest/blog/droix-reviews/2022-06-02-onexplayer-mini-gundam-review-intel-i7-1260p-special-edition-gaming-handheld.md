@@ -60,6 +60,8 @@ Contents
 
 ## ONEXPLAYER Mini Gundam Review Video
 
+<https://youtu.be/pZuENX7NcsE>
+
 ## Unboxing the ONEXPLAYER Mini Gundam Edition
 
 As always, we start with the unboxing. The box kicks off the [Gundam](https://en.wikipedia.org/wiki/Gundam) theme with gold writing and an embossed Earth Federation Space Force (EFSF) and mobile suit artwork on top.  Lifting the lid reveals an overlay with a Gundam suit head along with some text. It’s a nice touch, not seen with the other ONEXPLAYER models yet.

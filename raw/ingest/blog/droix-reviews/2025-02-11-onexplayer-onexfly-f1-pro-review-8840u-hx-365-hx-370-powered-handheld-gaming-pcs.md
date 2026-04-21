@@ -60,6 +60,8 @@ Contents
 
 ## ONEXPLAYER ONEXFLY F1 Pro Review Video
 
+<https://youtu.be/hAyOxfwtDMw>
+
 ## ONEXPLAYER ONEXFLY F1 Pro Overview
 
 Let’s get the ONEXPLAYER ONEXFLY F1 Pro review underway with a closer look at the portable gaming PC’s. The [ONEXPLAYER ONEXFLY F1 Pro](https://droix.net/product/onexplayer-onexfly-f1-pro/) measures around 10.3 x 3.8 x 0.8 inches (26.3 x 9.8 x 2.2cm) and weighs around 607g (1.3 lbs).

@@ -63,6 +63,8 @@ It is not perfect as we will see in our AYN Thor review. The glass-heavy lower h
 
 ## AYN Thor Review Video
 
+<https://youtu.be/57XypabmCes>
+
 ## AYN Thor Overview
 
 We will start our AYN Thor review with a brief overview. The AYN Thor stands out from most Android handhelds because it uses a clamshell dual-screen design aimed directly at retro players who want a more natural DS and 3DS-style experience. The [AYN Thor](https://droix.net/product/ayn-thor/ "AYN Thor") measures around 5.9 x 3.7 x 1 inch (15.0 x 9.4 x 2.56 cm). Additionally, it weighs around 380g (0.837).

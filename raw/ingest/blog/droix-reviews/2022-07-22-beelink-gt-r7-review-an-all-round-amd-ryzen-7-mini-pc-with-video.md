@@ -48,6 +48,8 @@ Contents
 
 ## Beelink GT-R7 Review Video
 
+<https://youtu.be/pvwWxMbdR2M>
+
 ## Unboxing the Beelink GT-R7
 
 We start the Beelink GT-R7 review with the unboxing. Lifting the lid gets us straight to the [Beelink GT-R7](https://droix.net/product/beelink-gt-r7/), we will take a closer look at it shortly.

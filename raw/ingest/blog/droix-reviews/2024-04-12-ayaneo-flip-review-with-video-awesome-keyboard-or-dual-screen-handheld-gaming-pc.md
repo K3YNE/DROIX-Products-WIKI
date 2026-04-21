@@ -54,6 +54,8 @@ Contents
 
 ## AYANEO Flip review video
 
+<https://youtu.be/zWfNBnsjFSQ>
+
 ## AYANEO Flip Unboxing
 
 We will start our AYANEO Flip review with an unboxing. The [AYANEO Flip Dual Screen](https://droix.net/product/ayaneo-flip/) (DS) and AYANEO Flip Keyboard (KB) portable gaming PCs come with the same contents, we will unbox the Dual Screen model.
@@ -269,3 +271,5 @@ You can learn more and [buy the AYA NEO Flip here](https://droix.net/product/aya
 Thanks for reading or watching our AYANEO Flip review! Let us know which one you would buy in the comments, we are always interested to read others opinions and which model they would choose. What would you use the second screen for?
 
 > [AYANEO FLIP KB / DS](https://droix.net/product/ayaneo-flip/)
+
+<https://droix.net/product/ayaneo-flip/embed/#?secret=4ZlbMeNwl9#?secret=33YcLuUvau>

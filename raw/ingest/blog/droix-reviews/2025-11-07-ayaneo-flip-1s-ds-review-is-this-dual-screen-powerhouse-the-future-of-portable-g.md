@@ -30,6 +30,8 @@ Contents
 
 ## AYANEO 1S DS Review Video
 
+<https://youtu.be/E0OxVerAC2s>
+
 ## A Closer Look: Unboxing the AYANEO 1S DS
 
 We begin our AYANEO 1S DS review with a close inspection of this portable gaming PC. The AYANEO 1S DS itself measures approximately 7.0 x 4.0 x 1.15 inches (18.0 x 10.2 x 2.93 cm). Furthermore, it weighs around 655g (1.44 lbs).

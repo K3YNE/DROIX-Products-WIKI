@@ -26,6 +26,8 @@ Contents
 
 ## Anbernic RG 40XXV Review Video
 
+<https://youtu.be/2MAO01ydk3I>
+
 ## Anbernic RG 40XXV Overview
 
 Let’s get the Anbernic RG 40XXV review underway with an overview. The [Anbernic RG 40XXV](https://droix.net/product/anbernic-rg-40xxv/) classic gaming handheld is available in three colours; White, Transparent Black and Indigo Blue.

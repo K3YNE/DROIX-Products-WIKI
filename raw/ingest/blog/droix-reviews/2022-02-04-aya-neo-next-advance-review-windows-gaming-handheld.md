@@ -66,6 +66,8 @@ Contents
 
 ## AYA NEO NEXT Advance Review Video
 
+<https://youtu.be/PpjOYzEmyK8>
+
 ## Unboxing the AYA NEO NEXT Advance
 
 The [AYA NEO Next handheld PC](https://go.droix.co.uk/AYANEO-NEXT) comes in some fancy packaging, it’s very premium looking and easily one of the best boxes we have reviewed so far! We already unboxed the external box and showed the name engraved plate, so check that video if you want to see it.

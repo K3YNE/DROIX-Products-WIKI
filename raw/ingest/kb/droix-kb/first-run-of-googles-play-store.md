@@ -13,4 +13,6 @@ Keeping your apps up to date is good practise for a number of reasons. First, th
 
 Watch our video guide below on how to sign in to the Google Play Store, update your existing apps and how to install new ones. Please note, Google regularly change the design and layout of their app so it may look slightly different to yours, the procedure should be the same though.
 
+<https://youtu.be/Gxlj-HH5tZE>
+
 You can change for apps to auto update or not in the future through the Play Store settings. Apps may automatically update from now on, although if they require new permissions, you may be notified there is an update available and you will need to confirm that you wish to update.

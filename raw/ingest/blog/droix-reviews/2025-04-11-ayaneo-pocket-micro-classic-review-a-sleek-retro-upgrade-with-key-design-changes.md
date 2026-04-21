@@ -20,6 +20,8 @@ Contents
 
 ## AYANEO Pocket Micro Classic Review Video
 
+<https://youtu.be/fjHPEj1Ezn4>
+
 ## Key Changes: No Analog Sticks & Improved Shoulder Buttons
 
 The most noticeable difference in the Classic model is the removal of the analog sticks, giving it a more authentic resemblance to the original [Game Boy Micro](https://en.wikipedia.org/wiki/Game_Boy_Micro). This design tweak not only enhances the retro aesthetic but also improves portability—sliding effortlessly into your pocket without the risk of sticks getting in the way or being damaged.
@@ -67,3 +69,5 @@ You can order both the [AYANEO Pocket Micro and Classic here](https://droix.net/
 We hope you have found our mini AYANEO Pocket Micro Classic review useful in deciding which model to buy. If you do have any questions, please feel free to ask in the comments.
 
 ## AYANEO Pocket Micro Review Video
+
+<https://youtu.be/h-7nuGJy5ik>

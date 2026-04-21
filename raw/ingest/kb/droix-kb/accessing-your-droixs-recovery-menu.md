@@ -9,6 +9,8 @@ wp_id: 709
 
 This guide demonstrates how to perform a Wipe Date/Factory Reset. A factory reset will clear any data, apps etc that you have installed, and restore your device to when you first received it. You can watch the video below for a general guide, or text guide below.
 
+<https://youtu.be/vo5qkmybz3o>
+
 Please click on your device below for how to perform a factory reset:
 
 * [DroiX X3](https://droix.net/how-to-factory-reset-the-droix-x3/)
@@ -130,7 +132,11 @@ If your menu is constantly scrolling, remove any USB dongles from the device. Na
 
 When the factory reset has completed. You can choose the first option “Reboot system now” to reboot. Please note that the first reboot will take longer than usual as it is preparing the system for first use after a factory reset. Please leave it running for at least 20 minutes (usually takes around 5-10 minutes) until the homescreen reappears. Once on the homescreen, wait a further 5 minutes for the software to finish installing.
 
+<https://youtu.be/310x5awtHPs>
+
 How to factory reset DroiX® T8 or T8-S from Android or using the recovery menu:
+
+<https://youtu.be/YY_wtA0vqQM>
 
 After 20 minutes have passed (assuming your WiFi/ethernet is functioning already), you can now sign into Google’s Play Store to allow auto-updates (see [https://droidbox.co.uk/blog/googles-play-store-signing-in-and-auto-updates/](https://droidbox.co.uk/blog/faq-2/googles-play-store-signing-in-and-auto-updates/) ).
 

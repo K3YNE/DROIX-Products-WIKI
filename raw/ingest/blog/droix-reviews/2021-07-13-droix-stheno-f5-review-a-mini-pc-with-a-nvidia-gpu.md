@@ -56,6 +56,8 @@ The Mini PC with Windows is available in three DDR4 RAM & [M.2 PCI-e NVMe](https
 
 In our summary of the range of [Mini PCs for gaming](https://go.droix.co.uk/GAMING-MINI-PC), is this a stand out device?
 
+<https://youtu.be/myR1vZchRG4>
+
 ## DroiX Stheno F5 Unboxing
 
 Stheno F5 Unboxing

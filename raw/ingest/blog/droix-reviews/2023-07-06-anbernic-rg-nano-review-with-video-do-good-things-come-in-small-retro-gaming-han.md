@@ -52,6 +52,8 @@ Contents
 
 ## Anbernic RG Nano Review Video
 
+<https://youtu.be/wXG8CNbYJm4>
+
 ## Unboxing the RG Nano
 
 Let’s get this RG Nano review started with the unboxing. First out of the box is the User Manual which is in English and Chinese. Next we have the [Anbernic RG Nano](https://droix.net/product/anbernic-rg-nano/) retro game emulator which we will show in more detail shortly.

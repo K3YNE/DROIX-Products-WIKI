@@ -78,13 +78,24 @@ def parse_date(date_str: str) -> str:
 
 
 def clean_html(soup_el):
-    """Strip scripts, styles, review widgets, and images."""
+    """Strip scripts, styles, review widgets, and images. Convert iframes to links."""
     for tag in soup_el(["style", "script", "noscript"]):
         tag.decompose()
     for tag in soup_el.select(".review-wrapper, [class*='wp-review'], [class*='wpr-']"):
         tag.decompose()
     for tag in soup_el.find_all("img"):
         tag.decompose()
+    # Convert iframes (YouTube embeds etc.) to plain links so markdownify keeps them
+    for tag in soup_el.find_all("iframe"):
+        src = tag.get("src", "")
+        if src:
+            # Normalise embed URLs: youtube.com/embed/ID -> youtu.be/ID
+            yt_match = re.search(r"youtube\.com/embed/([^?&]+)", src)
+            if yt_match:
+                src = f"https://youtu.be/{yt_match.group(1)}"
+            tag.replace_with(BeautifulSoup(f'<p><a href="{src}">{src}</a></p>', "html.parser"))
+        else:
+            tag.decompose()
     return soup_el
 
 

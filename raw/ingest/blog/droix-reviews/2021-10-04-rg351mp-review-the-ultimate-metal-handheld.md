@@ -62,6 +62,8 @@ Contents
 
 ## RG351MP Review Video
 
+<https://youtu.be/1ydW4lntbOw>
+
 ## RG351MP Unboxing
 
 Inside we have the RG351MP which we will show in more detail shortly.
@@ -258,6 +260,8 @@ All-in-all, the RG351MP is an interesting mixture of the [RG351P](https://go.dro
 
 Because the RG351MP uses the same internals as it’s predecessors, it’s easy to get an idea of how the RG351MP will perform by checking out the [RG351V](https://go.droix.co.uk/RG351V).
 
+<https://youtu.be/XO3xb7rmq8w>
+
 Check out our [RG351V Review](https://go.droix.co.uk/RG351V) for more info!
 
 In other words: we can expect near-perfect emulation for most 8-bit platforms (*NES, Master System, etc.*), 16-bit platforms (*SNES, Genesis, etc.*), 32-bit handhelds (*GBA, etc.*) and the PS1.
@@ -318,8 +322,12 @@ The specification sheet (from which we transposed the information in this articl
 
 Then – ANBERNIC released this teaser video for the unit:
 
+<https://youtu.be/hxQ72JkaUxQ>
+
 This mentioned that the device did in fact have built-in Wi-Fi, which is contrary to what we were lead to believe and had been explicitly told.
 
 We chased ANBERNIC once more regarding this conflicting information, and we’ve now received word that **due to chip shortages, the RG351MP units will not have built-in Wi-Fi**. They **will** require an external dongle.
 
 With that matter laid firmly to rest (we hope, at least) check out this first official video footage of the RG351MP below:
+
+<https://youtu.be/8Jhm7QVl_3c>

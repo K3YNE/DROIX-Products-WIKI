@@ -44,6 +44,8 @@ Contents
 
 ## Beelink SER7 Review Video
 
+<https://youtu.be/atm2U9xn2Es>
+
 ## Unboxing the Beelink SER7
 
 We start our Beelink SER7 review with the unboxing. First out of the box we have the user manual which is available in multiple languages including English, German, Spanish and Italian. Underneath is the [Beelink SER7](https://droix.net/product/beelink-ser7/) itself, we will check it out in more detail in a moment.

@@ -44,6 +44,8 @@ Contents
 
 ## AYANEO GEEK 1S Review Video
 
+<https://youtu.be/8DuGgbxYZMI>
+
 ## Unboxing the AYA NEO GEEK 1S
 
 Kicking of our AYA NEO GEEK 1S review we have the unboxing. First we have some user guides which are in English and Chinese. There is also an envelope which has a small tool for opening the portable gaming PC if you need to upgrade the SSD for example. Next we have the [AYANEO GEEK 1S](https://droix.net/product/aya-neo-geek-1s/) itself which we will show in more detail shortly.

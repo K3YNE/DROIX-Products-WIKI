@@ -11,6 +11,8 @@ In this guide we are showing how to connect your retro console running EmuELEC t
   
 You can watch our video guide below, or if you prefer, scroll down a little to find our easy to follow text and image based guide.
 
+<https://youtu.be/vP15caxH070>
+
 ### Connecting to a WiFi Access Point on EmuELEC
 
 First we will connect the device to a WiFi access point. Press **START** to bring up the Main Menu and scroll down to **Network Settings** and choose it.

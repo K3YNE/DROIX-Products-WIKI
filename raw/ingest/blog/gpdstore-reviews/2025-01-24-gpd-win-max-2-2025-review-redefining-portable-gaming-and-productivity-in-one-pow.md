@@ -19,6 +19,8 @@ The GPD WIN MAX 2 family has consistently stood out as one of the finest options
 
 ## GPD WIN MAX 2 2025 Review Video
 
+<https://youtu.be/QKOu3qRP4H0>
+
 ## GPD WIN MAX 2 2025 Overview
 
 ### Dimensions & Weight

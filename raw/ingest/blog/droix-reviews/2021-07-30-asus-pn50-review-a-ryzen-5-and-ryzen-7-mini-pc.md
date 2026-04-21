@@ -20,6 +20,8 @@ Contents
 
 ## ASUS Mini PC Review Video
 
+<https://youtu.be/RMbKGJpKn_Y>
+
 ASUS Mini PC Review – Unboxing and Overview
 
 ## ASUS Mini PC Technical Specifications

@@ -21,3 +21,5 @@ As always, while we do allow self repairs, any damage caused by yourself is not 
 04:00 Removing the old glue  
 04:29 Removing the glue covers  
 05:26 Fitting the new display
+
+<https://youtu.be/byPHtLyPhdc>

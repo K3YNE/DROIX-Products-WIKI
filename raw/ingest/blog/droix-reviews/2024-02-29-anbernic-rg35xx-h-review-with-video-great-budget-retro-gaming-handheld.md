@@ -34,6 +34,8 @@ Contents
 
 ## Anbernic RG35XX H review video
 
+<https://youtu.be/yt9QVepzlOY>
+
 ## Unboxing the Anbernic RG35XX H
 
 We start the Anbernic RG35XX H review with an unboxing. The box opens to reveal the Anbernic RG35XX H handheld itself, we will check it out in more detail in a moment.

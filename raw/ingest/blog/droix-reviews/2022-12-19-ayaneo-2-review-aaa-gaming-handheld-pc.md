@@ -68,6 +68,8 @@ Contents
 
 ## AYANEO 2 Review Video
 
+<https://youtu.be/Yn2ztXk0elw>
+
 ## Unboxing the AYANEO 2
 
 First a quick unboxing. We have a bunch of user guides covering the AYANEO 2 and AYA SPACE launcher. Next we have the [AYANEO 2](https://droix.net/product/ayaneo-2/) handheld PC itself, we will show it in more detail shortly.

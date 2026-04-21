@@ -78,6 +78,8 @@ Contents
 
 ## AYA NEO Review Video
 
+<https://youtu.be/WosWeT-M2i4>
+
 ## AYA NEO Review
 
 Let’s start with the unboxing. There’s some nice packaging to start with.
@@ -424,6 +426,8 @@ The Aya Neo features the [AMD Ryzen 5 4500U](https://www.amd.com/en/products/apu
 You can learn more and [buy the Aya Neo here](https://go.droix.co.uk/AYANEO-2021), and don’t forget to check out our wide range of [handheld game consoles here](https://go.droix.co.uk/GAMING-HANDHELD).
 
 You can watch our Aya Neo preview video below. Or if you prefer a text based version, scroll down a little further.
+
+<https://youtu.be/le_C9ip2cyc>
 
 The model we have here is the Aya Neo founders edition which was released earlier this year. The final model will have some improvements over Founders Edition which we will discuss further on in the article.
 

@@ -55,15 +55,21 @@ We’ve already got detailed articles covering everything on [how to update Wind
 
 > [How to Update Windows and Drivers](https://droix.net/knowledge-base/article/update-windows-and-drivers/)
 
+<https://droix.net/knowledge-base/article/update-windows-and-drivers/embed/#?secret=HFyhVy2ULU#?secret=veSuO9StQT>
+
 
 
 > [How to uninstall old AMD graphics drivers and install new ones](https://droix.net/knowledge-base/article/update-amd-graphics-drivers/)
+
+<https://droix.net/knowledge-base/article/update-amd-graphics-drivers/embed/#?secret=neOIwhmsyL#?secret=S6ulkH0U9b>
 
 ## **Stress Testing** Your ONEXFLY
 
 Now that your handheld gaming computer is set up, complete with the latest firmware and drivers, you might be wondering just how far it can be pushed. Do you want to take your device to its limits? Are you curious to see what your handheld is truly capable of? If that’s the case, we’ve got you covered. Dive into our comprehensive guide below, where we detail everything you need to know about [stress testing your Windows device](https://droix.net/knowledge-base/article/how-to-stress-test-your-pc/). This guide will help you safely explore the limits of your handheld’s performance, ensuring you get the most out of your gaming experience.
 
 > [How to Benchmark Your Windows Device](https://droix.net/knowledge-base/article/how-to-benchmark/)
+
+<https://droix.net/knowledge-base/article/how-to-benchmark/embed/#?secret=PSzbaqpzpK#?secret=g7jlx2IU5V>
 
 ## Software
 
@@ -74,6 +80,8 @@ Remember, the ONEXPLAYER ONEXFLY is still a Windows device, meaning that if the 
 With Handheld Companion, your gaming experience becomes more tailored and interactive. Set up hotkeys for quick access to functions, monitor your device’s performance with a fully customisable on-screen overlay, and dive deeper into your games with adjustable motion controls. These features not only add convenience but also improve your personal experience.
 
 The utility of the Handheld Companion app was so significant to us that we’ve partnered with them to ensure its compatibility and support for the devices we offer. For a deeper understanding, check out our article here on how you can [improve your experience with Handheld Companion](https://droix.net/knowledge-base/article/handheld-companion/?utm_source=socialmedia&utm_medium=link&utm_campaign=Handheld_Companion), or watch our video below.
+
+<https://youtu.be/v73GMHgRYac>
 
 ### Operating Systems
 
@@ -97,6 +105,8 @@ And the good news doesn’t stop there. We’ve put together a detailed guide to
 
 > [How to install and set up RetroArch on your Windows or Android devices](https://droix.net/knowledge-base/article/retroarch/)
 
+<https://droix.net/knowledge-base/article/retroarch/embed/#?secret=tmpbXiILb6#?secret=5gd0ZgvV9t>
+
 ## Connecting The GPD G1 eGPU
 
 The [GPD G1 eGPU docking station](https://droix.net/product/gpd-g1/) is a game-changer, not only offering additional USB ports, HDMI, and DisplayPort for connecting to your monitor or TV. But its standout feature is the built-in [Radeon RX 7600M XT GPU](https://www.amd.com/en/products/graphics/amd-radeon-rx-7600m-xt), which elevates your gaming experience with higher FPS and improved visual quality. When hooked up to an external monitor, this eGPU flexes its muscles, enabling even the most demanding games to run at higher resolutions.
@@ -104,6 +114,8 @@ The [GPD G1 eGPU docking station](https://droix.net/product/gpd-g1/) is a game-c
 For those with an Oculink port on their handheld, the GPD G1 allows you to leverage the fastest data transfer speeds. However, if your device doesn’t have this port, there’s no need to worry. The GPD G1 eGPU docking station is still fully functional via the USB 4.0 port on your ONEXFLY. To get the most out of this powerful accessory, don’t miss our comprehensive guide on [Getting Started with the GPD G1 eGPU Docking Station](https://droix.net/knowledge-base/getting-started-with-the-gpd-g1-egpu-docking-station/), where we delve into everything from setup to advanced usage tips with the GPD G1.
 
 > [Getting Started with the GPD G1 eGPU Docking Station](https://droix.net/knowledge-base/article/gpd-g1-egpu-docking-station/)
+
+<https://droix.net/knowledge-base/article/gpd-g1-egpu-docking-station/embed/#?secret=j0PKnQJt3f#?secret=f82zuZNtXV>
 
 ## Accessories and Add-Ons
 

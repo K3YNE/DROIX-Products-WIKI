@@ -70,6 +70,8 @@ Contents
 
 ## ONEXPLAYER X1 AMD Review Video
 
+<https://youtu.be/LcHl4cHyygc>
+
 ## ONEXPLAYER X1 AMD Overview
 
 We start our ONEXPLAYER X1 AMD review with an overview of the device itself. The [ONEXPLAYER X1 AMD](https://droix.net/product/onexplayer-x1-amd/) measures around 9.9 x 6.4 x 0.5  inches (25.2 x 16.3 x 1.3 cm), and weighs 969g (1.73 lbs) without the controllers. With controllers it measures 13.9 inches (35.5cm) and weighs 1.090g (2.40 lbs)

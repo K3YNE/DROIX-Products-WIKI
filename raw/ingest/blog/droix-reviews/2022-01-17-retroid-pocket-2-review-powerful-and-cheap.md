@@ -52,6 +52,8 @@ Contents
 
 ## Retroid Pocket 2+ Review Video
 
+<https://youtu.be/xjFQBZiBS4I>
+
 ## Retroid Pocket 2+ Unboxing
 
 Inside we have the Retroid Pocket 2+ which we will show in more detail shortly.

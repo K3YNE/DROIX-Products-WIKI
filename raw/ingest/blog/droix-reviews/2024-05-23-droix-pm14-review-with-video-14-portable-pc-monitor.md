@@ -34,6 +34,8 @@ Contents
 
 ## DroiX PM14 review video
 
+<https://youtu.be/KBU3tWhKHjE>
+
 ## Unboxing the DroiX PM14 Portable PC monitor
 
 We start the DroiX PM14 review with the unboxing. Inside the box we have a case for the monitor. It is made from a soft material so will keep it safe from scratches while being carried or in your bag. It has a compartment for the monitor itself and a second for any small accessories such as cables.

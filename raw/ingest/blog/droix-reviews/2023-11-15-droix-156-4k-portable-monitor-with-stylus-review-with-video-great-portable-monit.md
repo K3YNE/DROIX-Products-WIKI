@@ -58,6 +58,8 @@ There are a total four different models of monitor for laptop, we will briefly g
 
 ### Stylus with internal rechargeable battery
 
+<https://youtu.be/Bik6NVikrbk>
+
 This model of the [portable monitor with stylus](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/) input. With a compatible stylus you can navigate windows, write, draw and paint as you would with a tablet for example. Excuse my drawing skills, I’m no Picasso 🙂
 
 Write and draw with the active stylus

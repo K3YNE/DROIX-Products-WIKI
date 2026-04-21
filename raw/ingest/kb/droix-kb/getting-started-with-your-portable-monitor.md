@@ -25,11 +25,19 @@ If something is missing or you are not sure, please [contact our customer servic
 
 ### DROIX 15.6″ 4K Portable Monitor with Adobe RGB support connection guide
 
+<https://youtu.be/XTQtTjkTmhU>
+
 ### DROIX 15.6″ 4K Portable Monitor with built-in battery connection guide
+
+<https://youtu.be/eMYjROQLhxU>
 
 ### DROIX 15.6″ 4K Portable Monitor with no battery connection guide
 
+<https://youtu.be/DPvn4lsYWqw>
+
 ### DROIX 15.6″ 4K Portable Monitor with stylus support connection guide
+
+<https://youtu.be/bRdwBnYunU4>
 
 ## Using the 15.6” 4K Portable Monitor with Battery / Touchscreen / Adobe RGB
 

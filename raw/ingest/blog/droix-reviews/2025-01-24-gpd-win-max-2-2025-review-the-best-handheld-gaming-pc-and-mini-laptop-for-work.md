@@ -62,6 +62,8 @@ Contents
 
 ## GPD WIN MAX 2 2025 Review
 
+<https://youtu.be/QKOu3qRP4H0>
+
 ## GPD WIN MAX 2 2025 OVERVIEW
 
 We start our [GPD WIN MAX 2 2025](https://droix.net/product/gpd-win-max-2-2025/) review with an overview of the device itself. The [GPD WIN MAX 2 2025](https://droix.net/product/gpd-win-max-2-2025/) measures around 8.9 x 6.2 x 0.9 inches (22.7 x 16 x 2.3 cm) and weighs 1098g (2.42 lbs).

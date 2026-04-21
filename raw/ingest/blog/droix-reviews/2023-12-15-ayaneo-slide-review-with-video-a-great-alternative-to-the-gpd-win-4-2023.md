@@ -54,6 +54,8 @@ Contents
 
 ## AYANEO Slide Review Video
 
+<https://youtu.be/H9mXLf7fcto>
+
 ## Unboxing the AYANEO Slide
 
 Diving into our AYANEO Slide review, it’s immediately clear that this [handheld gaming PC](https://droix.net/product-category/handhelds/handheld-gaming-pcs/) aims to stand out in the retro gaming world. First of all, I have to say the packaging is great. It’s encased in a VHS tape-style box, a design choice that cleverly aligns with the device’s sliding theme.

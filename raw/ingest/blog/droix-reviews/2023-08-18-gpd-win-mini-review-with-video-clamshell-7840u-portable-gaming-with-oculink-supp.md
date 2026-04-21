@@ -38,6 +38,8 @@ Contents
 
 ## GPD WIN Mini Review Video
 
+<https://youtu.be/dUjh_CZzzRY>
+
 ## What’s inside the box?
 
 As always we start the GPD WIN 4 review with the unboxing. First we have the user manual which is in Chinese and English. Next is the GPD WIN Mini portable gaming PC itself, we will take a closer look at it in a moment.

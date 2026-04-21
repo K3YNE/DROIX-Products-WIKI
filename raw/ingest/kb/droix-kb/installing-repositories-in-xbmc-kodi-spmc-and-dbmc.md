@@ -21,4 +21,6 @@ Now when you open the Videos>Add-Ons menu, the new add-on should be present.
 
 If you want to configure it before using the add-on, highlight the entry and click C if you have a QWERTY keyboard, or otherwise the Menu key on your remote control, then select Add-on settings.
 
-If you prefer, please watch the following video to learn how to install repo(sitorie)s in XBMC, Kodi, SPMC and DBMC
+If you prefer, please watch the following video to learn how to install repo(sitorie)s in XBMC, Kodi, SPMC and DBMC  
+
+<https://youtu.be/mx_H4CB6KAU>

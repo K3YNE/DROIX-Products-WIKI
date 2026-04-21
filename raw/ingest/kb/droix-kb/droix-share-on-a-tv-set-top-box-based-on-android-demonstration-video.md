@@ -9,6 +9,8 @@ wp_id: 817
 
 We continue our video series on ways to stream and cast content to your DroiX®, this time using DroiX® Share with an Android device. We demonstrate how your Android device can be used as a remote control, send files to your DroiX®, mirror your DroiX® screen to your mobile and vice-versa, and also how to view your phone or tablet’s camera on your DroiX®.
 
+<https://youtu.be/RXYY_PERvPc>
+
 You can download DroiX® Share FREE of charge via the Google Play Store at <https://play.google.com/store/apps/details?id=com.eshare.droidbox>. If you have not used the Google Play Store before please watch our video guide at <https://www.youtube.com/watch?v=YFA3hoAgszk>.
 
 Please watch our other videos in the series below:

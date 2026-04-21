@@ -8,6 +8,8 @@ date: 2023-01-27
 
 In our [ONEXPLAYER docking station](https://droix.net/product/onexplayer-docking-station/) review for the Mini and Mini Pro models we will be taking a look at the features and testing it with HDMI output.
 
+<https://youtu.be/jf7WIC6mnNs>
+
 The [ONEXPLAYER Mini dock](https://droix.net/product/onexplayer-docking-station/) measures 3.9 x 3.8 x 2.8 inches (10 x 9.8 x 7.2cm) and weighs 122g. So it’s quite small and takes up minimal desktop space when not in use.  It is available in just the one colour which is black with orange LED lighting on the front and sides which we will show shortly. It’s a nice design, it reminds me of a snake’s head.
 
 ONEXPLAYER Mini Pro Dock Front Looks a bit like a snake

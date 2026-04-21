@@ -34,6 +34,8 @@ Contents
 
 ## GPD Win MAX Review Video
 
+<https://youtu.be/LA4_giXyuP4>
+
 ## Introduction and presentation
 
 The manufacturer GPD (GamePad Digital) has sent me a unit of their new product GPD-WIN MAX to write this informative review article, and I know that many people are very interested in getting information about this machine, and I hope to cover the most relevant aspects in this article.

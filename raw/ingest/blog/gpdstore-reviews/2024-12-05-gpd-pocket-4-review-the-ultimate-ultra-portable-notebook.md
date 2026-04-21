@@ -17,6 +17,8 @@ The [GPD Pocket 4](https://gpdstore.net/gpd-mini-laptop/gpd-pocket-4/) represent
 
 ## GPD Pocket 4 Review Video
 
+<https://youtu.be/pOyK4L1KJCQ>
+
 
 
 ---

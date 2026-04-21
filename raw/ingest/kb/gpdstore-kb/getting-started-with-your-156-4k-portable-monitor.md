@@ -42,6 +42,8 @@ There are two ways to connect your device to the portable monitor: HDMI or USB T
 
 A very useful connection guide on the 15.6″ can be found below showing the various ways to connect your device. There are also videos for [Adobe](https://www.youtube.com/watch?v=XTQtTjkTmhU), [Stylus](https://www.youtube.com/watch?v=bRdwBnYunU4) and [non-battery](https://www.youtube.com/watch?v=DPvn4lsYWqw) models at their respective URLs.
 
+<https://youtu.be/eMYjROQLhxU>
+
 ## Navigating the portable monitor menus
 
 You can access the monitor’s menu by pressing the rocker button located on the left side. You can navigate the menu using the rocker and the power button, or more easily by interacting with the touch screen directly.

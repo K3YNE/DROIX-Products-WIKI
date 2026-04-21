@@ -76,6 +76,8 @@ Contents
 
 Have you [subscribed](https://www.youtube.com/c/DroiX_Store) to our YouTube channel yet? Stay up to date with our latest videos and shorts!
 
+<https://youtu.be/MAWL0eJErOU>
+
 ## Unboxing the AYANEO Geek
 
 Inside the box we have some user guides which help get you started with the handheld and the AYA SPACE software.

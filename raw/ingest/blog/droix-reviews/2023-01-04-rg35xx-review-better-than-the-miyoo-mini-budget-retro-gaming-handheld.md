@@ -48,6 +48,8 @@ Contents
 
 ## RG35XX Review Video
 
+<https://youtu.be/_s4JB31xOdA>
+
 ## RG35XX Unboxing
 
 First we have the [RG35XX](https://droix.net/product/anbernic-rg35xx/) retro handheld, we will check it out in more detail in a moment.

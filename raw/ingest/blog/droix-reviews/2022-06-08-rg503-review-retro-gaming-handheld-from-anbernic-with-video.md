@@ -56,6 +56,8 @@ Contents
 
 ## RG503 Review Video
 
+<https://youtu.be/prsfIinjlNQ>
+
 ## Unboxing the RG503
 
 Let’s start with the unboxing. First up we have the [RG503 retro handheld](https://droix.net/product/anbernic-rg503/) which we will take a closer look at shortly.

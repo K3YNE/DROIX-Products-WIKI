@@ -98,4 +98,6 @@ We hope you have found this guide of use. If you have any further questions, or 
 
 Until next time!
 
+<https://youtu.be/6aXKeEpOu9Y>
+
 *Purchase your very own Retroid Pocket 2 here: <https://droix.net/product/retroid-pocket-2/>*

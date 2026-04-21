@@ -46,6 +46,8 @@ Contents
 
 ## AYANEO Pocket DMG Review Video
 
+<https://youtu.be/WptQb2GQ1bs>
+
 ## AYANEO Pocket DMG Overview
 
 Let’s get this AYANEO Pocket DMG review started with an overview of the Android gaming device. The [AYANEO Pocket DMG](https://droix.net/product/ayaneo-pocket-dmg/) measures 3.60 x 5.94 x 0.87 in (9.15 x 15.1 x 2.23 cm) and weighs around 278g (0.61 lbs).There’s a decent sized 3.92” OLED touchscreen display with a resolution of 1240×1080.

@@ -8,3 +8,5 @@ wp_id: 2456
 ---
 
 Replacing the SSD on the AYA NEO NEXT is very easy to do. Our video guide below will show the process from start to finish.
+
+<https://youtu.be/55Zt88i8krY>

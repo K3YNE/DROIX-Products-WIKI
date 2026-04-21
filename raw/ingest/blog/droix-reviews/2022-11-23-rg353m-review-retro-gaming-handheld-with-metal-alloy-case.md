@@ -32,6 +32,8 @@ Contents
 
 ## RG353M Review Video
 
+<https://youtu.be/vdteRpM_JQc>
+
 ## Unboxing the RG353M
 
 We have the [RG353M](https://droix.net/product/anbernic-rg353m/) retro gaming handheld itself which we will show in more detail shortly.

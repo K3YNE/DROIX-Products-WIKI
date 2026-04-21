@@ -7,6 +7,8 @@ date: 2023-06-02
 wp_id: 2751
 ---
 
+<https://youtu.be/zQyCENsjq6I>
+
 Sometimes components need replacing or even upgrading. The WiFi card is one of them. If that’s you then you’re in the right place. Follow along with this super easy guide on how to perform a WiFi Card replacement in your [Mini PC](https://droix.net/product-category/mini-pcs/).
 
 The first thing you’ll need to do is open up your computer. This is different for every model, but for the most part, it will involve removing a set of screws on the bottom and prying open the cover. So be sure to place the screws somewhere safe.

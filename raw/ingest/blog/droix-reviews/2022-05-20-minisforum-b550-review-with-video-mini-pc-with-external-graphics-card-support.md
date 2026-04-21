@@ -64,6 +64,8 @@ Contents
 
 ## Minisforum B550 Review video
 
+<https://youtu.be/jsEgZewvc4s>
+
 ## Unboxing the Minisforum B550
 
 We start the Minisforum B550 review with the unboxing. First we have a user guide which is in multiple languages including English, German and Italian. It gets you up and running and how to assemble the docking  base unit. Next we have a bright orange hard case, inside is the [Minisforum B550 mini PC](https://droix.net/product/minisforum-b550/). We will be taking a closer look at it shortly.

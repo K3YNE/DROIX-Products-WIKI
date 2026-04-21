@@ -36,6 +36,8 @@ Contents
 
 ## ACEPC Powerbox Pro review video
 
+<https://youtu.be/31bw-gwaeFo>
+
 ## Unboxing the ACEPC Powerbox Pro
 
 We start our Powerbox Pro review with an unboxing. First out of the box we have the [ACEPC Powerbox Pro](https://droix.net/product/acepc-powerbox-pro/) mini PC with Intel processor, we will take a closer look at it shortly.

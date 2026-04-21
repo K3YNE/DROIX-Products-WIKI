@@ -66,6 +66,8 @@ Contents
 
 ## GPD WIN MAX 2 Review Video
 
+<https://youtu.be/Tz3_wvGLbTA>
+
 ## Unboxing the GPD WIN MAX 2
 
 Lifting the box lid reveals the [GPD Win MAX 2](https://droix.net/product/gpd-win-max-2-gaming-ultrabook/), we will show this in more detail shortly.

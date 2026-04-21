@@ -36,6 +36,8 @@ Contents
 
 ## AYANEO Pocket S2 Review Video
 
+<https://youtu.be/WpyONngTsJI>
+
 ## AYANEO Pocket S2 overview
 
 We start our AYANEO Pocket S2 review with an overview of the device and its features. The [AYANEO Pocket S2](https://droix.net/product/ayaneo-pocket-s2/) measures around 8.97 x 3.58 x 0.62 inches (22.8 x 9.1 x 1.59 cm), a little larger than the original model.  The Pocket S2 standard model weighs around 428g (0.94 lbs), and the Pro model slightly heavier at 440g (0.97 lbs). The CNC Aluminium Alloy frame does add a little extra weight, but this is a premium device and gives it that edge over full plastic.

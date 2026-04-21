@@ -76,6 +76,8 @@ Contents
 
 Have you subscribed to the [DroiX YouTube](https://www.youtube.com/@DroiX_Store) channel yet?
 
+<https://youtu.be/xORRUZ3bvvE>
+
 ## ONEXPLAYER 2 Unboxing
 
 We start our ONEXPLAYER 2 review with the unboxing. ONEXPLAYER have changed from their usual shoebox style design to a square one. Lets see what is inside.

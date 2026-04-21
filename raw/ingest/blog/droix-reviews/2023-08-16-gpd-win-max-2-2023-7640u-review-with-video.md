@@ -36,6 +36,8 @@ Contents
 
 ## GPD WIN MAX 2 2023 7640U Review Video
 
+<https://youtu.be/qOQqIrNItSU>
+
 ## Unboxing the GPD WIN MAX 2 2023 7640U
 
 Inside the box you can find the [GPD WIN MAX 2 2023 7640U](https://droix.net/product/gpd-win-max-2-2023/) portable gaming PC which we will show in more detail shortly.

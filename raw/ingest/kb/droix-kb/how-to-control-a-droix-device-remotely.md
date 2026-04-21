@@ -21,3 +21,5 @@ Connect a mouse and/or keyboard to your DroiX® device, via USB. If you run out 
 **Pros: Media shortcut buttons are often available. No wires.***Cons: It can be a little uncomfortable to type large amounts of text.*
 
 **4. Control via phone app**Several of our models allow an Android smartphone or tablet to control them, including all the functions of mouse and keyboard.  It enables you to change interfaces with ease. Check out the video below to know how to control your DroiX® with an simple Android phone app known as Smart iRemote app.
+
+<https://youtu.be/TxL7A3CSLjs>

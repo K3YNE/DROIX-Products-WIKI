@@ -46,6 +46,8 @@ Contents
 
 ## Anbernic RG Cube Review Video
 
+<https://youtu.be/WcDre7Wzhuc>
+
 ## Anbernic RG Cube Overview
 
 We start our Anbernic RG Cube review with an overview. The [Anbernic RG Cube](https://droix.net/product/anbernic-rg-cube/) is available in four colours, Beige White, Radiant Purple, Black and Grey. It measures around 6.0 x 3.3 x 0.7 inches (15.3 x 8.6 x 1.8 cm) and weighs 260g (0.57 lbs).

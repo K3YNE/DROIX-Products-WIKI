@@ -21,6 +21,8 @@ If you have any other issues with your docking station, please check out our [GP
 
 > [Getting Started with the GPD G1 eGPU Docking Station](https://droix.net/knowledge-base/en-gb/article/gpd-g1-egpu-docking-station/)
 
+<https://droix.net/knowledge-base/en-gb/article/gpd-g1-egpu-docking-station/embed/#?secret=qE8GhYmcqu#?secret=IWM1pDpQSG>
+
 ## Reformat USB
 
 The initial step in updating your GPD G1 eGPU involves preparing a USB for BIOS flashing. Before proceeding, be aware that formatting the USB drive will erase all its contents. Hence, it’s best to use a USB drive that’s either empty or contains no essential data. Once you’ve connected the USB to your PC, navigate to the File Explorer, right-click on the USB drive, and select the ‘format’ option (see *Images 1 & 2* below). It’s important to note that your USB name may vary based on its brand, model, or any previous renaming.
@@ -152,6 +154,8 @@ In the Device Manager, the G1 eGPU should appear as `AMD Radeon RX 7600M XT` lis
 We already have a guide covering how to correctly [install the latest AMD Graphics Drivers](https://droix.net/knowledge-base/article/how-to-uninstall-old-amd-graphics-drivers-and-install-new-ones/). We recommend you follow this guide when installing/updating the Graphics drivers for your G1 eGPU docking station.
 
 > [How to uninstall old AMD graphics drivers and install new ones](https://droix.net/knowledge-base/article/update-amd-graphics-drivers/)
+
+<https://droix.net/knowledge-base/article/update-amd-graphics-drivers/embed/#?secret=5EBt75fvPm#?secret=8JFqfPtejH>
 
 After the installation of the latest AMD drivers is complete, a device restart is necessary to activate them. Post-reboot, it’s crucial to verify in the Device Manager whether the G1 docking station is successfully connected and functioning as intended – remember the GPD G1 eGPU should be recognised as the [AMD Radeon RX 7600M XT](https://www.amd.com/en/products/graphics/amd-radeon-rx-7600m-xt) (as shown below).
 

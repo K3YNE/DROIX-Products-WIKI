@@ -31,6 +31,8 @@ Your iMXQpro will either need a network cable (ethernet) attached, or the WiFi p
 
 Google’s Play Store is a good way to not only keep your existing applications up to date and secure, but also to find new apps to install. If you’ve not used it before, please check the video below:
 
+<https://youtu.be/YFA3hoAgszk>
+
 You will also find the DroiX Market application installed on your device. This is another marketplace for Android apps, which contains some entries not included in the Play Store.
 
 If you are considering installing an anti malware scanner then visit <https://droix.net/antivirus-malware-protection-for-android-devices/> for a run down of some of the popular systems.
@@ -45,11 +47,15 @@ Finally, for this section, please read about our [DroiX Control Centre](https://
 
 It can be handy to set up a kids profile so they can safely watch media without the chance of them seeing something they shouldn’t.
 
+<https://youtu.be/GeztRbKvwqs>
+
 [Return to top](#top)
 
 #### BT Home Hub Smart Setup causing Script Errors
 
 Customers who use BT’s Smart or Home Hub modem/router can encounter an issue where new devices are denied full network access. This Wizard completion can be easily sorted with a few simple steps seen in the video below.
+
+<https://youtu.be/e62Z5MgkRKM>
 
 Some more links on the ISP’s blocking content (Virgin & BT Customers):  
 <https://droidbox.co.uk/blog/faq-2/uk-isps-blocking-content-how-to-remove-their-filters/>
@@ -61,5 +67,7 @@ For more information about their Parental Controls, please see BT’s page at [B
 #### How to use Quick Support
 
 You may encounter an issue that you cannot solve yourself or using one of the many helpful videos on this site and YouTube. If you call our support team, they may need to “remote” into your DroiX® to help you solve the issue. To do this they use software called Quick Support. You can see what you will need to do on their request in the video below.
+
+<https://youtu.be/jK2Mvv4qYG0>
 
 [Return to top](#top)

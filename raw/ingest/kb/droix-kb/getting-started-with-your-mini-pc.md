@@ -39,6 +39,8 @@ We’ve got an article describing how to update Windows and its drivers [here](h
 
 > [How to Update Windows and Drivers](https://droix.net/knowledge-base/article/update-windows-and-drivers/)
 
+<https://droix.net/knowledge-base/article/update-windows-and-drivers/embed/#?secret=9rxrXKHajI#?secret=kVtepT3pNe>
+
 ## Stress Testing Your PC
 
 Alright, your mini PC is working properly, and you’ve got the latest updates all installed and ready to go. We recommend first giving it a little stress test just to make sure there are no issues while the mini PC is working hard.
@@ -46,6 +48,8 @@ Alright, your mini PC is working properly, and you’ve got the latest updates a
 You can download benchmark software such as [PCMark](https://benchmarks.ul.com/pcmark10) which performs various day-to-day tasks. These include working with demanding office documents, video conferencing, multimedia, image and video rendering and much more. We have a guide [here](https://droix.net/knowledge-base/article/how-to-stress-test-your-pc/) and embedded below.
 
 > [How to Benchmark Your Windows Device](https://droix.net/knowledge-base/article/how-to-benchmark/)
+
+<https://droix.net/knowledge-base/article/how-to-benchmark/embed/#?secret=cdlti5QTcP#?secret=OKgF42WlhI>
 
 ## Upgrading RAM and storage
 
@@ -59,11 +63,15 @@ We have a guide [here](https://droix.net/knowledge-base/article/ssd-ram-install-
 
 > [SSD & RAM Install for Mini PCs](https://droix.net/knowledge-base/article/ssd-ram-install-for-mini-pcs/)
 
+<https://droix.net/knowledge-base/article/ssd-ram-install-for-mini-pcs/embed/#?secret=ZsaREUMO4r#?secret=NGWhw0H4lk>
+
 ## Reinstalling Windows
 
 If for any reason you need to reinstall Windows such as after upgrading your storage, we have a guide [here](https://droix.net/knowledge-base/article/how-to-install-and-update-windows-1011-on-mini-pcs/). It is also embedded below the steps to do this.
 
 > [How To Install and Update Windows 10 & 11](https://droix.net/knowledge-base/article/how-to-install-and-update-windows/)
+
+<https://droix.net/knowledge-base/article/how-to-install-and-update-windows/embed/#?secret=mPFrwj1Dxo#?secret=cv95N2pTcO>
 
 ## Connecting with the GPD G1 eGPU docking station (optional)
 
@@ -72,6 +80,8 @@ The GPD G1 eGPU docking station provides more USB ports as well as HDMI and Disp
 While many mini PCs do not currently have an OCuLink port, many do have a [USB 4.0](https://www.techradar.com/news/usb4-everything-you-need-to-know) port which you can use instead. Refer to your product manual or our product listings if it has a USB 4.0 port. Our Getting Started [with the GPD G1 eGPU docking station guide](https://droix.net/knowledge-base/getting-started-with-the-gpd-g1-egpu-docking-station/), also embedded below, shows how to set up and use your mini PC with the GPD G1.
 
 > [Getting started with the GPD G1 eGPU docking station](https://droix.net/knowledge-base/article/gpd-g1-egpu-docking-station/)
+
+<https://droix.net/knowledge-base/article/gpd-g1-egpu-docking-station/embed/#?secret=ybUPeuwgqs#?secret=WN4rF5itke>
 
 ## Accessories and Add-Ons
 

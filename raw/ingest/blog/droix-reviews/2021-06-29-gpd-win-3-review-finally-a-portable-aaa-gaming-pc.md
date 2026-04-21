@@ -44,6 +44,8 @@ With a crisp 720p screen, high-quality buttons, and a thunderbolt 4 port enablin
 
 ## GPD Win 3 Review [Video]
 
+<https://youtu.be/rQ_eKXqOEcI>
+
 ## GPD Win 3 Full Review
 
 Hello and welcome to DroiX. Today we are checking out the brand new GPD Win 3 gaming handheld. We will be unboxing it, looking at the features, specifications, benchmark results, and wrapping it up to play some games and emulators.

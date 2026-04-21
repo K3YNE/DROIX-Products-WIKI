@@ -15,6 +15,8 @@ The first thing you need to do when you take your [handheld gaming PC](https://d
 
 > [How To Test Your Hardware](https://droix.net/knowledge-base/article/test-your-hardware/)
 
+<https://droix.net/knowledge-base/article/test-your-hardware/embed/#?secret=1cbcTBAvZJ#?secret=O3FgCdoFki>
+
 Here at DroiX, we’re big proponents of the user’s Right to Repair your device. So if you find any issues and feel confident enough to repair them we encourage you! Reach out to [DroiX customer support](https://droix.net/contact-us/) for any assistance in doing so.
 
 ## Update Windows, Firmware & Drivers
@@ -24,6 +26,8 @@ The second thing you’ve got to do when first getting started with your GPD WIN
 We’ve got an article describing how to update Windows and its drivers [here](https://droix.net/knowledge-base/article/how-to-update-windows-and-drivers/) and embedded below.
 
 > [How to Update Windows and Drivers](https://droix.net/knowledge-base/article/update-windows-and-drivers/)
+
+<https://droix.net/knowledge-base/article/update-windows-and-drivers/embed/#?secret=X7qC9OyGRo#?secret=D167mB2A7D>
 
 
 
@@ -38,15 +42,21 @@ You can find the article on how to [install, update and delete AMD drivers here]
 
 > [How to Update Windows and Drivers](https://droix.net/knowledge-base/article/update-windows-and-drivers/)
 
+<https://droix.net/knowledge-base/article/update-windows-and-drivers/embed/#?secret=X7qC9OyGRo#?secret=D167mB2A7D>
+
 We’ve also got a dedicated guide for updating the WIN Mini BIOS, which you can [read here](https://droix.net/knowledge-base/article/gpd-win-mini-bios/) or find below.
 
 > [How To Update GPD WIN Mini BIOS (2023 & 2024)](https://droix.net/knowledge-base/article/gpd-win-mini-bios/)
+
+<https://droix.net/knowledge-base/article/gpd-win-mini-bios/embed/#?secret=WEtI1KzJT5#?secret=JiT9Wnv1MF>
 
 ## Stress Testing Your PC
 
 Alright, your device should be working properly, with no issues with the buttons or anything like that, and you’ve got the latest updates all installed and ready to go. Do you really want to go in the slow lane and start downloading unreasonably large 100GB+ games, cough cough Call of Duty cough cough,. Or do you wanna take this baby for a spin? If the latter, take a look at our article here and embedded below to see what your GPD WIN Mini is capable of. Don’t worry, it’s designed to be able to handle the most intense workloads.
 
 > [How to Benchmark Your Windows Device](https://droix.net/knowledge-base/article/how-to-benchmark/)
+
+<https://droix.net/knowledge-base/article/how-to-benchmark/embed/#?secret=YJEHbBfgXD#?secret=LfpoCuyC9J>
 
 ## Troubleshooting
 
@@ -78,6 +88,8 @@ Let’s not forget, this is Windows. If you’re not a fan of the preinstalled c
 
 It is so useful, that we have partnered with them to ensure they get the hardware to support the devices we sell! You can learn more about Handheld Companion in our article [here](https://droix.net/knowledge-base/article/handheld-companion/?utm_source=socialmedia&utm_medium=link&utm_campaign=Handheld_Companion) or the video below.
 
+<https://youtu.be/v73GMHgRYac>
+
 ## Gaming
 
 ### Game Stores
@@ -98,6 +110,8 @@ Learn how to set up RetroArch in our article [here](https://droix.net/knowledge-
 
 > [How to install and set up RetroArch on your Windows or Android devices](https://droix.net/knowledge-base/article/retroarch/)
 
+<https://droix.net/knowledge-base/article/retroarch/embed/#?secret=QTSYNXjuOa#?secret=DiEkxU4nks>
+
 ### Launchers
 
 Not a fan of the desktop environment and want a more console-like experience? Install from several launchers to provide a smooth, creative and gaming-focused experience. Launchers such as Steam Big Screen, [Playnite](https://playnite.link/) and [GOG Galaxy](https://www.gog.com/galaxy) collate your games in one beautiful screen. They allow you to easily find, run and categorise all of the games on your PC, whether it’s from [Steam](https://store.steampowered.com/), [Epic Games](https://www.epicgames.com/site/), EA, XBOX or anywhere else.
@@ -109,6 +123,8 @@ The GPD G1 eGPU docking station provides more USB ports as well as HDMI and Disp
 The GPD WIN Mini features an Oculink port so you can take advantage of the best data transfer speeds. Our [Getting Started with the GPD G1 eGPU docking station guide](https://droix.net/knowledge-base/getting-started-with-the-gpd-g1-egpu-docking-station/), also embedded below, shows how to set up and use the GPD WIN Mini with GPD G1.
 
 > [Getting Started with the GPD G1 eGPU Docking Station](https://droix.net/knowledge-base/article/gpd-g1-egpu-docking-station/)
+
+<https://droix.net/knowledge-base/article/gpd-g1-egpu-docking-station/embed/#?secret=lzs05VudqH#?secret=9r1PAaEX3S>
 
 ## Replacement Parts
 

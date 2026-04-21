@@ -13,6 +13,8 @@ While we do permit self-repairs, any damage you cause is not covered by our warr
 
 ## How to fix your GPD WIN 5 Triggers Crunching video guide
 
+<https://youtu.be/yAXqhsdrYYI>
+
 ## GPD WIN 5 Gaming Handheld PC
 
 [Shop now](https://gpdstore.net/product/gpd-win-5/)

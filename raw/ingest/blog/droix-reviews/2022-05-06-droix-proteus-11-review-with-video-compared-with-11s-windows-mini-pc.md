@@ -40,6 +40,8 @@ Contents
 
 ## DroiX Proteus 11 Review Video
 
+<https://youtu.be/mGvnD6Xih3c>
+
 ## Unboxing the DroiX Proteus 11S
 
 We start our DroiX Proteus 11 review with the unboxing. Inside the box is the [DroiX Proteus 11S mini PC](https://droix.net/product/proteus-11/), the 11 model looks exactly the same on the outside. We will take a closer look at it in a moment.

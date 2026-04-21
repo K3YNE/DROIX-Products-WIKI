@@ -12,3 +12,5 @@ This video guide shows how to replace the GPD WIN MINI 2025 battery. You will ne
 As always, while we do allow self repairs, any damage caused by yourself is not covered by our warranty (see [Terms & Conditions here](https://droix.net/terms-and-conditions/)). Please only do so if you feel you are confident that you can do it. Watch the video first, and judge for yourself.
 
 ## How to replace the GPD WIN MINI 2025 battery video
+
+<https://youtu.be/KhAzwt9HLW4>

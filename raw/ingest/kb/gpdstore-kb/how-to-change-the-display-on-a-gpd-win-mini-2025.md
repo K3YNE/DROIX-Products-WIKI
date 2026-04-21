@@ -23,3 +23,5 @@ Remember that while we do allow self-repairs, any damage you cause is not covere
 03:53 Fitting the new display   
 04:31 Fitting the hinge cover   
 04:48 Like & Subscribe
+
+<https://youtu.be/8N-LGZYk_JA>

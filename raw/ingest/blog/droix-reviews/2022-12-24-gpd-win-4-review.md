@@ -64,6 +64,8 @@ Contents
 
 ## GPD WIN 4 Review Video
 
+<https://youtu.be/XDGHeRRyHDU>
+
 ## GPD WIN 4 Unboxing
 
 But first, a quick unboxing to start the GPD WIN 4 review. We have the [GPD WIN 4](https://droix.net/product/gpd-win-4/) handheld gaming PC itself which we will show in more detail shortly.

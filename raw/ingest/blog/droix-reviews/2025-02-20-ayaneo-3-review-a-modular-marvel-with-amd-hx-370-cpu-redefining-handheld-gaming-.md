@@ -48,6 +48,8 @@ Contents
 
 ## AYANEO 3 Video
 
+<https://youtu.be/b2w8Obo-hAw>
+
 ## AYANEO 3 Overview
 
 We start our AYANEO 3 review with a closer look at the portable gaming PC. The [AYANEO 3](https://droix.net/product/ayaneo-3/) measures around 11.4 x 4.5 x 0.8 inches (28.9 x 11.5 x 2.2 cm) and weighs around 690g (1.52 lbs).

@@ -9,6 +9,8 @@ wp_id: 366
 
 This article covers a few tips for using LibreELEC
 
+<https://youtu.be/LLmQh38U6Tw>
+
 ### **How To Reboot Back To Android**
 
 There are two ways to do this.

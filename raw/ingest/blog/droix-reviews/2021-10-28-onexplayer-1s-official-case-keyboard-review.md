@@ -20,6 +20,8 @@ Contents
 
 ## ONEXPLAYER 1S Case and Keyboard Review video
 
+<https://youtu.be/iIdNmBI9hU0>
+
 ## ONEXPLAYER 1S Official Hard-shell Case
 
 ONEXPLAYER Hard shell Carry Case Box

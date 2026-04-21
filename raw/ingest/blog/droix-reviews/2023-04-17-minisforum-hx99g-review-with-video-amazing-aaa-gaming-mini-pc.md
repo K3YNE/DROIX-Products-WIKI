@@ -62,6 +62,8 @@ Contents
 
 ## MinisForum HX99G Review Video
 
+<https://youtu.be/7yLFCPgLv5k>
+
 A quick reminder to subscribe to the [DroiX YouTube channel](https://www.youtube.com/c/DroiX_Store) if you have not already. As well at this Minisforum HX99G review you can find many more reviews of our latest products.
 
 ## Unboxing the MinisForum HX99G

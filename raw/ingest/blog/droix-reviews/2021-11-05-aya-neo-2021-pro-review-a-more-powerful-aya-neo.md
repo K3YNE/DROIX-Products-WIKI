@@ -60,6 +60,8 @@ Contents
 
 ## AYA NEO PRO review video
 
+<https://youtu.be/GVNc9GqkYDw>
+
 ## AYA NEO PRO Unboxing
 
 Lets get started with the unboxing. The AYA NEO PRO model has a different colour scheme to the new [AYA NEO box](https://go.droix.co.uk/AYANEO-BOX) we showed last week.

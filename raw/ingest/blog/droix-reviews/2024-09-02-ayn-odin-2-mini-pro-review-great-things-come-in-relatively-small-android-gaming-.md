@@ -36,6 +36,8 @@ Contents
 
 ## AYN Odin 2 Mini Pro Review Video
 
+<https://youtu.be/4jSGqxbU6T4>
+
 ## AYN Odin 2 Mini Pro Overview
 
 We will start our AYN Odin 2 Mini Pro review with an overview and comparison. The [AYN Odin 2 Mini Pro](https://droix.net/product/ayn-odin-2-mini-pro/) measures around 7.7 x 3.3 x 0.76 inches (19.8 x 8.5 x 1.95 cm) and weighs 320g (0.70 lbs)

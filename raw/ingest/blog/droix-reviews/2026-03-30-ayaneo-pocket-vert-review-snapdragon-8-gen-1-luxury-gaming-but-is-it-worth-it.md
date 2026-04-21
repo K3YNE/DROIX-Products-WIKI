@@ -54,6 +54,8 @@ Contents
 
 ## AYANEO Pocket VERT Review Video
 
+<https://youtu.be/NNUnE_2KU1I>
+
 ## Design and Build Quality of the AYANEO Pocket VERT
 
 The AYANEO Pocket VERT

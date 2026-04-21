@@ -11,4 +11,6 @@ A brief video showing how to ‘Dolly Zoom’ with the [MOZA Mini Mi](https://dr
 
 
 
+<https://youtu.be/PPTfed5dFhg>
+
 You can find out more information and buy yours from <https://droidbox.co.uk/droidbox-moza-mini-mi-smartphone-stabiliser.html>

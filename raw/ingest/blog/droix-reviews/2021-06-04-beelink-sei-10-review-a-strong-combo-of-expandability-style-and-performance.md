@@ -40,9 +40,11 @@ The SEi10 weighs in at the lower-mid range of the performance spectrum with the 
 
 The SEi10 offers a fairly standard fare when it comes to expandability, featuring the ability to add an additional 2.5-inch drive of your choosing, allowing it to function as a media centre with ease if need be.
 
-As always, we have a video and transcript below for those who are interested in learning more about the Beelink SEi 10. Take a look, and if you’re interested, swing on by to our main site to buy! (Or send us an email at [[email protected]](/cdn-cgi/l/email-protection#5724222727382523173325383e2f79343879223c) if you have further questions!)
+As always, we have a video and transcript below for those who are interested in learning more about the Beelink SEi 10. Take a look, and if you’re interested, swing on by to our main site to buy! (Or send us an email at [[email protected]](/cdn-cgi/l/email-protection#5f2c2a2f2f302d2b1f3b2d303627713c30712a34) if you have further questions!)
 
 ## [Video] Beelink SEi 10 Review
+
+<https://youtu.be/2ALbdG8ZtYM>
 
 ## Unboxing
 

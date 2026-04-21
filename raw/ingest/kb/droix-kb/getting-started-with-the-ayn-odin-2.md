@@ -231,6 +231,8 @@ For those eager to build their game library on their Odin 2, we have a detailed 
 
 > [How to Add New Games & ROMS to Your Handheld](https://droix.net/knowledge-base/en-gb/article/installing-games-and-roms/)
 
+<https://droix.net/knowledge-base/en-gb/article/installing-games-and-roms/embed/#?secret=Y92ZjGme0j#?secret=8FeeShBnib>
+
 ### Emulators
 
 Unfortunately, no emulators are installed. So this will have to be downloaded and set up by you manually. To do so, simply navigate to the desired emulator’s webpage, then download and install the latest version.

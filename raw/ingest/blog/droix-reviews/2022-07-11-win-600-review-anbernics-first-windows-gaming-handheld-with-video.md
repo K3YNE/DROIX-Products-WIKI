@@ -92,6 +92,8 @@ Contents
 
 ## Win 600 Review Video
 
+<https://youtu.be/6-EGi7kdBNc>
+
 ## Unboxing the Win 600
 
 As always we start with the unboxing. Lifting the lid reveals the [Win 600](https://droix.net/product/anbernic-win600/) handheld game console, we will show it in more detail shortly.

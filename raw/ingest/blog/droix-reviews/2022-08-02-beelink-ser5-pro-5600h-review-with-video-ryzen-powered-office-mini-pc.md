@@ -44,6 +44,8 @@ Contents
 
 ## Beelink SER5 Pro 5600H Review Video
 
+<https://youtu.be/t96_JTWQ46U>
+
 ## Unboxing the Beelink SER5 PRO 5600H
 
 We start our Beelink SER5 PRO 5600H review as always with the unboxing. We have a user manual which is in multiple languages including English, German, Spanish and Italian. Underneath is the [SER5 PRO 5600](https://droix.net/product/beelink-ser-pro-amd-ryzen-5-mini-pc/) mini computer. We will take a closer look at it shortly.

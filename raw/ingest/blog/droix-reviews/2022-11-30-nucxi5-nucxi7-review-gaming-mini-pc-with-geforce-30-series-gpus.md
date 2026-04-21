@@ -66,6 +66,8 @@ Contents
 
 ## NUCXi5 & NUCXi7 review video
 
+<https://youtu.be/dXtQVns78Ps>
+
 ## Unboxing the NUCXi7
 
 We start the NUCXi7 review with the unboxing. The box opens up to reveal the NUCX [gaming mini PC](https://droix.net/blogs/product-category/mini-pcs/mini-pcs-for-gaming/) itself which we will show in more detail shortly. There is also a stand to keep the [NUCXi5](https://droix.net/product/minisforum-nucxi5/) and [NUCXi7](https://droix.net/product/minisforum-nucix7/) upright for minimal desktop space usage.

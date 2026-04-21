@@ -9,6 +9,8 @@ wp_id: 63686
 
 Replacing the fan on the [GPD Pocket 4](https://droix.net/product/gpd-pocket-4/) is very easy to do. We have a video showing the full process as well as a step by step guide in text below.
 
+<https://youtu.be/mqy-yXzJ9LE>
+
 Remove the seven screws on the bottom of the [GPD Pocket 4](https://droix.net/product/gpd-pocket-4/)
 
 Remove the seven screws

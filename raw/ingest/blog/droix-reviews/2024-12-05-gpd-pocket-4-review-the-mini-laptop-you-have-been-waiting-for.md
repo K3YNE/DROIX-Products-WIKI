@@ -66,6 +66,8 @@ Contents
 
 ## GPD Pocket 4 Review Video
 
+<https://youtu.be/pOyK4L1KJCQ>
+
 ## GPD Pocket 4 Overview
 
 Let’s kick off our GPD Pocket 4 review with an overview and comparison. The [GPD Pocket 4](https://droix.net/product/gpd-pocket-4/) ultra-portable notebook measures 8.14 x 5.6 x 0.87 inches (20.68 × 14.45 × 2.22 cm) and weighs 785g (1.7 lbs). Compared with the GPD Pocket 3 it is slightly larger and heavier.

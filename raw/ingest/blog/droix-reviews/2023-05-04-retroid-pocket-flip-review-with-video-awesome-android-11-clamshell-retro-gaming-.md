@@ -58,6 +58,8 @@ Contents
 
 ## Retroid Pocket Flip Review Video
 
+<https://youtu.be/FKAX8iu5Se8>
+
 ## Unboxing the Retroid Pocket Flip
 
 First a very brief unboxing to start our Retroid Pocket Flip review. There’s a card which shows the controls and tech specs which is a bit pointless, but it’s there nonetheless.

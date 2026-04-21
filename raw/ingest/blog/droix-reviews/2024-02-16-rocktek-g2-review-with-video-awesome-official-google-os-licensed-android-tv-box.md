@@ -36,6 +36,8 @@ Contents
 
 ## RockTek G2 review video
 
+<https://youtu.be/sZdwJw2B8_E>
+
 ## Unboxing the RockTek G2
 
 We start the RockTek G2 review with an unboxing. Inside the box we first have the [RockTek G2](https://droix.net/product/rocktek-g2/) Android box itself, we will check it out properly in a moment.

@@ -11,6 +11,8 @@ wp_id: 353
 
 Please watch the below video for how to update the firmware and apps on your device.
 
+<https://youtu.be/0lAWzFjpBKs>
+
 The **OTA updater app** is an app that serves to update your DroiX. The firmware releases may or may not contain OS updates (Android and/or LibreELEC) depending on the device model, DroiX exclusive apps and 3rd party apps.
 
 Each OTA updater app comes with a *build version number* and by looking at a newsletters or our [forum](https://droidboxforums.com/) boards you can check if you are already up to date with most recent firmware version available.

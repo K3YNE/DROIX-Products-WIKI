@@ -38,6 +38,8 @@ If you missed our MinisForum X500 Ryzen 7 review, you can find it here. We unbox
 
 ## MinisForum X500 Ryzen 5 vs Ryzen 7 Comparison Video
 
+<https://youtu.be/fwVB07ojGqM>
+
 ## MinisForum X500 Ryzen 5 vs Ryzen 7 Technical Specifications
 
 |  |  |  |

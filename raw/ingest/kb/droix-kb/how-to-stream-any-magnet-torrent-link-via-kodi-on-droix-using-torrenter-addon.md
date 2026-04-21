@@ -13,3 +13,5 @@ What do you do when you want watching such video on your TV? You download it to 
 Well, from now on you can just forget the download part and concentrate on “watch now”. Yes, it is true – you don’t have to download magnet links anymore. Just use your DroiX® (with right addon), TV and Bittorent Magnet link and you are all set.  
 Check the video below to find out how to directly watch torrent links without downloading.  
 Save the space. Save your time. Save everything, but not your entertainment.
+
+<https://youtu.be/Z6mTs6qB5uk>

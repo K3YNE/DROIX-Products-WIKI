@@ -49,6 +49,8 @@ Bottom View
 
 
 
+<https://youtu.be/H9mXLf7fcto>
+
 ## Setting Up Windows
 
 Every AYANEO SLIDE, like all our portable gaming PCs, comes with [Windows 11](https://www.microsoft.com/en-us/windows/windows-11?r=1) pre-installed, ready for setup straight out of the box. The setup process for Windows may vary slightly depending on the version installed on your device. However, it’s generally straightforward and guided by on-screen prompts. These steps include selecting your country, choosing the keyboard layout, and entering your user details. You also have the option to connect to the internet during setup, allowing your AYA NEO device to download and install the latest updates automatically. There’s no need to worry too much as all of these settings can be adjusted later.
@@ -65,11 +67,15 @@ We’ve already got detailed articles covering everything on [how to update Wind
 
 > [How to Update Windows and Drivers](https://droix.net/knowledge-base/article/update-windows-and-drivers/)
 
+<https://droix.net/knowledge-base/article/update-windows-and-drivers/embed/#?secret=lY8fOhrBlj#?secret=LxyGVKtcx3>
+
 ## Reinstalling Windows (Optional)
 
 In case you need to reinstall Windows – whether something has gone wrong, you’re getting ready to sell your handheld or you just want to give your device a little refresh, we have a guide [here](https://droix.net/knowledge-base/article/reinstall-windows-handhelds/) or embedded below that walks you through a clean install on your handheld PC.
 
 > [Reinstall Windows on Handheld Devices](https://droix.net/knowledge-base/article/reinstall-windows-handhelds/)
+
+<https://droix.net/knowledge-base/article/reinstall-windows-handhelds/embed/#?secret=X6RtIQk2jI#?secret=HfAawKr1sq>
 
 ## Updating Firmware & Drivers
 
@@ -108,6 +114,8 @@ For a generalised guide on Installing the AMD Graphics & Chipset Drivers, check 
 
 > [How to uninstall old AMD graphics drivers and install new ones](https://droix.net/knowledge-base/article/update-amd-graphics-drivers/)
 
+<https://droix.net/knowledge-base/article/update-amd-graphics-drivers/embed/#?secret=KXwmgrm6Vg#?secret=KVgmEnMuHh>
+
 ## Installing AYASpace 2
 
 [AYASpace](https://www.ayaneo.com/product/AYASpace-2.html) is a console management software curated for AYANEO devices with an intuitive user interface for quick and easy customisation and control – from software settings to TDP switching. Simply download AYASpace2 below and run the **.exe** file to install.
@@ -121,11 +129,15 @@ For a bit more information on AYASpace, check out our blog post [here](https://d
 
 > [AYASpace – Official frontend for the AYA NEO and AYA NEO Pro](https://droix.net/blogs/aya-space-official-frontend-for-the-aya-neo-and-aya-neo-pro/)
 
+<https://droix.net/blogs/aya-space-official-frontend-for-the-aya-neo-and-aya-neo-pro/embed/#?secret=MyePQwx1w3#?secret=OoMdFX0Fiq>
+
 ## **Stress Testing** Your AYANEO SLIDE
 
 Now that your handheld gaming computer is set up, complete with the latest firmware and drivers, you might be wondering just how far it can be pushed. Do you want to take your AYANEO SLIDE to its limits? Are you curious to see what your handheld is truly capable of? If that’s the case, we’ve got you covered. Dive into our comprehensive guide below, where we detail everything you need to know about [Stress Testing Windows devices](https://droix.net/knowledge-base/article/how-to-stress-test-your-pc/). This guide will help you safely explore the limits of your handheld’s performance, ensuring you get the most out of your gaming experience.
 
 > [How to Benchmark Your Windows Device](https://droix.net/knowledge-base/article/how-to-benchmark/)
+
+<https://droix.net/knowledge-base/article/how-to-benchmark/embed/#?secret=F5Ci3hgWP9#?secret=6TLYeIrOJw>
 
 ## Software (Optional)
 
@@ -136,6 +148,8 @@ Remember, the AYA NEO SLIDE is still a Windows device, meaning that if the compa
 With Handheld Companion, your gaming experience becomes more tailored and interactive. Set up hotkeys for quick access to functions, monitor your device’s performance with a fully customisable on-screen overlay, and dive deeper into your games with adjustable motion controls. These features not only add convenience but also improve your personal experience.
 
 The utility of the Handheld Companion app was so significant to us that we’ve partnered with them to ensure its compatibility and support for the devices we offer. For a deeper understanding, check out our article here on how you can [improve your experience with Handheld Companion](https://droix.net/knowledge-base/article/handheld-companion/?utm_source=socialmedia&utm_medium=link&utm_campaign=Handheld_Companion), or watch our video below.
+
+<https://youtu.be/v73GMHgRYac>
 
 ### Operating Systems
 
@@ -158,6 +172,8 @@ If you feel like reliving the golden age of gaming, you can! With emulator front
 And the good news doesn’t stop there. We’ve put together a detailed guide to walk you through every step of [how to install and set up RetroArch](https://droix.net/knowledge-base/article/how-to-install-and-set-up-retroarch-on-your-windows-or-android-devices/) on your AYANEO. This guide is designed to simplify the process, ensuring you can get started with your retro gaming journey as smoothly as possible.
 
 > [How to install and set up RetroArch on your Windows or Android devices](https://droix.net/knowledge-base/article/retroarch/)
+
+<https://droix.net/knowledge-base/article/retroarch/embed/#?secret=5FniR273Vm#?secret=NX1wQM0ur9>
 
 ## Connecting the GPD G1 eGPU (Optional)
 

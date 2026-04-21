@@ -63,6 +63,8 @@ We do not provide any links for where to download ROMs from. You can find a weal
 
 > [How to Add New Games & ROMS to Your Handheld](https://droix.net/knowledge-base/article/installing-games-and-roms/)
 
+<https://droix.net/knowledge-base/article/installing-games-and-roms/embed/#?secret=9BPT8a6ptl#?secret=jcoEZv5ncJ>
+
 ## Reinstalling and Updating the firmware on your retro handheld
 
 Updating the firmware on your retro handheld varies between models. We have prepared a guide that has various methods to update the firmware.
@@ -70,6 +72,8 @@ Updating the firmware on your retro handheld varies between models. We have prep
 Not all handhelds have firmware updates, but if for example, you need to reinstall the OS you can use the [guide here](https://droix.net/knowledge-base/article/how-to-reinstall-stock-firmware-on-retro-gaming-handhelds/), which is also embedded below.
 
 > [How to Reinstall Stock Firmware on Retro Gaming Handhelds](https://droix.net/knowledge-base/article/stock-firmware-retro-handhelds/)
+
+<https://droix.net/knowledge-base/article/stock-firmware-retro-handhelds/embed/#?secret=vPXzPrrLdE#?secret=7BjdySXTdT>
 
 ## Installing Custom Firmware on your retro handheld
 
@@ -83,8 +87,12 @@ We have an overview of popular custom firmware for many different handhelds [her
 
 > [Custom Firmware for Retro Handhelds](https://droix.net/knowledge-base/article/retro-custom-firmware/)
 
+<https://droix.net/knowledge-base/article/retro-custom-firmware/embed/#?secret=DDMRsu8Q6D#?secret=qbtxoq2nnz>
+
 ## Charging your handheld
 
 Please refer to the included guide on the best practises for charging your handheld.
 
 > [Anbernic Device Charging Guide: Safety First](https://droix.net/knowledge-base/article/anbernic-device-charging-guide-safety-first/)
+
+<https://droix.net/knowledge-base/article/anbernic-device-charging-guide-safety-first/embed/#?secret=LDivJ77UFB#?secret=mHptY55gVk>

@@ -46,6 +46,8 @@ Contents
 
 ## GPD Duo Review Video
 
+<https://youtu.be/VZfkYk87NG8>
+
 ## GPD Duo Overview
 
 Let’s start our GPD Duo review with a look at the dual displays and the configurations you can use.

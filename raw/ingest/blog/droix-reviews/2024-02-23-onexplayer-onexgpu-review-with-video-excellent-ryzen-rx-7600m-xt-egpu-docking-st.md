@@ -36,6 +36,8 @@ Contents
 
 ## ONEXPLAYER ONEXGPU review video
 
+<https://youtu.be/tdJjosyoUTc>
+
 ## Unboxing the ONEXPLAYER ONEXGPU
 
 We start the ONEXGPU review with a brief unboxing. First out of the box we have a user guide. It is in English and Chinese languages. Next there is the [ONEXPLAYER ONEXGPU](https://droix.net/product/onexplayer-onexgpu) itself, we will show it in more detail in a moment.

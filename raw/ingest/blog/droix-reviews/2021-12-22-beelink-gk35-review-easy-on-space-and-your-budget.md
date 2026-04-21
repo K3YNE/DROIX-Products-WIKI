@@ -32,6 +32,8 @@ Contents
 
 ## Beelink GK35 Mini PC Review Video
 
+<https://youtu.be/PWb4a68K3TU>
+
 ## Beelink GK35 Unboxing
 
 First we have the Beelink GK35 mini PC which we will take a closer look at in a moment.

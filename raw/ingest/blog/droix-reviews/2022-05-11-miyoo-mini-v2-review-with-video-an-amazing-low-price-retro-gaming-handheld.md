@@ -50,6 +50,8 @@ Contents
 
 ## Miyoo Mini Review Video
 
+<https://youtu.be/kRy8p1HNfto>
+
 ## Unboxing the Miyoo Mini v2
 
 Lets start the Miyoo Mini review with the unboxing. It comes in its own custom hard-shell case which keeps everything protected.

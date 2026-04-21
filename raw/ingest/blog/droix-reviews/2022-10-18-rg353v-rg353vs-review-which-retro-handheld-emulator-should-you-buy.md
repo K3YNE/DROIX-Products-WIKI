@@ -40,6 +40,8 @@ Contents
 
 ## RG353V and RG353VS Review Video
 
+<https://youtu.be/8fpfAeIA4tE>
+
 ## Unboxing the RG353V and RG353VS
 
 We start the [RG353V](https://droix.net/product/anbernic-rg353v/) and RG353VS review with the unboxing. Apart from the box design, the contents are essentially the same for the V and VS models.

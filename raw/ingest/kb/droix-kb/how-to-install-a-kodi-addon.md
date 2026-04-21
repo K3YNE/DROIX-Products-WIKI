@@ -7,7 +7,7 @@ date: 2021-11-20
 wp_id: 356
 ---
 
-﻿
+<https://youtu.be/nDM8zt_fyLM>
 
 *Kodi is an app that can not just play local media but also online based streaming content. In order to do so, you will need to install something called an Add-on which is basically a Extension for specific streaming content that you selected to install.*
 

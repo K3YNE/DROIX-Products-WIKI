@@ -116,6 +116,8 @@ We hope you have successfully performed a BIOS upgrade and everything is working
 
 > [How to Benchmark Your Windows Device](https://droix.net/knowledge-base/article/how-to-benchmark/)
 
+<https://droix.net/knowledge-base/article/how-to-benchmark/embed/#?secret=d1keoFuFsY#?secret=LqeK3a1nJ2>
+
 
 
 ---

@@ -60,6 +60,8 @@ Contents
 
 ## GPD WIN MINI 2025 Review Video
 
+<https://youtu.be/NsZeuHFHgY0>
+
 ## GPD WIN MINI 2025 Overview
 
 We start our GPD WIN MINI 2025 review with a closer look at the portable gaming PC itself. The [GPD WIN Mini 2025](https://droix.net/product/gpd-win-mini-2025/) measures 6.7 x 4.2 x 1 inches (17.2 x 10.9 x 2.7 cm) and weighs 555g (1.2 lbs). The 2025 model is slightly larger than the previous 2023 and 2024 models by 4 mm width and 1 mm thick.

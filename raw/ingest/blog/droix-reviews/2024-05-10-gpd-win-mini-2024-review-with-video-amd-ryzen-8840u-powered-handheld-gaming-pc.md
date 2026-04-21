@@ -46,6 +46,8 @@ Contents
 
 ## GPD WIN Mini 2024 review video
 
+<https://youtu.be/l7VrnGGMYkI>
+
 ## Unboxing the GPD WIN Mini 2024
 
 As always we start the GPD WIN Mini 2024 review with the unboxing. First out of the box we have an envelope containing the user guide which is in English and Chinese. Next we have the [GPD WIN Mini 2024](https://droix.net/product/gpd-win-mini-2024/) itself, we will take a closer look at it shortly.

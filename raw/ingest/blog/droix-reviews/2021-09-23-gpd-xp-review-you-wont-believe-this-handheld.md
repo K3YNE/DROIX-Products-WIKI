@@ -52,6 +52,8 @@ Contents
 
 ## GPD XP Review Video
 
+<https://youtu.be/CqOM8O9AZeM>
+
 GPD XP Video Review
 
 ## GPD XP Review
