@@ -1,0 +1,12 @@
+---
+title: How to Stream and Cast to your DroiX® with your PC
+source_url: "https://droix.net/knowledge-base/article/how-to-stream-and-cast-to-your-droix-with-your-pc/"
+source_site: droix.net
+type: kb-article
+date: 2021-11-20
+wp_id: 794
+---
+
+In the first of a series of videos, we are demonstrating different ways to stream content to your DroiX® from other devices. We start with how to stream media such as videos, music and photographs from your PC. We show how to cast videos from Youtube and then follow with a section on streaming videos, music and photos from your Windows 10 based device.
+
+The second and third videos, released in the coming weeks, will show you how to stream and cast media from your Android and iOS based devices.
