@@ -3,7 +3,7 @@ title: Android Handheld Gaming
 type: concept
 created: 2026-04-21
 updated: 2026-04-22
-sources: [2025-05-23-ayaneo-pocket-ace-review-youtube, ayaneo-pocket-ace-product-page, 2025-07-18-ayaneo-pocket-s2-review-youtube, 2025-11-21-ayaneo-pocket-ds-review-youtube, 2026-03-31-ayaneo-pocket-vert-review-youtube, 2026-03-13-ayn-odin-3-review-youtube, 2026-01-27-ayn-thor-review-youtube, 2025-07-02-anbernic-rg-slide-review-youtube, anbernic-rg-slide-product-page, 2025-11-14-konkr-pocket-fit-review-youtube]
+sources: [2025-05-23-ayaneo-pocket-ace-review-youtube, ayaneo-pocket-ace-product-page, 2025-07-18-ayaneo-pocket-s2-review-youtube, ayaneo-pocket-s2-product-page, 2025-11-21-ayaneo-pocket-ds-review-youtube, ayaneo-pocket-ds-product-page, 2026-03-31-ayaneo-pocket-vert-review-youtube, ayaneo-pocket-vert-product-page, 2026-03-13-ayn-odin-3-review-youtube, 2026-01-27-ayn-thor-review-youtube, 2025-07-02-anbernic-rg-slide-review-youtube, anbernic-rg-slide-product-page, 2025-11-14-konkr-pocket-fit-review-youtube]
 tags: [android, handheld, emulation, mobile-gaming]
 ---
 
@@ -15,13 +15,14 @@ Android handheld gaming devices are dedicated portable gaming hardware running t
 
 The flagship chipset landscape has evolved rapidly:
 
-- **Snapdragon G3x Gen 2** — dedicated gaming chip used in [[ayaneo-pocket-ace|AYANEO Pocket ACE]]
+- **Snapdragon G3x Gen 2** — dedicated gaming chip used in [[ayaneo-pocket-ace|AYANEO Pocket ACE]] and [[ayaneo-pocket-ds|AYANEO Pocket DS]]
 - **Snapdragon G3 Gen 3** — current flagship gaming SoC (e.g., [[ayaneo-pocket-s2|AYANEO Pocket S2]])
 - **Snapdragon 8 Elite** — latest top-tier mobile chip (e.g., [[ayn-odin-3|AYN Odin 3]])
 
 Other notable processors:
 - **Unisoc T820** — budget tier (e.g., [[anbernic-rg-slide|Anbernic RG Slide]])
 - **Snapdragon 8 Gen 2** — high-end mobile (e.g., [[ayn-thor|AYN Thor]])
+- **Snapdragon 8+ Gen 1** — previous flagship mobile tier used by [[ayaneo-pocket-vert|AYANEO Pocket VERT]]
 - **Snapdragon 8+ Gen 1** — previous-gen flagship
 
 ## Device Tiers

@@ -14,10 +14,10 @@ Tracks staged raw sources and archived supplier resource bundles awaiting full w
 
 ## Summary
 
-- Total pending records: 852
+- Total pending records: 847
 - kb-article: 387
 - review-blog: 237
-- product-page: 200
+- product-page: 195
 - resource-bundle: 28
 
 ## Open Issues
@@ -60,8 +60,6 @@ Tracks staged raw sources and archived supplier resource bundles awaiting full w
 | pending | `raw/ingest/product/droix-shop/ayaneo-next.md` | product-page |  | ayaneo | ayaneo-next |  | unresolved-category, product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/ayaneo-pocket-dmg-case1.md` | product-page |  | ayaneo | ayaneo-pocket-dmg-case1 | accessory | product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/ayaneo-pocket-dmg.md` | product-page |  | ayaneo | ayaneo-pocket-dmg |  | unresolved-category, product-not-onboarded |
-| pending | `raw/ingest/product/droix-shop/ayaneo-pocket-ds-bag.md` | product-page |  | ayaneo | ayaneo-pocket-ds | android-handheld |  |
-| pending | `raw/ingest/product/droix-shop/ayaneo-pocket-ds.md` | product-page |  | ayaneo | ayaneo-pocket-ds | android-handheld |  |
 | pending | `raw/ingest/product/droix-shop/ayaneo-pocket-evo-case.md` | product-page |  | ayaneo | ayaneo-pocket-evo-case | accessory | product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/ayaneo-pocket-evo-screen-protector.md` | product-page |  | ayaneo | ayaneo-pocket-evo-screen-protector |  | unresolved-category, product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/ayaneo-pocket-evo.md` | product-page |  | ayaneo | ayaneo-pocket-evo | android-handheld | product-not-onboarded |
@@ -72,9 +70,6 @@ Tracks staged raw sources and archived supplier resource bundles awaiting full w
 | pending | `raw/ingest/product/droix-shop/ayaneo-pocket-s-air-slide-grip-caps.md` | product-page |  | ayaneo | ayaneo-pocket-s-air-slide-grip-caps | android-handheld | product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/ayaneo-pocket-s-case.md` | product-page |  | ayaneo | ayaneo-pocket-s-case | android-handheld | product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/ayaneo-pocket-s.md` | product-page |  | ayaneo | ayaneo-pocket-s | android-handheld | product-not-onboarded |
-| pending | `raw/ingest/product/droix-shop/ayaneo-pocket-s2-bag.md` | product-page |  | ayaneo | ayaneo-pocket-s2 | android-handheld |  |
-| pending | `raw/ingest/product/droix-shop/ayaneo-pocket-s2.md` | product-page |  | ayaneo | ayaneo-pocket-s2 | android-handheld |  |
-| pending | `raw/ingest/product/droix-shop/ayaneo-pocket-vert.md` | product-page |  | ayaneo | ayaneo-pocket-vert | android-handheld |  |
 | pending | `raw/ingest/product/droix-shop/ayn-odin-2-case.md` | product-page |  | ayn | ayn-odin-2-case | android-handheld | product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/ayn-odin-2-mini-case.md` | product-page |  | ayn | ayn-odin-2-mini-case | android-handheld | product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/ayn-odin-2-mini-pro.md` | product-page |  | ayn | ayn-odin-2-mini-pro | android-handheld | product-not-onboarded |

@@ -22,8 +22,8 @@ AYANEO is a Chinese manufacturer of premium Android and Windows handheld gaming 
 |---------|----------|---------|----------------|
 | [[ayaneo-pocket-ace]] | [[android-handheld]] | [[qualcomm-snapdragon-g3x-gen-2\|Snapdragon G3x Gen 2]] | Mid-range Android handheld |
 | [[ayaneo-pocket-s2]] | [[android-handheld]] | [[qualcomm-snapdragon-g3-gen-3\|Snapdragon G3 Gen 3]] | First G3 Gen 3 handheld; IPS 1440p |
-| [[ayaneo-pocket-ds]] | [[android-handheld]] | Snapdragon | 7" OLED + 5" LCD dual-screen |
-| [[ayaneo-pocket-vert]] | [[android-handheld]] | Snapdragon | Vertical format, LTPS display |
+| [[ayaneo-pocket-ds]] | [[android-handheld]] | [[qualcomm-snapdragon-g3x-gen-2\|Snapdragon G3x Gen 2]] | 7" OLED + 5" LCD dual-screen |
+| [[ayaneo-pocket-vert]] | [[android-handheld]] | [[qualcomm-snapdragon-8-plus-gen-1\|Snapdragon 8+ Gen 1]] | Vertical 1600 x 1440 display |
 | [[ayaneo-flip-1s-ds]] | [[handheld-pc]] | [[amd-ryzen-ai-9-hx-370\|Ryzen AI 9 HX 370]] | Dual-screen Windows clamshell |
 | [[ayaneo-ag01]] | [[egpu]] | AMD RX 7600M XT | Starship eGPU dock |
 
@@ -53,7 +53,7 @@ No KB articles ingested yet for AYANEO products. Onboard when sourced.
 
 ## Resources
 
-No firmware, BIOS, or driver resources ingested yet for AYANEO products. Product-page sources now include [[ayaneo-pocket-ace-product-page]], [[ayaneo-pocket-ace-case-product-page]], and [[ayaneo-pocket-ace-grips-product-page]].
+No firmware, BIOS, or driver resources ingested yet for AYANEO products. Product-page sources now include [[ayaneo-pocket-ace-product-page]], [[ayaneo-pocket-ace-case-product-page]], [[ayaneo-pocket-ace-grips-product-page]], [[ayaneo-pocket-s2-product-page]], [[ayaneo-pocket-s2-bag-product-page]], [[ayaneo-pocket-ds-product-page]], [[ayaneo-pocket-ds-bag-product-page]], and [[ayaneo-pocket-vert-product-page]].
 
 ## Relationship to KONKR
 

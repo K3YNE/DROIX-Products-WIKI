@@ -40,7 +40,8 @@ Quick navigation hub. Every page in the wiki is reachable from here. All page ty
 - [[amd-ryzen-ai-max]] — AMD Ryzen AI Max (Strix Halo): used in [[gpd-win-5]], [[onexplayer-onexfly-apex]]
 - [[amd-ryzen-ai-9-hx-370]] — AMD Ryzen AI 9 HX 370 (Strix Point): used in [[ayaneo-flip-1s-ds]]
 - [[qualcomm-snapdragon-g3-gen-3]] — Snapdragon G3 Gen 3: used in [[ayaneo-pocket-s2]], [[konkr-pocket-fit]]
-- [[qualcomm-snapdragon-g3x-gen-2]] — Snapdragon G3x Gen 2: used in [[ayaneo-pocket-ace]]
+- [[qualcomm-snapdragon-g3x-gen-2]] — Snapdragon G3x Gen 2: used in [[ayaneo-pocket-ace]], [[ayaneo-pocket-ds]]
+- [[qualcomm-snapdragon-8-plus-gen-1]] — Snapdragon 8+ Gen 1: used in [[ayaneo-pocket-vert]]
 - [[qualcomm-snapdragon-8-elite]] — Snapdragon 8 Elite: used in [[ayn-odin-3]]
 - [[qualcomm-snapdragon-8-gen-2]] — Snapdragon 8 Gen 2: used in [[ayn-thor]]
 - [[intel-n300]] — Intel N300: used in [[gpd-micropc-2]]
@@ -80,12 +81,15 @@ Quick navigation hub. Every page in the wiki is reachable from here. All page ty
 
 #### [[ayaneo-pocket-s2]] — Snapdragon G3 Gen 3 Flagship Android Handheld
 - Reviews: [[2025-07-18-ayaneo-pocket-s2-review-youtube]]
+- Product pages: [[ayaneo-pocket-s2-product-page]] | [[ayaneo-pocket-s2-bag-product-page]]
 
 #### [[ayaneo-pocket-ds]] — Dual-Screen Android Handheld (7" OLED + 5" LCD)
 - Reviews: [[2025-11-21-ayaneo-pocket-ds-review-youtube]]
+- Product pages: [[ayaneo-pocket-ds-product-page]] | [[ayaneo-pocket-ds-bag-product-page]]
 
 #### [[ayaneo-pocket-vert]] — Vertical Android Handheld
 - Reviews: [[2026-03-31-ayaneo-pocket-vert-review-youtube]]
+- Product pages: [[ayaneo-pocket-vert-product-page]]
 
 #### [[ayaneo-flip-1s-ds]] — Dual-Screen Windows Clamshell
 - Variants: [[ayaneo-flip-1s-ds-hx-370]]

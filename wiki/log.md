@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-04-22] ingest | Product-page batch: AYANEO Pocket S2, DS, and VERT
+- Created: [[ayaneo-pocket-s2-product-page]], [[ayaneo-pocket-s2-bag-product-page]], [[ayaneo-pocket-ds-product-page]], [[ayaneo-pocket-ds-bag-product-page]], [[ayaneo-pocket-vert-product-page]], [[qualcomm-snapdragon-8-plus-gen-1]]
+- Updated: [[ayaneo-pocket-s2]], [[ayaneo-pocket-ds]], [[ayaneo-pocket-vert]], [[ayaneo]], [[android-handheld]], [[qualcomm]], [[qualcomm-snapdragon-g3-gen-3]], [[qualcomm-snapdragon-g3x-gen-2]], [[android-handheld-gaming]], [[index]], [[ingest-ledger]]
+- Archived: `raw/ingest/product/droix-shop/ayaneo-pocket-s2.md`, `raw/ingest/product/droix-shop/ayaneo-pocket-s2-bag.md`, `raw/ingest/product/droix-shop/ayaneo-pocket-ds.md`, `raw/ingest/product/droix-shop/ayaneo-pocket-ds-bag.md`, `raw/ingest/product/droix-shop/ayaneo-pocket-vert.md`
+- Notes: Attached simple bags to their parent product hubs. Flagged S2 display-size ambiguity, DS display-stack ambiguity, and VERT LCD/LTPS wording conflict on the source/product pages.
+
 ## [2026-04-22] ingest | Product-page batch: RG Slide and Pocket ACE
 - Created: [[anbernic-rg-slide-product-page]], [[ayaneo-pocket-ace-product-page]], [[ayaneo-pocket-ace-case-product-page]], [[ayaneo-pocket-ace-grips-product-page]], [[qualcomm-snapdragon-g3x-gen-2]]
 - Updated: [[anbernic-rg-slide]], [[ayaneo-pocket-ace]], [[anbernic]], [[ayaneo]], [[android-handheld]], [[qualcomm]], [[qualcomm-snapdragon-8-gen-2]], [[index]], [[ingest-ledger]]
