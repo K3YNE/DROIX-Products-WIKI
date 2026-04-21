@@ -3,13 +3,13 @@ title: Benchmark Methodology
 type: concept
 created: 2026-04-21
 updated: 2026-04-21
-sources: [gpd-win-5-review.md, onexfly-apex-review.md, onexplayer-g1-review.md, ayaneo-flip-1s-ds-review.md, ayaneo-pocket-ace-review.md, ayaneo-pocket-s2-review.md, ayn-odin-3-review.md, ayn-thor-review.md, konkr-pocket-fit-review.md, anbernic-rg-slide-review.md, ayaneo-ag01-review.md]
+sources: [2025-10-23-gpd-win-5-review-youtube, 2026-03-04-onexplayer-onexfly-apex-review-youtube, 2025-08-29-onexplayer-g1-review-youtube, 2025-11-07-ayaneo-flip-1s-ds-review-youtube, 2025-05-23-ayaneo-pocket-ace-review-youtube, 2025-07-18-ayaneo-pocket-s2-review-youtube, 2026-03-13-ayn-odin-3-review-youtube, 2026-01-27-ayn-thor-review-youtube, 2025-11-14-konkr-pocket-fit-review-youtube, 2025-07-02-anbernic-rg-slide-review-youtube, 2025-06-25-ayaneo-ag01-review-youtube, gpd-win-5-blog-review]
 tags: [benchmarks, testing, methodology, geekbench, 3dmark, cinebench]
 ---
 
 # Benchmark Methodology
 
-[[DroiX]] uses a consistent benchmarking approach across reviews, enabling meaningful cross-device comparisons. Results are always presented alongside multiple devices for context.
+[[droix|DROIX]] uses a consistent benchmarking approach across reviews, enabling meaningful cross-device comparisons. Results are always presented alongside multiple devices for context.
 
 ## Synthetic Benchmarks
 
@@ -58,4 +58,4 @@ For [[windows-handheld-gaming|Windows handhelds]], benchmarks are often run at m
 
 ## Cross-Device Comparison
 
-A defining characteristic of [[DroiX]] reviews: benchmark results are never shown in isolation. Every score is placed alongside results from other devices in the same category, giving viewers immediate context for how a new device compares to existing options.
+A defining characteristic of [[droix|DROIX]] reviews: benchmark results are never shown in isolation. Every score is placed alongside results from other devices in the same category, giving viewers immediate context for how a new device compares to existing options.

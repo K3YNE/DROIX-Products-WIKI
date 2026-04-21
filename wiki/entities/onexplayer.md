@@ -1,32 +1,50 @@
 ---
 title: ONEXPLAYER
 type: entity
+subtype: product-brand
+slug: onexplayer
+country: China
+website: https://onexplayer.com
+aliases: [1X Player, One-Netbook]
+products: [onexplayer-g1, onexplayer-onexfly-apex]
 created: 2026-04-21
 updated: 2026-04-21
-sources: []
 tags: [manufacturer, windows-handheld, oculink]
 ---
 
 # ONEXPLAYER
 
-ONEXPLAYER (also known as 1X Player) manufactures Windows handheld gaming PCs, typically featuring large displays and connectivity options like Oculink.
+ONEXPLAYER (also stylised 1X Player; operating company One-Netbook) manufactures Windows handheld gaming PCs, typically with large displays and Oculink connectivity.
 
-## Key Products Reviewed
+## Products covered in this wiki
 
-- [[ONEXPLAYER G1]] - dual keyboard concept device (received a mixed review)
-- [[ONEXFLY Apex]] - Strix Halo flagship handheld
-- **F1 Pro** - recommended alternative to the G1
-- **X1 Pro** - recommended alternative to the G1
+- [[onexplayer-g1]] — Dual-keyboard concept handheld. DROIX verdict: mixed.
+- [[onexplayer-onexfly-apex]] — Strix Halo flagship. Variant: [[onexplayer-onexfly-apex-max-395]].
+
+## Other ONEXPLAYER products (not yet covered)
+
+- F1 Pro — recommended alternative to the G1 in the DROIX review.
+- X1 Pro — recommended alternative to the G1.
 
 ## Hardware Characteristics
 
-- Large displays compared to competitors
-- Oculink support for external GPU connectivity
-- External battery systems for extended use
-- Clicky, tactile button feel
+- Large displays vs competitors (8" on the ONEXFLY Apex).
+- Oculink for external GPU connectivity.
+- External battery systems for extended use.
+- Optional liquid-cooling accessories (e.g. Frostbay for the Apex).
 
-## Notable Achievements
+## Forthcoming / Announcements
 
-The [[ONEXFLY Apex]] competed directly with the [[GPD WIN 5]] using the same Strix Halo processor. The Apex offered slightly better mini SSD speeds thanks to dual PCIe lanes. Optional liquid cooling via the Frostbay accessory is available for the Apex.
+No confirmed upcoming releases currently tracked. Update when sourced.
 
-The [[ONEXPLAYER G1]] received a mixed review on the [[DroiX]] channel, with the F1 Pro and X1 Pro recommended as better alternatives.
+## Knowledge Base
+
+No KB articles ingested yet for ONEXPLAYER products. Onboard when sourced.
+
+## Resources
+
+No firmware, BIOS, or driver resources ingested yet for ONEXPLAYER products. Onboard when sourced.
+
+## Relationship with DROIX
+
+DROIX covers ONEXPLAYER in its YouTube reviews. The [[onexplayer-g1]] received a mixed verdict; alternatives were recommended. The [[onexplayer-onexfly-apex]] received a positive review.

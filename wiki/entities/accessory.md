@@ -1,0 +1,28 @@
+---
+title: Accessory
+type: entity
+subtype: product-category
+slug: accessory
+created: 2026-04-21
+updated: 2026-04-21
+tags: [category, accessory, dock, peripheral]
+---
+
+# Accessory
+
+Docking stations, companion accessories, and peripherals for handhelds and UMPCs sold or reviewed by DROIX.
+
+## Products in This Category
+
+| Product | Type | For | Review |
+|---------|------|-----|--------|
+| [[gpd-win-5-smart-dock]] | Dock | [[gpd-win-5]] | [[2025-11-20-gpd-win-5-smart-dock-review\|YouTube]] |
+
+## Notes
+
+- The [[gpd-win-5-smart-dock|GPD WIN 5 Smart Dock]] received a negative DROIX verdict: it charges the external battery slot rather than the console directly, limiting its utility as a desk dock.
+- The [[ayaneo-ag01]] functions as both an eGPU and a dock but is categorised under [[egpu]] due to its primary function.
+
+## Brands
+
+- [[gpd]] — WIN 5 Smart Dock

@@ -1,0 +1,49 @@
+---
+title: KONKR Pocket FIT
+type: product
+slug: konkr-pocket-fit
+brand: konkr
+form_factor: handheld
+platform: android
+variants: []
+soc: Qualcomm Snapdragon G3 Gen 3
+created: 2026-04-21
+updated: 2026-04-21
+tags: [konkr, ayaneo-sub-brand, android-handheld, budget, snapdragon-g3-gen-3]
+---
+
+# KONKR Pocket FIT
+
+Budget Android handheld from [[konkr|KONKR]] ([[ayaneo|AYANEO]]'s sub-brand). Uses flagship Qualcomm Snapdragon G3 Gen 3 silicon at ~58 % lower price than equivalent premium AYANEO handhelds. Tradeoffs: LCD instead of IPS/OLED and slightly lower build tier — but same processor, same iSpace ecosystem.
+
+## Design & Build
+
+- Qualcomm Snapdragon G3 Gen 3 SoC.
+- LCD display (vs IPS/OLED on premium AYANEO).
+- iSpace software ecosystem (shared with AYANEO).
+
+## Benchmarks ([[products-benchmarks-results]])
+
+| Test | Score |
+|------|-------|
+| AnTuTu | 2,126,009 |
+| Geekbench 5 single-core | 1,588 |
+| Geekbench 5 multi-core | 6,395 |
+| Geekbench 6 single-core | 2,251 |
+| Geekbench 6 multi-core | 7,132 |
+| 3DMark Slingshot | 9,999 (maxed) |
+| 3DMark Wildlife Extreme | 5,574 |
+
+## Resources
+
+- Firmware / OTA updates: none catalogued.
+
+## Reviews & Coverage
+
+- [[2025-11-14-konkr-pocket-fit-review-youtube]] — DROIX YouTube review.
+
+## Related
+
+- [[konkr]] — Manufacturer.
+- [[ayaneo-pocket-s2]] — Same SoC at premium AYANEO price tier.
+- [[qualcomm-snapdragon-g3-gen-3]] — SoC family.

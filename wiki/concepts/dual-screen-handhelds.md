@@ -3,7 +3,7 @@ title: Dual-Screen Handhelds
 type: concept
 created: 2026-04-21
 updated: 2026-04-21
-sources: [ayn-thor-review.md, ayaneo-pocket-ds-review.md, ayaneo-flip-1s-ds-review.md]
+sources: [2026-01-27-ayn-thor-review-youtube, 2025-11-21-ayaneo-pocket-ds-review-youtube, 2025-11-07-ayaneo-flip-1s-ds-review-youtube]
 tags: [dual-screen, form-factor, ds-emulation, 3ds, wii-u]
 ---
 
@@ -13,22 +13,22 @@ Dual-screen handhelds are a growing trend in portable gaming, enabling native du
 
 ## Android Devices
 
-### [[AYN Thor]]
+### [[ayn-thor|AYN Thor]]
 - **Displays:** 6" + 3.92", both AMOLED
 - **Weight:** 380g — very portable for a dual-screen device
 - **Character:** Compact, pocketable, premium feel
 
-### [[AYANEO Pocket DS]]
+### [[ayaneo-pocket-ds|AYANEO Pocket DS]]
 - **Displays:** 7" OLED (top) + 5" LCD (bottom)
 - **Weight:** 540g — larger and heavier
 - **Character:** Bigger screens for more immersive dual-screen gaming
 
 ### Anbernic
-Announced but not yet reviewed by [[DroiX]].
+Announced but not yet reviewed by [[droix|DROIX]].
 
 ## Windows Devices
 
-### [[AYANEO Flip 1S DS]]
+### [[ayaneo-flip-1s-ds|AYANEO Flip 1S DS]]
 - **Displays:** 7" OLED (top) + 4.5" IPS (bottom)
 - **Weight:** 655g — heaviest of the reviewed dual-screen devices
 - **Processor:** AMD HX 370
@@ -66,7 +66,7 @@ The second screen is best treated as a bonus feature for specific use cases rath
 
 The comparison comes down to personal preference — there is no clear winner:
 
-| | [[AYN Thor]] | [[AYANEO Pocket DS]] |
+| | [[ayn-thor|AYN Thor]] | [[ayaneo-pocket-ds|AYANEO Pocket DS]] |
 |---|---|---|
 | Portability | Lighter (380g), more compact | Heavier (540g), larger |
 | Top screen | 6" AMOLED | 7" OLED |

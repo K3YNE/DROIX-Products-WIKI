@@ -3,7 +3,7 @@ title: Windows Handheld Gaming
 type: concept
 created: 2026-04-21
 updated: 2026-04-21
-sources: [gpd-win-5-review.md, onexfly-apex-review.md, ayaneo-flip-1s-ds-review.md, onexplayer-g1-review.md]
+sources: [2025-10-23-gpd-win-5-review-youtube, 2026-03-04-onexplayer-onexfly-apex-review-youtube, 2025-11-07-ayaneo-flip-1s-ds-review-youtube, 2025-08-29-onexplayer-g1-review-youtube, 2025-11-20-gpd-win-5-smart-dock-review, 2025-07-24-gpd-micropc-2-review-youtube, gpd-win-5-blog-review]
 tags: [windows, handheld, pc-gaming, amd, intel]
 ---
 
@@ -16,18 +16,19 @@ Windows handheld gaming PCs run full Windows on portable form factors, providing
 AMD's progression of APUs drives the category:
 
 - **AMD 8840U** — previous-gen capable APU
-- **AMD HX 370** — current mid-tier (e.g., [[AYANEO Flip 1S DS]])
-- **AMD Ryzen AI Max+ 395 (Strix Halo)** — current flagship, first seen in the [[GPD Win 5]]
+- **AMD HX 370** — current mid-tier (e.g., [[ayaneo-flip-1s-ds|AYANEO Flip 1S DS]])
+- **AMD Ryzen AI Max+ 395 (Strix Halo)** — current flagship, first seen in the [[gpd-win-5|GPD WIN 5]]. See [[amd-ryzen-ai-max|AMD Ryzen AI Max]].
 
 Intel competition:
 - **Intel 255H** — competitive on CPU benchmarks but weaker integrated GPU performance
 
 ## Key Devices
 
-- **[[GPD Win 5]]** — flagship device, first to ship with Strix Halo. Benchmark leader.
-- **[[ONEXFLY Apex]]** — 8-inch display, high performance. At 80W TDP rivals eGPU setups.
-- **[[AYANEO Flip 1S DS]]** — dual-screen clamshell design. See [[dual-screen-handhelds]].
-- **[[ONEXPLAYER G1]]** — keyboard-equipped experiment with detachable controller modules.
+- **[[gpd-win-5|GPD WIN 5]]** — flagship device, first to ship with Strix Halo. Benchmark leader.
+- **[[onexplayer-onexfly-apex|ONEXPLAYER ONEXFLY Apex]]** — 8-inch display, high performance. At 80W TDP rivals eGPU setups.
+- **[[ayaneo-flip-1s-ds|AYANEO Flip 1S DS]]** — dual-screen clamshell design. See [[dual-screen-handhelds]].
+- **[[onexplayer-g1|ONEXPLAYER G1]]** — keyboard-equipped experiment with detachable controller modules.
+- **[[gpd-micropc-2|GPD MicroPC 2]]** — ruggedised UMPC for IT/field use.
 
 ## TDP Management
 
@@ -38,7 +39,7 @@ Thermal Design Power (TDP) is the most important performance variable on Windows
 - **28-45W** — performance mode for demanding games
 - **45-80W** — plugged-in maximum, approaches desktop-class performance
 
-At 80W TDP, the [[GPD Win 5]] and [[ONEXFLY Apex]] rival the performance of [[egpu-docking|eGPU setups]], raising questions about the continued need for external GPUs.
+At 80W TDP, the [[gpd-win-5|GPD WIN 5]] and [[onexplayer-onexfly-apex|ONEXPLAYER ONEXFLY Apex]] rival the performance of [[egpu-docking|eGPU setups]], raising questions about the continued need for external GPUs.
 
 ## Key Technologies
 
@@ -49,4 +50,4 @@ At 80W TDP, the [[GPD Win 5]] and [[ONEXFLY Apex]] rival the performance of [[eg
 
 ## Benchmarking
 
-Windows handhelds are benchmarked with PC-standard tools. See [[benchmark-methodology]] for the full suite of tests [[DroiX]] uses across reviews.
+Windows handhelds are benchmarked with PC-standard tools. See [[benchmark-methodology]] for the full suite of tests [[droix|DROIX]] uses across reviews.

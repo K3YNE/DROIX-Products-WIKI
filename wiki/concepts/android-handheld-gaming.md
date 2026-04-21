@@ -3,45 +3,45 @@ title: Android Handheld Gaming
 type: concept
 created: 2026-04-21
 updated: 2026-04-21
-sources: [ayaneo-pocket-ace-review.md, ayaneo-pocket-s2-review.md, ayaneo-pocket-ds-review.md, ayaneo-pocket-vert-review.md, ayn-odin-3-review.md, ayn-thor-review.md, anbernic-rg-slide-review.md, konkr-pocket-fit-review.md]
+sources: [2025-05-23-ayaneo-pocket-ace-review-youtube, 2025-07-18-ayaneo-pocket-s2-review-youtube, 2025-11-21-ayaneo-pocket-ds-review-youtube, 2026-03-31-ayaneo-pocket-vert-review-youtube, 2026-03-13-ayn-odin-3-review-youtube, 2026-01-27-ayn-thor-review-youtube, 2025-07-02-anbernic-rg-slide-review-youtube, 2025-11-14-konkr-pocket-fit-review-youtube]
 tags: [android, handheld, emulation, mobile-gaming]
 ---
 
 # Android Handheld Gaming
 
-Android handheld gaming devices are dedicated portable gaming hardware running the Android OS. [[DroiX]] reviews cover the full spectrum from budget retro emulation devices to flagship units capable of demanding emulation and native Android gaming.
+Android handheld gaming devices are dedicated portable gaming hardware running the Android OS. [[droix|DROIX]] reviews cover the full spectrum from budget retro emulation devices to flagship units capable of demanding emulation and native Android gaming.
 
 ## Processor Progression
 
 The flagship chipset landscape has evolved rapidly:
 
 - **Snapdragon G3X Gen 2** — early dedicated gaming chip
-- **Snapdragon G3 Gen 3** — current flagship gaming SoC (e.g., [[AYANEO Pocket S2]])
-- **Snapdragon 8 Elite** — latest top-tier mobile chip (e.g., [[AYN Odin 3]])
+- **Snapdragon G3 Gen 3** — current flagship gaming SoC (e.g., [[ayaneo-pocket-s2|AYANEO Pocket S2]])
+- **Snapdragon 8 Elite** — latest top-tier mobile chip (e.g., [[ayn-odin-3|AYN Odin 3]])
 
 Other notable processors:
-- **Unisoc T820** — budget tier (e.g., [[KONKR Pocket FIT]])
-- **Snapdragon 8 Gen 2** — high-end mobile (e.g., [[AYANEO Pocket ACE]])
+- **Unisoc T820** — budget tier (e.g., [[konkr-pocket-fit|KONKR Pocket FIT]])
+- **Snapdragon 8 Gen 2** — high-end mobile (e.g., [[ayaneo-pocket-ace|AYANEO Pocket ACE]])
 - **Snapdragon 8+ Gen 1** — previous-gen flagship
 
 ## Device Tiers
 
 ### Budget
-- [[Anbernic RG Slide]] — slide-out keyboard, 4:3 screen, retro-focused
-- [[KONKR Pocket FIT]] — affordable entry point with 144Hz display
+- [[anbernic-rg-slide|Anbernic RG Slide]] — slide-out keyboard, 4:3 screen, retro-focused
+- [[konkr-pocket-fit|KONKR Pocket FIT]] — affordable entry point with 144Hz display
 
 ### Mid-Range
-- [[AYANEO Pocket ACE]] — Snapdragon 8 Gen 2, strong all-rounder
+- [[ayaneo-pocket-ace|AYANEO Pocket ACE]] — Snapdragon 8 Gen 2, strong all-rounder
 
 ### Premium
-- [[AYANEO Pocket S2]] — Snapdragon G3 Gen 3, flagship performance
-- [[AYN Odin 3]] — Snapdragon 8 Elite, AMOLED display
+- [[ayaneo-pocket-s2|AYANEO Pocket S2]] — Snapdragon G3 Gen 3, flagship performance
+- [[ayn-odin-3|AYN Odin 3]] — Snapdragon 8 Elite, AMOLED display
 
 ## Form Factors
 
 - **Standard landscape** — traditional handheld layout (Pocket ACE, Pocket S2, Odin 3, Pocket FIT)
-- **Vertical** — [[AYANEO Pocket VERT]] and Pocket DMG, suited for Game Boy-era content
-- **Dual screen** — [[AYN Thor]] and [[AYANEO Pocket DS]], enabling DS/3DS/Wii U emulation on native dual displays
+- **Vertical** — [[ayaneo-pocket-vert|AYANEO Pocket VERT]] and Pocket DMG, suited for Game Boy-era content
+- **Dual screen** — [[ayn-thor|AYN Thor]] and [[ayaneo-pocket-ds|AYANEO Pocket DS]], enabling DS/3DS/Wii U emulation on native dual displays
 
 ## Software & Compatibility
 

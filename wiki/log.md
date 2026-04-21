@@ -1,6 +1,68 @@
 # Activity Log
 
-## [2026-04-21] ingest | Batch ingest of 15 DroiX video transcripts
+## [2026-04-21] restructure | Wiki schema v3 — navigation, technology brands, benchmarks, archive
+
+**Schema (AGENTS.md):**
+- New entity subtypes: `product-brand` (replaces `brand`), `technology-brand` (AMD, Qualcomm, Intel, Unisoc), `product-category` (Handheld PC, Android Handheld, UMPC, eGPU, Accessory)
+- Richer brand page schema: Product Lineup table, Forthcoming/Announcements, Knowledge Base index, Resources index, Relationship with DROIX
+- Technology-brand page schema: Chip Families table, DROIX Products table, Resources section
+- New source subtype: `benchmark-dataset`
+- Ingest-then-archive rule replaces raw/ immutability rule
+- `raw:` frontmatter field removed from source pages; raw/ links prohibited in wiki
+- Added `raw/ingest/{youtube,blog,kb,resources,benchmarks,product}/` drop-zone structure
+- New `archive/` directory for post-ingestion storage
+- Extraction depth rules by source subtype (kb = reproduce ALL, youtube = extract ALL benchmarks/specs)
+- Auto-entity creation rule: create entity page for every chip/tech mentioned during ingest
+- Rules 12–15 added: tech brands always current, category pages always current, sources are complete, website-ready
+
+**New entity pages created:**
+- Technology brands: [[amd]], [[qualcomm]], [[intel]], [[unisoc]]
+- Chipsets: [[qualcomm-snapdragon-8-gen-2]], [[qualcomm-snapdragon-8-elite]], [[amd-ryzen-ai-9-hx-370]], [[intel-n250]], [[intel-n300]], [[unisoc-t820]], [[amd-rx-7600m-xt]]
+- Product categories: [[handheld-pc]], [[android-handheld]], [[umpc]], [[egpu]], [[accessory]]
+
+**Updated entity pages:**
+- All 8 product-brand entities: subtype changed from `brand` to `product-brand`; added Product Lineup tables, Forthcoming/Announcements, Knowledge Base index, Resources index, Relationship with DROIX
+- [[gpd]] and [[ayaneo]] fully expanded; [[ayn]], [[onexplayer]], [[anbernic]], [[konkr]], [[retroid]] expanded with placeholder KB/Resources/Announcements sections
+
+**Index.md:**
+- Rebuilt as brand-centric + category navigation hub
+- Browse by Brand section (all product brands)
+- Browse by Category section (5 category pages)
+- Technology section (4 tech vendors + chipset listing)
+- Products section: each product nested with variants, reviews, KB, resources
+
+**Source pages:**
+- Removed `raw:` frontmatter field from all 25 source pages
+- Removed all `[Raw source](...)` body links from all 25 source pages
+
+**Benchmark integration:**
+- Created [[products-benchmarks-results]] (subtype: benchmark-dataset) with full data extraction from Products Benchmarks Results.xlsx
+- Updated [[gpd-win-5-max-395]], [[gpd-win-5-max-385]], [[onexplayer-onexfly-apex-max-395]] with full TDP-scaled gaming benchmark tables
+- Updated [[gpd-micropc-2-n250]], [[gpd-micropc-2-n300]] with synthetic benchmark tables
+- Updated Android product hubs ([[anbernic-rg-slide]], [[ayaneo-pocket-ace]], [[ayaneo-pocket-s2]], [[ayaneo-pocket-ds]], [[ayaneo-pocket-vert]], [[konkr-pocket-fit]], [[ayn-odin-3]], [[ayn-thor]]) with AnTuTu, Geekbench, 3DMark data
+
+**Archive migration:**
+- Moved all 58 files from `raw/brands/`, `raw/supplier-resources/`, `raw/benchmarks/` to `archive/`
+- `raw/` is now clean (ingest drop-zone structure only)
+- Legacy empty folders removed: `raw/assets/`, `raw/blog-review/`, `raw/youtube-review/`, `raw/knowledge-base/`, `raw/product/`
+
+## [2026-04-21] restructure | Wiki schema v2 — brand → product → variant → resources
+
+- Rewrote [AGENTS.md](../AGENTS.md) as the single source of truth: DROIX spelling rule, directory layout, slug conventions, page-type catalog (brand / product / variant / source / entity / concept / analysis), onboarding + ingest + resource + lint workflows. Supersedes the pre-existing draft.
+- **raw/ restructure** — collapsed the old `raw/assets/`, `raw/youtube-review/`, `raw/blog-review/`, `raw/knowledge-base/`, `raw/product/` folders into per-product trees under `raw/brands/<brand>/<product>/` with subfolders for `product/`, `reviews/{youtube,blog,external}/`, `knowledge-base/`, `resources/{firmware,bios,drivers,tools,manuals}/`, `images/`. 15 YouTube transcripts and 4 GPD WIN 5 first-party documents migrated. Legacy empty folders are flagged for manual deletion (sandbox cannot delete from the mounted workspace).
+- **wiki/products/** — created 14 product hubs + 8 variant pages across GPD, AYANEO, ONEXPLAYER, AYN, Anbernic, KONKR. Hub + variant pattern adopted; reviews link variant-primary, hub-secondary.
+- **wiki/sources/** — renamed the 15 existing review slugs to the new dated `YYYY-MM-DD-<brand>-<product>-<kind>` form (e.g. `gpd-win-5-review.md` → [[2025-10-23-gpd-win-5-review-youtube]]). All 16 pre-existing source pages migrated to the new frontmatter schema (subtype / brand / product / variant / raw / source_url). Seeded 6 GPD WIN 5 resource pages ([[gpd-win-5-firmware-win11-25h2]], [[gpd-win-5-firmware-win11-24h2]], [[gpd-win-5-bios-v2-25]], [[gpd-win-5-drivers-2025-10-30]], [[gpd-motionassistant-v1-2-0-9]], [[gpd-win-5-user-manual-2025-09-04]]) and 3 first-party content pages ([[gpd-win-5-product-page]], [[gpd-win-5-getting-started]], [[gpd-win-5-faq]]).
+- **wiki/entities/** — rewrote all 7 brand entities to the new schema with `products: [...]` manifests, added new stub [[retroid]], and added 2 chipset entities [[amd-ryzen-ai-max]] and [[qualcomm-snapdragon-g3-gen-3]]. Fixed [[droix]] to always use the "DROIX" spelling.
+- **wiki/concepts/** — 7 concept pages relinked to the new slug scheme (product hubs + dated source slugs), replaced all `[[DroiX]]` wikilinks with `[[droix|DROIX]]`, and updated frontmatter `sources:` lists to the new dated slugs.
+- **wiki/index.md** — rebuilt from scratch around the new structure (Brands / Products by brand / Sources by subtype / Entities / Concepts / Analysis).
+- Notes: Schema migration only — no new data ingested. Next ingest should onboard the full product catalogue (Retroid line, additional GPD/AYANEO/ONEXPLAYER/AYN SKUs) and backfill resource pages for products beyond the WIN 5.
+
+## [2026-04-21] ingest | GPD WIN 5 Review (GPD Store blog)
+- Created: [[gpd-win-5-blog-review]]
+- Updated: [[gpd-win-5-review]] (added 85W TDP update, linked blog review), [[gpd]] (added WIN Mini 2025 and WIN MAX 2 2025, blog rating), [[egpu-docking]] (added GPD Store quote, 85W TDP note)
+- Notes: First-party written review from gpdstore.net by Dave. Same device as DROIX video but adds 85W TDP launch update, 6 extra game benchmarks, idle battery life, BIWIN Mini SSD brand, and 4.9/5 rating.
+
+## [2026-04-21] ingest | Batch ingest of 15 DROIX video transcripts
 - Created: [[ayaneo-pocket-ace-review]], [[ayaneo-ag01-review]], [[anbernic-rg-slide-review]], [[ayaneo-pocket-s2-review]], [[gpd-micropc-2-review]], [[onexplayer-g1-review]], [[gpd-win-5-review]], [[ayaneo-flip-1s-ds-review]], [[konkr-pocket-fit-review]], [[gpd-win-5-smart-dock-review]], [[ayaneo-pocket-ds-review]], [[ayn-thor-review]], [[onexfly-apex-review]], [[ayn-odin-3-review]], [[ayaneo-pocket-vert-review]]
 - Created: [[droix]], [[ayaneo]], [[ayn]], [[gpd]], [[onexplayer]], [[anbernic]], [[konkr]]
 - Created: [[android-handheld-gaming]], [[windows-handheld-gaming]], [[emulation-performance]], [[egpu-docking]], [[dual-screen-handhelds]], [[display-technology]], [[benchmark-methodology]]

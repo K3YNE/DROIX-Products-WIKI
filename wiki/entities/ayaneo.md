@@ -1,38 +1,64 @@
 ---
 title: AYANEO
 type: entity
+subtype: product-brand
+slug: ayaneo
+country: China
+website: https://ayaneo.com
+sub_brands: [konkr]
+products: [ayaneo-pocket-ace, ayaneo-pocket-s2, ayaneo-pocket-ds, ayaneo-pocket-vert, ayaneo-flip-1s-ds, ayaneo-ag01]
 created: 2026-04-21
 updated: 2026-04-21
-sources: []
 tags: [manufacturer, android-handheld, windows-handheld, premium, egpu]
 ---
 
 # AYANEO
 
-AYANEO is a manufacturer of Android and Windows handheld gaming devices, positioned as a premium brand. AYANEO also owns the budget brand [[KONKR]].
+AYANEO is a Chinese manufacturer of premium Android and Windows handheld gaming devices. Known for CNC aluminium construction, high-end displays, and the iSpace software ecosystem. AYANEO also owns the budget sub-brand [[konkr|KONKR]].
 
-## Key Products Reviewed
+## Product Lineup
 
-- [[AYANEO Pocket ACE]] - Android handheld
-- [[AYANEO Pocket S2]] - Android handheld
-- [[AYANEO Pocket DS]] - dual-screen Android handheld
-- [[AYANEO Pocket VERT]] - vertical form factor Android handheld
-- [[AYANEO AG01]] - external GPU dock
-- [[AYANEO Flip 1S DS]] - dual-screen clamshell handheld
+| Product | Category | SoC/APU | Notable Feature |
+|---------|----------|---------|----------------|
+| [[ayaneo-pocket-ace]] | [[android-handheld]] | [[qualcomm-snapdragon-8-gen-2\|Snapdragon 8 Gen 2]] | Mid-range Android flagship |
+| [[ayaneo-pocket-s2]] | [[android-handheld]] | [[qualcomm-snapdragon-g3-gen-3\|Snapdragon G3 Gen 3]] | First G3 Gen 3 handheld; IPS 1440p |
+| [[ayaneo-pocket-ds]] | [[android-handheld]] | Snapdragon | 7" OLED + 5" LCD dual-screen |
+| [[ayaneo-pocket-vert]] | [[android-handheld]] | Snapdragon | Vertical format, LTPS display |
+| [[ayaneo-flip-1s-ds]] | [[handheld-pc]] | [[amd-ryzen-ai-9-hx-370\|Ryzen AI 9 HX 370]] | Dual-screen Windows clamshell |
+| [[ayaneo-ag01]] | [[egpu]] | AMD RX 7600M XT | Starship eGPU dock |
+
+## Forthcoming / Announcements
+
+No confirmed upcoming releases currently tracked. Update when sourced.
 
 ## Hardware Characteristics
 
-- Hall effect controls across the lineup
-- CNC aluminum construction on select premium models
-- Magic Switch scroll wheel for mode/input switching
-- Premium build quality throughout the range
+- Hall-effect controls across the lineup.
+- CNC aluminium construction on premium models.
+- Magic Switch scroll wheel for mode / input switching.
 
-## Software Ecosystem
+## Software Ecosystem (iSpace)
 
-AYANEO runs Android 13-14 on its handheld models and provides the **iSpace** software ecosystem:
+AYANEO's Android handhelds run iSpace:
 
-- **iSpace** - game launcher for organizing and launching titles
-- **AYA Settings** - device configuration utility
-- **AYA Space** - in-game overlay for quick settings
+- **iSpace** — game launcher.
+- **AYA Settings** — device configuration utility.
+- **AYA Space** — in-game overlay.
 
-A common criticism of iSpace is the lack of automatic game scraping; users must manually organize their libraries.
+Common criticism: no automatic game scraping — users manually organise libraries. Shared with [[konkr]] sub-brand devices.
+
+## Knowledge Base
+
+No KB articles ingested yet for AYANEO products. Onboard when sourced.
+
+## Resources
+
+No firmware, BIOS, or driver resources ingested yet for AYANEO products. Onboard when sourced.
+
+## Relationship to KONKR
+
+[[konkr]] is AYANEO's budget sub-brand. KONKR handhelds reuse the same flagship Snapdragon silicon and iSpace software at ~58 % lower prices, at the cost of LCD (vs IPS/OLED) and a slightly lower build tier.
+
+## Relationship with DROIX
+
+DROIX stocks AYANEO products. Coverage spans Android handhelds (Pocket line) and Windows clamshells (Flip line). Not all reviewed products are stocked — the [[ayaneo-flip-1s-ds]] was reviewed but alternatives were recommended.

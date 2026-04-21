@@ -1,9 +1,13 @@
 ---
 title: Anbernic
 type: entity
+subtype: product-brand
+slug: anbernic
+country: China
+website: https://anbernic.com
+products: [anbernic-rg-slide]
 created: 2026-04-21
 updated: 2026-04-21
-sources: []
 tags: [manufacturer, budget-handheld, retro-gaming]
 ---
 
@@ -11,25 +15,39 @@ tags: [manufacturer, budget-handheld, retro-gaming]
 
 Anbernic manufactures budget-friendly gaming handhelds focused on retro gaming and emulation, competing on price and innovative form factors.
 
-## Key Products Reviewed
+## Products covered in this wiki
 
-- [[Anbernic RG Slide]] - handheld with a unique sliding mechanism
-- **RG Cube** - shares the same Unisoc T820 processor as the RG Slide
+- [[anbernic-rg-slide]] — Sliding-screen handheld with Unisoc T820.
 
-Anbernic has also announced a dual-screen handheld.
+## Other Anbernic products (not yet covered)
+
+- RG Cube — shares the Unisoc T820 SoC with the RG Slide.
+- An announced dual-screen handheld (not yet shipping).
 
 ## Hardware Characteristics
 
-- Budget pricing aimed at value-conscious buyers
-- Innovative form factors (sliding screens, dual screens)
-- Unisoc T820 processor in current mid-range models
-- Mid-range performance suitable for retro gaming and lighter emulation
+- Budget pricing.
+- Innovative form factors (sliding screens, dual screens).
+- Unisoc T820 in current mid-range models.
+- Suited to retro gaming and lighter emulation.
 
 ## Software
 
-- **RG Launcher** - built-in launcher for retro gaming organization
-- **AI Translation App** - included translation utility
+- **RG Launcher** — built-in retro-gaming launcher.
+- **AI Translation App** — bundled translation utility.
 
-## Market Position
+## Forthcoming / Announcements
 
-Anbernic competes primarily on price, offering good value for money. The [[Anbernic RG Slide]] competes with devices like the [[AYANEO Pocket Micro]] at a lower price point.
+- An announced dual-screen Anbernic handheld (not yet shipping). Onboard when sourced.
+
+## Knowledge Base
+
+No KB articles ingested yet for Anbernic products. Onboard when sourced.
+
+## Resources
+
+No firmware, BIOS, or driver resources ingested yet for Anbernic products. Onboard when sourced.
+
+## Relationship with DROIX
+
+DROIX covers Anbernic in its YouTube reviews. The [[anbernic-rg-slide]] was reviewed in 2025.
