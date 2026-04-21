@@ -2,8 +2,8 @@
 title: Ingest Ledger
 type: analysis
 slug: ingest-ledger
-created: 2026-04-21
-updated: 2026-04-21
+created: 2026-04-22
+updated: 2026-04-22
 sources: []
 tags: [ingest, ledger]
 ---
@@ -14,10 +14,10 @@ Tracks staged raw sources and archived supplier resource bundles awaiting full w
 
 ## Summary
 
-- Total pending records: 856
+- Total pending records: 852
 - kb-article: 387
 - review-blog: 237
-- product-page: 204
+- product-page: 200
 - resource-bundle: 28
 
 ## Open Issues
@@ -37,7 +37,6 @@ Tracks staged raw sources and archived supplier resource bundles awaiting full w
 | pending | `raw/ingest/product/droix-shop/anbernic-rg-cube.md` | product-page |  | anbernic | anbernic-rg-cube | android-handheld | product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/anbernic-rg-nano-case.md` | product-page |  | anbernic | anbernic-rg-nano-case | android-handheld | product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/anbernic-rg-nano.md` | product-page |  | anbernic | anbernic-rg-nano | android-handheld | product-not-onboarded |
-| pending | `raw/ingest/product/droix-shop/anbernic-rg-slide.md` | product-page |  | anbernic | anbernic-rg-slide | android-handheld |  |
 | pending | `raw/ingest/product/droix-shop/anbernic-rg28xx.md` | product-page |  | anbernic | anbernic-rg28xx | android-handheld | product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/anbernic-rg300x.md` | product-page |  | anbernic | anbernic-rg300x | android-handheld | product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/anbernic-rg353p.md` | product-page |  | anbernic | anbernic-rg353p | android-handheld | product-not-onboarded |
@@ -59,9 +58,6 @@ Tracks staged raw sources and archived supplier resource bundles awaiting full w
 | pending | `raw/ingest/product/droix-shop/ayaneo-joystickcaps.md` | product-page |  | ayaneo | ayaneo-joystickcaps | android-handheld | product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/ayaneo-magic-modules.md` | product-page |  | ayaneo | ayaneo-magic-modules |  | unresolved-category, product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/ayaneo-next.md` | product-page |  | ayaneo | ayaneo-next |  | unresolved-category, product-not-onboarded |
-| pending | `raw/ingest/product/droix-shop/ayaneo-pocket-ace-case.md` | product-page |  | ayaneo | ayaneo-pocket-ace | android-handheld |  |
-| pending | `raw/ingest/product/droix-shop/ayaneo-pocket-ace-grips.md` | product-page |  | ayaneo | ayaneo-pocket-ace | android-handheld |  |
-| pending | `raw/ingest/product/droix-shop/ayaneo-pocket-ace.md` | product-page |  | ayaneo | ayaneo-pocket-ace | android-handheld |  |
 | pending | `raw/ingest/product/droix-shop/ayaneo-pocket-dmg-case1.md` | product-page |  | ayaneo | ayaneo-pocket-dmg-case1 | accessory | product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/ayaneo-pocket-dmg.md` | product-page |  | ayaneo | ayaneo-pocket-dmg |  | unresolved-category, product-not-onboarded |
 | pending | `raw/ingest/product/droix-shop/ayaneo-pocket-ds-bag.md` | product-page |  | ayaneo | ayaneo-pocket-ds | android-handheld |  |

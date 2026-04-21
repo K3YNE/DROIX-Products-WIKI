@@ -7,7 +7,7 @@ country: China
 website: https://anbernic.com
 products: [anbernic-rg-slide]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [manufacturer, budget-handheld, retro-gaming]
 ---
 
@@ -46,7 +46,7 @@ No KB articles ingested yet for Anbernic products. Onboard when sourced.
 
 ## Resources
 
-No firmware, BIOS, or driver resources ingested yet for Anbernic products. Onboard when sourced.
+No firmware, BIOS, or driver resources ingested yet for Anbernic products. Product-page sources now include [[anbernic-rg-slide-product-page]].
 
 ## Relationship with DROIX
 

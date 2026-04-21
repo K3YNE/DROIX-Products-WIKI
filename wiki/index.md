@@ -40,8 +40,9 @@ Quick navigation hub. Every page in the wiki is reachable from here. All page ty
 - [[amd-ryzen-ai-max]] — AMD Ryzen AI Max (Strix Halo): used in [[gpd-win-5]], [[onexplayer-onexfly-apex]]
 - [[amd-ryzen-ai-9-hx-370]] — AMD Ryzen AI 9 HX 370 (Strix Point): used in [[ayaneo-flip-1s-ds]]
 - [[qualcomm-snapdragon-g3-gen-3]] — Snapdragon G3 Gen 3: used in [[ayaneo-pocket-s2]], [[konkr-pocket-fit]]
+- [[qualcomm-snapdragon-g3x-gen-2]] — Snapdragon G3x Gen 2: used in [[ayaneo-pocket-ace]]
 - [[qualcomm-snapdragon-8-elite]] — Snapdragon 8 Elite: used in [[ayn-odin-3]]
-- [[qualcomm-snapdragon-8-gen-2]] — Snapdragon 8 Gen 2: used in [[ayaneo-pocket-ace]], [[ayn-thor]]
+- [[qualcomm-snapdragon-8-gen-2]] — Snapdragon 8 Gen 2: used in [[ayn-thor]]
 - [[intel-n300]] — Intel N300: used in [[gpd-micropc-2]]
 - [[intel-n250]] — Intel N250: used in [[gpd-micropc-2]]
 - [[unisoc-t820]] — Unisoc T820: used in [[anbernic-rg-slide]]
@@ -73,8 +74,9 @@ Quick navigation hub. Every page in the wiki is reachable from here. All page ty
 
 ### AYANEO
 
-#### [[ayaneo-pocket-ace]] — Snapdragon 8 Gen 2 Android Handheld
+#### [[ayaneo-pocket-ace]] — Snapdragon G3x Gen 2 Android Handheld
 - Reviews: [[2025-05-23-ayaneo-pocket-ace-review-youtube]]
+- Product pages: [[ayaneo-pocket-ace-product-page]] | [[ayaneo-pocket-ace-case-product-page]] | [[ayaneo-pocket-ace-grips-product-page]]
 
 #### [[ayaneo-pocket-s2]] — Snapdragon G3 Gen 3 Flagship Android Handheld
 - Reviews: [[2025-07-18-ayaneo-pocket-s2-review-youtube]]
@@ -119,6 +121,7 @@ Quick navigation hub. Every page in the wiki is reachable from here. All page ty
 
 #### [[anbernic-rg-slide]] — Budget Sliding-Screen Android Handheld
 - Reviews: [[2025-07-02-anbernic-rg-slide-review-youtube]]
+- Product pages: [[anbernic-rg-slide-product-page]]
 
 ---
 

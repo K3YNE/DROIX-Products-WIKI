@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-04-22] ingest | Product-page batch: RG Slide and Pocket ACE
+- Created: [[anbernic-rg-slide-product-page]], [[ayaneo-pocket-ace-product-page]], [[ayaneo-pocket-ace-case-product-page]], [[ayaneo-pocket-ace-grips-product-page]], [[qualcomm-snapdragon-g3x-gen-2]]
+- Updated: [[anbernic-rg-slide]], [[ayaneo-pocket-ace]], [[anbernic]], [[ayaneo]], [[android-handheld]], [[qualcomm]], [[qualcomm-snapdragon-8-gen-2]], [[index]], [[ingest-ledger]]
+- Archived: `raw/ingest/product/droix-shop/anbernic-rg-slide.md`, `raw/ingest/product/droix-shop/ayaneo-pocket-ace.md`, `raw/ingest/product/droix-shop/ayaneo-pocket-ace-case.md`, `raw/ingest/product/droix-shop/ayaneo-pocket-ace-grips.md`
+- Notes: Attached accessory pages to [[ayaneo-pocket-ace]] rather than creating standalone hubs. Corrected the [[ayaneo-pocket-ace]] chipset from the older wiki's [[qualcomm-snapdragon-8-gen-2]] attachment to [[qualcomm-snapdragon-g3x-gen-2]], supported by both the existing review and the new product page. Flagged source-level display/spec contradictions on the affected source pages.
+
 ## [2026-04-21] ingest-prep | Full corpus queue and tooling
 - Created: [[mini-pc]], [[ingest-ledger]]
 - Updated: [[index]]
