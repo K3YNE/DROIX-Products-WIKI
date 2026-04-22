@@ -19,6 +19,20 @@ type FolderState = {
   collapsed: boolean
 }
 
+function isElementVisible(el: Element): boolean {
+  if (typeof el.checkVisibility === "function") {
+    return el.checkVisibility()
+  }
+
+  const style = window.getComputedStyle(el)
+  return (
+    style.display !== "none" &&
+    style.visibility !== "hidden" &&
+    style.opacity !== "0" &&
+    el.getClientRects().length > 0
+  )
+}
+
 let currentExplorerState: Array<FolderState>
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
@@ -278,7 +292,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     const mobileExplorer = explorer.querySelector(".mobile-explorer")
     if (!mobileExplorer) return
 
-    if (mobileExplorer.checkVisibility()) {
+    if (isElementVisible(mobileExplorer)) {
       explorer.classList.add("collapsed")
       explorer.setAttribute("aria-expanded", "false")
 

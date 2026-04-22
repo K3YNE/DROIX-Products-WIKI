@@ -523,6 +523,11 @@ _No analysis pages yet._
   - return a real `404` status for missing pages instead of serving `404.html` as `200`.
 - This matters because Quartz emits relative internal links. If a client lands on a slash-suffixed leaf URL such as `/products/gpd-pocket-4/`, links like `../entities/gpd` resolve against the wrong base path and navigation breaks.
 
+## Frontend Compatibility Notes
+
+- `Element.checkVisibility()` is only available in iOS Safari 17.4+. Do not call it directly in Quartz client scripts without a fallback.
+- `portal/quartz/components/scripts/explorer.inline.ts` must use a compatibility helper for mobile explorer visibility checks, otherwise older iPhones throw `TypeError: <element>.checkVisibility is not a function` during SPA navigation.
+
 ## Rules
 
 1. **Always write "DROIX"**, never "DroiX" or "Droix".
