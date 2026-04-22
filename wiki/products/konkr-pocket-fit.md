@@ -18,9 +18,15 @@ Budget Android handheld from [[konkr|KONKR]] ([[ayaneo|AYANEO]]'s sub-brand). Us
 
 ## Design & Build
 
-- Qualcomm Snapdragon G3 Gen 3 SoC.
-- LCD display (vs IPS/OLED on premium AYANEO).
-- iSpace software ecosystem (shared with AYANEO).
+- Two processor options: [[qualcomm-snapdragon-g3-gen-3|Snapdragon G3 Gen 3]] (Android 14) and [[qualcomm-snapdragon-8-elite|Snapdragon 8 Elite]] (Android 16)
+- 6" LCD, 1920x1080, 144 Hz, 367 PPI, touchscreen
+- Mid-size Hall Effect joysticks with RGB lighting
+- Dual-mode Hall Effect triggers (linear + digital switching)
+- 6-axis gyroscope, dual X-axis linear motors (haptic feedback)
+- 8000 mAh Li-Po battery with PD fast charging
+- Wi-Fi 7, Bluetooth 5.3/6
+- USB 3.2 Type-C (10 Gbps)
+- iSpace software ecosystem (shared with AYANEO): AYAHome, Master Controller, Retro Game Frontend
 
 ## Benchmarks ([[products-benchmarks-results]])
 
@@ -41,6 +47,13 @@ Budget Android handheld from [[konkr|KONKR]] ([[ayaneo|AYANEO]]'s sub-brand). Us
 ## Reviews & Coverage
 
 - [[2025-11-14-konkr-pocket-fit-review-youtube]] — DROIX YouTube review.
+- [[konkr-pocket-fit-product-page-droix]] — DROIX product page.
+- [[2025-11-14-konkr-pocket-fit-review-blog]]
+
+
+## Supplier Resources
+
+- [[konkr-pocket-fit-supplier-resources]]
 
 ## Related
 

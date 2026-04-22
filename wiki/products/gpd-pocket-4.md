@@ -7,7 +7,7 @@ form_factor: umpc
 platform: windows
 variants: [gpd-pocket-4-8840u, gpd-pocket-4-ai-365, gpd-pocket-4-ai-370]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [gpd, umpc, pocket, windows]
 ---
 
@@ -31,7 +31,28 @@ GPD's small-form-factor Windows UMPC. Sold by [[gpd|GPD]] in three APU tiers, wh
 
 ## Reviews & Coverage
 
-None yet ingested.
+### Blog Reviews
+- [[2024-12-05-gpd-pocket-4-review-blog]] — GPDStore blog review (pre-production HX 370): 8.8" 144Hz display, modular ports, vs Pocket 3 comparison.
+
+### Product pages
+- [[gpd-pocket-4-product-page-gpdstore]] — GPDStore product listing. Ryzen AI 9 HX 370 on pre-order (ETA 30 April 2026). Up to 64 GB LPDDR5X, 4 TB SSD, Thunderbolt 4, 8.8" touchscreen.
+- [[gpd-pocket-4-4g-lte-module-product-page-gpdstore]] — 4G LTE expansion module (out of stock).
+- [[gpd-pocket-4-kvm-module-product-page-gpdstore]] — KVM expansion module (HDMI + USB-C; out of stock).
+- [[gpd-pocket-4-rs-232-module-product-page-gpdstore]] — RS-232 serial expansion module.
+- [[gpd-pocket-4-protective-case-product-page-gpdstore]] — Faux leather magnetic case.
+
+## Knowledge Base
+
+- [[how-to-replace-the-gpd-pocket-4-fan]]
+- [[how-to-replace-the-gpd-pocket-4-keyboard]]
+
+- [[gpd-pocket-4-getting-started]] — Getting started guide: inspection checklist, Windows/driver updates, module changes, software recommendations, accessories, and FAQ.
+- [[gpd-pocket-4-faq]] — FAQ covering specs, modular port, battery, thermal management, multi-display, stylus, eGPU, storage upgrades.
+- [[gpd-pocket-4-bios-update]] — BIOS and EC firmware update guide (separate files for 8840U vs HX 365/370).
+- [[gpd-pocket-4-module-change]] — Step-by-step guide for swapping modular port accessories (KVM, RS-232, 4G LTE, Micro SD).
+- [[gpd-pocket-4-fan-replacement]] — Video and text guide for replacing the fan.
+- [[gpd-pocket-4-keyboard-replacement]] — Video guide for keyboard replacement (requires near-total disassembly).
+- [[gpd-ram-frequency-change]] — BIOS guide for changing RAM frequency (covers Pocket 4 and other GPD devices).
 
 ## Related
 

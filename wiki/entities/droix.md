@@ -7,7 +7,7 @@ country: United Kingdom
 websites: [https://droix.co.uk, https://droix.eu, https://droix.net]
 youtube: https://www.youtube.com/@droix
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [retailer, publisher, youtube-channel, uk, global-shipping]
 ---
 
@@ -33,4 +33,12 @@ The DROIX channel reviews devices from [[gpd]], [[ayaneo]], [[ayn]], [[onexplaye
 
 ## Brands DROIX represents
 
-Primary: [[gpd]], [[ayaneo]], [[onexplayer]], [[ayn]], [[retroid]]. Also covered: [[anbernic]], [[konkr]], and others as they appear in the lineup.
+Primary: [[gpd]], [[ayaneo]], [[onexplayer]], [[ayn]], [[retroid]]. Also covered: [[anbernic]], [[konkr]], [[miyoo]], and others as they appear in the lineup.
+
+## DROIX Own-Brand Products
+
+DROIX sells products under its own brand and sub-brands:
+
+- **Proteus** — mini PCs: [[droix-proteus-11|Proteus 11]] (11th-gen Intel Tiger Lake).
+- **DROIX SD1** — [[droix-sd1|SD1 Docking Station]] (6-in-1 USB-C dock for handheld gaming PCs).
+- **Accessories** — [[droix-usb4-cable-product-page-droix|USB 4.0 Type-C Cable]], [[micro-sd-card-product-page-droix|MicroSD cards]], [[scy-msata-ssd-product-page-droix|SCY mSATA SSDs]], [[g20-air-mouse-product-page-droix|G20 Air Mouse]], [[g30-air-mouse-product-page-droix|G30 Air Mouse]].

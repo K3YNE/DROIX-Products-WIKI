@@ -68,6 +68,7 @@ tags: [anbernic, android-handheld, budget, sliding-screen, unisoc]
 
 - [[2025-07-02-anbernic-rg-slide-review-youtube]] — DROIX YouTube review.
 - [[anbernic-rg-slide-product-page]] — DROIX product page.
+- [[2025-07-15-anbernic-rg-slide-review-blog]]
 
 ## Related
 

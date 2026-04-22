@@ -1,0 +1,110 @@
+---
+title: "Installing custom firmware on the LDK retro gaming handheld"
+type: source
+subtype: kb-article
+slug: installing-custom-firmware-on-the-ldk-retro-gaming-handheld
+brand: generic
+product: null
+source_url: "https://droix.net/knowledge-base/article/installing-custom-firmware-on-the-ldk-retro-gaming-handheld/"
+published: 2021-11-20
+created: 2026-04-22
+updated: 2026-04-22
+tags: [kb-article]
+---
+
+You can buy the LDK in both Yellow and Transparent colours from **<https://droidbox.co.uk/droix-ldk-console-retro-gaming-emulator-handheld-jz4760-transparent-yellow-latest-hw-version.html>**
+
+### **You will need**
+
+MiniTool Partition Wizard Free Edition from **<https://www.minitool.com/download-center/>**  
+Win32 DiskImager program from **<https://sourceforge.net/projects/win32diskimager/>** or Etcher from **<https://www.balena.io/etcher/>**
+
+Custom Firmware with software installed – Download **[here](https://rs97.bitgala.xyz/ALL%20RetroFW%20V1.2%20CFW/LDK%20Veritical/LDK_Vertical-CFW-27-10-19.7z)**.
+
+### **Removing the Micro SD Card**
+
+On the back of the LDK, remove the battery cover.
+
+You can now remove the battery to reveal the Micro SD Card.
+
+You can now gently remove the Micro SD Card from the slot.
+
+### **Preparing The Micro SD Card**
+
+Insert your Micro SD Card into your PC and load Mini Tool Partition Wizard.
+
+Identify and double check that you can see the Micro SD Card and then select it by clicking on the text for the card to select all of the card.
+
+Right Click on the same area and choose **Delete All Partitions**
+
+Right Click on the **Unallocated Space** area and choose **Create** from the menu.
+
+Select the drop down menu for **File System** and choose **FAT32**, then click on **OK**.
+
+Click on **Apply** to begin deleting the partitions and format the Micro SD Card.
+
+Once it has completed you are ready to write the custom firmware.
+
+### **Writing the Custom Firmware**
+
+Insert the Micro SD Card into your PC’s card reader if you have not already.
+
+Extract the custom firmware archive file. You should have a file with the filename extension of .img. For example LDK\_RetroFW\_V1.2\_Full\_JZ4760B\_02-05-19.img
+
+Load the Win32 DiskImager program and choose the first drive (Device) for your SD Card reader.
+
+Click on the small blue folder icon and select the .img file that you have extracted
+
+Double and triple check that you have selected the correct drive for the Micro SD Card and that you have prepared and chosen the correct image file. Once checked, press **Write** to begin writing the image file.
+
+The process should take around up to 15 minutes depending on the speed of the Micro SD card and your PC.
+
+Once completed, you can click on **Exit** to close the program.
+
+### Expanding the available drive space for games
+
+Load the Mini Tool Partition Wizard software. You will now see that there five partitions on the MicroSD Card.
+
+**Note:** If the partition named **‘main’** does not have a drive letter, Right click on it and choose Change Letter and then assign it one.
+
+We now want to expand the partition named ‘**main**’ to use the remaining available space. Right click on the ‘main’ partition and choose **Extend**
+
+Drag the slider all the way to the right to fully allocate all the space to the ‘main’ partition. Click on **OK**.
+
+Click on Apply in the top left to start allocating the free space to the ‘**main**’ partition. This may take some time depending on the size of your MicroSD Card
+
+Once complete, you can now exit the Mini Tool Partition Wizard software.
+
+### **Adding your own games**
+
+You can use either the internal or external Micro SD card to add your own games. We recommend using an external Micro SD card as it is quicker and easier to update if you wish to add or delete games in the future.
+
+**Internal SD Card Only**
+
+If you are using the internal Micro SD card you will need to copy the files to a specific location. First insert the card into your PC. You may get some notifications that new drives are not formatted, select **Cancel** for all of them.
+
+Choose the last USB Device on your list, it should have a **retrofw** icon. You should see the contents of it similar to below. You can copy any files to the **roms** folder.
+
+If you can not see this drive, load Mini Tool Partition Wizard, Right Click on the **RETROFW** area and choose **Change Letter** from the menu.
+
+You can choose any available drive letter from the drop down menu. Click on **OK** once chosen.
+
+Click on **Apply**.
+
+**External Micro SD Card Only**
+
+If you have not already, format your Micro SD card to **FAT32**. Insert the Micro SD Card into your PC. In Explorer, right click on the Micro SD Card drive and choose **Format**.
+
+### **Copying files**
+
+We recommend keeping an organised folder structure if you are planning to add many games. By making folders for each system it allows for easier finding of games and also faster loading times. Make a folder for each of the systems you plan to add games for.
+
+If you have a large number of games for a system, you can organise it further into sub-folders such as A-F, G-L, M-S, T-Z. This makes it faster to load the list of games, and also saves time for you scrolling to get to a game beginning with R for example.
+
+### **Finishing up**
+
+Once you are done copying over your files, you can insert the Micro SD Card into either the internal or external Micro SD Card slot.
+
+Reinsert the battery into the battery compartment and then put the battery compartment lid back into place.
+
+Switch on your LDK and after a few moments it should boot to the custom firmware.

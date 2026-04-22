@@ -28,6 +28,12 @@ tags: [onexplayer, windows-handheld, dual-keyboard]
 ## Reviews & Coverage
 
 - [[2025-08-29-onexplayer-g1-review-youtube]] — DROIX YouTube review. Mixed verdict.
+- [[2025-08-29-onexplayer-g1-review-blog]]
+
+
+## Supplier Resources
+
+- [[onexplayer-g1-a1370-supplier-resources]] | [[onexplayer-g1-255h-supplier-resources]]
 
 ## Related
 

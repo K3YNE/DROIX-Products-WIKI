@@ -7,7 +7,7 @@ vendor: amd
 family: Strix Point
 process_node: 4nm TSMC
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [amd, ryzen-ai, strix-point, hx-370, handheld-pc]
 ---
 
@@ -28,6 +28,8 @@ The Ryzen AI 9 HX 370 is AMD's top-tier Strix Point APU, built on a 4nm process.
 ## Products Using This Chip
 
 - [[ayaneo-flip-1s-ds]] — dual-screen Windows clamshell; variant: [[ayaneo-flip-1s-ds-hx-370]]
+- [[onexplayer-onexfly-f1-pro]] — 7" OLED 144Hz handheld (HX 370 as top-tier option alongside HX 365 and 8840U)
+- [[onexplayer-x1-pro]] — 10.95" 3-in-1 tablet/handheld
 - [[gpd-pocket-4]] — convertible UMPC; variant: [[gpd-pocket-4-ai-370]]
 
 ## Performance Context

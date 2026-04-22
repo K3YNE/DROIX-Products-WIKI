@@ -18,6 +18,10 @@ Ultra-Mobile PCs are compact Windows devices designed for productivity, field wo
 |---------|-----|------------|--------|
 | [[gpd-micropc-2]] | [[intel-n250\|N250]] / [[intel-n300\|N300]] | IT / field work UMPC | [[2025-07-24-gpd-micropc-2-review-youtube\|YouTube]] |
 | [[gpd-pocket-4]] | AMD Ryzen AI / 8840U | Convertible UMPC | (no review ingested) |
+| [[gpd-duo]] | AMD Ryzen AI 9 HX 370 / 8840U | Dual 13.3" AMOLED, stylus | [[gpd-duo-product-page-gpdstore\|Product page]] |
+| [[gpd-pocket-3]] | Intel Pentium Gold 7505 | 8" modular UMPC (KVM/RS-232) | [[gpd-pocket-3-product-page-gpdstore\|Product page]] |
+| [[gpd-p2-max]] | Intel Pentium Silver N6000 | 8.9" mini laptop | [[gpd-p2-max-2022-product-page-gpdstore\|Product page]] |
+| [[gpd-micro-pc]] | Intel Celeron N4120 | RS-232, Windows 10 Pro, field work | [[gpd-micro-pc-product-page-gpdstore\|Product page]] |
 
 ## Key Buying Considerations
 

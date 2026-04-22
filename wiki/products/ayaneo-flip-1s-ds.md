@@ -35,6 +35,12 @@ Additional SKUs (e.g. 8840U) may exist; add variant pages as confirmed.
 ## Reviews & Coverage
 
 - [[2025-11-07-ayaneo-flip-1s-ds-review-youtube]] — DROIX YouTube review.
+- [[2025-11-07-ayaneo-flip-1s-ds-review-blog]]
+
+
+## Supplier Resources
+
+- [[ayaneo-flip-1s-supplier-resources]]
 
 ## Related
 

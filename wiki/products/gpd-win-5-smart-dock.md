@@ -36,6 +36,7 @@ First-party docking accessory for the [[gpd-win-5]]. DROIX's review verdict was 
 ## Reviews & Coverage
 
 - [[2025-11-20-gpd-win-5-smart-dock-review]] — DROIX YouTube review. Negative verdict.
+- [[2025-11-20-gpd-win-5-docking-station-review-blog]]
 
 ## Related
 

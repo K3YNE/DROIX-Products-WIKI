@@ -6,7 +6,7 @@ slug: amd-ryzen-ai-max
 family: Strix Halo
 vendor: AMD
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [amd, apu, strix-halo, ryzen-ai-max]
 ---
 
@@ -16,8 +16,8 @@ AMD's Strix Halo APU family — the first AMD APU to ship in a gaming handheld f
 
 ## SKUs tracked in this wiki
 
-- **Ryzen AI Max+ 395** — 16 cores / 32 threads, 40-CU Radeon 8060S GPU. Used by [[gpd-win-5-max-395]] and [[onexplayer-onexfly-apex-max-395]].
-- **Ryzen AI Max 385** — 8 cores / 16 threads, 32-CU GPU. Used by [[gpd-win-5-max-385]].
+- **Ryzen AI Max+ 395** — 16 cores / 32 threads, 40-CU Radeon 8060S GPU. Used by [[gpd-win-5-max-395]], [[onexplayer-onexfly-apex-max-395]], and [[onexplayer-super-x]] (Max+ 395 variant).
+- **Ryzen AI Max 385** — 8 cores / 16 threads, 32-CU Radeon 8050S GPU. Used by [[gpd-win-5-max-385]] and [[onexplayer-super-x]] (Max 385 variant).
 
 ## Platform capabilities
 

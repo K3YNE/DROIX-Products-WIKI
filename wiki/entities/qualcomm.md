@@ -20,7 +20,7 @@ Qualcomm is a US semiconductor company whose Snapdragon SoCs power all Android h
 | Snapdragon G-series (gaming) | [[qualcomm-snapdragon-g3-gen-3\|Snapdragon G3 Gen 3]] | [[ayaneo-pocket-s2]], [[konkr-pocket-fit]] |
 | Snapdragon G-series (gaming) | [[qualcomm-snapdragon-g3x-gen-2\|Snapdragon G3x Gen 2]] | [[ayaneo-pocket-ace]], [[ayaneo-pocket-ds]] |
 | Snapdragon 8-series (flagship) | [[qualcomm-snapdragon-8-plus-gen-1\|Snapdragon 8+ Gen 1]] | [[ayaneo-pocket-vert]] |
-| Snapdragon 8-series (flagship) | [[qualcomm-snapdragon-8-gen-2\|Snapdragon 8 Gen 2]] | [[ayn-thor]] |
+| Snapdragon 8-series (flagship) | [[qualcomm-snapdragon-8-gen-2\|Snapdragon 8 Gen 2]] | [[ayn-odin-2]], [[ayn-odin-2-mini]], [[ayn-odin-2-portal]], [[ayn-thor]] |
 | Snapdragon 8-series (flagship) | [[qualcomm-snapdragon-8-elite\|Snapdragon 8 Elite]] | [[ayn-odin-3]] |
 
 ## DROIX Products Using Qualcomm
@@ -32,6 +32,9 @@ Qualcomm is a US semiconductor company whose Snapdragon SoCs power all Android h
 | [[ayaneo-pocket-ace]] | [[qualcomm-snapdragon-g3x-gen-2\|Snapdragon G3x Gen 2]] | [[android-handheld]] |
 | [[ayaneo-pocket-ds]] | [[qualcomm-snapdragon-g3x-gen-2\|Snapdragon G3x Gen 2]] | [[android-handheld]] |
 | [[ayaneo-pocket-vert]] | [[qualcomm-snapdragon-8-plus-gen-1\|Snapdragon 8+ Gen 1]] | [[android-handheld]] |
+| [[ayn-odin-2]] | [[qualcomm-snapdragon-8-gen-2\|Snapdragon 8 Gen 2]] | [[android-handheld]] |
+| [[ayn-odin-2-mini]] | [[qualcomm-snapdragon-8-gen-2\|Snapdragon 8 Gen 2]] | [[android-handheld]] |
+| [[ayn-odin-2-portal]] | [[qualcomm-snapdragon-8-gen-2\|Snapdragon 8 Gen 2]] | [[android-handheld]] |
 | [[ayn-thor]] | [[qualcomm-snapdragon-8-gen-2\|Snapdragon 8 Gen 2]] | [[android-handheld]] |
 | [[ayn-odin-3]] | [[qualcomm-snapdragon-8-elite\|Snapdragon 8 Elite]] | [[android-handheld]] |
 

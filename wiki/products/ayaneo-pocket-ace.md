@@ -72,6 +72,12 @@ Android pocket-form-factor handheld from [[ayaneo|AYANEO]]. Positioned for Andro
 - [[ayaneo-pocket-ace-product-page]] — DROIX product page.
 - [[ayaneo-pocket-ace-case-product-page]] — DROIX product page for the protective case.
 - [[ayaneo-pocket-ace-grips-product-page]] — DROIX product page for the ergonomic grips.
+- [[2025-06-02-ayaneo-pocket-ace-review-blog]]
+
+
+## Supplier Resources
+
+- [[ayaneo-pocket-ace-supplier-resources]]
 
 ## Related
 

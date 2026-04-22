@@ -62,6 +62,7 @@ Vertical-orientation Android handheld from [[ayaneo|AYANEO]]. Positioned as the 
 
 - [[2026-03-31-ayaneo-pocket-vert-review-youtube]] — DROIX YouTube review.
 - [[ayaneo-pocket-vert-product-page]] — DROIX product page.
+- [[2026-03-30-ayaneo-pocket-vert-review-blog]]
 
 ## Related
 

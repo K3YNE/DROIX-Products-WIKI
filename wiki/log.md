@@ -1,5 +1,251 @@
 # Activity Log
 
+## [2026-04-22] ingest | Supplier resources: 61 source pages, 30 minimal product hubs, 1 FAQ page
+- Processed ALL supplier resource files from raw/supplier-resources/ (AYANEO + ONEXPLAYER)
+- **AYANEO source pages (34):**
+  - Windows Console (17): [[ayaneo-2s-supplier-resources]], [[ayaneo-3-supplier-resources]], [[ayaneo-flip-supplier-resources]], [[ayaneo-flip-1s-supplier-resources]], [[ayaneo-next-supplier-resources]], [[ayaneo-kun-supplier-resources]], [[ayaneo-2-supplier-resources]], [[ayaneo-2021-supplier-resources]], [[ayaneo-air-supplier-resources]], [[ayaneo-air-1s-supplier-resources]], [[ayaneo-air-plus-6800u-supplier-resources]], [[ayaneo-air-plus-7x20u-supplier-resources]], [[ayaneo-air-plus-intel-supplier-resources]], [[ayaneo-geek-supplier-resources]], [[ayaneo-slide-supplier-resources]], [[ayaneo-founder-supplier-resources]], [[ayaneo-next-lite-supplier-resources]]
+  - Android Console (12): [[ayaneo-pocket-s-supplier-resources]], [[ayaneo-pocket-s2-supplier-resources]], [[ayaneo-pocket-ace-supplier-resources]], [[ayaneo-pocket-dmg-supplier-resources]], [[ayaneo-pocket-ds-supplier-resources]], [[ayaneo-pocket-evo-supplier-resources]], [[ayaneo-pocket-micro-supplier-resources]], [[ayaneo-pocket-air-supplier-resources]], [[ayaneo-pocket-air-mini-supplier-resources]], [[ayaneo-pocket-micro-classic-supplier-resources]], [[ayaneo-pocket-fit-elite-supplier-resources]], [[konkr-pocket-fit-supplier-resources]]
+  - Mini PC (3): [[ayaneo-am01-supplier-resources]], [[ayaneo-am01s-supplier-resources]], [[ayaneo-am02-supplier-resources]]
+  - Shared/Tools (2): [[ayaneo-windows-console-supplier-resources]], [[ayaspace-supplier-resources]]
+- **ONEXPLAYER source pages (27):** [[onexfly-apex-supplier-resources]], [[onexfly-f1-pro-supplier-resources]], [[onexplayer-super-x-supplier-resources]], [[onexplayer-x1-pro-supplier-resources]], [[onexplayer-x1-8840u-supplier-resources]], [[onexplayer-x1-155h-supplier-resources]], [[onexplayer-x1-mini-supplier-resources]], [[onexplayer-g1-a1370-supplier-resources]], [[onexplayer-g1-255h-supplier-resources]], [[onexplayer-m1-supplier-resources]], [[onexgpu-2-supplier-resources]], [[one-netbook-5-supplier-resources]], [[onexplayer-sugar-1-supplier-resources]], [[onexplayer-x1-air-supplier-resources]], [[onexplayer-2-6800u-supplier-resources]], [[onexplayer-2pro-7840-supplier-resources]], [[onexplayer-2pro-8840-supplier-resources]], [[onexplayer-game-console-supplier-resources]], [[onexfly-7840u-supplier-resources]], [[onexfly-8840u-supplier-resources]], [[onexplayer1-supplier-resources]], [[onexplayer1amd-supplier-resources]], [[onexplayer1mini-supplier-resources]], [[onexplayer1mini-amd-supplier-resources]], [[onexplayer1mini-intel-supplier-resources]], [[onexplayer-minipro-6800u-supplier-resources]], [[onexplayer-faqs-supplier-resources]]
+- **Minimal product hubs created (30):**
+  - AYANEO (17): [[ayaneo-2]], [[ayaneo-2021]], [[ayaneo-air]], [[ayaneo-air-1s]], [[ayaneo-air-plus]], [[ayaneo-geek]], [[ayaneo-kun]], [[ayaneo-slide]], [[ayaneo-founder]], [[ayaneo-next-lite]], [[ayaneo-pocket-air]], [[ayaneo-pocket-air-mini]], [[ayaneo-pocket-micro-classic]], [[ayaneo-pocket-fit-elite]], [[ayaneo-am01]], [[ayaneo-am01s]], [[ayaneo-am02]]
+  - ONEXPLAYER (13): [[onexplayer-2]], [[onexplayer-2pro]], [[onexplayer-onexfly]], [[onexplayer-game-console]], [[onexplayer-1]], [[onexplayer-1-amd]], [[onexplayer-1-mini]], [[onexplayer-1-mini-amd]], [[onexplayer-1-mini-intel]], [[onexplayer-m1]], [[one-netbook-5]], [[onexplayer-sugar-1]], [[onexplayer-x1-air]]
+- **Updated 22 existing product hubs** with Supplier Resources sections: [[ayaneo-2s]], [[ayaneo-3]], [[ayaneo-flip]], [[ayaneo-flip-1s-ds]], [[ayaneo-next]], [[ayaneo-pocket-s]], [[ayaneo-pocket-s2]], [[ayaneo-pocket-ace]], [[ayaneo-pocket-dmg]], [[ayaneo-pocket-ds]], [[ayaneo-pocket-evo]], [[ayaneo-pocket-micro]], [[konkr-pocket-fit]], [[onexplayer-onexfly-apex]], [[onexplayer-onexfly-f1-pro]], [[onexplayer-super-x]], [[onexplayer-x1-pro]], [[onexplayer-x1-amd]], [[onexplayer-x1-mini]], [[onexplayer-onexgpu-2]], [[onexplayer-g1]], [[onexplayer-mini-pro]]
+- Skipped 4 empty category index files (Android Console, Mini PC, Linux — no resources returned by API)
+- Notes: Supplier resource files remain in raw/supplier-resources/ as reference per instructions. AYANEO resources extracted from ayaneo.com API with version numbers, dates, changelogs, and download URLs. ONEXPLAYER resources extracted from onexplayerstore.com with Google Drive/OneDrive download links. AYASpace v3.0.0.30 is the current AYANEO system tool version. BIOS flashing instructions preserved where provided.
+
+## [2026-04-22] ingest | 127 remaining DROIX blog review articles (batch 2)
+- Created 127 source pages from remaining droix.net blog reviews (Sept 2022 - March 2026)
+- Brand breakdown: GPD (14), AYANEO (18), ONEXPLAYER (12), Anbernic (12), Beelink (4), Minisforum (5), GMKTec (9), AYN (6), Retroid (5), Miyoo (2), DROIX own-brand (8), Geekom (5), ACEPC (3), AOKZOE (1), ONE-Netbook (2), Chuwi (1), RockTek (2), beCreatus (1), BudPlus (1), KONKR (1), Maxtang (1), Nikko (1), Triple Aero (1), BIWIN (1)
+- Products covered include: GPD WIN 4 (6800U), WIN MAX 2 (6800U/2023/2024), Pocket 3, AYANEO 2/2S/3/Geek/Geek 1S/Flip/Slide/Pocket Air/S/S2/DMG/Micro/Micro Classic/ACE/DS/VERT/AG01, ONEXPLAYER Mini Pro/2/X1/X1 AMD/X1 Mini/X1 Pro/ONEXFLY/F1 Pro/G1/ONEXGPU/ONEXGPU 2/Apex, AYN Odin Pro/2/2 Mini/2 Portal/Loki/Thor/Odin 3, Anbernic RG353V/M/PS/405V/505/Nano/ARC/35XX/35XX Plus/H/SP/556/Cube/40XXV/Slide, Retroid Pocket 3+/2S/Flip/4 Pro/5, Miyoo Mini Plus/A30, GMKTec NucBox7/G5/K6/K8/K9/M3/M4/M5/M6/GBook, and many mini PCs and accessories
+- All 137 files archived to archive/ingest/blog/droix-reviews/
+- Raw ingest directory cleared
+
+## [2026-04-22] ingest | 100 blog review articles (17 GPDStore + 83 DROIX)
+- Created 100 source pages from blog reviews:
+  - **GPDStore reviews (17):** GPD WIN 4 (2022, 2024, 2025), GPD WIN MAX 2 (2022, 2024, 2025), GPD WIN Mini (2024, 2025), GPD Pocket 3 (7505), GPD Pocket 4 (HX 370), GPD Duo (HX 370), GPD G1 eGPU, GPD MicroPC 2 (N250/N300), GPD WIN 5 (MAX+ 395), BIWIN Mini SSD, GPD WIN 5 Docking Station, GPD P2 MAX 2022
+  - **DROIX reviews (83):** Spanning 2017-2022, covering GPD (WIN 2/3/Max/XP/Pocket/P2 Max), AYANEO (NEO 2021/Pro/Air/NEXT), ONEXPLAYER (1S/Mini/AMD), Anbernic (RG351V/M/P/MP, RG300X, RG503, RG353P, RG552, WIN 600), Retroid (Pocket 2/2+/3), Beelink (SEi 10, U59, SER3/4/5, GK35/Pro, GTi11, GT King, GTR4/5, GT-R7, Mini S), MinisForum (X400/X500, HX90, TL50, HM50/80, JB95, UM350, B550), GMKTec (NucBox5), Miyoo (Mini V2), DROIX own-brand (CK2, Stheno F5, Proteus G4/G7/10/10S/11), controllers (EasySMX), accessories
+- Updated product hubs with blog review references: [[gpd-win-4]], [[gpd-win-5]], [[gpd-win-max-2]], [[gpd-win-mini]], [[gpd-pocket-3]], [[gpd-pocket-4]], [[gpd-duo]], [[gpd-g1]], [[gpd-micropc-2]], [[gpd-p2-max]]
+- Archived 17 files to archive/ingest/blog/gpdstore-reviews/
+- Archived 83 files to archive/ingest/blog/droix-reviews/
+
+## [2026-04-22] ingest | 108 DROIX KB articles (batch 3: how-to-switch through your-tv-isnt)
+- Created 108 source pages from droix.net knowledge base (remaining droix-kb files)
+- Skipped 1 file: justice-or-equality.md (garbled/non-product content)
+- Brand breakdown: droix (55), gpd (17), anbernic (8), beelink (5), minisforum (5), onexplayer (3), retroid (3), generic (12)
+- Updated 7 product hubs with KB references: [[gpd-win-5]], [[gpd-win-4]], [[gpd-win-max-2]], [[gpd-win-mini]], [[gpd-win-3]], [[gpd-g1]], [[onexplayer-onexfly-f1-pro]]
+- Topics: BIOS updates, firmware flashing, device teardowns, network troubleshooting, Kodi/DBMC setup, custom firmware for retro handhelds, Windows reinstallation, driver management, VPN setup, key mapping, international shipping, warranty transfer
+
+## [2026-04-22] ingest | 100 DROIX KB articles (batch 2: how-to-delete through how-to-stream)
+- Created 100 source pages from droix.net knowledge base (how-to-delete-and-disable-add-ons-in-kodi through how-to-stream-any-magnet-torrent-link)
+- Updated 15 product hubs with KB references: [[gpd-win-5]], [[gpd-win-max-2]], [[gpd-win-mini]], [[gpd-win-4]], [[gpd-win-3]], [[gpd-pocket-4]], [[gpd-pocket-3]], [[ayaneo-next]], [[ayn-thor]], [[ayn-odin-2]], [[retroid-pocket-flip]], [[onexplayer-onexfly-f1-pro]], [[droix-proteus-11]], [[rocktek-gx1]], [[miyoo-a30]]
+- Brand distribution: gpd (28), droix/generic (42), ayaneo (3), onexplayer (3), ayn (2), retroid (3), anbernic (7), beelink (2), minisforum (3), retroid (2), other (5)
+- All 100 files archived to archive/ingest/kb/droix-kb/
+- 109 KB articles remaining in raw/ingest/kb/droix-kb/
+
+## [2026-04-22] ingest | 96 DROIX KB articles (first 100 alphabetically, 4 skipped)
+- Created 96 source pages from droix.net knowledge base:
+  - **Skipped (4):** bt-are-your-isp (not product-related), how-to-basic (joke page), egpu-fix (duplicate of GPDStore version), addressing-windows-11-24h2-bsods (duplicate of GPDStore version)
+  - **DROIX legacy media players (24):** [[droix-recovery-menu]], [[droix-t8-firmware-recovery]], [[droix-t8-mini-how-to-guide]], [[droix-t8-s-how-to-guide]], [[droix-imx6-setup-guide]], [[droix-imxqpro-how-to-guide]], [[droix-x7-q7-how-to-guide]], [[droix-imx6-factory-reset-alternative]], [[droix-play-gamepad-manual]], [[droix-i9-mini-keyboard-guide]], [[droix-share-how-to]], [[droix-share-android-demo]], [[droix-checking-drive-partitions]], [[droix-formatting-internal-hard-drive]], [[droix-go-v3-launcher-change]], [[droix-t8-s-plus-launcher-change]], [[droix-remote-control-guide]], [[droix-b52-air-mouse-calibration]], [[droix-emulate-controller-interface]], [[droix-heads-up-notifications]], [[droix-sky-router-disconnect-fix]], [[droix-control-centre-kodi-fixes]], [[droix-control-centre-maintenance]], [[droix-google-play-store-first-run]]
+  - **Kodi/LibreELEC guides (11):** [[droix-clearing-kodi-data]], [[droix-cast-youtube-to-kodi]], [[droix-libreelec-file-transfer]], [[droix-fix-blank-kodi-keyboard]], [[droix-kodi-confluence-shortcuts]], [[droix-kodi-library-setup]], [[droix-kodi-lip-sync-adjustment]], [[droix-kodi-background-change]], [[droix-close-kodi-correctly]], [[droix-configure-kodi-correctly]], [[beelink-gt-king-coreelec-install]]
+  - **DROIX general/cross-brand guides (12):** [[droix-wifi-troubleshooting]], [[droix-clear-app-data-android-6-7-devices]], [[droix-clear-app-data-android-6-7]], [[droix-copy-files-via-usb-ftp]], [[droix-connect-ipega-gamepads]], [[handheld-tdp-performance-guide]], [[handheld-companion-guide]], [[benchmark-windows-device]], [[benchmark-windows-android-handheld]], [[add-games-roms-handheld]], [[budplus-s3-getting-started]], [[mini-pc-reinstall-windows-guide]]
+  - **Anbernic (6):** [[anbernic-charging-guide]], [[anbernic-arc-getting-started]], [[anbernic-rg35xx-plus-getting-started]], [[anbernic-rg405v-getting-started]], [[anbernic-rg350-add-emulators]], [[anbernic-rg351p-add-games]]
+  - **AYANEO (4):** [[ayaneo-pocket-s-firmware-reflash]], [[ayaneo-pocket-s-getting-started]], [[ayaneo-slide-getting-started]], [[ayaneo-joystick-calibration]]
+  - **AYN (2):** [[ayn-odin-2-getting-started]], [[ayn-odin-2-super-dock-getting-started]]
+  - **GPD (12):** [[gpd-pocket-best-software]], [[gpd-win-3-touch-panel-fix]], [[gpd-xd-plus-firmware-flash]], [[gpd-win-software-getting-started]], [[gpd-win-4-6800u-lcd-firmware-fix]], [[gpd-win-max-reset-guide]], [[gpd-xd-plus-miravision-settings]], [[gpd-joystick-calibration]], [[gpd-win-4-2023-2024-getting-started]], [[gpd-win-max-2-2023-getting-started]], [[gpd-win-mini-2023-2024-getting-started]], [[gpd-bios-updates-guide]], [[gpd-tool-download-setup-guide]]
+  - **AOKZOE (1):** [[aokzoe-a1-pro-getting-started]]
+  - **Beelink (1):** [[beelink-pc-firmware-reinstall]]
+  - **Generic/retro (6):** [[bittboy-pocket-go-custom-firmware]], [[custom-firmware-retro-handhelds]], [[emuelec-add-games-scrape-data]], [[emuelec-wifi-theme-scrape]], [[gmenu2x-change-emulator-folder]], [[retroflag-gpi-case-wifi]]
+  - **Other brands (8):** [[minisforum-assembly-guide]], [[minisforum-um780-xtx-getting-started]], [[minisforum-un100-getting-started]], [[miyoo-mini-plus-getting-started]], [[onexplayer-onexfly-getting-started]], [[onexplayer-onexgpu-getting-started]], [[retroid-pocket-3-plus-flip-getting-started]], [[retroid-pocket-4-getting-started]]
+  - **DROIX accessories/generic getting-started (9):** [[droix-nt8-getting-started]], [[droix-pm13-getting-started]], [[getting-started-handheld-gaming-pc]], [[getting-started-mini-pc]], [[getting-started-portable-monitor]], [[getting-started-retro-handheld]], [[gulikit-7in1-dock-getting-started]], [[nespi-4-build-guide]]
+- Updated product hubs: [[ayaneo-pocket-s]], [[ayn-odin-2]], [[gpd-win-3]], [[gpd-win-4]], [[gpd-win-max-2]], [[gpd-win-mini]], [[anbernic-rg405v]], [[anbernic-rg35xx-plus]], [[anbernic-rg-arc-s]], [[aokzoe-a1-pro]]
+- Archived all 100 raw files to archive/ingest/kb/droix-kb/
+- Notes: Full content reproduction per AGENTS.md rules. DroiX/DroidBOX references normalized to DROIX. 2 articles skipped as duplicates of existing GPDStore KB versions. 2 articles skipped as not product-related.
+
+## [2026-04-22] ingest | 68 GPDStore KB articles (FAQs, guides, BIOS updates, hardware repairs, software tools)
+- Created 68 source pages (2 skipped — gpd-win-5-getting-started and gpd-win-5-faq already existed):
+  - **FAQs (8):** [[gpd-duo-faq]], [[gpd-g1-faq]], [[gpd-micropc-2-faq]], [[gpd-pocket-3-faq]], [[gpd-pocket-4-faq]], [[gpd-win-4-faq]], [[gpd-win-max-2-faq]], [[gpd-win-mini-faq]]
+  - **Getting started (4):** [[gpd-win-max-2-getting-started]], [[gpd-win-mini-getting-started]], [[droix-pm14-getting-started]], [[gpd-156-portable-monitor-getting-started]]
+  - **BIOS updates (10):** [[gpd-duo-bios-update]], [[gpd-g1-bios-update]], [[gpd-micropc-2-bios-update]], [[gpd-pocket-4-bios-update]], [[gpd-win-4-bios-update]], [[gpd-win-5-bios-update-guide]], [[gpd-win-max-2-bios-update]], [[gpd-win-max-2-2025-bios-update]], [[gpd-win-mini-bios-update]], [[gpd-win-mini-2025-bios-update]]
+  - **Hardware repairs (16):** [[gpd-win-5-triggers-fix]], [[gpd-win-5-left-joystick-replacement]], [[gpd-win-5-right-joystick-replacement]], [[gpd-win-4-ssd-replacement]], [[gpd-win-4-triggers-replacement]], [[gpd-win-4-display-replacement]], [[gpd-win-max-2-keyboard-replacement]], [[gpd-win-max-2-display-replacement]], [[gpd-win-max-2-ssd-trigger-battery-replacement]], [[gpd-win-mini-teardown]], [[gpd-win-mini-2025-display-replacement]], [[gpd-win-mini-2024-fan-replacement]], [[gpd-win-mini-2025-battery-replacement]], [[gpd-win-mini-2025-right-joystick-replacement]], [[gpd-pocket-4-fan-replacement]], [[gpd-pocket-4-keyboard-replacement]]
+  - **Firmware/software (6):** [[gpd-win-5-optical-mouse-firmware]], [[gpd-win-mini-2025-gamepad-firmware]], [[gpd-motion-assistant-software]], [[gpd-tool-frontend]], [[gpd-egpu-fix-hx-365-370]], [[gpd-duo-screen-tearing-fix]]
+  - **Device-specific guides (8):** [[gpd-win-5-usb-charger-guide]], [[gpd-win-5-battery-cable-extender]], [[gpd-win-5-mini-ssd-guide]], [[gpd-win-max-2-2025-4g-module-install]], [[gpd-win-max-2-2025-battery-icon-fix]], [[gpd-pocket-4-module-change]], [[gpd-micropc-2-tdp-change]], [[gpd-micropc-2-enable-windows-updates]], [[gpd-duo-video-input-guide]]
+  - **Cross-product guides (16):** [[gpd-optimisation-guide]], [[gpd-amd-graphics-drivers]], [[gpd-add-games-roms]], [[gpd-retroarch-setup]], [[gpd-benchmark-guide]], [[gpd-benchmark-device-performance]], [[gpd-factory-reset]], [[gpd-reinstall-windows]], [[gpd-update-windows-drivers]], [[gpd-rufus-bootable-usb]], [[gpd-recalibrate-controls]], [[gpd-ram-frequency-change]], [[gpd-warranty-transfer]], [[gpd-wd-sandisk-ssd-firmware-fix]]
+- Updated product hubs: [[gpd-win-5]], [[gpd-win-4]], [[gpd-win-max-2]], [[gpd-win-mini]], [[gpd-duo]], [[gpd-g1]], [[gpd-pocket-3]], [[gpd-pocket-4]], [[gpd-micropc-2]] (added KB article wikilinks)
+- Updated brand entity: [[gpd]] (comprehensive Knowledge Base section with all articles grouped by product)
+- Archived all 70 raw files to archive/ingest/kb/gpdstore-kb/
+- Notes: Full content reproduction per AGENTS.md rules. Every Q&A, step, checklist, warning, troubleshooting item, image reference, and external link preserved.
+
+## [2026-04-22] ingest | 8 GPDStore KB getting-started articles
+- Created: [[gpd-pocket-4-getting-started]], [[gpd-micropc-2-getting-started]], [[gpd-duo-getting-started]], [[gpd-g1-getting-started]], [[gpd-pocket-3-getting-started]], [[gpd-win-4-getting-started]], [[droix-sd1-getting-started]], [[droix-nh8-getting-started]]
+- Created: [[droix-nh8]] (new product hub for DROIX NH8 USB Hub with NVMe)
+- Updated: [[gpd-pocket-4]], [[gpd-micropc-2]], [[gpd-duo]], [[gpd-g1]], [[gpd-pocket-3]], [[gpd-win-4]], [[droix-sd1]] (added Knowledge Base sections)
+- Updated: [[index.md]] (added KB links to 7 products, added DROIX NH8 product hub entry)
+- Notes: Full content reproduction per AGENTS.md rules. Each source page includes all inspection checklists, update procedures, software recommendations, accessory descriptions, FAQ Q&A pairs, and troubleshooting steps from the original articles.
+
+## [2026-04-22] onboard + ingest | Remaining 56 GPDStore product pages: 10 new product hubs, 56 source pages
+
+### New product hubs (10)
+- [[gpd-win-4]] — Sliding keyboard handheld, yearly refreshes (2022/2023/2024/2025). AMD Ryzen 6800U through AI 9 HX 370.
+- [[gpd-win-3]] — Intel Tiger Lake handheld (i5-1135G7/i7-1195G7), Thunderbolt 4. Discontinued.
+- [[gpd-win-max-2]] — 10.1" large-format handheld, yearly refreshes (2021/2022/2023/2024/2025). AMD Ryzen 6800U through AI 9 HX 370.
+- [[gpd-win-mini]] — Compact clamshell handheld, yearly refreshes (2023/2024/2025). AMD Ryzen 7640U through AI 9 HX 370.
+- [[gpd-duo]] — Dual 13.3" AMOLED UMPC with stylus support. Ryzen AI 9 HX 370 / 8840U.
+- [[gpd-g1]] — eGPU dock with AMD RX 7600M XT. OCuLink/USB4/TB3/TB4. 2023 and 2024 models.
+- [[gpd-pocket-3]] — 8" modular UMPC (Intel Pentium Gold 7505). KVM/RS-232 expansion modules.
+- [[gpd-p2-max]] — 8.9" mini laptop (Intel Pentium Silver N6000). Discontinued.
+- [[gpd-micro-pc]] — Original MicroPC (Intel Celeron N4120). RS-232 serial port. Predecessor to MicroPC 2.
+- [[gpd-portable-monitor]] — 15.6" 4K portable monitors (3 variants: Adobe RGB, stylus, touchscreen).
+
+### New source pages (56)
+- 10 product page sources for devices with new hubs
+- 16 yearly-refresh product page sources (WIN 4 x4, WIN Max 2 x5, WIN Mini x3, WIN Max 2021 x1, G1 x2, P2 Max x1)
+- 15 accessory source pages (cases, grips, docking stations, LTE modules, screen protectors, styluses, cables)
+- 6 storage/SSD source pages (BIWIN 2230 NVMe, Mini SSD, RD510 reader)
+- 5 monitor source pages (3x 15.6" 4K variants, DROIX PM13, DROIX PM14)
+- 4 cable/connectivity source pages (USB 4.0 x2, USB-C to HDMI, USB5, OCuLink)
+
+### Updated pages
+- [[gpd]] — Added 10 new products to lineup table, cleared Forthcoming section
+- [[handheld-pc]] — Added WIN 4, WIN 3, WIN Max 2, WIN Mini
+- [[egpu]] — Added GPD G1
+- [[umpc]] — Added GPD DUO, Pocket 3, P2 Max, MicroPC
+- [[amd-rx-7600m-xt]] — Added GPD G1 to products using this chip
+- [[index]] — Added all 10 new product hubs, 56 source pages, GPDStore standalone accessories section
+
+### Notes
+- GPD G1 is a DIFFERENT product from [[onexplayer-g1]] (the dual-keyboard Windows handheld). GPD G1 is an eGPU dock.
+- WIN Max 2021 and WIN Max 2 (2022 original) list identical specs on GPDStore (both show Ryzen 7 6800U). The "2021" branding may refer to a pre-refresh variant.
+- GPD DUO is categorised as UMPC (not handheld-pc) due to its laptop form factor and productivity focus.
+- GPD Pocket 2 case source page created but GPD Pocket 2 hub not onboarded (legacy product).
+- SD1 Docking Station appears on both GPDStore and DROIX store; source page links to existing [[droix-sd1]] hub.
+- BIWIN Mini SSD has 1-year warranty (not the standard 2-year), noted on source page.
+- Archived: 56 files from `raw/ingest/product/gpdstore-shop/`
+
+## [2026-04-22] onboard + ingest | Final 25 DROIX product pages: 9 product hubs, 25 source pages, 1 new brand entity
+
+### New brand entity
+- [[miyoo]] — budget Linux retro handheld manufacturer (A30, Mini Plus)
+
+### New product hubs (9)
+- [[miyoo-a30]] — Allwinner A33, 2.8" IPS, Linux retro handheld
+- [[miyoo-mini-plus]] — SigmaStar SSD202D, 3.5" IPS, MiniUI/Onion OS retro handheld
+- [[r36s]] — RK3326, 3.5" IPS, vertical Linux retro handheld (generic)
+- [[r46s]] — RK3566, 4" IPS 1:1 square display, Linux retro handheld (generic)
+- [[droix-proteus-11]] — DROIX own-brand mini PC (Intel i5-1135G7 / i7-1165G7, Thunderbolt 4)
+- [[droix-sd1]] — DROIX own-brand 6-in-1 USB-C docking station
+- [[x9-game-stick]] — Amlogic S905X3 retro game stick (EmuELEC, 4K HDMI)
+- [[x9-pro-game-stick]] — Amlogic S905X3 retro game stick (64-256 GB variants)
+- [[budplus-s3-projector]] — BudPlus 1080p Android 9 home cinema projector
+
+### New source pages (25)
+- 9 product page sources for new hubs above
+- 16 accessory source pages: animal thumb grip caps, AYANEO thumb caps (S2/Micro/DMG/ACE), Miyoo Mini Plus case, GPD earphones, MicroSD card, SCY mSATA SSD, KingSpec 2230 NVMe, DROIX USB 4.0 cable, ONEXPLAYER X1 controller bag, GuliKit 7-in-1 dock, GuliKit KingKong 2 Pro controller, iPega 9120 controller, G20 air mouse, G30 air mouse, NIKKO electronic badge, MOZA AirCross GH4/GH5 PSU
+
+### Updated pages
+- [[droix]] — added Proteus 11, SD1, and DROIX-branded accessories
+- [[ayaneo-pocket-s2]] — added thumb caps accessory
+- [[onexplayer-x1-amd]], [[onexplayer-x1-mini]] — added controller bag accessory
+- [[android-handheld]] — added Miyoo A30, Mini Plus, R36S, R46S
+- [[mini-pc]] — added Proteus 11
+- [[media-player]] — added X9, X9 Pro game sticks
+- [[accessory]] — added SD1, BudPlus S3
+- [[index]] — added all new products, Miyoo brand, standalone accessories
+
+### Notes
+- R36S and R46S listed under "GameForce" brand on DROIX; they are generic Chinese handhelds.
+- X9 and X9 Pro game sticks share identical S905X3 hardware; differ only in storage options.
+- R46S has spec discrepancies: body says 1.8 GHz / 4000 mAh / 8 hours; spec table says 1.5 GHz / 7 hours. Flagged on source page.
+- MOZA AirCross PSU is a camera gimbal accessory — flagged as non-gaming.
+- NIKKO Electronic Badge is a social wearable display — flagged as non-gaming.
+- Miyoo Mini Plus battery discrepancy: body says 3000 mAh / 8 hours; spec table says 7 hours.
+- Archived: 25 files from `raw/ingest/product/droix-shop/`
+
+## [2026-04-22] onboard + ingest | Multi-brand batch: 31 files, 26 product hubs, 31 source pages, 7 new brand entities
+
+### New brand entities created
+- [[beelink]] (13 mini PCs), [[gmktec]] (5 mini PCs), [[acepc]] (2 mini PCs), [[aokzoe]] (1 handheld PC), [[minisforum]] (1 mini PC), [[rocktek]] (4 media players)
+- [[media-player]] — new product category entity for Android TV boxes / Google TV devices
+
+### Retroid (3 hubs + 5 source pages)
+- Created product hubs: [[retroid-pocket-3-plus]], [[retroid-pocket-4-pro]], [[retroid-pocket-flip]]
+- Created source pages: [[retroid-pocket-3-plus-product-page-droix]], [[retroid-pocket-4-pro-product-page-droix]], [[retroid-pocket-flip-product-page-droix]], [[retroid-pocket-flip-case-product-page-droix]], [[retroid-pocket-flip-grip-product-page-droix]]
+- Updated: [[retroid]] (3 products added), [[android-handheld]] (3 new entries)
+
+### Beelink (13 hubs + 13 source pages)
+- Created product hubs: [[beelink-eqi12]], [[beelink-eqr5]], [[beelink-eqr6]], [[beelink-gti10]], [[beelink-gti11]], [[beelink-gti13]], [[beelink-gti14-ultra]], [[beelink-mini-s]], [[beelink-s12]], [[beelink-sei12-i7]], [[beelink-sei12]], [[beelink-sei14]], [[beelink-t5]]
+- Created source pages: corresponding `-product-page-droix` for each
+
+### GMKTec (5 hubs + 5 source pages)
+- Created product hubs: [[gmktec-g1]], [[gmktec-nucbox-g3]], [[gmktec-nucbox-k9]], [[gmktec-nucbox-m3]], [[gmktec-nucbox-m5]]
+
+### Other brands (5 hubs + 8 source pages)
+- Created: [[acepc-picobox-mini]], [[acepc-picobox-pro]], [[aokzoe-a1-pro]], [[minisforum-elitemini-um690]], [[rocktek-g2]], [[rocktek-g2-rtx5000]], [[rocktek-gb1]], [[rocktek-gx1]]
+
+### Updated entity/category pages
+- [[mini-pc]] — full product tables (22 products across 4 brands)
+- [[handheld-pc]] — added [[aokzoe-a1-pro]]
+- [[android-handheld]] — added 3 Retroid products
+- [[index]] — all 26 new products + 7 new brands + media-player category
+
+### Notes
+- Beelink GTi11 spec table is minimal (only brand listed); hub uses product description data.
+- Several Beelink/GMKTec products have discrepancies between product copy and spec table (e.g., Ethernet speed, WiFi version). Flagged on source pages.
+- RockTek G2 base model shows Android 14 in spec table but Android TV 11 in copy; RTX5000 bundle shows Android TV 11 consistently.
+- ACEPC PicoBox Pro has RAM discrepancy: spec table says 32 GB but configurations list 16 GB.
+- Retroid Pocket 4 listing covers both RP4 (D900) and RP4 PRO (D1100) in one page; hub created for PRO as primary.
+- Archived: 31 files from `raw/ingest/product/droix-shop/`
+
+## [2026-04-22] onboard + ingest | ONEXPLAYER batch: 9 new products, 20 source pages
+- Created product hubs: [[onexplayer-mini]], [[onexplayer-mini-pro]], [[onexplayer-onexfly-f1-pro]], [[onexplayer-onexgpu]], [[onexplayer-onexgpu-2]], [[onexplayer-super-x]], [[onexplayer-x1-amd]], [[onexplayer-x1-mini]], [[onexplayer-x1-pro]]
+- Created source pages: [[onexplayer-mini-product-page-droix]], [[onexplayer-mini-pro-product-page-droix]], [[onexplayer-onexfly-f1-pro-product-page-droix]], [[onexplayer-onexgpu-product-page-droix]], [[onexplayer-onexgpu-2-product-page-droix]], [[onexplayer-super-x-product-page-droix]], [[onexplayer-x1-amd-product-page-droix]], [[onexplayer-x1-mini-product-page-droix]], [[onexplayer-x1-pro-product-page-droix]], [[onexplayer-apex-battery-product-page-droix]], [[onexplayer-apex-battery-cable-product-page-droix]], [[onexplayer-apex-battery-dock-product-page-droix]], [[onexplayer-apex-case-product-page-droix]], [[onexplayer-onexfly-case-product-page-droix]], [[onexplayer-onexgpu-case-product-page-droix]], [[onexplayer-onexgpu-2-case-product-page-droix]], [[onexplayer-oculink-cable-product-page-droix]], [[onexplayer-x1-bag-product-page-droix]], [[onexplayer-x1-connector-product-page-droix]], [[onexplayer-x1-mini-keyboard-product-page-droix]]
+- Updated: [[onexplayer]] (11 products), [[onexplayer-onexfly-apex]] (accessories), [[handheld-pc]] (7 new entries), [[egpu]] (2 new entries), [[index]], [[log]]
+- Archived: 20 files from `raw/ingest/product/droix-shop/onexplayer-*.md`
+- Notes: ONEXFLY F1 Pro has 3 CPU tiers (8840U/HX365/HX370) in one listing. Super X is a 14" AMOLED tablet with up to 128GB RAM and cTDP 45-120W. X1 series features native OCuLink and 3-in-1 detachable controllers. ONEXGPU 2 benchmarks: Time Spy 15,916, Fire Strike 42,949 (RX 7800M). Mini is legacy (LPDDR4X, no video out on AMD variant). OCuLink cable compatible across ONEXGPU, ONEXGPU 2, and X1.
+
+## [2026-04-22] onboard + ingest | AYN Odin family (4 new hubs, 12 source pages)
+- Created product hubs: [[ayn-odin-2]], [[ayn-odin-2-mini]], [[ayn-odin-2-portal]], [[ayn-odin-pro]]
+- Created source pages: [[ayn-odin-2-product-page-droix]], [[ayn-odin-2-mini-product-page-droix]], [[ayn-odin-2-portal-product-page-droix]], [[ayn-odin-pro-product-page-droix]], [[ayn-odin-3-product-page-droix]], [[ayn-odin-2-case-product-page-droix]], [[ayn-odin-2-screen-protector-product-page-droix]], [[ayn-odin-2-super-dock-product-page-droix]], [[ayn-odin-2-mini-case-product-page-droix]], [[ayn-odin-2-mini-screen-protector-product-page-droix]], [[ayn-odin-2-portal-case-product-page-droix]], [[ayn-odin-2-portal-screen-protector-product-page-droix]]
+- Updated: [[ayn-odin-3]] (added tiers, product page ref, predecessor link), [[ayn]] (full product table, 6 products), [[qualcomm-snapdragon-8-gen-2]] (added Odin 2/Mini/Portal), [[qualcomm]] (added 3 products to tables), [[android-handheld]] (added 4 products), [[index]], [[log]]
+- Notes: Odin 2 family all use Snapdragon 8 Gen 2 / Adreno 740. Odin Pro is a legacy SD845 device (out of stock). Odin 2 Portal was previously the Android performance reference before the Odin 3. Super Dock is out of stock. Accessories (cases, screen protectors, dock) attached to parent product hubs.
+
+## [2026-04-22] ingest | Phase 1 Batch 6: AYANEO accessories (13 source pages)
+- Created: [[ayaneo-pocket-s-accessories-product-page-droix]], [[ayaneo-3-case-product-page-droix]], [[ayaneo-3-screen-protector-product-page-droix]], [[ayaneo-joystickcaps-product-page-droix]], [[ayaneo-magic-modules-product-page-droix]], [[ayaneo-pocket-dmg-case-product-page-droix]], [[ayaneo-pocket-evo-case-product-page-droix]], [[ayaneo-pocket-evo-screen-protector-product-page-droix]], [[ayaneo-pocket-micro-case-product-page-droix]], [[ayaneo-pocket-micro-leather-case-product-page-droix]], [[ayaneo-pocket-micro-screen-protector-product-page-droix]], [[ayaneo-pocket-s-grip-caps-product-page-droix]], [[ayaneo-pocket-s-case-product-page-droix]]
+- Updated: [[ayaneo-3]], [[ayaneo-pocket-dmg]], [[ayaneo-pocket-evo]], [[ayaneo-pocket-micro]], [[ayaneo-pocket-s]]
+- Archived: 13 files from `raw/ingest/product/droix-shop/`
+- Notes: All AYANEO accessories attached to parent product hubs. Magic modules are magnetic modular accessories for AYANEO 3. Joystickcaps compatible with AYANEO 3 and Pocket EVO. All Anbernic + AYANEO product pages now complete.
+
+## [2026-04-22] onboard | 8 AYANEO products (4 Windows handhelds, 4 Android handhelds)
+- Created product hubs: [[ayaneo-2s]], [[ayaneo-3]], [[ayaneo-flip]], [[ayaneo-next]], [[ayaneo-pocket-dmg]], [[ayaneo-pocket-evo]], [[ayaneo-pocket-micro]], [[ayaneo-pocket-s]]
+- Created source pages: [[ayaneo-2s-product-page-droix]], [[ayaneo-3-product-page-droix]], [[ayaneo-flip-product-page-droix]], [[ayaneo-next-product-page-droix]], [[ayaneo-pocket-dmg-product-page-droix]], [[ayaneo-pocket-evo-product-page-droix]], [[ayaneo-pocket-micro-product-page-droix]], [[ayaneo-pocket-s-product-page-droix]]
+- Updated: [[ayaneo]], [[handheld-pc]], [[android-handheld]], [[qualcomm-snapdragon-g3x-gen-2]], [[index]]
+- Notes: AYANEO 3 features modular controller system (56 combos, GuliKit collab) and links to [[amd-ryzen-ai-9-hx-370]]. AYANEO Flip is the original DS/KB clamshell preceding [[ayaneo-flip-1s-ds]]. AYANEO Next is legacy Zen 3 (out of stock). Pocket DMG/EVO/S use [[qualcomm-snapdragon-g3x-gen-2]]. Pocket Micro uses MediaTek Helio G99 (no entity page yet).
+
+## [2026-04-22] ingest | Phase 1 Batch 4: Remaining Anbernic products + accessories (3 new products, 3 cases)
+- Created: [[anbernic-rg35xx-plus]], [[anbernic-rg35xxsp]], [[anbernic-rg405v]] (product hubs), [[anbernic-rg35xx-plus-product-page-droix]], [[anbernic-rg35xxsp-product-page-droix]], [[anbernic-rg405v-product-page-droix]], [[anbernic-rg-nano-case-product-page-droix]], [[anbernic-rg405v-case-product-page-droix]], [[anbernic-rg552-case-product-page-droix]] (source pages)
+- Updated: [[anbernic]], [[anbernic-rg-nano]], [[index]]
+- Archived: 6 files from `raw/ingest/product/droix-shop/`
+- Notes: RG35XXSP is a clamshell (GBA SP-style) variant with magnetic closure and Hall switch auto-wake. RG405V runs Android 12 with Unisoc Tiger T618. RG552 case source page created but parent product anbernic-rg552 not yet onboarded.
+
+## [2026-04-22] ingest | Phase 1 Batch 3: Anbernic product pages (8 new products onboarded)
+- Created: [[anbernic-rg-40xxv]], [[anbernic-rg-arc-s]], [[anbernic-rg-cube]], [[anbernic-rg-nano]], [[anbernic-rg28xx]], [[anbernic-rg300x]], [[anbernic-rg353p]], [[anbernic-rg353ps]] (product hubs), [[anbernic-rg-40xxv-product-page-droix]], [[anbernic-rg-arc-s-product-page-droix]], [[anbernic-rg-cube-product-page-droix]], [[anbernic-rg-nano-product-page-droix]], [[anbernic-rg28xx-product-page-droix]], [[anbernic-rg300x-product-page-droix]], [[anbernic-rg353p-product-page-droix]], [[anbernic-rg353ps-product-page-droix]] (source pages)
+- Updated: [[anbernic]], [[index]]
+- Archived: 8 files from `raw/ingest/product/droix-shop/anbernic-*.md`
+- Notes: Onboarded 8 new Anbernic products spanning budget retro handhelds. Range from keychain-sized RG Nano (75g, 1.54" screen) to RG Cube (Unisoc T820, Android 13, square 720x720 display). RG353P is dual-boot Android+Linux; RG353PS is Linux-only variant with less RAM. RG300X is legacy (Ingenic JZ4770, no wireless).
+
+## [2026-04-22] ingest | Phase 1 Batch 2: Already-onboarded product pages (gpdstore-shop)
+- Created: [[gpd-win-5-product-page-gpdstore]], [[gpd-pocket-4-product-page-gpdstore]], [[gpd-micropc-2-product-page-gpdstore]], [[gpd-win-5-battery-product-page-gpdstore]], [[gpd-win-5-case-product-page-gpdstore]], [[gpd-win-5-docking-station-product-page-gpdstore]], [[gpd-micropc-2-case-product-page-gpdstore]], [[gpd-pocket-4-4g-lte-module-product-page-gpdstore]], [[gpd-pocket-4-kvm-module-product-page-gpdstore]], [[gpd-pocket-4-protective-case-product-page-gpdstore]], [[gpd-pocket-4-rs-232-module-product-page-gpdstore]]
+- Updated: [[gpd-win-5]], [[gpd-pocket-4]], [[gpd-micropc-2]], [[index]]
+- Archived: 11 files from `raw/ingest/product/gpdstore-shop/`
+- Notes: Completed Tier A (all already-onboarded products). GPDStore pages are brief listings with headline specs, in-box contents, and shipping info. Docking station page confirmed as same product as [[gpd-win-5-smart-dock]]. Pocket 4 Ryzen AI 9 HX 370 on pre-order ETA 30 April 2026.
+
+## [2026-04-22] ingest | Phase 1 Batch 1: Already-onboarded product pages (droix-shop)
+- Created: [[ayaneo-ag01-product-page-droix]], [[ayn-thor-product-page-droix]], [[ayn-thor-carrying-case-product-page-droix]], [[konkr-pocket-fit-product-page-droix]], [[onexplayer-onexfly-apex-product-page-droix]], [[ingest-progress]]
+- Updated: [[ayaneo-ag01]], [[ayn-thor]], [[konkr-pocket-fit]], [[onexplayer-onexfly-apex]], [[index]]
+- Archived: `raw/ingest/product/droix-shop/ayaneo-ag01.md`, `raw/ingest/product/droix-shop/ayn-thor.md`, `raw/ingest/product/droix-shop/thor-carrying-case.md`, `raw/ingest/product/droix-shop/konkr-pocket-fit.md`, `raw/ingest/product/droix-shop/onexplayer-onexfly-apex.md`
+- Notes: Bulk ingestion Phase 1 start. Updated AG01 with full port specs. Updated AYN Thor with 4-model lineup (Lite/Base/Pro/Max) and dual AMOLED display details. Updated KONKR Pocket FIT with Snapdragon 8 Elite variant and 144Hz display. Updated ONEXFLY Apex with full I/O, controls, modular battery details.
+
 ## [2026-04-22] ingest | Product-page batch: AYANEO Pocket S2, DS, and VERT
 - Created: [[ayaneo-pocket-s2-product-page]], [[ayaneo-pocket-s2-bag-product-page]], [[ayaneo-pocket-ds-product-page]], [[ayaneo-pocket-ds-bag-product-page]], [[ayaneo-pocket-vert-product-page]], [[qualcomm-snapdragon-8-plus-gen-1]]
 - Updated: [[ayaneo-pocket-s2]], [[ayaneo-pocket-ds]], [[ayaneo-pocket-vert]], [[ayaneo]], [[android-handheld]], [[qualcomm]], [[qualcomm-snapdragon-g3-gen-3]], [[qualcomm-snapdragon-g3x-gen-2]], [[android-handheld-gaming]], [[index]], [[ingest-ledger]]

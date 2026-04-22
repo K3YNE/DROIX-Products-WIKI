@@ -69,6 +69,12 @@ Single-screen mode: AnTuTu 1,723,323 / GB6 SC 2,125 / GB6 MC 5,725 / WLE 4,537.
 - [[2025-11-21-ayaneo-pocket-ds-review-youtube]] — DROIX YouTube review. Positioned as better than [[ayn-thor|AYN Thor 7 OLED]].
 - [[ayaneo-pocket-ds-product-page]] — DROIX product page.
 - [[ayaneo-pocket-ds-bag-product-page]] — DROIX product page for the protective bag.
+- [[2025-11-21-ayaneo-pocket-ds-review-blog]]
+
+
+## Supplier Resources
+
+- [[ayaneo-pocket-ds-supplier-resources]]
 
 ## Related
 

@@ -43,6 +43,7 @@ tags: [ayaneo, android-handheld, qualcomm, snapdragon-g3-gen-3]
 ## Accessories
 
 - [[ayaneo-pocket-s2-bag-product-page]] — protective bag / case with soft lining, scratch-resistance, and portable travel design.
+- [[ayaneo-pocket-s2-micro-dmg-ace-thumb-caps-product-page-droix]] — silicone thumb stick grip caps (also fits Micro, DMG, ACE).
 
 ## Benchmarks ([[products-benchmarks-results]])
 
@@ -66,6 +67,12 @@ tags: [ayaneo, android-handheld, qualcomm, snapdragon-g3-gen-3]
 - [[2025-07-18-ayaneo-pocket-s2-review-youtube]] — DROIX YouTube review.
 - [[ayaneo-pocket-s2-product-page]] — DROIX product page.
 - [[ayaneo-pocket-s2-bag-product-page]] — DROIX product page for the protective bag.
+- [[2025-08-08-ayaneo-pocket-s2-review-blog]]
+
+
+## Supplier Resources
+
+- [[ayaneo-pocket-s2-supplier-resources]]
 
 ## Related
 

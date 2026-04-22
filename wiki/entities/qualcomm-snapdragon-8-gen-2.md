@@ -26,6 +26,9 @@ The Snapdragon 8 Gen 2 is Qualcomm's 2022 flagship mobile SoC, built on a 4nm TS
 
 ## Products Using This Chip
 
+- [[ayn-odin-2]] — 6" IPS LCD Android handheld
+- [[ayn-odin-2-mini]] — compact 5" Mini LED Android handheld
+- [[ayn-odin-2-portal]] — 7" OLED Android handheld
 - [[ayn-thor]] — compact dual-screen Android handheld
 
 ## Performance Context
