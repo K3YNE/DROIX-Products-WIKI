@@ -97,6 +97,8 @@ a {
     padding: 0 0.1rem;
     border-radius: 5px;
     line-height: 1.4rem;
+    display: inline-block;
+    max-width: 100%;
 
     &.broken {
       color: var(--secondary);
