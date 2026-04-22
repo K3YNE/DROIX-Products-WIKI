@@ -82,16 +82,11 @@ Out of stock at DROIX. Available new and refurbished (Class A).
 
 ## Resources
 
-No firmware, BIOS, or driver resources catalogued.
+- **Current BIOS/Firmware/Drivers:** see [[onexplayer-x1-mini-supplier-resources]]
 
 ## Reviews & Coverage
 
 - [[onexplayer-x1-mini-product-page-droix]] -- DROIX product page.
-
-
-## Supplier Resources
-
-- [[onexplayer-x1-mini-supplier-resources]]
 
 ## Related
 

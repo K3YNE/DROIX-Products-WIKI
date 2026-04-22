@@ -43,9 +43,7 @@ Strix Halo flagship Windows handheld from [[onexplayer|ONEXPLAYER]]. Direct comp
 
 ## Resources
 
-- Firmware: none catalogued.
-- BIOS: none catalogued.
-- Drivers: none catalogued.
+- **Current BIOS/Firmware/Drivers:** see [[onexplayer-onexfly-apex-supplier-resources]]
 
 ## Reviews & Coverage
 
@@ -61,11 +59,6 @@ Strix Halo flagship Windows handheld from [[onexplayer|ONEXPLAYER]]. Direct comp
 - [[onexplayer-apex-case-product-page-droix]] -- TPU protective case with airflow-optimised back.
 - [[onexplayer-onexfly-case-product-page-droix]] -- ONEXFLY carrying case.
 - [[onexplayer-oculink-cable-product-page-droix]] -- OCuLink cable.
-
-
-## Supplier Resources
-
-- [[onexfly-apex-supplier-resources]]
 
 ## Related
 

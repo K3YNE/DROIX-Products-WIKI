@@ -62,7 +62,7 @@ tags: [anbernic, android-handheld, budget, sliding-screen, unisoc]
 
 ## Resources
 
-- Firmware / OTA updates: none catalogued.
+No supplier resources page catalogued.
 
 ## Reviews & Coverage
 

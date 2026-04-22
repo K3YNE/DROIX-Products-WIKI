@@ -8,7 +8,7 @@ platform: cross-platform
 release_date: 2025-11-01
 variants: []
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [gpd, accessory, dock, hdmi, ethernet]
 ---
 
@@ -30,8 +30,7 @@ First-party docking accessory for the [[gpd-win-5]]. DROIX's review verdict was 
 
 ## Resources
 
-- Firmware: none catalogued.
-- Drivers: none catalogued.
+No firmware, BIOS, or driver resources applicable — this is an accessory.
 
 ## Reviews & Coverage
 

@@ -7,7 +7,7 @@ form_factor: handheld
 platform: windows
 variants: []
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [onexplayer, windows-handheld, dual-keyboard]
 ---
 
@@ -22,18 +22,12 @@ tags: [onexplayer, windows-handheld, dual-keyboard]
 
 ## Resources
 
-- Firmware: none catalogued.
-- Drivers: none catalogued.
+- **Current BIOS/Firmware/Drivers:** see [[onexplayer-g1-a1370-supplier-resources]] (A1370/365) | [[onexplayer-g1-255h-supplier-resources]] (255H)
 
 ## Reviews & Coverage
 
 - [[2025-08-29-onexplayer-g1-review-youtube]] — DROIX YouTube review. Mixed verdict.
 - [[2025-08-29-onexplayer-g1-review-blog]]
-
-
-## Supplier Resources
-
-- [[onexplayer-g1-a1370-supplier-resources]] | [[onexplayer-g1-255h-supplier-resources]]
 
 ## Related
 

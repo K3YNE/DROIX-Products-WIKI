@@ -40,7 +40,7 @@ Ultra-compact Android handheld from [[ayaneo|AYANEO]] powered by a MediaTek Heli
 
 ## Resources
 
-- Firmware / BIOS / Drivers: none catalogued.
+- **Current System Update:** 20241120 — see [[ayaneo-pocket-micro-supplier-resources]]
 
 ## Reviews & Coverage
 
@@ -49,11 +49,6 @@ Ultra-compact Android handheld from [[ayaneo|AYANEO]] powered by a MediaTek Heli
 - [[ayaneo-pocket-micro-leather-case-product-page-droix]] — DROIX leather case product page.
 - [[ayaneo-pocket-micro-screen-protector-product-page-droix]] — DROIX screen protector product page.
 - [[2025-03-11-ayaneo-pocket-micro-review-blog]]
-
-
-## Supplier Resources
-
-- [[ayaneo-pocket-micro-supplier-resources]]
 
 ## Related
 

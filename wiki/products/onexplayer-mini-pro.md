@@ -66,17 +66,12 @@ Out of stock at DROIX. Available new and refurbished (Class A/B).
 
 ## Resources
 
-No firmware, BIOS, or driver resources catalogued.
+- **Current BIOS/Firmware/Drivers:** see [[onexplayer-mini-pro-6800u-supplier-resources]]
 
 ## Reviews & Coverage
 
 - [[onexplayer-mini-pro-product-page-droix]] -- DROIX product page.
 - [[2022-11-08-onexplayer-mini-pro-review-blog]]
-
-
-## Supplier Resources
-
-- [[onexplayer-minipro-6800u-supplier-resources]]
 
 ## Related
 

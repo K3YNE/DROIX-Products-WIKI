@@ -59,8 +59,7 @@ tags: [ayaneo, android-handheld, qualcomm, snapdragon-g3-gen-3]
 
 ## Resources
 
-- Firmware / OTA updates: none catalogued.
-- Tools: none catalogued.
+- **Current Firmware:** v20250829.1303 — see [[ayaneo-pocket-s2-supplier-resources]]
 
 ## Reviews & Coverage
 
@@ -68,11 +67,6 @@ tags: [ayaneo, android-handheld, qualcomm, snapdragon-g3-gen-3]
 - [[ayaneo-pocket-s2-product-page]] — DROIX product page.
 - [[ayaneo-pocket-s2-bag-product-page]] — DROIX product page for the protective bag.
 - [[2025-08-08-ayaneo-pocket-s2-review-blog]]
-
-
-## Supplier Resources
-
-- [[ayaneo-pocket-s2-supplier-resources]]
 
 ## Related
 

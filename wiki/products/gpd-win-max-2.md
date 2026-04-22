@@ -36,9 +36,25 @@ The GPD WIN Max 2 is [[gpd|GPD]]'s large-format 10.1" Windows handheld gaming PC
 
 ## Resources
 
-- Firmware: none catalogued.
-- BIOS: none catalogued.
-- Drivers: none catalogued.
+Keep this section current whenever a new firmware / BIOS / driver / tool release is ingested.
+
+### WIN Max 2 Original (2022 — 6800U)
+
+- **Firmware:** see [[gpd-win-max-2-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`. Shared with 2023/2024 models.
+- **BIOS (6800U):** see [[gpd-win-max-2-supplier-resources]] — BIOS V1.05 (2022-12-22). Fixes wireless screen projection failure and eGPU auto-connect.
+- **Drivers:** see [[gpd-win-max-2-supplier-resources]] — Drivers v3.4 (2024-05-07). Covers 6800U / 7640U / 7840U / 8840U.
+
+### WIN Max 2 2023 & 2024 (7640U / 7840U / 8840U)
+
+- **Firmware:** see [[gpd-win-max-2-2023-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`.
+- **BIOS:** see [[gpd-win-max-2-2023-supplier-resources]] — BIOS v0.42 (2024-10-23). Applies to 7640U, 7840U, 8840U. Fixes flickering screen. Device must be charging during upgrade.
+- **Drivers:** see [[gpd-win-max-2-2023-supplier-resources]] — Drivers v4.1.0 (2025-01-18).
+
+### WIN Max 2 2025 (8840U / AI 9 HX 370)
+
+- **Firmware:** see [[gpd-win-max-2-2025-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`.
+- **BIOS:** see [[gpd-win-max-2-2025-supplier-resources]] — no separate BIOS listed for 2025 model; see 2023/2024 page for applicable BIOS.
+- **Drivers:** see [[gpd-win-max-2-2025-supplier-resources]] — Drivers V4.1.0 (2025-01-18).
 
 ## Reviews & Coverage
 

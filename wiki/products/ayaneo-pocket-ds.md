@@ -61,8 +61,7 @@ Single-screen mode: AnTuTu 1,723,323 / GB6 SC 2,125 / GB6 MC 5,725 / WLE 4,537.
 
 ## Resources
 
-- Firmware / OTA updates: none catalogued.
-- Tools: none catalogued.
+- **Current Firmware:** 20251012.065902 — see [[ayaneo-pocket-ds-supplier-resources]]
 
 ## Reviews & Coverage
 
@@ -70,11 +69,6 @@ Single-screen mode: AnTuTu 1,723,323 / GB6 SC 2,125 / GB6 MC 5,725 / WLE 4,537.
 - [[ayaneo-pocket-ds-product-page]] — DROIX product page.
 - [[ayaneo-pocket-ds-bag-product-page]] — DROIX product page for the protective bag.
 - [[2025-11-21-ayaneo-pocket-ds-review-blog]]
-
-
-## Supplier Resources
-
-- [[ayaneo-pocket-ds-supplier-resources]]
 
 ## Related
 

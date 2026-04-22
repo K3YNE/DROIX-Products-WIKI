@@ -37,17 +37,15 @@ Windows handheld gaming PC from [[ayaneo|AYANEO]] powered by the AMD Ryzen 7 784
 
 ## Resources
 
-- Firmware / BIOS / Drivers: none catalogued.
+- **Current BIOS:** v20241112 — see [[ayaneo-2s-supplier-resources]]
+- **Current Drivers:** 20241115 (8840U) — see [[ayaneo-2s-supplier-resources]]
+- **Controller Firmware:** V1.6_20230612 — see [[ayaneo-2s-supplier-resources]]
+- **EC:** 2024-06-27 — see [[ayaneo-2s-supplier-resources]]
 
 ## Reviews & Coverage
 
 - [[ayaneo-2s-product-page-droix]] — DROIX product page.
 - [[2023-06-23-ayaneo-2s-review-blog]]
-
-
-## Supplier Resources
-
-- [[ayaneo-2s-supplier-resources]]
 
 ## Related
 

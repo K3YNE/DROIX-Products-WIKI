@@ -36,9 +36,21 @@ The GPD WIN 3 is [[gpd|GPD]]'s Intel Tiger Lake-era Windows handheld gaming PC. 
 
 ## Resources
 
-- Firmware: none catalogued.
-- BIOS: none catalogued.
-- Drivers: none catalogued.
+Keep this section current whenever a new firmware / BIOS / driver / tool release is ingested.
+
+### Firmware (Windows 11)
+
+- **Current (1195G7):** see [[gpd-win-3-supplier-resources]] — Windows 11 22H2 (2023-11-02).
+- Also available: Windows 10 20H2 firmware (for use after SSD replacement or partition table deletion).
+
+### BIOS
+
+- **Current (1195G7):** see [[gpd-win-3-supplier-resources]] — Upgrade BIOS (version unspecified). Fixes memory frequency modification failure (e.g. 4267 MHz set in BIOS but Windows still showing 3733 MHz). Archive password: `123`.
+
+### Drivers
+
+- **Current (1195G7):** see [[gpd-win-3-supplier-resources]] — Drivers V1.7 (2023-11-02). Also compatible with Pocket 3 and WIN Max 2021 (1195G7).
+- Also available: Drivers V1.0 for 1135G7 / 1165G7 variants.
 
 ## Reviews & Coverage
 

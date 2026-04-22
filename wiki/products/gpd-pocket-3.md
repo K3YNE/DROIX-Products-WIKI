@@ -30,9 +30,21 @@ The GPD Pocket 3 is [[gpd|GPD]]'s 8" modular UMPC with Thunderbolt 4, fingerprin
 
 ## Resources
 
-- Firmware: none catalogued.
-- BIOS: none catalogued.
-- Drivers: none catalogued.
+Keep this section current whenever a new firmware / BIOS / driver / tool release is ingested.
+
+### Firmware (Windows)
+
+- **Current (1195G7 / 1125G4 / 7505):** see [[gpd-pocket-3-supplier-resources]] — Windows 11 22H2 (2025-02-26).
+- Also available: Windows 10 21H2 firmware for 1195G7/1125G4/7505 variants; Windows 11 21H2 and Windows 10 21H2 for N6000 variant.
+
+### BIOS
+
+- **Current (N6000):** see [[gpd-pocket-3-supplier-resources]] — N6000 BIOS v1.15. Fixes Samsung 970 EVO SSD compatibility.
+
+### Drivers
+
+- **Current (1195G7 / 7505 / 1125G4):** see [[gpd-pocket-3-supplier-resources]] — Drivers V1.7 (2023-11-02). Also compatible with WIN 3 and WIN Max 2021 (1195G7).
+- **Current (N6000):** see [[gpd-pocket-3-supplier-resources]] — Drivers V1.3. Also compatible with P2 Max 2022 (N6000).
 
 ## Reviews & Coverage
 

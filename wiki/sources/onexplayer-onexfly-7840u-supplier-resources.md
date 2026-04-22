@@ -2,7 +2,7 @@
 title: "ONEXFLY 7840U Supplier Resources"
 type: source
 subtype: resource-firmware
-slug: onexfly-7840u-supplier-resources
+slug: onexplayer-onexfly-7840u-supplier-resources
 brand: onexplayer
 product: onexplayer-onexfly
 source_url: https://onexplayerstore.com/pages/drivers-and-faqs

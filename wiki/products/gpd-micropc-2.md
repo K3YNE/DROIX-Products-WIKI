@@ -41,9 +41,16 @@ Successor to GPD's 2019 MicroPC. A 7" 2-in-1 UMPC aimed at IT professionals and 
 
 ## Resources
 
-- Firmware: none catalogued.
-- BIOS: none catalogued.
-- Drivers: none catalogued.
+Keep this section current whenever a new firmware / BIOS / driver / tool release is ingested.
+
+### Firmware (Windows 11)
+
+- **Current (Home):** see [[gpd-micropc-2-supplier-resources]] — Windows 11 24H2 Home (2025-10-30). SHA1 `F310F45676F905E93B86C9AE1E6E059E817AE4C2`.
+- Also available: Windows 11 24H2 Pro (2025-08-26). SHA1 `B3BB0C050AA6D7545BAF05EFF810D1238AD22531`.
+
+### Drivers
+
+- **Current:** see [[gpd-micropc-2-supplier-resources]] — Drivers V1.0 (2025-06-12). SHA1 `E851EF0841509FB411FEFB6BD09F4F27344CC7C4`.
 
 ## Reviews & Coverage
 

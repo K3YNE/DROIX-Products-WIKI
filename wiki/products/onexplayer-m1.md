@@ -13,8 +13,20 @@ tags: [onexplayer, handheld, windows]
 
 ## Summary
 
-ONEXPLAYER M1 is a legacy product from [[onexplayer]]. This is a minimal hub created during supplier resource ingestion.
+The ONEXPLAYER M1 is a Windows handheld gaming PC from [[onexplayer]]. The M1 designation positions it within ONEXPLAYER's numbered product family as a distinct model with its own driver and system pack. Detailed specifications and review coverage have not yet been ingested into this wiki.
 
 ## Resources
 
-- [[onexplayer-m1-supplier-resources]]
+- [[onexplayer-m1-supplier-resources]] — Drivers and System Pack
+
+### Current Resources
+
+| Resource | Source |
+|----------|--------|
+| M1 Drivers | [[onexplayer-m1-supplier-resources]] |
+| M1 System Pack | [[onexplayer-m1-supplier-resources]] |
+
+## Related
+
+- [[onexplayer]] — Brand page
+- [[handheld-pc]] — Product category

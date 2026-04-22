@@ -41,7 +41,10 @@ The AYANEO 3 introduces a modular controller system with 56 possible layout comb
 
 ## Resources
 
-- Firmware / BIOS / Drivers: none catalogued.
+- **Current Drivers:** v20250409 — see [[ayaneo-3-supplier-resources]]
+- **Controller Firmware:** V12_20250522 — see [[ayaneo-3-supplier-resources]]
+- **EC:** 0.21 — see [[ayaneo-3-supplier-resources]]
+- **Speaker Calibration Tool:** 20250823 — see [[ayaneo-3-supplier-resources]]
 
 ## Reviews & Coverage
 
@@ -51,11 +54,6 @@ The AYANEO 3 introduces a modular controller system with 56 possible layout comb
 - [[ayaneo-joystickcaps-product-page-droix]] — DROIX thumb stick grip caps product page (also compatible with [[ayaneo-pocket-evo|Pocket EVO]]).
 - [[ayaneo-magic-modules-product-page-droix]] — DROIX Magic Modules product page.
 - [[2025-02-20-ayaneo-3-review-blog]]
-
-
-## Supplier Resources
-
-- [[ayaneo-3-supplier-resources]]
 
 ## Related
 

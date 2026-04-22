@@ -28,9 +28,19 @@ The GPD P2 Max 2022 is [[gpd|GPD]]'s ultra-compact 8.9" mini laptop with an Inte
 
 ## Resources
 
-- Firmware: none catalogued.
-- BIOS: none catalogued.
-- Drivers: none catalogued.
+Keep this section current whenever a new firmware / BIOS / driver / tool release is ingested.
+
+### Firmware (Windows)
+
+- **Current:** see [[gpd-p2-max-supplier-resources]] — Windows 10 1909 firmware P2_P2MAX_1909_20200623-User-EN (2020-06-23). Fixes fingerprint issues. Requires BIOS V0.29 on older devices before installing.
+
+### BIOS
+
+- **Current:** see [[gpd-p2-max-supplier-resources]] — BIOS V0.29. Supports "One Key Recovery" firmware.
+
+### Drivers
+
+- **Current:** see [[gpd-p2-max-supplier-resources]] — Windows 10 driver package (version unspecified). Also supports Pocket 2, MicroPC, WIN 2. Not compatible with Windows 10 1607.
 
 ## Reviews & Coverage
 

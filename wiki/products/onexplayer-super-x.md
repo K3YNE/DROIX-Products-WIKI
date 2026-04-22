@@ -86,16 +86,11 @@ Out of stock at DROIX.
 
 ## Resources
 
-No firmware, BIOS, or driver resources catalogued.
+- **Current BIOS/Firmware/Drivers:** see [[onexplayer-super-x-supplier-resources]]
 
 ## Reviews & Coverage
 
 - [[onexplayer-super-x-product-page-droix]] -- DROIX product page.
-
-
-## Supplier Resources
-
-- [[onexplayer-super-x-supplier-resources]]
 
 ## Related
 

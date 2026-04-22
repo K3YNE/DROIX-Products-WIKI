@@ -37,7 +37,9 @@ The AYANEO Next uses the AMD Zen 3 Ryzen 7 5825U — two generations behind curr
 
 ## Resources
 
-- Firmware / BIOS / Drivers: none catalogued.
+- **Current BIOS:** 2024-05-10 (NEXT and NEXT Pro variants) — see [[ayaneo-next-supplier-resources]]
+- **Current Drivers:** 20240820 — see [[ayaneo-next-supplier-resources]]
+- **Controller Firmware:** AN109 — see [[ayaneo-next-supplier-resources]]
 
 ## Reviews & Coverage
 
@@ -54,11 +56,6 @@ The AYANEO Next uses the AMD Zen 3 Ryzen 7 5825U — two generations behind curr
 - [[how-to-fix-ayaneo-next-trigger-issues-firmware-update]]
 - [[how-to-reinstall-windows-on-ayaneo-next-fix-for-ms-storegamepass-and-drivers]]
 - [[how-to-replace-the-ssd-on-aya-neo-next]]
-
-
-## Supplier Resources
-
-- [[ayaneo-next-supplier-resources]]
 
 ## Related
 

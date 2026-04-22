@@ -34,9 +34,21 @@ The GPD DUO is [[gpd|GPD]]'s dual-screen AMOLED mini laptop featuring two 13.3" 
 
 ## Resources
 
-- Firmware: none catalogued.
-- BIOS: none catalogued.
-- Drivers: none catalogued.
+Keep this section current whenever a new firmware / BIOS / driver / tool release is ingested.
+
+### Firmware (Windows 11)
+
+- **Current (AI 9 HX 370):** see [[gpd-duo-supplier-resources]] — Windows 11 24H2 Home (2025-03-18). SHA1 `30B2D557AEB549ACDC6C36D4E1DE95F209614BBE`. **Must upgrade BIOS to v2.12 before flashing.**
+- **Current (8840U):** see [[gpd-duo-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `A009376A9F17E881F81FE484E16BF54D3E8E8759`.
+
+### BIOS
+
+- **Current (8840U):** see [[gpd-duo-supplier-resources]] — BIOS v3.08 (2025-03-24). Optimises sleep; adds battery charging threshold management.
+- **Current (AI 9 HX 370):** see [[gpd-duo-supplier-resources]] — BIOS v2.17 (2025-03-26). Optimises sleep; adds battery threshold. Fixes touch input on secondary screens from v2.16.
+
+### Drivers
+
+- **Current (8840U / AI 9 HX 370):** see [[gpd-duo-supplier-resources]] — Drivers v4.1.0 (2025-01-18).
 
 ## Reviews & Coverage
 

@@ -2,7 +2,7 @@
 title: "ONEXPLAYER Mini AMD 5800U Supplier Resources"
 type: source
 subtype: resource-firmware
-slug: onexplayer1mini-amd-supplier-resources
+slug: onexplayer-1-mini-amd-supplier-resources
 brand: onexplayer
 product: onexplayer-1-mini-amd
 source_url: https://onexplayerstore.com/pages/drivers-and-faqs

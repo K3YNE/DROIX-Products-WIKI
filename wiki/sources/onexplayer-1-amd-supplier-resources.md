@@ -2,7 +2,7 @@
 title: "ONEXPLAYER 1 AMD Supplier Resources"
 type: source
 subtype: resource-firmware
-slug: onexplayer1amd-supplier-resources
+slug: onexplayer-1-amd-supplier-resources
 brand: onexplayer
 product: onexplayer-1-amd
 source_url: https://onexplayerstore.com/pages/drivers-and-faqs

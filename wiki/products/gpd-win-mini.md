@@ -32,9 +32,20 @@ The GPD WIN Mini is [[gpd|GPD]]'s compact clamshell-style Windows handheld, refr
 
 ## Resources
 
-- Firmware: none catalogued.
-- BIOS: none catalogued.
-- Drivers: none catalogued.
+Keep this section current whenever a new firmware / BIOS / driver / tool release is ingested.
+
+### WIN Mini / 2024 (7640U / 7840U / 8840U)
+
+- **Firmware:** see [[gpd-win-mini-2024-supplier-resources]] — Windows 11 24H2 Home (2025-01-18). SHA1 `12DD1623F9515C6F8ACA77CF42AFF6C6CF9A0542`.
+- **BIOS:** see [[gpd-win-mini-2024-supplier-resources]] — BIOS V2.18 (2023-12-14). Adds PCIe 3.0 SSD speed support. Device must be charging during upgrade.
+- **Drivers:** see [[gpd-win-mini-2024-supplier-resources]] — Drivers v4.1.0 (2024-05-07).
+
+### WIN Mini 2025 (8840U / AI 9 365 / AI 9 HX 370)
+
+- **Firmware:** see [[gpd-win-mini-2025-supplier-resources]] — Windows 11 24H2 Home (2025-03-18). SHA1 `30B2D557AEB549ACDC6C36D4E1DE95F209614BBE`. Fixes internal screen not working when connecting to GPD G1.
+- **BIOS (AI 9 365 / AI 9 HX 370):** see [[gpd-win-mini-2025-supplier-resources]] — BIOS v2.10 + EC v2.07 (2025-07-07). Introduces battery threshold management. Does not apply to 8840U.
+- **BIOS (8840U):** see [[gpd-win-mini-2025-supplier-resources]] — BIOS v2.11 + EC v2.04 (2025-08-21). Fixes BIOS always showing 8 GB VRAM. Does not apply to 365/370.
+- **Drivers:** see [[gpd-win-mini-2025-supplier-resources]] — Drivers V4.1.0 (2025-01-18).
 
 ## Reviews & Coverage
 

@@ -35,7 +35,7 @@ Android handheld from [[ayaneo|AYANEO]] powered by the [[qualcomm-snapdragon-g3x
 
 ## Resources
 
-- Firmware / BIOS / Drivers: none catalogued.
+- **Current OTA:** 20241210 — see [[ayaneo-pocket-s-supplier-resources]]
 
 ## Reviews & Coverage
 
@@ -49,11 +49,6 @@ Android handheld from [[ayaneo|AYANEO]] powered by the [[qualcomm-snapdragon-g3x
 
 - [[ayaneo-pocket-s-getting-started]] — Getting started guide (DROIX KB).
 - [[ayaneo-pocket-s-firmware-reflash]] — Firmware reflash guide using QFIL/Qualcomm 9008 mode (DROIX KB).
-
-
-## Supplier Resources
-
-- [[ayaneo-pocket-s-supplier-resources]]
 
 ## Related
 

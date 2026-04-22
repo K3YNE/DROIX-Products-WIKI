@@ -4,7 +4,7 @@ type: source
 subtype: kb-article
 slug: ayaneo-slide-getting-started
 brand: ayaneo
-product: null
+product: ayaneo-slide
 source_url: "https://droix.net/knowledge-base/article/ayaneo-slide/"
 published: 2024-02-15
 created: 2026-04-22

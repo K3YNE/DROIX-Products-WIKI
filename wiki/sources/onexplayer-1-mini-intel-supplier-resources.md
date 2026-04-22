@@ -2,7 +2,7 @@
 title: "ONEXPLAYER Mini Intel i7-1260P Supplier Resources"
 type: source
 subtype: resource-firmware
-slug: onexplayer1mini-intel-supplier-resources
+slug: onexplayer-1-mini-intel-supplier-resources
 brand: onexplayer
 product: onexplayer-1-mini-intel
 source_url: https://onexplayerstore.com/pages/drivers-and-faqs

@@ -55,8 +55,7 @@ Vertical-orientation Android handheld from [[ayaneo|AYANEO]]. Positioned as the 
 
 ## Resources
 
-- Firmware / OTA updates: none catalogued.
-- Tools: none catalogued.
+No dedicated supplier resources page catalogued yet.
 
 ## Reviews & Coverage
 

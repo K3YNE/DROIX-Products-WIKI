@@ -39,7 +39,7 @@ Android handheld from [[ayaneo|AYANEO]] powered by the [[qualcomm-snapdragon-g3x
 
 ## Resources
 
-- Firmware / BIOS / Drivers: none catalogued.
+- **Current OTA:** v20250430 — see [[ayaneo-pocket-evo-supplier-resources]]
 
 ## Reviews & Coverage
 
@@ -47,11 +47,6 @@ Android handheld from [[ayaneo|AYANEO]] powered by the [[qualcomm-snapdragon-g3x
 - [[ayaneo-pocket-evo-case-product-page-droix]] — DROIX carrying case product page.
 - [[ayaneo-pocket-evo-screen-protector-product-page-droix]] — DROIX screen protector product page.
 - [[ayaneo-joystickcaps-product-page-droix]] — DROIX thumb stick grip caps product page (also compatible with [[ayaneo-3|AYANEO 3]]).
-
-
-## Supplier Resources
-
-- [[ayaneo-pocket-evo-supplier-resources]]
 
 ## Related
 

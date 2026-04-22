@@ -2,7 +2,7 @@
 title: "OneXFly Apex Supplier Resources"
 type: source
 subtype: resource-firmware
-slug: onexfly-apex-supplier-resources
+slug: onexplayer-onexfly-apex-supplier-resources
 brand: onexplayer
 product: onexplayer-onexfly-apex
 source_url: https://onexplayerstore.com/pages/drivers-and-faqs

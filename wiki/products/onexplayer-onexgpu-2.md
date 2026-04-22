@@ -69,17 +69,12 @@ In stock at DROIX. Available new and refurbished (Class A).
 
 ## Resources
 
-No firmware or driver resources catalogued.
+- **Current Firmware/Drivers:** see [[onexgpu-2-supplier-resources]]
 
 ## Reviews & Coverage
 
 - [[onexplayer-onexgpu-2-product-page-droix]] -- DROIX product page.
 - [[2025-04-04-onexplayer-onexgpu-2-review-blog]]
-
-
-## Supplier Resources
-
-- [[onexgpu-2-supplier-resources]]
 
 ## Related
 

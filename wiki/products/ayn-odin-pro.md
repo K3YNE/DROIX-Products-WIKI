@@ -35,7 +35,7 @@ tags: [ayn, android-handheld, snapdragon-sd845, odin, legacy]
 
 ## Resources
 
-- Firmware / OTA updates: none catalogued.
+No supplier resources page catalogued. AYN Odin Pro firmware updates delivered via OTA.
 
 ## Reviews & Coverage
 

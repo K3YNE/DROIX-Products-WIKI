@@ -42,7 +42,7 @@ tags: [ayn, android-handheld, snapdragon-8-gen-2, odin, mini-led]
 
 ## Resources
 
-- Firmware / OTA updates: none catalogued.
+No supplier resources page catalogued. AYN Odin 2 Mini firmware updates delivered via OTA.
 
 ## Reviews & Coverage
 

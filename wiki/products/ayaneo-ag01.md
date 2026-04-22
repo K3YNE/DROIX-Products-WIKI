@@ -7,7 +7,7 @@ form_factor: egpu
 platform: cross-platform
 variants: []
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [ayaneo, egpu, accessory, oculink, usb4]
 ---
 
@@ -40,8 +40,7 @@ External GPU dock from [[ayaneo|AYANEO]] featuring [[amd-rx-7600m-xt|AMD Radeon 
 
 ## Resources
 
-- Firmware: none catalogued.
-- Drivers: none catalogued.
+No firmware, BIOS, or driver updates applicable — this is an eGPU dock accessory.
 
 ## Reviews & Coverage
 

@@ -2,7 +2,7 @@
 title: "ONEXPLAYER Mini Pro 6800U Supplier Resources"
 type: source
 subtype: resource-firmware
-slug: onexplayer-minipro-6800u-supplier-resources
+slug: onexplayer-mini-pro-6800u-supplier-resources
 brand: onexplayer
 product: onexplayer-mini-pro
 source_url: https://onexplayerstore.com/pages/drivers-and-faqs

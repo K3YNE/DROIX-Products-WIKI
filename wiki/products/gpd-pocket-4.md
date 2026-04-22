@@ -25,9 +25,20 @@ GPD's small-form-factor Windows UMPC. Sold by [[gpd|GPD]] in three APU tiers, wh
 
 ## Resources
 
-- Firmware: none catalogued.
-- BIOS: none catalogued.
-- Drivers: none catalogued.
+Keep this section current whenever a new firmware / BIOS / driver / tool release is ingested.
+
+### Firmware (Windows 11)
+
+- **Current (8840U / AI 365 / AI 370):** see [[gpd-pocket-4-supplier-resources]] — Windows 11 24H2 Home (2025-03-18). SHA1 `30B2D557AEB549ACDC6C36D4E1DE95F209614BBE`. Fixes internal screen not working when connected to GPD G1.
+
+### BIOS
+
+- **Current (AI 9 365 / AI 9 HX 370):** see [[gpd-pocket-4-supplier-resources]] — BIOS v2.10 + EC v1.13 (2025-06-27). Fixes touchscreen malfunctioning on wake from sleep.
+- **Current (8840U):** see [[gpd-pocket-4-supplier-resources]] — BIOS v3.08 + EC v1.11 (2025-08-21). Fixes BIOS always showing 8 GB VRAM.
+
+### Drivers
+
+- **Current (8840U / AI 365 / AI 370):** see [[gpd-pocket-4-supplier-resources]] — Drivers v4.2.0 (2025-03-07).
 
 ## Reviews & Coverage
 

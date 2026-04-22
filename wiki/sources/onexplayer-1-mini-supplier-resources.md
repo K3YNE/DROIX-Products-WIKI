@@ -2,7 +2,7 @@
 title: "ONEXPLAYER Mini (i7-1195G7) Supplier Resources"
 type: source
 subtype: resource-firmware
-slug: onexplayer1mini-supplier-resources
+slug: onexplayer-1-mini-supplier-resources
 brand: onexplayer
 product: onexplayer-1-mini
 source_url: https://onexplayerstore.com/pages/drivers-and-faqs

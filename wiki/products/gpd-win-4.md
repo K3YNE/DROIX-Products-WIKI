@@ -33,9 +33,26 @@ The GPD WIN 4 is [[gpd|GPD]]'s sliding-keyboard Windows handheld, refreshed annu
 
 ## Resources
 
-- Firmware: none catalogued.
-- BIOS: none catalogued.
-- Drivers: none catalogued.
+Keep this section current whenever a new firmware / BIOS / driver / tool release is ingested.
+
+### WIN 4 Original (2022 — 6800U)
+
+- **Firmware:** see [[gpd-win-4-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`.
+- **BIOS:** see [[gpd-win-4-supplier-resources]] — BIOS V3.06 (2023-06-07). Fixes volume keys unresponsive after sleep on Linux; fixes bottom C port not displaying.
+- **Drivers:** see [[gpd-win-4-supplier-resources]] — Drivers v3.4 (2024-05-07). Covers 6800U / 7640U / 7840U / 8840U.
+
+### WIN 4 2023 & 2024 (7640U / 7840U / 8840U)
+
+- **Firmware:** see [[gpd-win-4-2023-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`.
+- **BIOS:** see [[gpd-win-4-2023-supplier-resources]] — BIOS v0.62 (2024-10-23). Applies to 7640U, 7840U, 8840U. Device must be charging during upgrade.
+- **Drivers:** see [[gpd-win-4-2023-supplier-resources]] — Drivers v4.1.0 (2025-01-18).
+
+### WIN 4 2025 (8840U / AI 9 HX 370)
+
+- **Firmware:** see [[gpd-win-4-2025-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`.
+- **BIOS (AI 9 HX 370):** see [[gpd-win-4-2025-supplier-resources]] — BIOS v0.14 (2026-01-27). Flash via USB FAT32 + F7 boot menu. Keep device on charge.
+- **BIOS (8840U):** see [[gpd-win-4-2025-supplier-resources]] — BIOS v0.04 (2025-09-28).
+- **Drivers:** see [[gpd-win-4-2025-supplier-resources]] — Drivers V4.1.0 (2025-01-18).
 
 ## Reviews & Coverage
 

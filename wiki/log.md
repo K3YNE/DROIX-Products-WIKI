@@ -1,5 +1,54 @@
 # Activity Log
 
+## [2026-04-22] lint | Post-ingestion audit: all issues resolved
+- **none catalogued:** 0 remaining in wiki/products/ (was 37)
+- **Stub pages:** 0 remaining (was 30) — all expanded with Summary, Resources, and wikilinks
+- **Supplier Resources sections:** 0 remaining (was 22) — all merged into ## Resources
+- **Slug mismatches:** 0 remaining — 10 ONEXPLAYER source files renamed to standard convention
+- **Broken wikilinks:** 0 remaining for renamed slugs; onexplayer-onexfly 1-to-many links fixed
+- **index.md:** GPD section updated with all 28 new supplier-resources links (including 9 legacy product entries)
+- **ayaneo-slide-getting-started:** `product: null` corrected to `product: ayaneo-slide`
+
+## [2026-04-22] enrich | Expanded 30 stub product pages (AYANEO + ONEXPLAYER)
+- Full enrichment with specs, reviews, KB links (14): [[ayaneo-2]], [[ayaneo-2021]], [[ayaneo-air]], [[ayaneo-geek]], [[ayaneo-pocket-air]], [[ayaneo-pocket-micro-classic]], [[ayaneo-am02]], [[ayaneo-slide]], [[onexplayer-1-amd]], [[onexplayer-1-mini]], [[onexplayer-1-mini-amd]], [[onexplayer-2]], [[onexplayer-onexfly]], [[one-netbook-5]]
+- Moderate enrichment with Summary + Resources (16): [[ayaneo-air-1s]], [[ayaneo-air-plus]], [[ayaneo-kun]], [[ayaneo-founder]], [[ayaneo-next-lite]], [[ayaneo-pocket-air-mini]], [[ayaneo-pocket-fit-elite]], [[ayaneo-am01]], [[ayaneo-am01s]], [[onexplayer-1]], [[onexplayer-1-mini-intel]], [[onexplayer-2pro]], [[onexplayer-game-console]], [[onexplayer-m1]], [[onexplayer-sugar-1]], [[onexplayer-x1-air]]
+- Fixed: [[ayaneo-slide-getting-started]] `product: null` → `product: ayaneo-slide`
+- All stub placeholder text removed; all pages now website-ready
+
+## [2026-04-22] fix | Resources sections: populated 37 product hubs, removed all "none catalogued" entries
+- Updated GPD (12): [[gpd-pocket-3]], [[gpd-pocket-4]], [[gpd-win-3]], [[gpd-win-4]], [[gpd-win-max-2]], [[gpd-win-mini]], [[gpd-duo]], [[gpd-g1]], [[gpd-micro-pc]], [[gpd-micropc-2]], [[gpd-p2-max]], [[gpd-win-5-smart-dock]]
+- Updated AYANEO (14): [[ayaneo-2s]], [[ayaneo-3]], [[ayaneo-ag01]], [[ayaneo-flip]], [[ayaneo-flip-1s-ds]], [[ayaneo-next]], [[ayaneo-pocket-ace]], [[ayaneo-pocket-dmg]], [[ayaneo-pocket-ds]], [[ayaneo-pocket-evo]], [[ayaneo-pocket-micro]], [[ayaneo-pocket-s]], [[ayaneo-pocket-s2]], [[ayaneo-pocket-vert]]
+- Updated ONEXPLAYER (9): [[onexplayer-g1]], [[onexplayer-onexfly-apex]], [[onexplayer-mini-pro]], [[onexplayer-onexfly-f1-pro]], [[onexplayer-onexgpu-2]], [[onexplayer-super-x]], [[onexplayer-x1-amd]], [[onexplayer-x1-mini]], [[onexplayer-x1-pro]]
+- Updated AYN (6): [[ayn-odin-2]], [[ayn-odin-2-mini]], [[ayn-odin-2-portal]], [[ayn-odin-3]], [[ayn-odin-pro]], [[ayn-thor]]
+- Updated Other (3): [[anbernic-rg-slide]], [[droix-nh8]], [[konkr-pocket-fit]]
+- Also merged all stray "## Supplier Resources" sections into "## Resources" (22 pages normalised)
+
+## [2026-04-22] ingest | Supplier resources: 15 GPD legacy product source pages
+- Created: [[gpd-pocket-3-supplier-resources]], [[gpd-win-3-supplier-resources]], [[gpd-win-max-2021-supplier-resources]], [[gpd-p2-max-2022-supplier-resources]], [[gpd-micropc-supplier-resources]], [[gpd-p2-max-supplier-resources]], [[gpd-pocket-2-supplier-resources]], [[gpd-win-max-supplier-resources]], [[gpd-xp-plus-supplier-resources]], [[gpd-xp-supplier-resources]], [[gpd-pocket-supplier-resources]], [[gpd-win-2-supplier-resources]], [[gpd-win-supplier-resources]], [[gpd-xd-plus-supplier-resources]], [[gpd-xd-supplier-resources]]
+- Removed raw files: GPD-POCKET-3-Resources.md, GPD-WIN-3-Resources.md, GPD-WIN-MAX-2021-Resources.md, GPD-P2-MAX-2022-Resources.md, GPD-MICROPC-Resources.md, GPD-P2-MAX-Resources.md, GPD-POCKET-2-Resources.md, GPD-WIN-MAX-Resources.md, GPD-XP-PLUS-Resources.md, GPD-XP-Resources.md, GPD-POCKET-Resources.md, GPD-WIN-2-Resources.md, GPD-WIN-Resources.md, GPD-XD-PLUS-Resources.md, GPD-XD-Resources.md
+- Notes: Covers 8 Windows/UMPC products (Pocket 3, WIN 3, WIN Max 2021, P2 Max 2022, MicroPC, P2 Max, Pocket 2, WIN Max, WIN 2, WIN) and 5 legacy products (Pocket 1, XP Plus, XP, XD Plus, XD). Pocket 3 has most recent BIOS (N6000 v1.15) and firmware (Win11 22H2, 2025-02-26). WIN Max 2021 BIOS at V1.18. MicroPC BIOS v4.18 / EC v4.08 (2023-09-21). P2 Max BIOS V0.29 (current). WIN 2 BIOS 2.13 (current). XD Plus has two board revisions — firmware V1.14 for VR (new) board. XD has 8 firmware versions (3.3.6–3.4.9). XP Plus at V1.07 (2022-08-21). XP at V1.41 (2022-03-24). GPD Pocket (original) has richest resource set with Ubuntu 16.04 through 19.10 images, BIOS 0807 (current), and extensive community Linux builds. Many resources shared across products (Pocket 3/WIN 3/WIN Max 2021 share Drivers V1.7; N6000 Pocket 3 and P2 Max 2022 share Drivers V1.3/V6.0; Pocket 2/WIN 2/MicroPC/P2 Max share same Windows 10 driver package).
+
+## [2026-04-22] ingest | Supplier resources: 6 GPD source pages (medium-priority batch)
+- Created: [[gpd-win-mini-2024-supplier-resources]], [[gpd-win-4-2023-supplier-resources]], [[gpd-win-max-2-2023-supplier-resources]], [[gpd-g1-supplier-resources]], [[gpd-win-4-supplier-resources]], [[gpd-win-max-2-supplier-resources]]
+- Updated: [[index]] (added Resources lines to gpd-win-mini, gpd-win-4, gpd-win-max-2, gpd-g1 entries)
+- Removed raw files: GPD-WIN-MINI-2024-Resources.md, GPD-WIN-4-2023-Resources.md, GPD-WIN-MAX-2-2023-Resources.md, GPD-G1-Resources.md, GPD-WIN-4-Resources.md, GPD-WIN-MAX-2-Resources.md
+- Notes: WIN 4 and WIN Max 2 each have two source pages — one for the original 6800U model and one for the 2023/2024 refresh. WIN Mini 2024 has BIOS V2.18 (current), WIN 4 2023 has BIOS v0.62 (current), WIN Max 2 2023 has BIOS v0.42 (current). GPD G1 has no BIOS on the resource page — directs to AMD official driver page for RX 7600M XT. Screen Color Calibration ICM files (D65/D70) available for WIN Max 2 (both original and 2023 pages). MotionAssistant v1.2.0.9 (2026-02-08) and GPDTool v1.45 (2026-04-13) are current handheld tools across all products.
+
+## [2026-04-22] fix | Slug standardisation: ONEXPLAYER supplier-resource source pages
+- Renamed 10 source files to follow `<brand>-<model>` slug convention per AGENTS.md
+- `onexplayer1-supplier-resources` → [[onexplayer-1-supplier-resources]]
+- `onexplayer1amd-supplier-resources` → [[onexplayer-1-amd-supplier-resources]]
+- `onexplayer1mini-supplier-resources` → [[onexplayer-1-mini-supplier-resources]]
+- `onexplayer1mini-amd-supplier-resources` → [[onexplayer-1-mini-amd-supplier-resources]]
+- `onexplayer1mini-intel-supplier-resources` → [[onexplayer-1-mini-intel-supplier-resources]]
+- `onexplayer-minipro-6800u-supplier-resources` → [[onexplayer-mini-pro-6800u-supplier-resources]]
+- `onexfly-apex-supplier-resources` → [[onexplayer-onexfly-apex-supplier-resources]]
+- `onexfly-f1-pro-supplier-resources` → [[onexplayer-onexfly-f1-pro-supplier-resources]]
+- `onexfly-7840u-supplier-resources` → [[onexplayer-onexfly-7840u-supplier-resources]]
+- `onexfly-8840u-supplier-resources` → [[onexplayer-onexfly-8840u-supplier-resources]]
+- Fixed 1-to-many links: [[onexplayer-2]], [[onexplayer-2pro]], [[onexplayer-onexfly]]
+- Updated: [[index]], all affected product pages
+
 ## [2026-04-22] ingest | Supplier resources: 61 source pages, 30 minimal product hubs, 1 FAQ page
 - Processed ALL supplier resource files from raw/supplier-resources/ (AYANEO + ONEXPLAYER)
 - **AYANEO source pages (34):**

@@ -78,7 +78,7 @@ In stock at DROIX. Available new and refurbished (Class A).
 
 ## Resources
 
-No firmware, BIOS, or driver resources catalogued.
+- **Current BIOS/Firmware/Drivers:** see [[onexplayer-onexfly-f1-pro-supplier-resources]]
 
 ## Reviews & Coverage
 
@@ -90,11 +90,6 @@ No firmware, BIOS, or driver resources catalogued.
 - [[how-to-replace-the-onexplayer-onexfly-f1-pro-left-trigger]]
 - [[how-to-update-the-onexplayer-f1-pro-bios-firmware]] — BIOS and EC firmware update guide for 8840U and HX 365/370 models (fixes 30% battery shutdown).
 - [[onexplayer-onexfly-f1-pro-teardown]] — Device teardown guide for the ONEXPLAYER ONEXFLY F1 Pro.
-
-
-## Supplier Resources
-
-- [[onexfly-f1-pro-supplier-resources]]
 
 ## Related
 

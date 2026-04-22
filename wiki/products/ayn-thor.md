@@ -8,7 +8,7 @@ platform: android
 variants: []
 display: OLED
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [ayn, android-handheld, dual-screen, oled]
 ---
 
@@ -50,7 +50,7 @@ Single-screen: AnTuTu 1,567,823 / GB6 SC 2,043 / GB6 MC 5,651 / WLE 3,692.
 
 ## Resources
 
-- Firmware / OTA updates: none catalogued.
+No supplier resources page catalogued. AYN Thor firmware updates delivered via OTA.
 
 ## Reviews & Coverage
 

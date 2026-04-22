@@ -2,7 +2,7 @@
 title: "OneXFly F1 PRO Supplier Resources"
 type: source
 subtype: resource-firmware
-slug: onexfly-f1-pro-supplier-resources
+slug: onexplayer-onexfly-f1-pro-supplier-resources
 brand: onexplayer
 product: onexplayer-onexfly-f1-pro
 source_url: https://onexplayerstore.com/pages/drivers-and-faqs

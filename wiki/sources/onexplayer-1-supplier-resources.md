@@ -2,7 +2,7 @@
 title: "ONEXPLAYER 1 (Intel) Supplier Resources"
 type: source
 subtype: resource-firmware
-slug: onexplayer1-supplier-resources
+slug: onexplayer-1-supplier-resources
 brand: onexplayer
 product: onexplayer-1
 source_url: https://onexplayerstore.com/pages/drivers-and-faqs

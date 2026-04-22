@@ -67,7 +67,7 @@ Quick navigation hub. Every page in the wiki is reachable from here. All page ty
 - Variants: [[gpd-win-5-max-395]] | [[gpd-win-5-max-385]]
 - Reviews: [[2025-10-23-gpd-win-5-review-youtube]] | [[gpd-win-5-blog-review]] | [[2025-08-19-gpd-win-5-review-blog]] | [[2025-10-27-biwin-mini-ssd-review-blog]] | [[2025-11-20-gpd-win-5-docking-station-review-blog]]
 - KB: [[gpd-win-5-getting-started]] | [[gpd-win-5-faq]] | [[gpd-win-5-triggers-fix]] | [[gpd-win-5-usb-charger-guide]] | [[gpd-win-5-battery-cable-extender]] | [[gpd-win-5-mini-ssd-guide]] | [[gpd-win-5-bios-update-guide]] | [[gpd-win-5-optical-mouse-firmware]] | [[gpd-win-5-left-joystick-replacement]] | [[gpd-win-5-right-joystick-replacement]]
-- Resources: [[gpd-win-5-firmware-win11-25h2]] (current) | [[gpd-win-5-firmware-win11-24h2]] (historical) | [[gpd-win-5-bios-v2-25]] | [[gpd-win-5-drivers-2025-10-30]] | [[gpd-motionassistant-v1-2-0-9]] | [[gpd-win-5-user-manual-2025-09-04]]
+- Resources: [[gpd-win-5-firmware-win11-25h2]] (current) | [[gpd-win-5-firmware-win11-24h2]] (historical) | [[gpd-win-5-bios-v2-25]] | [[gpd-win-5-drivers-2025-10-30]] | [[gpd-motionassistant-v1-2-0-9]] | [[gpd-win-5-user-manual-2025-09-04]] | [[gpd-win-5-supplier-resources]]
 - Product pages: [[gpd-win-5-product-page-gpdstore]] | [[gpd-win-5-battery-product-page-gpdstore]] | [[gpd-win-5-case-product-page-gpdstore]] | [[gpd-win-5-docking-station-product-page-gpdstore]]
 
 #### [[gpd-win-5-smart-dock]] — WIN 5 Companion Dock (2025)
@@ -76,66 +76,87 @@ Quick navigation hub. Every page in the wiki is reachable from here. All page ty
 #### [[gpd-micropc-2]] — Ruggedised UMPC for Field Work (2025)
 - Reviews: [[2025-07-24-gpd-micropc-2-review-youtube]] | [[2025-08-13-gpd-micropc-2-review-blog]]
 - Variants: [[gpd-micropc-2-n250]] | [[gpd-micropc-2-n300]]
-- Reviews: [[2025-07-24-gpd-micropc-2-review-youtube]]
 - KB: [[gpd-micropc-2-getting-started]] | [[gpd-micropc-2-faq]] | [[gpd-micropc-2-bios-update]] | [[gpd-micropc-2-tdp-change]] | [[gpd-micropc-2-enable-windows-updates]]
+- Resources: [[gpd-micropc-2-supplier-resources]]
 - Product pages: [[gpd-micropc-2-product-page-gpdstore]] | [[gpd-micropc-2-case-product-page-gpdstore]]
 
 #### [[gpd-pocket-4]] — Convertible Pocket UMPC (2024)
 - Reviews: [[2024-12-05-gpd-pocket-4-review-blog]]
 - Variants: [[gpd-pocket-4-8840u]] | [[gpd-pocket-4-ai-365]] | [[gpd-pocket-4-ai-370]]
 - KB: [[gpd-pocket-4-getting-started]] | [[gpd-pocket-4-faq]] | [[gpd-pocket-4-bios-update]] | [[gpd-pocket-4-module-change]] | [[gpd-pocket-4-fan-replacement]] | [[gpd-pocket-4-keyboard-replacement]]
+- Resources: [[gpd-pocket-4-supplier-resources]]
 - Product pages: [[gpd-pocket-4-product-page-gpdstore]] | [[gpd-pocket-4-4g-lte-module-product-page-gpdstore]] | [[gpd-pocket-4-kvm-module-product-page-gpdstore]] | [[gpd-pocket-4-rs-232-module-product-page-gpdstore]] | [[gpd-pocket-4-protective-case-product-page-gpdstore]]
 
 #### [[gpd-win-4]] — Sliding Keyboard Handheld (2022–2025)
 - Reviews: [[2023-03-26-gpd-win-4-2022-review-blog]] | [[2024-05-24-gpd-win-4-2024-review-blog]] | [[2025-01-16-gpd-win-4-2025-review-blog]]
 - KB: [[gpd-win-4-getting-started]] | [[gpd-win-4-faq]] | [[gpd-win-4-bios-update]] | [[gpd-win-4-ssd-replacement]] | [[gpd-win-4-triggers-replacement]] | [[gpd-win-4-display-replacement]]
+- Resources: [[gpd-win-4-supplier-resources]] (6800U original) | [[gpd-win-4-2023-supplier-resources]] (2023–2024) | [[gpd-win-4-2025-supplier-resources]] (2025)
 - Product pages: [[gpd-win-4-product-page-gpdstore]] | [[gpd-win-4-2023-product-page-gpdstore]] | [[gpd-win-4-2024-product-page-gpdstore]] | [[gpd-win-4-2025-product-page-gpdstore]]
 - Accessories: [[gpd-win-4-compact-case-product-page-gpdstore]] | [[gpd-win-4-hardshell-case-product-page-gpdstore]] | [[gpd-win-4-docking-station-product-page-gpdstore]] | [[gpd-win-4-lte-module-product-page-gpdstore]] | [[gpd-win-4-screen-protector-product-page-gpdstore]] | [[gpd-win-3-4-hardshell-case-product-page-gpdstore]]
 
 #### [[gpd-win-3]] — Intel Tiger Lake Handheld (2021)
+- Resources: [[gpd-win-3-supplier-resources]]
 - Product pages: [[gpd-win-3-product-page-gpdstore]]
 - Accessories: [[gpd-win-3-grip-product-page-gpdstore]] | [[gpd-win-3-4-hardshell-case-product-page-gpdstore]]
 
 #### [[gpd-win-max-2]] — 10.1" Large-Format Handheld (2021–2025)
 - Reviews: [[2023-03-28-gpd-win-max-2-2022-review-blog]] | [[2024-05-28-gpd-win-max-2-2024-review-blog]] | [[2025-01-24-gpd-win-max-2-2025-review-blog]] | [[2021-09-15-gpd-win-max-2021-review-blog]] | [[2022-07-18-gpd-win-max-2-review-blog]]
 - KB: [[gpd-win-max-2-getting-started]] | [[gpd-win-max-2-faq]] | [[gpd-win-max-2-bios-update]] | [[gpd-win-max-2-2025-bios-update]] | [[gpd-win-max-2-2025-4g-module-install]] | [[gpd-win-max-2-2025-battery-icon-fix]] | [[gpd-win-max-2-keyboard-replacement]] | [[gpd-win-max-2-display-replacement]] | [[gpd-win-max-2-ssd-trigger-battery-replacement]]
+- Resources: [[gpd-win-max-2-supplier-resources]] (6800U original) | [[gpd-win-max-2-2023-supplier-resources]] (2023–2024) | [[gpd-win-max-2-2025-supplier-resources]] (2025)
 - Product pages: [[gpd-win-max-2021-product-page-gpdstore]] | [[gpd-win-max-2-product-page-gpdstore]] | [[gpd-win-max-2-2023-product-page-gpdstore]] | [[gpd-win-max-2-2024-product-page-gpdstore]] | [[gpd-win-max-2-2025-product-page-gpdstore]]
 - Accessories: [[gpd-win-max-2-protective-case-product-page-gpdstore]] | [[gpd-win-max-2-4g-lte-add-on-product-page-gpdstore]] | [[gpd-protective-case-p2-max-win-max-2021-product-page-gpdstore]]
 
 #### [[gpd-win-mini]] — Compact Clamshell Handheld (2023–2025)
 - Reviews: [[2024-05-28-gpd-win-mini-2024-review-blog]] | [[2025-02-07-gpd-win-mini-2025-review-blog]]
 - KB: [[gpd-win-mini-getting-started]] | [[gpd-win-mini-faq]] | [[gpd-win-mini-bios-update]] | [[gpd-win-mini-2025-bios-update]] | [[gpd-win-mini-2025-gamepad-firmware]] | [[gpd-win-mini-teardown]] | [[gpd-win-mini-2025-display-replacement]] | [[gpd-win-mini-2024-fan-replacement]] | [[gpd-win-mini-2025-battery-replacement]] | [[gpd-win-mini-2025-right-joystick-replacement]]
+- Resources: [[gpd-win-mini-2024-supplier-resources]] | [[gpd-win-mini-2025-supplier-resources]]
 - Product pages: [[gpd-win-mini-product-page-gpdstore]] | [[gpd-win-mini-2024-product-page-gpdstore]] | [[gpd-win-mini-2025-product-page-gpdstore]]
 - Accessories: [[gpd-win-mini-case-product-page-gpdstore]] | [[gpd-win-mini-grips-product-page-gpdstore]]
 
 #### [[gpd-duo]] — Dual-Screen AMOLED UMPC
 - Reviews: [[2024-10-04-gpd-duo-review-blog]]
 - KB: [[gpd-duo-getting-started]] | [[gpd-duo-faq]] | [[gpd-duo-video-input-guide]] | [[gpd-duo-bios-update]] | [[gpd-duo-screen-tearing-fix]]
+- Resources: [[gpd-duo-supplier-resources]]
 - Product pages: [[gpd-duo-product-page-gpdstore]]
 - Accessories: [[gpd-duo-protective-case-product-page-gpdstore]]
 
 #### [[gpd-g1]] — eGPU Dock (AMD RX 7600M XT)
 - Reviews: [[2024-05-29-gpd-g1-review-blog]]
 - KB: [[gpd-g1-getting-started]] | [[gpd-g1-faq]] | [[gpd-g1-bios-update]] | [[gpd-egpu-fix-hx-365-370]]
+- Resources: [[gpd-g1-supplier-resources]]
 - Product pages: [[gpd-g1-2023-product-page-gpdstore]] | [[gpd-g1-2024-product-page-gpdstore]]
 - Accessories: [[gpd-g1-case-product-page-gpdstore]] | [[gpd-oculink-cable-product-page-gpdstore]]
 
 #### [[gpd-pocket-3]] — Modular 8" UMPC (Intel Pentium Gold)
 - Reviews: [[2024-08-16-gpd-pocket-3-review-blog]] | [[2021-11-17-gpd-pocket-3-review-blog]] | [[2022-01-20-gpd-pocket-3-n6000-review-blog]]
 - KB: [[gpd-pocket-3-getting-started]] | [[gpd-pocket-3-faq]] | [[gpd-pocket-3-ubuntu-2410]]
+- Resources: [[gpd-pocket-3-supplier-resources]]
 - Product pages: [[gpd-pocket-3-product-page-gpdstore]]
 - Accessories: [[gpd-pocket-3-kvm-rs232-module-product-page-gpdstore]] | [[gpd-pocket-3-protective-case-product-page-gpdstore]]
 
 #### [[gpd-p2-max]] — 8.9" Mini Laptop (Intel N6000)
+- Resources: [[gpd-p2-max-supplier-resources]] | [[gpd-p2-max-2022-supplier-resources]]
 - Product pages: [[gpd-p2-max-2022-product-page-gpdstore]]
 
 #### [[gpd-micro-pc]] — Original MicroPC UMPC (Intel N4120)
+- Resources: [[gpd-micropc-supplier-resources]]
 - Product pages: [[gpd-micro-pc-product-page-gpdstore]]
 - Accessories: [[gpd-micro-pc-carry-case-product-page-gpdstore]] | [[gpd-micro-pc-hardshell-case-product-page-gpdstore]]
 
 #### [[gpd-portable-monitor]] — 15.6" 4K Portable Monitor (3 variants)
 - KB: [[gpd-156-portable-monitor-getting-started]] | [[droix-pm14-getting-started]]
 - Product pages: [[gpd-portable-monitor-adobe-rgb-product-page-gpdstore]] | [[gpd-portable-monitor-stylus-product-page-gpdstore]] | [[gpd-portable-monitor-touchscreen-product-page-gpdstore]]
+
+#### Legacy GPD Products (resources only)
+- [[gpd-win-max-2021]] — [[gpd-win-max-2021-supplier-resources]]
+- [[gpd-win-max]] — [[gpd-win-max-supplier-resources]]
+- [[gpd-pocket-2]] — [[gpd-pocket-2-supplier-resources]]
+- [[gpd-win-2]] — [[gpd-win-2-supplier-resources]]
+- [[gpd-win]] — [[gpd-win-supplier-resources]]
+- [[gpd-xp-plus]] — [[gpd-xp-plus-supplier-resources]]
+- [[gpd-xp]] — [[gpd-xp-supplier-resources]]
+- [[gpd-xd-plus]] — [[gpd-xd-plus-supplier-resources]]
+- [[gpd-xd]] — [[gpd-xd-supplier-resources]]
 
 #### GPD Cross-Product KB Guides
 - [[gpd-optimisation-guide]] — Optimisation guide (screen brightness, indexing, graphics, TDP, bloatware removal)
@@ -300,12 +321,12 @@ Quick navigation hub. Every page in the wiki is reachable from here. All page ty
 - Variants: [[onexplayer-onexfly-apex-max-395]]
 - Reviews: [[2026-03-04-onexplayer-onexfly-apex-review-youtube]]
 - Product pages: [[onexplayer-onexfly-apex-product-page-droix]]
-- Resources: [[onexfly-apex-supplier-resources]]
+- Resources: [[onexplayer-onexfly-apex-supplier-resources]]
 - Accessories: [[onexplayer-apex-battery-product-page-droix]] | [[onexplayer-apex-battery-cable-product-page-droix]] | [[onexplayer-apex-battery-dock-product-page-droix]] | [[onexplayer-apex-case-product-page-droix]] | [[onexplayer-onexfly-case-product-page-droix]] | [[onexplayer-oculink-cable-product-page-droix]]
 
 #### [[onexplayer-onexfly-f1-pro]] — 7" OLED 144Hz Handheld (HX 370 / HX 365 / 8840U)
 - Product pages: [[onexplayer-onexfly-f1-pro-product-page-droix]]
-- Resources: [[onexfly-f1-pro-supplier-resources]]
+- Resources: [[onexplayer-onexfly-f1-pro-supplier-resources]]
 
 #### [[onexplayer-super-x]] — 14" AMOLED Strix Halo Gaming Tablet
 - Product pages: [[onexplayer-super-x-product-page-droix]]
@@ -334,13 +355,13 @@ Quick navigation hub. Every page in the wiki is reachable from here. All page ty
 
 #### [[onexplayer-mini-pro]] — 7" Handheld (Ryzen 7 6800U, USB4)
 - Product pages: [[onexplayer-mini-pro-product-page-droix]]
-- Resources: [[onexplayer-minipro-6800u-supplier-resources]]
+- Resources: [[onexplayer-mini-pro-6800u-supplier-resources]]
 
 #### [[onexplayer-mini]] — 7" Handheld (Ryzen 7 5800U / i7-1195G7, Legacy)
 - Product pages: [[onexplayer-mini-product-page-droix]]
 
 #### [[onexplayer-onexfly]] — ONEXFLY (7840U / 8840U, Legacy)
-- Resources: [[onexfly-7840u-supplier-resources]] | [[onexfly-8840u-supplier-resources]]
+- Resources: [[onexplayer-onexfly-7840u-supplier-resources]] | [[onexplayer-onexfly-8840u-supplier-resources]]
 
 #### [[onexplayer-2]] — ONEXPLAYER 2 (6800U, Legacy)
 - Resources: [[onexplayer-2-6800u-supplier-resources]]
@@ -361,19 +382,19 @@ Quick navigation hub. Every page in the wiki is reachable from here. All page ty
 - Resources: [[one-netbook-5-supplier-resources]]
 
 #### [[onexplayer-1]] — ONEXPLAYER 1 Intel (Legacy)
-- Resources: [[onexplayer1-supplier-resources]]
+- Resources: [[onexplayer-1-supplier-resources]]
 
 #### [[onexplayer-1-amd]] — ONEXPLAYER 1 AMD (Legacy)
-- Resources: [[onexplayer1amd-supplier-resources]]
+- Resources: [[onexplayer-1-amd-supplier-resources]]
 
 #### [[onexplayer-1-mini]] — ONEXPLAYER Mini i7-1195G7 (Legacy)
-- Resources: [[onexplayer1mini-supplier-resources]]
+- Resources: [[onexplayer-1-mini-supplier-resources]]
 
 #### [[onexplayer-1-mini-amd]] — ONEXPLAYER Mini AMD 5800U (Legacy)
-- Resources: [[onexplayer1mini-amd-supplier-resources]]
+- Resources: [[onexplayer-1-mini-amd-supplier-resources]]
 
 #### [[onexplayer-1-mini-intel]] — ONEXPLAYER Mini Intel i7-1260P Gundam (Legacy)
-- Resources: [[onexplayer1mini-intel-supplier-resources]]
+- Resources: [[onexplayer-1-mini-intel-supplier-resources]]
 
 #### [[onexplayer-onexgpu-2]] — eGPU Dock (AMD RX 7800M, RDNA 3)
 - Product pages: [[onexplayer-onexgpu-2-product-page-droix]]

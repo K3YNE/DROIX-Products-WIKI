@@ -33,9 +33,19 @@ The original GPD MicroPC is a compact UMPC aimed at IT professionals and field t
 
 ## Resources
 
-- Firmware: none catalogued.
-- BIOS: none catalogued.
-- Drivers: none catalogued.
+Keep this section current whenever a new firmware / BIOS / driver / tool release is ingested.
+
+### Firmware (Windows)
+
+- **Current:** see [[gpd-micropc-supplier-resources]] — Windows firmware MicroPC_RS5_X64_20200602_user-EN (2020-06-02). Includes integrated hardware drivers.
+
+### BIOS
+
+- **Current:** see [[gpd-micropc-supplier-resources]] — BIOS v4.18 / EC v4.08 (2023-09-21). Decompression password: `123456`. EC must be upgraded before BIOS.
+
+### Drivers
+
+- **Current:** see [[gpd-micropc-supplier-resources]] — MicroPC driver package (version unspecified). Also supports Pocket 2, P2 Max, WIN 2. Not compatible with Windows 10 1607.
 
 ## Reviews & Coverage
 

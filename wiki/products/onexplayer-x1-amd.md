@@ -78,17 +78,12 @@ Out of stock at DROIX.
 
 ## Resources
 
-No firmware, BIOS, or driver resources catalogued.
+- **Current BIOS/Firmware/Drivers:** see [[onexplayer-x1-8840u-supplier-resources]] (8840U) | [[onexplayer-x1-155h-supplier-resources]] (155H)
 
 ## Reviews & Coverage
 
 - [[onexplayer-x1-amd-product-page-droix]] -- DROIX product page.
 - [[2024-08-13-onexplayer-x1-amd-review-blog]]
-
-
-## Supplier Resources
-
-- [[onexplayer-x1-8840u-supplier-resources]] | [[onexplayer-x1-155h-supplier-resources]]
 
 ## Related
 

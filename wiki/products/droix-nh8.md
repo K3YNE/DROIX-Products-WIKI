@@ -29,7 +29,7 @@ USB-C hub from [[droix|DROIX]] with built-in PCI-e 22*80 NVMe storage expansion,
 
 ## Resources
 
-- Firmware: none catalogued.
+No supplier resources page catalogued.
 
 ## Reviews & Coverage
 

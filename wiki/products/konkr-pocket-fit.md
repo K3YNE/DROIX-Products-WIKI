@@ -8,7 +8,7 @@ platform: android
 variants: []
 soc: Qualcomm Snapdragon G3 Gen 3
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [konkr, ayaneo-sub-brand, android-handheld, budget, snapdragon-g3-gen-3]
 ---
 
@@ -42,18 +42,13 @@ Budget Android handheld from [[konkr|KONKR]] ([[ayaneo|AYANEO]]'s sub-brand). Us
 
 ## Resources
 
-- Firmware / OTA updates: none catalogued.
+- **Current Firmware/System Updates:** see [[konkr-pocket-fit-supplier-resources]]
 
 ## Reviews & Coverage
 
 - [[2025-11-14-konkr-pocket-fit-review-youtube]] — DROIX YouTube review.
 - [[konkr-pocket-fit-product-page-droix]] — DROIX product page.
 - [[2025-11-14-konkr-pocket-fit-review-blog]]
-
-
-## Supplier Resources
-
-- [[konkr-pocket-fit-supplier-resources]]
 
 ## Related
 

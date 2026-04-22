@@ -40,17 +40,13 @@ These are form-factor variants sharing the same APU and main display; they do no
 
 ## Resources
 
-- Firmware / BIOS / Drivers: none catalogued.
+- **Current BIOS & EC:** v20250519 (DS and KB variants) — see [[ayaneo-flip-supplier-resources]]
+- **Current Drivers:** 20240204 — see [[ayaneo-flip-supplier-resources]]
 
 ## Reviews & Coverage
 
 - [[ayaneo-flip-product-page-droix]] — DROIX product page.
 - [[2024-04-12-ayaneo-flip-review-blog]]
-
-
-## Supplier Resources
-
-- [[ayaneo-flip-supplier-resources]]
 
 ## Related
 

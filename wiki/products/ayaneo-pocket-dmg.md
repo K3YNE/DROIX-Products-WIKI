@@ -37,18 +37,13 @@ Vertical Game Boy-style Android handheld from [[ayaneo|AYANEO]] powered by the [
 
 ## Resources
 
-- Firmware / BIOS / Drivers: none catalogued.
+- **Current OTA:** 20250708 — see [[ayaneo-pocket-dmg-supplier-resources]]
 
 ## Reviews & Coverage
 
 - [[ayaneo-pocket-dmg-product-page-droix]] — DROIX product page.
 - [[ayaneo-pocket-dmg-case-product-page-droix]] — DROIX carrying case product page.
 - [[2025-02-19-ayaneo-pocket-dmg-review-blog]]
-
-
-## Supplier Resources
-
-- [[ayaneo-pocket-dmg-supplier-resources]]
 
 ## Related
 

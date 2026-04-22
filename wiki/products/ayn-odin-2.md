@@ -49,7 +49,7 @@ tags: [ayn, android-handheld, snapdragon-8-gen-2, odin]
 
 ## Resources
 
-- Firmware / OTA updates: none catalogued.
+No supplier resources page catalogued. AYN Odin 2 firmware updates delivered via OTA.
 
 ## Reviews & Coverage
 

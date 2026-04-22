@@ -13,8 +13,19 @@ tags: [onexplayer, handheld, windows]
 
 ## Summary
 
-ONEXPLAYER Game Console is a legacy product from [[onexplayer]]. This is a minimal hub created during supplier resource ingestion.
+The ONEXPLAYER Game Console is a Windows handheld gaming device from [[onexplayer]], managed via the OneXConsole software (also known as Game Center). It represents ONEXPLAYER's approach to a console-like Windows handheld experience with dedicated companion software for TDP management and game launching.
 
 ## Resources
 
-- [[onexplayer-game-console-supplier-resources]]
+- [[onexplayer-game-console-supplier-resources]] — OneXConsole driver package
+
+### Current Resources
+
+| Resource | Source |
+|----------|--------|
+| OneXConsole Drivers | [[onexplayer-game-console-supplier-resources]] |
+
+## Related
+
+- [[onexplayer]] — Brand page
+- [[handheld-pc]] — Product category

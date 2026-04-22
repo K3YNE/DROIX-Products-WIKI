@@ -72,17 +72,12 @@ Out of stock at DROIX. Available new and refurbished (Class A).
 
 ## Resources
 
-No firmware, BIOS, or driver resources catalogued.
+- **Current BIOS/Firmware/Drivers:** see [[onexplayer-x1-pro-supplier-resources]]
 
 ## Reviews & Coverage
 
 - [[onexplayer-x1-pro-product-page-droix]] -- DROIX product page.
 - [[2025-03-28-onexplayer-x1-pro-review-blog]]
-
-
-## Supplier Resources
-
-- [[onexplayer-x1-pro-supplier-resources]]
 
 ## Related
 

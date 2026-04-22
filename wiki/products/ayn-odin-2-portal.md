@@ -43,7 +43,7 @@ Previously the Android performance reference device in DROIX reviews before bein
 
 ## Resources
 
-- Firmware / OTA updates: none catalogued.
+No supplier resources page catalogued. AYN Odin 2 Portal firmware updates delivered via OTA.
 
 ## Reviews & Coverage
 

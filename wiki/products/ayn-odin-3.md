@@ -47,7 +47,7 @@ tags: [ayn, android-handheld, snapdragon-8-elite, flagship]
 
 ## Resources
 
-- Firmware / OTA updates: none catalogued.
+No supplier resources page catalogued. AYN Odin 3 firmware updates delivered via OTA.
 
 ## Reviews & Coverage
 
