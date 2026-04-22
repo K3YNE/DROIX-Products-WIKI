@@ -180,24 +180,6 @@ And the good news doesn’t stop there. We’ve put together a detailed guide to
 
 <https://droix.net/knowledge-base/article/retroarch/embed/#?secret=5FniR273Vm#?secret=NX1wQM0ur9>
 
-## Connecting the GPD G1 eGPU (Optional)
-
-The [GPD G1 eGPU docking station](https://droix.net/product/gpd-g1/) is a game-changer, not only offering additional USB ports, HDMI, and DisplayPort for connecting to your monitor or TV. But its standout feature is the built-in [Radeon RX 7600M XT GPU](https://www.amd.com/en/products/graphics/amd-radeon-rx-7600m-xt), which elevates your gaming experience with higher FPS and improved visual quality. When hooked up to an external monitor, this eGPU flexes its muscles, enabling even the most demanding games to run at higher resolutions.
-
-For those with an Oculink port on their handheld, the GPD G1 allows you to leverage the fastest data transfer speeds. However, if your device doesn’t have this port, there’s no need to worry. The GPD G1 eGPU docking station is still fully functional via the USB 4.0 port on your AYA NEO SLIDE. To get the most out of this powerful accessory, don’t miss our comprehensive guide on [Getting Started with the GPD G1 eGPU Docking Station](https://droix.net/knowledge-base/getting-started-with-the-gpd-g1-egpu-docking-station/), where we delve into everything from setup to advanced usage tips with the GPD G1.
-
-## Accessories & Add-Ons
-
-[15.6″ 4K Portable Monitor](https://droix.net/product/15-6-4k-portable-monitor-with-touchscreen/) | [with Adobe RGB](https://droix.net/product/15-6-4k-portable-monitor-with-adobe-rgb/) | [with Stylus Support](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/): These portable monitors boast a stunning 4K resolution on their 15.6″ displays, featuring touchscreen capabilities and options for Adobe RGB or stylus support. They are exceptionally well-suited for gamers, artists, and office work, making them an ideal high-quality external display. Perfectly compatible with your AYA NEO, enhancing your docked setup, and ensuring a premium look with no cost at performance.
-
-15.6″ 4K portable monitor with Adobe RGB
-
-[GPD G1 eGPU Docking Station](https://droix.net/product/gpd-g1/)**:** This docking station not only provides the usual USB, DisplayPort, and HDMI port expandability but its highlight feature is the built-in graphics card. The GPD G1 houses a high-performance Radeon RX 7600M XT eGPU, capable of running the latest games at higher graphics settings and resolutions on an external monitor. Dive into our [full review](https://droix.net/blogs/gpd-g1-egpu-docking-station-review) for more details.
-
-[NH8 USB Hub with NVME](https://droix.net/product/droix-nh8-nvme-usb-hub/): The NH8 USB Type-C Hub with NVME is a versatile, portable device that extends your AYA NEO Slide’s connectivity. Including a variety of ports from HDMI, USB Type-A, and USB Type-C, to SD card readers, providing comprehensive compatibility with a range of peripherals. But its highlight feature is the built-in [NVME slot](https://en.wikipedia.org/wiki/NVM_Express), allowing you to expand your storage with ease.
-
-[DROIX USB 4.0 Type-C Cable](https://droix.net/product/usbc-4-cable/?cgkit_search_word=usb): Equipped with a staggering 40Gbps data transfer speed, our cable ensures that your data transfers will be faster than ever, making slow read/write speeds a thing of the past. The best part? This cable is fully compatible with both, the [GPD G1](#GPD-G1) and all variations of our [*Portable Monitors*](#portable-monitor).
-
 ---
 
 Well, that’s everything we have to share regarding the AYANEO SLIDE – we hope you’ve managed to correctly set up and get started with your new portable gaming PC, or at the very least learnt something useful. In case you still have any questions or queries, please feel free to leave a comment below or message our [Support team](https://droix.net/contact-us/). We’re committed to helping you and will also amend this page accordingly.

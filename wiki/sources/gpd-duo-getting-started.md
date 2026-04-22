@@ -122,21 +122,3 @@ GPD MotionAssist: Configure TDP settings, gyro controls, and other device-specif
 
 Reminder: Adjust in-game settings for optimal performance, balancing visuals with frame rates to get the best experience on the GPD DUO.
 
-## Must-Have Accessories for Your GPD DUO
-
-### GPD G1 eGPU Docking Station
-
-The [[gpd-g1|GPD G1]] is a powerful accessory designed to elevate the performance of the GPD DUO. By incorporating an external GPU and expanded connectivity options, it transforms the DUO into a desktop-class system, perfect for gaming and productivity.
-
-* Equipped with the AMD Radeon RX 7600M XT GPU, the GPD G1 delivers desktop-level graphics power, enabling the device to handle demanding games and applications with ease.
-* The docking station offers multiple display output options, including HDMI 2.1 and DisplayPort 1.4a, allowing for multi-monitor setups and providing smooth, high-refresh-rate gaming experiences.
-* In addition to enhanced graphics, the GPD G1 adds extra USB ports and a high-speed SD card reader, expanding your connectivity and storage capabilities.
-
-### GPD Stylus
-
-The GPD Stylus is a versatile and well-crafted accessory, designed to complement GPD models like the GPD DUO, [[gpd-pocket-3|Pocket 3]] and [[gpd-win-max-2|WIN Max 2]], and compatible with other laptops and tablets. Constructed from durable aluminum alloy, it offers an ergonomic, lightweight design that provides a comfortable grip, making it ideal for extended use.
-
-* High-sensitivity, 4096-level pressure-sensitive tip made of soft rubber.
-* Allows for precise control, whether writing notes, creating illustrations, or editing photos.
-* Rubber tip protects your screen from scratches.
-* Includes a top buckle for easy attachment to pockets or cases.

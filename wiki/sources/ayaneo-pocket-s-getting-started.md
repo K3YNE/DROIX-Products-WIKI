@@ -136,19 +136,6 @@ If however, you’re experiencing issues with your Pocket 4 or simply want to st
 
 <https://droix.net/knowledge-base/article/factory-reset-android/embed/#?secret=O58YgolgLN#?secret=Sy9DFx7vnd>
 
-## Accessories & Add-Ons
-
-[DROIX NT8 Clear USB Hub](https://droix.net/product/droix-nt8-clear-usb-hub/): Maximize your AYANEO Pocket S’s connectivity with the DROIX NT8 Clear USB Hub! This versatile hub features multiple USB ports, allowing you to connect a variety of peripherals such as controllers, keyboards, and external storage devices. Its clear design adds a stylish touch to your setup, while its compact size ensures it fits seamlessly into your gaming environment. Enhance your gaming and productivity with the DROIX NT8 Clear USB Hub and unlock the full potential of your AYANEO Pocket S!
-
-[DROIX NH8 USB Hub with NVMe](https://droix.net/product/droix-nh8-nvme-usb-hub/): Or you can Expand your AYANEO Pocket S’s capabilities with the NH8 USB Hub! This powerful hub not only provides multiple USB ports for connecting peripherals like controllers, keyboards, and external drives, but it also includes an NVMe slot for lightning-fast storage expansion. Perfect for gamers and professionals alike, the DROIX NH8 USB Hub with NVMe ensures seamless connectivity and never-ending storage in one sleek, compact device.
-
-[15.6″ 4K Portable Monitor](https://droix.net/product/15-6-4k-portable-monitor-with-touchscreen/) | [with Adobe RGB](https://droix.net/product/15-6-4k-portable-monitor-with-adobe-rgb/) | [with Stylus Support](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/): Pair up your Hub with one of these portable monitors that offer a stunning 4K resolution across their 15.6″ display. Featuring touchscreen capabilities and even options for Adobe RGB or Stylus support, these monitors are fantastic for gamers, artists, office work and more. It serves as the ideal high-quality, portable external display, perfect for the small form factor and portability of the Pocket S with its slim and lightweight design. This makes it not only easy to carry around but also a stylish complement to your gaming setup – perfect for achieving a modern and sleek aesthetic.
-
-15.6″ 4K portable monitor with Adobe RGB
-
-[DROIX USB-C 4.0 Cable](https://droix.net/product/usbc-4-cable): Enhance your gaming experience with our official USB-C 4.0 Cable! This high-quality cable ensures fast and reliable charging, as well as efficient data transfer, making it an essential accessory for your AYANEO Pocket S. Whether you’re updating your game library or playing for extended periods, the DROIX USB-C 4.0 Cable provides the durability and performance you need. Don’t miss out on this essential addition to your gaming setup—elevate your gaming experience to the next level!
-
-DROIX USB Type-C 4.0 Cable
 
 ---
 

@@ -282,17 +282,6 @@ This will cause a pop-up asking for access to the device (refer to *Image 7* bel
 
 OdinTools from [Langerhans](https://github.com/langerhans)‘ is a collection of utilities for the AYN Odin 2, that includes app overrides, custom quick settings, button utilities and more. It is currently being developed and updated, so please ensure you read the instructions from the developers and install the correct version when downloading. You can download the latest versions of OdinTools [here](https://github.com/langerhans/OdinTools).
 
-## Accessories & Add-Ons
-
-[15.6″ 4K Portable Monitor](https://droix.net/product/15-6-4k-portable-monitor-with-touchscreen/) | [with Adobe RGB](https://droix.net/product/15-6-4k-portable-monitor-with-adobe-rgb/) | [with Stylus Support](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/): These portable monitors offer a stunning 4K resolution across their 15.6″ display. Featuring touchscreen capabilities and even options for Adobe RGB or Stylus support, these monitors are fantastic for gamers, artists, office work and more. It serves as the ideal high-quality, portable external display, perfect for the small form factor and portability of the AYN ODIN 2 with its slim and lightweight design. This makes it not only easy to carry around but also a stylish complement to your dock setup – perfect for achieving a modern and sleek aesthetic.
-
-15.6″ 4K portable monitor with Adobe RGB
-
-[AYN Odin 2 Super Dock](https://droix.net/product/ayn-odin-2-super-dock/): If the name didn’t give it away already, this dock is the ultimate all-in-one solution for the AYN Odin 2! This official dock from AYN is the real deal completely transforming your gaming experience – you’ll never run out of storage space thanks to its M.2 NVMe/SATA enclosure and four [USB-A](https://www.viewsonic.com/library/tech/usb-c-usb-b-and-usb-a-whats-the-difference/) ports for all the peripherals you could need. With its premium build and features, there’s no real downside… I mean it’s got “Super” in its name for a reason!
-
-AYN Odin 2 Super Dock
-
-[DROIX HDMI to Mini HDMI Cable](https://droix.net/product/mini-full-hdmi/): These versatile cables are exactly what you need for connecting the Odin 2 to a Mini HDMI device, such as our portable monitor, via the Super Dock (or other docking station). It supports full 4K resolution, providing crystal-clear video and audio transmission for an immersive viewing experience. The robust design guarantees durability, and flexibility makes it easy to manage in any setup.
 
 ---
 

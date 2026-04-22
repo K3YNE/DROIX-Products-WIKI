@@ -121,70 +121,49 @@ Since the GPD Pocket 3 uses Intel processors, the Intel Driver & Support Assista
 
 For those interested in running Linux, Ubuntu 23.10 has been reported to work well on the GPD Pocket 3, with good hardware support including screen auto-rotation, pen input, and S3 sleep. It offers a lightweight alternative to Windows for development and general use.
 
-## Must-Have Accessories
-
-### GPD G1 eGPU -- Unleash Your Pocket 3's Full Potential
-
-The [[gpd-g1|GPD G1]] eGPU is a game-changing accessory for your GPD Pocket 3:
-
-* **Powerful Performance:** Houses an AMD Radeon RX 7600M XT, dramatically boosting graphics capabilities.
-* **Versatile Docking Station:** Offers additional ports and connectivity options.
-* **Compact and Portable:** Easy to carry alongside your Pocket 3.
-* **Seamless Integration:** Designed specifically for GPD devices.
-* **USB 4 and OCuLink connection**: Whilst the GPD Pocket 3 does not have an OCuLink port, the latest SKUs of the Pocket 3 come with USB 4.0, allowing you to take advantage of the GPD G1 eGPU.
-
-The GPD G1 eGPU transforms your Pocket 3 into a more capable machine for gaming, content creation, and demanding applications.
-
-### DROIX PM14 Portable Monitor
-
-The DROIX PM14 is an ideal companion for your GPD Pocket 3:
-
-* **High-Quality Display:** 14-inch 4K UHD screen with 100% DCI-P3 color gamut and HDR400 support.
-* **Versatile Connectivity:** USB-C and Mini HDMI ports for easy connection to various devices.
-* **Portable Design:** Ultra-thin (578g) with a built-in kickstand for easy setup.
-* **Compatibility:** Works seamlessly with laptops, smartphones, and gaming consoles.
-
-## Where to Buy the GPD Pocket 3
-
-Available from [[droix|DROIX]] (GPDStore). Comes with a 2-year warranty from DROIX Global.
-
-**What's Included:**
-
-* 1x GPD Pocket 3
-* 1x Power Adapter
-* 1x USB Type-C Cable
-* 1x User Manual
-* 1x GPD Stylus
-
-Intel Pentium Gold 7505 up to 3.50GHz (4 Cores/8 Threads). 16GB LPDDR4x RAM @ 3733MHz. Thunderbolt 4. 8" touchscreen display with fingerprint scanner. Up to 4TB PCIe NVMe SSD. Modular with KVM/RS-232 ports (sold separately).
-
-Price range: $793.95 -- $1,269.95.
-
 ## Frequently Asked Questions
 
-**What is the maximum resolution of the built-in display?**
+<details>
+<summary>What is the maximum resolution of the built-in display?</summary>
 The GPD Pocket 3 has an 8-inch touchscreen display with a resolution of 1920x1200 pixels.
+</details>
 
-**Can I use the GPD Pocket 3 as a tablet?**
+<details>
+<summary>Can I use the GPD Pocket 3 as a tablet?</summary>
 Yes, the GPD Pocket 3 features a 180-degree rotatable touchscreen display, allowing it to be used in tablet mode.
+</details>
 
-**Is the touchscreen compatible with a stylus?**
+<details>
+<summary>Is the touchscreen compatible with a stylus?</summary>
 Yes, the GPD Pocket 3 supports an active stylus with 4096 levels of pressure sensitivity.
+</details>
 
-**What is the modular port on the GPD Pocket 3 used for?**
+<details>
+<summary>What is the modular port on the GPD Pocket 3 used for?</summary>
 The modular port allows for additional functionality through optional modules, such as RS-232 or KVM (Keyboard, Video, Mouse) capabilities.
+</details>
 
-**Does the GPD Pocket 3 support fast charging?**
+<details>
+<summary>Does the GPD Pocket 3 support fast charging?</summary>
 Yes, the GPD Pocket 3 supports 65W PD (Power Delivery) fast charging.
+</details>
 
-**What is the battery life of the GPD Pocket 3?**
+<details>
+<summary>What is the battery life of the GPD Pocket 3?</summary>
 The GPD Pocket 3 has a 38.5Wh battery that provides approximately 8.5 hours of local video playback in real-world tests.
+</details>
 
-**Does the GPD Pocket 3 support external displays?**
+<details>
+<summary>Does the GPD Pocket 3 support external displays?</summary>
 Yes, the GPD Pocket 3 supports external displays via its HDMI 2.0b port and Thunderbolt 4 port (Thunderbolt 4 port is only available on the Intel Core i7 and Intel Gold 7505 models). It can drive up to two external monitors simultaneously.
+</details>
 
-**Can I upgrade the RAM or storage on the GPD Pocket 3?**
+<details>
+<summary>Can I upgrade the RAM or storage on the GPD Pocket 3?</summary>
 The RAM is soldered and cannot be upgraded. However, the M.2 2280 NVMe SSD can be replaced or upgraded.
+</details>
 
-**What operating systems are compatible with the GPD Pocket 3?**
+<details>
+<summary>What operating systems are compatible with the GPD Pocket 3?</summary>
 The GPD Pocket 3 comes pre-installed with Windows 10 Home or Windows 11 Home. It also supports Windows 11 and various Linux distributions like Ubuntu MATE.
+</details>

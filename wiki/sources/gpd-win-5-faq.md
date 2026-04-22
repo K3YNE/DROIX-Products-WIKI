@@ -18,33 +18,123 @@ tags: [kb-faq, gpd, win-5, support]
 
 First-party FAQ from the GPD Store knowledge base, maintained by Dave. Covers launch status, warranty, SKU specs, battery, display, emulation, peripherals, and common misconceptions for the [[gpd-win-5|GPD WIN 5]].
 
-## Question coverage (topics indexed)
+## Frequently Asked Questions
 
-- **Launch + availability** — WIN 5 is currently shipping via GPD Store.
-- **Warranty** — 2-year warranty via [[droix|DROIX]] / GPD Store (vs. 1 year from other sellers).
-- **Processors** — [[gpd-win-5-max-395|AMD Ryzen AI Max+ 395]] (Radeon 8060S) and [[gpd-win-5-max-385|AMD Ryzen AI Max 385]] (Radeon 8050S). Full core/thread/clock tables.
-- **Size and weight** — 26.7 × 11.1 × 2.4 cm, 565 g device; external battery 11.07 × 11.03 × 1.81 cm, 350 g.
-- **Full spec sheet** — RAM (32 / 64 / 128 GB LPDDR5X 8000 MT/s), storage (M.2 2280 up to 4 TB + Mini SSD up to 2 TB), 7" 1920×1080 touchscreen at 120 Hz, Windows 11 Home.
-- **Battery** — 80 Wh external, hot-swappable across multiple packs.
-- **Max+ 395 vs Max 385 diff** — 16C/32T + 40-CU 8060S @ 2900 MHz vs 8C/16T + 32-CU 8050S @ 2800 MHz.
-- **Max+ 395 vs Ryzen 9 AI HX 370** — up to 189 % uplift depending on benchmark; cross-linked to [[gpd-win-5-blog-review]].
-- **Gaming performance** — roughly RTX 4060 class integrated graphics; DOOM: The Dark Ages cited at 1080p Nightmare preset, 120 fps.
-- **Emulation** — exceptional; up to PS4 and Switch (Eden) emulation with caveats.
-- **Mini SSD (BIWIN)** — install/setup guide cross-linked (first-party KB).
-- **Power supply** — 180 W barrel-jack PSU (5.2 × 2.5 mm, 100–240 V AC, 20 V / 9 A output). USB-C charging also supported.
-- **External battery not required** — device runs from PSU alone.
-- **RAM/storage upgradability** — RAM is soldered (not upgradable); M.2 2280 SSD is user-upgradable up to 4 TB+; Mini SSD slot accepts up to 2 TB.
-- **External display** — native 1920×1080 @ 120 Hz; via [[gpd-win-5-smart-dock|GPD WIN 5 Smart Dock]] up to 4K @ 144 Hz over HDMI 2.1.
-- **Multi-monitor** — three external monitors supported (HDMI 2.1 + 2× USB-C). DROIX PM14 portable monitor cited as a compatible option.
-- **Thermal** — dual-fan + quad heat pipe. Max fan noise 67 dB; max surface temp 48 °C under sustained load; battery-attached vs. battery-detached delta is minimal.
-- **Speakers** — dual 2 W super-linear speakers + DTS:X Ultra (simulates 7.1 surround) on both speakers and headphones.
-- **Wireless** — Wi-Fi 6E + Bluetooth 5.3.
-- **eGPU** — supported via USB4, though 8060S integrated performance reduces the need. See [[egpu-docking]].
-- **Stylus** — capacitive stylus supported; GPD's own active stylus is not compatible.
-- **Windows Hello** — via fingerprint scanner on the power button.
-- **AI/NPU** — XDNA2 NPU; ~61 TPS local LLM token-gen, up to 126 TOPS system-wide in optimised cases.
-- **OS** — Windows 11 Home.
-- **Shell material** — LG-DOW 121H aviation-grade ABS resin, UL94 V-0 fire-retardant.
+<details>
+<summary>Launch + Availability</summary>
+The GPD WIN 5 is currently shipping via GPD Store.
+</details>
+
+<details>
+<summary>Warranty Information</summary>
+You get a 2-year warranty when purchasing via [[droix|DROIX]] or GPD Store (compared to only 1 year from other sellers).
+</details>
+
+<details>
+<summary>What processors does the GPD WIN 5 use?</summary>
+The GPD WIN 5 is available with the [[gpd-win-5-max-395|AMD Ryzen AI Max+ 395]] (Radeon 8060S) and [[gpd-win-5-max-385|AMD Ryzen AI Max 385]] (Radeon 8050S).
+</details>
+
+<details>
+<summary>Size and Weight</summary>
+The device itself measures 26.7 × 11.1 × 2.4 cm and weighs 565 g. The external battery measures 11.07 × 11.03 × 1.81 cm and weighs 350 g.
+</details>
+
+<details>
+<summary>Full Specification Summary</summary>
+- **RAM:** 32 / 64 / 128 GB LPDDR5X (8000 MT/s)
+- **Storage:** M.2 2280 up to 4 TB + Mini SSD up to 2 TB
+- **Display:** 7" 1920×1080 touchscreen, 120 Hz refresh rate
+- **OS:** Windows 11 Home
+</details>
+
+<details>
+<summary>Is the battery hot-swappable?</summary>
+Yes, the GPD WIN 5 features an 80 Wh external battery that is hot-swappable across multiple packs.
+</details>
+
+<details>
+<summary>Difference between Max+ 395 and Max 385 SKUs</summary>
+- **Max+ 395:** 16C/32T + 40-CU 8060S @ 2900 MHz
+- **Max 385:** 8C/16T + 32-CU 8050S @ 2800 MHz
+</details>
+
+<details>
+<summary>How does the Max+ 395 compare to the Ryzen 9 AI HX 370?</summary>
+Benchmarks show up to 189% uplift for the Max+ 395 depending on the test. See the [[gpd-win-5-blog-review]] for detailed data.
+</details>
+
+<details>
+<summary>Gaming Performance</summary>
+The integrated graphics are roughly comparable to an RTX 4060 class mobile GPU. For example, *DOOM: The Dark Ages* runs at 1080p Nightmare preset at approximately 120 fps.
+</details>
+
+<details>
+<summary>Emulation Capabilities</summary>
+Emulation performance is exceptional, handling up to PS4 and Switch (Eden) emulation (with some caveats depending on the title).
+</details>
+
+<details>
+<summary>Power Supply Specifications</summary>
+The device comes with a 180 W barrel-jack PSU (5.2 × 2.5 mm, 100–240 V AC, 20 V / 9 A output). USB-C charging is also supported.
+</details>
+
+<details>
+<summary>Do I need the external battery to run the device?</summary>
+No, the device can run from the power supply unit alone.
+</details>
+
+<details>
+<summary>RAM and Storage Upgradability</summary>
+- **RAM:** Soldered (not upgradable).
+- **M.2 2280 SSD:** User-upgradable up to 4 TB+.
+- **Mini SSD:** Slot accepts up to 2 TB. See our [[gpd-win-5-kb-mini-ssd-guide|Mini SSD (BIWIN) guide]] for installation.
+</details>
+
+<details>
+<summary>External Display and Multi-monitor Support</summary>
+The native screen is 1920×1080 @ 120 Hz. Using the [[gpd-win-5-smart-dock|GPD WIN 5 Smart Dock]], you can output up to 4K @ 144 Hz over HDMI 2.1. The device supports up to three external monitors total (HDMI 2.1 + 2× USB-C).
+</details>
+
+<details>
+<summary>Thermal Management and Noise</summary>
+Featuring a dual-fan + quad heat pipe system. Max fan noise is 67 dB, and max surface temperature is 48 °C under sustained load. The temperature delta between battery-attached and detached is minimal.
+</details>
+
+<details>
+<summary>Speaker and Audio Features</summary>
+Dual 2 W super-linear speakers with DTS:X Ultra support, simulating 7.1 surround sound on both speakers and headphones.
+</details>
+
+<details>
+<summary>Wireless Connectivity</summary>
+Includes Wi-Fi 6E and Bluetooth 5.3 as standard.
+</details>
+
+<details>
+<summary>eGPU Support</summary>
+Supported via USB4, though the high performance of the 8060S integrated GPU reduces the need for external graphics in many cases. See [[egpu-docking]] for more.
+</details>
+
+<details>
+<summary>Stylus Compatibility</summary>
+Standard capacitive styluses are supported, but GPD's own active stylus is not compatible with this screen.
+</details>
+
+<details>
+<summary>Windows Hello and Security</summary>
+Windows Hello is supported via a fingerprint scanner integrated into the power button.
+</details>
+
+<details>
+<summary>AI Performance (NPU)</summary>
+Features an XDNA2 NPU delivering ~61 TPS for local LLM token generation and up to 126 TOPS system-wide in optimized cases.
+</details>
+
+<details>
+<summary>Build Material</summary>
+The shell is made from LG-DOW 121H aviation-grade ABS resin, which is UL94 V-0 fire-retardant.
+</details>
 
 ## When to use this page
 

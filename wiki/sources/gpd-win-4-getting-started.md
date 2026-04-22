@@ -117,38 +117,3 @@ GPD MotionAssist: Essential for configuring TDP settings, gyro controls, and oth
 
 Remember to adjust in-game settings for optimal performance, as the WIN 4 performs best when you balance visuals with frame rates.
 
-## Must-Have Accessories for Your GPD WIN 4
-
-### GPD G1 eGPU Docking Station
-
-The [[gpd-g1|GPD G1]] is an exceptional accessory for the GPD WIN 4, offering a significant performance boost through its powerful external GPU and expanded connectivity options, transforming the handheld into a desktop-class gaming and productivity powerhouse.
-
-* The GPD G1 features a built-in AMD Radeon RX 7600M XT GPU, delivering desktop-level graphics performance for demanding games and applications.
-* It supports multiple display outputs, including HDMI 2.1 and DisplayPort 1.4a, allowing for multi-monitor setups and high-refresh-rate gaming.
-* The docking station provides additional USB ports and a high-speed SD card reader, enhancing connectivity and storage options.
-* With its compact and portable design, the GPD G1 is easy to carry alongside the WIN 4 for on-the-go power boosts.
-* The GPD G1 offers flexible connectivity through OCuLink and USB 4.0, ensuring compatibility with various devices beyond just the WIN 4.
-
-### DROIX PM14 Portable Monitor
-
-The DROIX PM14 is a versatile 14-inch 4K Ultra HD portable monitor that enhances the capabilities of the GPD WIN 4, offering an expanded visual workspace for gaming, productivity, and content creation.
-
-* The PM14 features a crisp 4K (3840x2160) resolution display with 100% DCI-P3 color coverage, providing stunning visuals for games and media.
-* It offers versatile connectivity through Mini HDMI and USB-C ports, making it compatible with a wide range of devices including the GPD WIN 4.
-* The monitor supports both touch and non-touch models, catering to different user preferences and needs.
-* With a slim profile and lightweight design (578g), the PM14 is highly portable, complementing the on-the-go nature of the GPD WIN 4.
-
-## Where to Buy the GPD WIN 4
-
-Available from [[droix|DROIX]] (GPDStore). Comes with a 2-year warranty from DROIX Global.
-
-**What's Included:**
-
-* 1x GPD WIN 4 2024
-* 1x Power Adapter
-* 1x USB Type-C Cable
-* 1x User Manual
-
-AMD Ryzen 7 8840U at 28W TDP. AMD Radeon 780M (12 CUs / 2700 MHz). 32GB LPDDR5X @ 6400 MT/s. Up to 4TB high-speed PCIe 4.0 NVMe SSD. WiFi 6E & Bluetooth 5.3.
-
-Price range: $864.95 -- $1,007.95.

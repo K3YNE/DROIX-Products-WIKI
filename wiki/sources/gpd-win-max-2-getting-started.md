@@ -115,23 +115,3 @@ GPD MotionAssist: Essential for configuring TDP settings, gyro controls, and oth
 
 Remember to adjust in-game settings for optimal performance, as the WIN MAX 2 performs best when you balance visuals with frame rates.
 
-## Must-Have Accessories For Your GPD WIN MAX 2
-
-### GPD G1 eGPU Docking Station
-
-The [[gpd-g1|GPD G1]] is a remarkable add-on for the GPD WIN MAX 2, delivering a substantial boost in performance with its powerful external GPU and enhanced connectivity options, transforming the device into a true desktop-class system for both gaming and productivity.
-
-* Featuring the AMD Radeon RX 7600M XT GPU, the GPD G1 offers desktop-grade graphics power.
-* It includes multiple display output options such as HDMI 2.1 and DisplayPort 1.4a, supporting multi-monitor setups.
-* The docking station provides additional USB ports and a fast SD card reader.
-* Compact and portable design.
-* Support for OCuLink and USB 4.0 connections.
-
-### DROIX PM14 Portable Monitor
-
-The [[droix-pm14-getting-started|DROIX PM14]] is a highly versatile 14-inch 4K Ultra HD portable monitor that extends the functionality of the GPD WIN MAX 2.
-
-* 4K (3840x2160) display with 100% DCI-P3 colour accuracy.
-* Mini HDMI and USB-C ports for flexible connectivity.
-* Available in both touch and non-touch versions.
-* Weighing just 578g with a slim design.
