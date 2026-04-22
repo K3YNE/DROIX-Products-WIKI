@@ -515,6 +515,14 @@ _No analysis pages yet._
 - Deferred: list
 ```
 
+## Deployment Notes
+
+- Quartz routing assumes canonical normalization between leaf pages (`/page` backed by `page.html`) and folder pages (`/folder/` backed by `folder/index.html`). Any production web server must mirror Quartz dev-server behavior:
+  - redirect `/leaf/` -> `/leaf` when `leaf.html` exists,
+  - redirect `/folder` -> `/folder/` when `folder/index.html` exists,
+  - return a real `404` status for missing pages instead of serving `404.html` as `200`.
+- This matters because Quartz emits relative internal links. If a client lands on a slash-suffixed leaf URL such as `/products/gpd-pocket-4/`, links like `../entities/gpd` resolve against the wrong base path and navigation breaks.
+
 ## Rules
 
 1. **Always write "DROIX"**, never "DroiX" or "Droix".
