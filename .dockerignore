@@ -1,0 +1,24 @@
+.git
+.obsidian
+.DS_Store
+
+# Root-level docs (not needed in build)
+CLAUDE.md
+AGENTS.md
+README.md
+
+# Excluded directories (not part of the wiki build)
+raw/
+archive/
+benchmarks-portal/
+scripts/
+tools/
+Clippings/
+docs/
+
+# Portal build artifacts
+portal/node_modules/
+portal/public/
+portal/.quartz-cache/
+portal/content/
+portal/Dockerfile

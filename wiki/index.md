@@ -1,6 +1,6 @@
 # DROIX Product Wiki
 
-Quick navigation hub. Every page in the wiki is reachable from here. All page types, slug conventions, frontmatter schemas, and workflows are defined in [AGENTS.md](../AGENTS.md) — read it before doing any work here.
+Quick navigation hub. Every page in the wiki is reachable from here.
 
 ---
 
