@@ -40,21 +40,38 @@ Keep this section current whenever a new firmware / BIOS / driver / tool release
 
 ### WIN Max 2 Original (2022 — 6800U)
 
-- **Firmware:** see [[gpd-win-max-2-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`. Shared with 2023/2024 models.
-- **BIOS (6800U):** see [[gpd-win-max-2-supplier-resources]] — BIOS V1.05 (2022-12-22). Fixes wireless screen projection failure and eGPU auto-connect.
-- **Drivers:** see [[gpd-win-max-2-supplier-resources]] — Drivers v3.4 (2024-05-07). Covers 6800U / 7640U / 7840U / 8840U.
+- **Firmware:** [[gpd-firmware-win11-24h2-shared]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`. Shared with 2023/2024 models. See also [[gpd-win-max-2-supplier-resources]].
+- **BIOS (6800U):** [[gpd-win-max-2-bios-v1-05]] — BIOS V1.05 (2022-12-22). Fixes wireless screen projection failure and eGPU auto-connect. See also [[gpd-win-max-2-supplier-resources]].
+- **Drivers:** [[gpd-win-max-2-drivers-v3-4]] — Drivers v3.4 (2024-05-07). Covers 6800U / 7640U / 7840U / 8840U. See also [[gpd-win-max-2-supplier-resources]].
+- **Controller Firmware:** [[gpd-win-max-2-controller-firmware-v3-14]] — Gamepad/Keyboard-Mouse firmware v3.14/v1.23. See also [[gpd-win-max-2-supplier-resources]].
+- **Touchpad Firmware:** [[gpd-win-max-2-touchpad-firmware-v1-0-3]] — Touchpad firmware v1.0.3 (6800U). See also [[gpd-win-max-2-supplier-resources]].
+- **Display Calibration:** [[gpd-win-max-2-screen-calibration]] — ICM colour profiles (D65/D70). See also [[gpd-win-max-2-supplier-resources]].
 
 ### WIN Max 2 2023 & 2024 (7640U / 7840U / 8840U)
 
-- **Firmware:** see [[gpd-win-max-2-2023-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`.
-- **BIOS:** see [[gpd-win-max-2-2023-supplier-resources]] — BIOS v0.42 (2024-10-23). Applies to 7640U, 7840U, 8840U. Fixes flickering screen. Device must be charging during upgrade.
-- **Drivers:** see [[gpd-win-max-2-2023-supplier-resources]] — Drivers v4.1.0 (2025-01-18).
+- **Firmware:** [[gpd-firmware-win11-24h2-shared]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`. See also [[gpd-win-max-2-2023-supplier-resources]].
+- **BIOS:** [[gpd-win-max-2-2023-bios-v0-42]] — BIOS v0.42 (2024-10-23). Applies to 7640U, 7840U, 8840U. Fixes flickering screen. Device must be charging during upgrade. See also [[gpd-win-max-2-2023-supplier-resources]].
+- **Drivers:** [[gpd-drivers-v4-1-0]] — Drivers v4.1.0 (2025-01-18). See also [[gpd-win-max-2-2023-supplier-resources]].
+- **Manual:** [[gpd-win-max-2-2023-user-manual]]. See also [[gpd-win-max-2-2023-supplier-resources]].
 
 ### WIN Max 2 2025 (8840U / AI 9 HX 370)
 
-- **Firmware:** see [[gpd-win-max-2-2025-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`.
+- **Firmware:** [[gpd-firmware-win11-24h2-shared]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`. See also [[gpd-win-max-2-2025-supplier-resources]].
 - **BIOS:** see [[gpd-win-max-2-2025-supplier-resources]] — no separate BIOS listed for 2025 model; see 2023/2024 page for applicable BIOS.
-- **Drivers:** see [[gpd-win-max-2-2025-supplier-resources]] — Drivers V4.1.0 (2025-01-18).
+- **Drivers:** [[gpd-drivers-v4-1-0]] — Drivers V4.1.0 (2025-01-18). See also [[gpd-win-max-2-2025-supplier-resources]].
+- **Manual:** [[gpd-win-max-2-2025-user-manual]]. See also [[gpd-win-max-2-2025-supplier-resources]].
+- **Battery Icon Fix:** [[gpd-win-max-2-2025-battery-icon-fix]] — Fix for battery icon disappearing after AMD driver update (HX 370).
+
+### Shared Tools & Drivers (all WIN Max 2 models)
+
+- [[gpd-motionassistant-v1-2-0-9]] — MotionAssistant v1.2.0.9 (handheld front-end).
+- [[gpd-gpdtool-v1-45]] — GPDTool v1.45 (official GPD handheld front-end).
+- [[gpd-amd-handheld-control-v1-0-0]] — AMD Handheld Control v1.0.0.
+- [[gpd-dtsx-audio]] — DTS:X Audio driver.
+- [[gpd-win-max-2-fingerprint-driver-linux]] — CS1197 fingerprint driver for Linux.
+- [[gpd-win-max-2-screen-calibration]] — Screen colour calibration ICM profiles.
+- [[gpd-gamepad-test-v1-03]] — GamePad Test Calibration Tool V1.03 (2025 model).
+- [[gpd-power-control-panel]] — Power Control Panel v2 (legacy, community).
 
 ## Reviews & Coverage
 

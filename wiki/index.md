@@ -67,7 +67,7 @@ Quick navigation hub. Every page in the wiki is reachable from here.
 - Variants: [[gpd-win-5-max-395]] | [[gpd-win-5-max-385]]
 - Reviews: [[2025-10-23-gpd-win-5-review-youtube]] | [[gpd-win-5-blog-review]] | [[2025-08-19-gpd-win-5-review-blog]] | [[2025-10-27-biwin-mini-ssd-review-blog]] | [[2025-11-20-gpd-win-5-docking-station-review-blog]]
 - KB: [[gpd-win-5-getting-started]] | [[gpd-win-5-faq]] | [[gpd-win-5-triggers-fix]] | [[gpd-win-5-usb-charger-guide]] | [[gpd-win-5-battery-cable-extender]] | [[gpd-win-5-mini-ssd-guide]] | [[gpd-win-5-bios-update-guide]] | [[gpd-win-5-optical-mouse-firmware]] | [[gpd-win-5-left-joystick-replacement]] | [[gpd-win-5-right-joystick-replacement]]
-- Resources: [[gpd-win-5-firmware-win11-25h2]] (current) | [[gpd-win-5-firmware-win11-24h2]] (historical) | [[gpd-win-5-bios-v2-25]] | [[gpd-win-5-drivers-2025-10-30]] | [[gpd-motionassistant-v1-2-0-9]] | [[gpd-win-5-user-manual-2025-09-04]] | [[gpd-win-5-supplier-resources]]
+- Resources: [[gpd-win-5-firmware-win11-25h2]] (current) | [[gpd-win-5-firmware-win11-24h2]] (historical) | [[gpd-win-5-bios-v2-25]] | [[gpd-win-5-drivers-2025-10-30]] | [[gpd-win-5-controller-firmware-v1-11]] | [[gpd-win-5-ofn-firmware-2025-11-27]] | [[gpd-win-5-wincontrols-v2-08]] | [[gpd-win-5-user-manual-2025-09-04]] | [[gpd-win-5-smart-dock-manual-2025-09-04]] | [[gpd-motionassistant-v1-2-0-9]] | [[gpd-gpdtool-v1-45]] | [[gpd-win-5-supplier-resources]]
 - Product pages: [[gpd-win-5-product-page-gpdstore]] | [[gpd-win-5-battery-product-page-gpdstore]] | [[gpd-win-5-case-product-page-gpdstore]] | [[gpd-win-5-docking-station-product-page-gpdstore]]
 
 #### [[gpd-win-5-smart-dock]] — WIN 5 Companion Dock (2025)
@@ -157,6 +157,17 @@ Quick navigation hub. Every page in the wiki is reachable from here.
 - [[gpd-xp]] — [[gpd-xp-supplier-resources]]
 - [[gpd-xd-plus]] — [[gpd-xd-plus-supplier-resources]]
 - [[gpd-xd]] — [[gpd-xd-supplier-resources]]
+
+#### GPD Shared Resource Pages
+- [[gpd-motionassistant-v1-2-0-9]] — MotionAssistant v1.2.0.9 (all AMD GPD handhelds)
+- [[gpd-gpdtool-v1-45]] — GPDTool v1.45 (all AMD GPD handhelds)
+- [[gpd-amd-handheld-control-v1-0-0]] — AMD Handheld Control v1.0.0 (third-party, AMD only)
+- [[gpd-dtsx-audio]] — DTS:X Audio (WIN 5, WIN 4, WIN Mini, WIN Max 2, DUO)
+- [[gpd-drivers-v4-1-0]] — Shared Driver Package V4.1.0 (WIN 4 2023+, WIN Mini, WIN Max 2, DUO)
+- [[gpd-gamepad-test-v1-03]] — GamePad Test Calibration Tool V1.03
+- [[gpd-power-control-panel]] — Power Control Panel (legacy, pre-MotionAssistant)
+- [[gpd-firmware-win11-24h2-shared]] — Shared Windows 11 24H2 firmware (WIN 4, WIN Max 2)
+- [[gpd-wincontrols-v1-16]] — WinControls v1.16 (WIN 4, WIN Mini, WIN Max 2)
 
 #### GPD Cross-Product KB Guides
 - [[gpd-optimisation-guide]] — Optimisation guide (screen brightness, indexing, graphics, TDP, bloatware removal)

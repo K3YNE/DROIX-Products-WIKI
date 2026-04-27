@@ -37,22 +37,33 @@ Keep this section current whenever a new firmware / BIOS / driver / tool release
 
 ### WIN 4 Original (2022 — 6800U)
 
-- **Firmware:** see [[gpd-win-4-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`.
-- **BIOS:** see [[gpd-win-4-supplier-resources]] — BIOS V3.06 (2023-06-07). Fixes volume keys unresponsive after sleep on Linux; fixes bottom C port not displaying.
-- **Drivers:** see [[gpd-win-4-supplier-resources]] — Drivers v3.4 (2024-05-07). Covers 6800U / 7640U / 7840U / 8840U.
+- **Firmware:** [[gpd-firmware-win11-24h2-shared]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`. See also [[gpd-win-4-supplier-resources]].
+- **BIOS:** [[gpd-win-4-bios-v3-06]] — BIOS V3.06 (2023-06-07). Fixes volume keys unresponsive after sleep on Linux; fixes bottom C port not displaying. See also [[gpd-win-4-supplier-resources]].
+- **Drivers:** [[gpd-win-4-drivers-v3-4]] — Drivers v3.4 (2024-05-07). Covers 6800U / 7640U / 7840U / 8840U. See also [[gpd-win-4-supplier-resources]].
+- **Manual:** [[gpd-win-4-user-manual]]. See also [[gpd-win-4-supplier-resources]].
 
 ### WIN 4 2023 & 2024 (7640U / 7840U / 8840U)
 
-- **Firmware:** see [[gpd-win-4-2023-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`.
-- **BIOS:** see [[gpd-win-4-2023-supplier-resources]] — BIOS v0.62 (2024-10-23). Applies to 7640U, 7840U, 8840U. Device must be charging during upgrade.
-- **Drivers:** see [[gpd-win-4-2023-supplier-resources]] — Drivers v4.1.0 (2025-01-18).
+- **Firmware:** [[gpd-firmware-win11-24h2-shared]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`. See also [[gpd-win-4-2023-supplier-resources]].
+- **BIOS:** [[gpd-win-4-2023-bios-v0-62]] — BIOS v0.62 (2024-10-23). Applies to 7640U, 7840U, 8840U. Device must be charging during upgrade. See also [[gpd-win-4-2023-supplier-resources]].
+- **Drivers:** [[gpd-drivers-v4-1-0]] — Drivers v4.1.0 (2025-01-18). See also [[gpd-win-4-2023-supplier-resources]].
+- **Manual:** [[gpd-win-4-2023-user-manual]]. See also [[gpd-win-4-2023-supplier-resources]].
 
 ### WIN 4 2025 (8840U / AI 9 HX 370)
 
-- **Firmware:** see [[gpd-win-4-2025-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`.
-- **BIOS (AI 9 HX 370):** see [[gpd-win-4-2025-supplier-resources]] — BIOS v0.14 (2026-01-27). Flash via USB FAT32 + F7 boot menu. Keep device on charge.
-- **BIOS (8840U):** see [[gpd-win-4-2025-supplier-resources]] — BIOS v0.04 (2025-09-28).
-- **Drivers:** see [[gpd-win-4-2025-supplier-resources]] — Drivers V4.1.0 (2025-01-18).
+- **Firmware:** [[gpd-firmware-win11-24h2-shared]] — Windows 11 24H2 Home (2024-12-20). SHA1 `730BD7B9D989797488C1509E590085FD9941E80C`. See also [[gpd-win-4-2025-supplier-resources]].
+- **BIOS (AI 9 HX 370):** [[gpd-win-4-2025-bios-v0-14-370]] — BIOS v0.14 (2026-01-27). Flash via USB FAT32 + F7 boot menu. Keep device on charge. See also [[gpd-win-4-2025-supplier-resources]].
+- **BIOS (8840U):** [[gpd-win-4-2025-bios-v0-04-8840u]] — BIOS v0.04 (2025-09-28). See also [[gpd-win-4-2025-supplier-resources]].
+- **Drivers:** [[gpd-drivers-v4-1-0]] — Drivers V4.1.0 (2025-01-18). See also [[gpd-win-4-2025-supplier-resources]].
+- **Manual:** [[gpd-win-4-2025-user-manual]]. See also [[gpd-win-4-2025-supplier-resources]].
+
+### Shared Tools (all WIN 4 models)
+
+- [[gpd-motionassistant-v1-2-0-9]] — MotionAssistant v1.2.0.9 (handheld front-end).
+- [[gpd-gpdtool-v1-45]] — GPDTool v1.45 (official GPD handheld front-end).
+- [[gpd-amd-handheld-control-v1-0-0]] — AMD Handheld Control v1.0.0.
+- [[gpd-dtsx-audio]] — DTS:X Audio driver.
+- [[gpd-power-control-panel]] — Power Control Panel v2 (legacy, community).
 
 ## Reviews & Coverage
 

@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-flip-1s-ds]].
 
+**Individual source pages:** [[ayaneo-flip-1s-bios-8840u-20250809]], [[ayaneo-flip-1s-bios-hx370-20250809]], [[ayaneo-flip-1s-controller-20250908]], [[ayaneo-flip-1s-mouse-firmware-20250731]], [[ayaneo-flip-1s-driver-20250724]]. Shared: [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]].
+
 ### BIOS
 
 | Resource | Version | Date | Changelog | Download |

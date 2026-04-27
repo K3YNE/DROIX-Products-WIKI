@@ -45,12 +45,16 @@ Keep this section current whenever a new firmware / BIOS / driver / tool release
 
 ### Firmware (Windows 11)
 
-- **Current (Home):** see [[gpd-micropc-2-supplier-resources]] — Windows 11 24H2 Home (2025-10-30). SHA1 `F310F45676F905E93B86C9AE1E6E059E817AE4C2`.
-- Also available: Windows 11 24H2 Pro (2025-08-26). SHA1 `B3BB0C050AA6D7545BAF05EFF810D1238AD22531`.
+- **Current (Home):** [[gpd-micropc-2-firmware-win11-24h2]] — Windows 11 24H2 Home (2025-10-30). SHA1 `F310F45676F905E93B86C9AE1E6E059E817AE4C2`. See also [[gpd-micropc-2-supplier-resources]].
+- **Pro:** [[gpd-micropc-2-firmware-win11-24h2-pro]] — Windows 11 24H2 Pro (2025-08-26). SHA1 `B3BB0C050AA6D7545BAF05EFF810D1238AD22531`. See also [[gpd-micropc-2-supplier-resources]].
 
 ### Drivers
 
-- **Current:** see [[gpd-micropc-2-supplier-resources]] — Drivers V1.0 (2025-06-12). SHA1 `E851EF0841509FB411FEFB6BD09F4F27344CC7C4`.
+- **Current:** [[gpd-micropc-2-drivers-v1-0]] — Drivers V1.0 (2025-06-12). SHA1 `E851EF0841509FB411FEFB6BD09F4F27344CC7C4`. See also [[gpd-micropc-2-supplier-resources]].
+
+### Manual
+
+- [[gpd-micropc-2-user-manual]] — MicroPC 2 user manual. See also [[gpd-micropc-2-supplier-resources]].
 
 ## Reviews & Coverage
 

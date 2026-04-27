@@ -17,6 +17,8 @@ Applies to: [[gpd-win-4]]
 
 Note: This page covers the original GPD WIN 4 (6800U). For the 2023/2024 refresh models (7640U, 7840U, 8840U), see [[gpd-win-4-2023-supplier-resources]].
 
+**Individual source pages:** [[gpd-win-4-bios-v3-06]], [[gpd-win-4-drivers-v3-4]], [[gpd-win-4-user-manual]], [[gpd-win-4-6800u-lcd-firmware-fix]], [[gpd-firmware-win11-24h2-shared]], [[gpd-motionassistant-v1-2-0-9]], [[gpd-gpdtool-v1-45]], [[gpd-amd-handheld-control-v1-0-0]], [[gpd-dtsx-audio]], [[gpd-power-control-panel]].
+
 ---
 
 ## Windows 11 Firmware

@@ -15,6 +15,8 @@ tags: [resource-driver, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-am02]].
 
+**Individual source pages:** [[ayaneo-am02-driver-20240131]].
+
 ### Drivers
 
 | Resource | Date | Download |

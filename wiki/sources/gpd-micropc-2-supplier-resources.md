@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-driver, resource-tool, resource-manual, gpd]
 
 All resources from the [[gpd|GPD]] official firmware & driver page. Applies to [[gpd-micropc-2]]. The MicroPC 2 uses an Intel processor (N250 or N300 variants); driver update guidance is Intel-specific.
 
+**Individual source pages:** [[gpd-micropc-2-firmware-win11-24h2]], [[gpd-micropc-2-firmware-win11-24h2-pro]], [[gpd-micropc-2-user-manual]], [[gpd-micropc-2-drivers-v1-0]].
+
 ---
 
 ### Windows 11 Firmware

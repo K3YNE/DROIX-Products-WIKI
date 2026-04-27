@@ -15,6 +15,8 @@ tags: [resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-super-x]].
 
+**Individual source pages:** [[onexplayer-super-x-drivers]], [[onexplayer-super-x-system-pack]]
+
 ### Resources
 
 | Resource | Download |

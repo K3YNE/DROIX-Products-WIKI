@@ -11,8 +11,10 @@ tool_name: MotionAssistant
 version: v1.2.0.9
 release_date: 2026-02-08
 extraction_password: "123"
+download_url: https://drive.google.com/file/d/1VgxU_Wt_VaVpN-MTkmdVye25mVvrorXY/view?usp=sharing
+applies_to: [gpd-win-5, gpd-win-4, gpd-win-mini, gpd-win-max-2, gpd-pocket-4, gpd-duo]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-23
 tags: [gpd, tool, motionassistant, front-end, rtss, winring0, resource]
 ---
 
@@ -38,3 +40,11 @@ Available for the [[gpd-win-5]] and the broader GPD handheld lineup. Also adapte
 - Optimised brightness hotkey (±10 step), on-screen keyboard toggle logic, gyroscope after hibernation.
 
 Full changelog is on the raw page.
+
+## Download
+
+- [Portable Version](https://drive.google.com/file/d/1VgxU_Wt_VaVpN-MTkmdVye25mVvrorXY/view?usp=sharing) (unzip password: `123`)
+- [Installer Version](https://drive.google.com/file/d/1YC6JLePydHL1NRDlxfZyx37Gi1InITZY/view?usp=sharing)
+- [RTSS 736](https://drive.google.com/file/d/1tZmkLGyr2rOWBOgEhIBHGZT2Sakhspz9/view?usp=sharing)
+- [Video Tutorials](https://www.youtube.com/watch?v=Gc94JVHOcFs)
+- [Motion Assistant V1.2.0.8 + Power Mod 2.1.1](https://github.com/ThatUsernameAlreadyExist/Motion-Assistant-Power-Mod/releases/tag/1.2.0.8-2.1.1) (community shell mod by Alexander)

@@ -40,6 +40,10 @@ Keep this section current whenever a new firmware / BIOS / driver / tool release
 
 - **Current:** see [[gpd-g1-supplier-resources]] — AMD Radeon RX 7600M XT driver. GPD directs users to the AMD official driver download page (updated 2025-06-04). No versioned package is hosted by GPD directly.
 
+### Manual
+
+- [[gpd-g1-user-manual]] — G1 instruction manual. See also [[gpd-g1-supplier-resources]].
+
 ### vBIOS
 
 - No vBIOS listed on the official resource page at time of last retrieval (2026-04-21). Check [[gpd-g1-supplier-resources]] for any future releases.

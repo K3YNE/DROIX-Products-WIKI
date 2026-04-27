@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, resource-tool, resourc
 
 All resources from the [[gpd|GPD]] official firmware & driver page. Applies to [[gpd-win-mini]] (2024 and 2025 models). The page covers models with 8840U, AI 9 365, and AI 9 HX 370 APUs.
 
+**Individual source pages:** [[gpd-win-mini-2025-bios-v2-10-365-370]], [[gpd-win-mini-2025-bios-v2-11-8840u]], [[gpd-win-mini-2025-controller-firmware-v1-23]], [[gpd-win-mini-2025-firmware-win11-24h2]], [[gpd-win-mini-2025-user-manual]], [[gpd-win-mini-2025-gamepad-firmware]], [[gpd-drivers-v4-1-0]], [[gpd-motionassistant-v1-2-0-9]], [[gpd-gpdtool-v1-45]], [[gpd-amd-handheld-control-v1-0-0]], [[gpd-dtsx-audio]], [[gpd-gamepad-test-v1-03]], [[gpd-power-control-panel]].
+
 ---
 
 ### Windows 11 Firmware

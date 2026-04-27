@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-next]].
 
+**Individual source pages:** [[ayaneo-next-bios-pro]], [[ayaneo-next-bios]], [[ayaneo-next-driver]], [[ayaneo-next-touchscreen-driver-20240709]], [[ayaneo-next-fingerprint-driver]], [[ayaneo-next-controller-an109]]. Shared: [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]], [[ayaneo-shared-fe-controller-v200]].
+
 ### BIOS
 
 | Resource | Date | Applies To | Download |

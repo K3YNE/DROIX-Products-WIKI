@@ -15,6 +15,8 @@ tags: [resource-bios, resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-x1-amd]].
 
+**Individual source pages:** [[onexplayer-x1-8840u-drivers]], [[onexplayer-x1-8840u-bios-v0-23]], [[onexplayer-x1-8840u-bios-ec-v1-39]], [[onexplayer-x1-8840u-system-pack]]
+
 ### Drivers
 
 | Resource | Download |

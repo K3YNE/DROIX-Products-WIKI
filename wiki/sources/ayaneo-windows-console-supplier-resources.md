@@ -17,6 +17,8 @@ All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[aya
 
 **Note:** These are cross-product resources applicable to multiple AYANEO Windows Console devices.
 
+**Individual source pages:** [[ayaneo-shared-starfield-driver]], [[ayaneo-shared-controller-v1.6]], [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]], [[ayaneo-shared-fe-controller-v200]].
+
 ### Cross-Product Drivers & Tools
 
 | Resource | Version | Applies To | Date | Download |

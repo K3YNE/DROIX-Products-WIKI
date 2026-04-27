@@ -15,6 +15,8 @@ tags: [resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-x1-pro]].
 
+**Individual source pages:** [[onexplayer-x1-pro-drivers]], [[onexplayer-x1-pro-fingerprint-driver]], [[onexplayer-x1-pro-system-pack]]
+
 ### Resources
 
 | Resource | Download |

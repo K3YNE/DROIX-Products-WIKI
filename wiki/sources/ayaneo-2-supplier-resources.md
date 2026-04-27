@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-2]].
 
+**Individual source pages:** [[ayaneo-2-driver]], [[ayaneo-2-touchscreen-driver]], [[ayaneo-2-bios]], [[ayaneo-2-video-memory-bios]], [[ayaneo-2-controller-v1.6-20230612]], [[ayaneo-2-screen-firmware]], [[ayaneo-2-ssd-firmware-tool]]. Shared: [[ayaneo-shared-controller-v1.6]], [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]].
+
 ### Drivers
 
 | Resource | Date | Applies To | Download |

@@ -15,6 +15,8 @@ tags: [resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-game-console]].
 
+**Individual source pages:** [[onexplayer-game-console-drivers]]
+
 ### Drivers
 
 | Resource | Download |

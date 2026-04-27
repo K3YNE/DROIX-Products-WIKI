@@ -15,6 +15,8 @@ tags: [resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-mini-pro]].
 
+**Individual source pages:** [[onexplayer-mini-pro-6800u-drivers]], [[onexplayer-mini-pro-6800u-system-pack]]
+
 ### Resources
 
 | Resource | Download |

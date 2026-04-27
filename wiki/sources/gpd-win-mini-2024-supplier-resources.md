@@ -15,6 +15,8 @@ Official firmware, driver, BIOS, and tool resources for the GPD WIN Mini and WIN
 
 Applies to: [[gpd-win-mini]]
 
+**Individual source pages:** [[gpd-win-mini-bios-v2-18]], [[gpd-win-mini-controller-firmware-v5-04]], [[gpd-win-mini-firmware-win11-24h2]], [[gpd-win-mini-user-manual]], [[gpd-drivers-v4-1-0]], [[gpd-motionassistant-v1-2-0-9]], [[gpd-gpdtool-v1-45]], [[gpd-amd-handheld-control-v1-0-0]], [[gpd-dtsx-audio]], [[gpd-power-control-panel]].
+
 ---
 
 ## Windows 11 Firmware

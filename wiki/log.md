@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-04-23] audit | Resource pages: full audit, dedicated pages, cross-model linking
+- **Problem:** Dedicated resource pages (GPD WIN 5) were missing `download_url` in frontmatter and body. No other model had dedicated resource pages. Cross-model resources were duplicated without `applies_to` linking.
+- **Fixed existing pages (6):** Added `download_url` to [[gpd-win-5-firmware-win11-25h2]], [[gpd-win-5-firmware-win11-24h2]], [[gpd-win-5-bios-v2-25]], [[gpd-win-5-drivers-2025-10-30]], [[gpd-win-5-user-manual-2025-09-04]], [[gpd-motionassistant-v1-2-0-9]].
+- **Created GPD shared resource pages (9):** [[gpd-gpdtool-v1-45]], [[gpd-amd-handheld-control-v1-0-0]], [[gpd-dtsx-audio]], [[gpd-power-control-panel]], [[gpd-gamepad-test-v1-03]], [[gpd-drivers-v4-1-0]], [[gpd-firmware-win11-24h2-shared]], [[gpd-wincontrols-v1-16]], plus GPD WIN 5 model-specific: [[gpd-win-5-controller-firmware-v1-11]], [[gpd-win-5-ofn-firmware-2025-11-27]], [[gpd-win-5-wincontrols-v2-08]], [[gpd-win-5-smart-dock-manual-2025-09-04]].
+- **Created GPD model-specific pages (~51):** Dedicated pages for current firmware, BIOS, drivers, manuals, and tools for WIN 4 (all years), WIN Mini (2024/2025), WIN Max 2 (all years), Pocket 4, DUO, MicroPC 2, G1, Pocket 3.
+- **Created AYANEO dedicated pages (~125):** Dedicated pages for all current resources across 32 AYANEO supplier-resources pages (drivers, controller firmware, EC firmware, BIOS, tools, OTA updates).
+- **Created ONEXPLAYER dedicated pages (~67):** Dedicated pages for all resources across 26 ONEXPLAYER supplier-resources pages (drivers, system packs, BIOS, controller firmware).
+- **Updated supplier-resources indexes (72):** All GPD (14), AYANEO (32), ONEXPLAYER (26) supplier-resources pages now include "Individual source pages" lines linking to their dedicated pages.
+- **Updated product hub pages (8):** GPD WIN 4, WIN Mini, WIN Max 2, Pocket 4, DUO, MicroPC 2, G1, Pocket 3 — Resources sections now reference dedicated pages.
+- **Updated AGENTS.md:** Added mandatory `download_url` rule, cross-model detection guidance, and supplier-resources ↔ dedicated page relationship documentation.
+- **Updated index.md:** Added GPD Shared Resource Pages section, updated WIN 5 resources line.
+- **Total new pages created: ~243**
+
 ## [2026-04-22] lint | Post-ingestion audit: all issues resolved
 - **none catalogued:** 0 remaining in wiki/products/ (was 37)
 - **Stub pages:** 0 remaining (was 30) — all expanded with Summary, Resources, and wikilinks

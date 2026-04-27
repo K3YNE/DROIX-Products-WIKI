@@ -15,6 +15,8 @@ tags: [resource-firmware, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-sugar-1]].
 
+**Individual source pages:** [[onexplayer-sugar-1-sugarconsole]]
+
 ### Resources
 
 | Resource | Download |

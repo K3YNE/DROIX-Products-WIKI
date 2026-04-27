@@ -15,6 +15,8 @@ tags: [resource-bios, resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-onexfly]].
 
+**Individual source pages:** [[onexplayer-onexfly-7840u-drivers]], [[onexplayer-onexfly-7840u-bios-factory]], [[onexplayer-onexfly-7840u-bios-v1-14-regular]], [[onexplayer-onexfly-7840u-bios-v1-14-eva]], [[onexplayer-onexfly-7840u-system-pack]]
+
 ### Drivers
 
 | Resource | Download |

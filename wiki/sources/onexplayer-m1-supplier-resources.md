@@ -15,6 +15,8 @@ tags: [resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-m1]].
 
+**Individual source pages:** [[onexplayer-m1-drivers]], [[onexplayer-m1-system-pack]]
+
 ### Resources
 
 | Resource | Download |

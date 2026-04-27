@@ -15,6 +15,8 @@ tags: [resource-bios, resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-2pro]].
 
+**Individual source pages:** [[onexplayer-2pro-7840-drivers]], [[onexplayer-2pro-7840-bios]], [[onexplayer-2pro-7840-system-pack]]
+
 ### Drivers
 
 | Resource | Download |

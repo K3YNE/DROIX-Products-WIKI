@@ -15,6 +15,8 @@ tags: [resource-bios, resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-x1-amd]].
 
+**Individual source pages:** [[onexplayer-x1-155h-drivers]], [[onexplayer-x1-155h-harman-driver]], [[onexplayer-x1-155h-bios]], [[onexplayer-x1-155h-system-pack]]
+
 ### Drivers
 
 | Resource | Download |

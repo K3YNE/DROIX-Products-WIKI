@@ -15,6 +15,8 @@ tags: [resource-bios, resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-2]].
 
+**Individual source pages:** [[onexplayer-2-6800u-drivers]], [[onexplayer-2-6800u-bios]], [[onexplayer-2-6800u-system-pack]]
+
 ### Drivers
 
 | Resource | Download |

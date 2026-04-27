@@ -15,6 +15,8 @@ tags: [resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[one-netbook-5]].
 
+**Individual source pages:** [[one-netbook-5-drivers]], [[one-netbook-5-system-pack]]
+
 ### Resources
 
 | Resource | Download |

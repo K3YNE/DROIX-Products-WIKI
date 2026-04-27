@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, resource-ec, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-2s]].
 
+**Individual source pages:** [[ayaneo-2s-driver-8840u-20241115]], [[ayaneo-2s-driver-20230531]], [[ayaneo-2s-bios-20241112]], [[ayaneo-2s-bios-audio-20240322]], [[ayaneo-2s-controller-v1.6-20230612]], [[ayaneo-2s-ec-20240526]]. Shared: [[ayaneo-shared-controller-v1.6]], [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]], [[ayaneo-shared-starfield-driver]].
+
 ### Drivers
 
 | Resource | Version | Date | Download |

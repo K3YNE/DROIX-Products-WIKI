@@ -15,6 +15,8 @@ tags: [resource-firmware, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-pocket-air]].
 
+**Individual source pages:** [[ayaneo-pocket-air-firmware]].
+
 ### Firmware
 
 | Resource | Date | Download |

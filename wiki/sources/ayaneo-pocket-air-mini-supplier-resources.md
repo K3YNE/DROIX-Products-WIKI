@@ -15,6 +15,8 @@ tags: [resource-firmware, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-pocket-air-mini]].
 
+**Individual source pages:** [[ayaneo-pocket-air-mini-firmware-20251125]], [[ayaneo-pocket-air-mini-firmware-20251020]].
+
 ### System Updates
 
 | Resource | Version | Date | Description | Download |

@@ -13,6 +13,8 @@ tags: [resource-firmware, resource-bios, resource-driver, gpd]
 
 Supplier resource page for the GPD Pocket 3, extracted from the GPD official firmware/driver/BIOS page. Covers all three CPU variants: Intel Core i7-1195G7, i5-1125G4, Pentium Silver 7505 (collectively "1195G7/1125G4/7505"), and Intel Pentium Silver N6000. Retrieved 2026-04-21.
 
+**Individual source pages:** [[gpd-pocket-3-bios-v1-15-n6000]], [[gpd-pocket-3-drivers-v1-7]], [[gpd-pocket-3-firmware-win11-22h2]], [[gpd-pocket-3-trackpad-keyboard-firmware]], [[gpd-pocket-3-ubuntu-2410]], [[gpd-pocket-4-hdmi-in-tool-v2-1-9]], [[gpd-power-control-panel]].
+
 ## Windows Firmware
 
 | Resource | Version / Date | Changelog | Download |

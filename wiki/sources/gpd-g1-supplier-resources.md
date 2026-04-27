@@ -15,6 +15,8 @@ Official driver and resource files for the GPD G1 eGPU dock (AMD Radeon RX 7600M
 
 Applies to: [[gpd-g1]]
 
+**Individual source pages:** [[gpd-g1-user-manual]].
+
 ---
 
 ## Drivers

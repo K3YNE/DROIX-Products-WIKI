@@ -9,11 +9,16 @@ variant: null
 source_url: https://gpd.hk/gpdwin5firmware
 release_date: 2025-09-04
 format: PDF
+download_url: https://drive.google.com/file/d/1UzklmmiFL72I8tqQm6GAR_fp6M-ubvoO/view?usp=sharing
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-23
 tags: [gpd, win-5, manual, documentation, resource]
 ---
 
 # GPD WIN 5 User Manual
 
 Official GPD PDF covering function keys and port descriptions for the [[gpd-win-5]].
+
+## Download
+
+- [Download User Manual (PDF)](https://drive.google.com/file/d/1UzklmmiFL72I8tqQm6GAR_fp6M-ubvoO/view?usp=sharing)

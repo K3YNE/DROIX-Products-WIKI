@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-driver, resource-ec, resource-tool, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-3]].
 
+**Individual source pages:** [[ayaneo-3-driver-20250409]], [[ayaneo-3-controller-v12-20250522]], [[ayaneo-3-ec-0.21]], [[ayaneo-3-speaker-calibration-20250823]]. Shared: [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]].
+
 ### Drivers
 
 | Resource | Version | Date | Download |

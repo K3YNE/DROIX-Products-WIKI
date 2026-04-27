@@ -17,6 +17,8 @@ Applies to: [[gpd-win-max-2]]
 
 Note: This page covers the 2023/2024 refresh models. For the original GPD WIN Max 2 (6800U only), see [[gpd-win-max-2-supplier-resources]].
 
+**Individual source pages:** [[gpd-win-max-2-2023-bios-v0-42]], [[gpd-win-max-2-2023-user-manual]], [[gpd-win-max-2-fingerprint-driver-linux]], [[gpd-win-max-2-screen-calibration]], [[gpd-firmware-win11-24h2-shared]], [[gpd-drivers-v4-1-0]], [[gpd-motionassistant-v1-2-0-9]], [[gpd-gpdtool-v1-45]], [[gpd-amd-handheld-control-v1-0-0]], [[gpd-dtsx-audio]], [[gpd-power-control-panel]].
+
 ---
 
 ## Windows 11 Firmware

@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, resource-tool, onexpla
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-onexfly-f1-pro]].
 
+**Individual source pages:** [[onexplayer-onexfly-f1-pro-drivers]], [[onexplayer-onexfly-f1-pro-system-pack]], [[onexplayer-onexfly-f1-pro-bios-v1-07e-v0-25]]
+
 ### Resources
 
 | Resource | Download |

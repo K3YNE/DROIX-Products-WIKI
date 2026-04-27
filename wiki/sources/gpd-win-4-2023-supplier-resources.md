@@ -17,6 +17,8 @@ Applies to: [[gpd-win-4]]
 
 Note: This page covers the 2023/2024 refresh models. For the original GPD WIN 4 (6800U only), see [[gpd-win-4-supplier-resources]].
 
+**Individual source pages:** [[gpd-win-4-2023-bios-v0-62]], [[gpd-win-4-2023-user-manual]], [[gpd-firmware-win11-24h2-shared]], [[gpd-drivers-v4-1-0]], [[gpd-motionassistant-v1-2-0-9]], [[gpd-gpdtool-v1-45]], [[gpd-amd-handheld-control-v1-0-0]], [[gpd-dtsx-audio]], [[gpd-power-control-panel]].
+
 ---
 
 ## Windows 11 Firmware

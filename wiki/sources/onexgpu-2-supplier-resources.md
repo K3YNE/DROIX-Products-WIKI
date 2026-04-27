@@ -15,6 +15,8 @@ tags: [resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-onexgpu-2]].
 
+**Individual source pages:** [[onexgpu-2-drivers]]
+
 ### Drivers
 
 | Resource | Download |

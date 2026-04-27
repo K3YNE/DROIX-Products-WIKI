@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, resource-ec, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-kun]].
 
+**Individual source pages:** [[ayaneo-kun-ec-20250625]], [[ayaneo-kun-ec-20240626]], [[ayaneo-kun-ec-20240601]], [[ayaneo-kun-driver-8840u-20241115]], [[ayaneo-kun-driver]], [[ayaneo-kun-4g-lte-driver]], [[ayaneo-kun-bios-audio-20240409]], [[ayaneo-kun-touchpad-firmware]], [[ayaneo-kun-controller-v1.5]]. Shared: [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]].
+
 ### EC (Embedded Controller)
 
 | Resource | Version | Date | Changelog | Download |

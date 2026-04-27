@@ -15,6 +15,8 @@ tags: [resource-firmware, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-pocket-s]].
 
+**Individual source pages:** [[ayaneo-pocket-s-ota-20241210]], [[ayaneo-pocket-s-ota-20240705]], [[ayaneo-pocket-s-ota-20240705-alt]], [[ayaneo-pocket-s-firmware-reflash]].
+
 ### System Updates
 
 | Resource | Version | Date | Download |

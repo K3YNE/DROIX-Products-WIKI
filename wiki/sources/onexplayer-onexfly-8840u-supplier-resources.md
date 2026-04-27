@@ -15,6 +15,8 @@ tags: [resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-onexfly]].
 
+**Individual source pages:** [[onexplayer-onexfly-8840u-drivers]], [[onexplayer-onexfly-8840u-system-pack]]
+
 ### Resources
 
 | Resource | Download |

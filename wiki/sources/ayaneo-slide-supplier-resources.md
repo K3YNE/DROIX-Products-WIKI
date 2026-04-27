@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, resource-ec, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-slide]].
 
+**Individual source pages:** [[ayaneo-slide-ec-20240628]], [[ayaneo-slide-bios-20240606]], [[ayaneo-slide-bios-20240409]], [[ayaneo-slide-controller]], [[ayaneo-slide-driver]]. Shared: [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]].
+
 ### EC
 
 | Resource | Version | Date | Changelog | Download |

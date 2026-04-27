@@ -15,6 +15,8 @@ tags: [resource-firmware, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-pocket-ace]].
 
+**Individual source pages:** [[ayaneo-pocket-ace-firmware-20250430]].
+
 ### System Updates
 
 | Resource | Version | Date | Download |

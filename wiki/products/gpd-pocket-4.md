@@ -29,16 +29,29 @@ Keep this section current whenever a new firmware / BIOS / driver / tool release
 
 ### Firmware (Windows 11)
 
-- **Current (8840U / AI 365 / AI 370):** see [[gpd-pocket-4-supplier-resources]] — Windows 11 24H2 Home (2025-03-18). SHA1 `30B2D557AEB549ACDC6C36D4E1DE95F209614BBE`. Fixes internal screen not working when connected to GPD G1.
+- **Current (8840U / AI 365 / AI 370):** [[gpd-pocket-4-firmware-win11-24h2]] — Windows 11 24H2 Home (2025-03-18). SHA1 `30B2D557AEB549ACDC6C36D4E1DE95F209614BBE`. Fixes internal screen not working when connected to GPD G1. See also [[gpd-pocket-4-supplier-resources]].
 
 ### BIOS
 
-- **Current (AI 9 365 / AI 9 HX 370):** see [[gpd-pocket-4-supplier-resources]] — BIOS v2.10 + EC v1.13 (2025-06-27). Fixes touchscreen malfunctioning on wake from sleep.
-- **Current (8840U):** see [[gpd-pocket-4-supplier-resources]] — BIOS v3.08 + EC v1.11 (2025-08-21). Fixes BIOS always showing 8 GB VRAM.
+- **Current (AI 9 365 / AI 9 HX 370):** [[gpd-pocket-4-bios-v2-10-365-370]] — BIOS v2.10 + EC v1.13 (2025-06-27). Fixes touchscreen malfunctioning on wake from sleep. See also [[gpd-pocket-4-supplier-resources]].
+- **Current (8840U):** [[gpd-pocket-4-bios-v3-08-8840u]] — BIOS v3.08 + EC v1.11 (2025-08-21). Fixes BIOS always showing 8 GB VRAM. See also [[gpd-pocket-4-supplier-resources]].
 
 ### Drivers
 
-- **Current (8840U / AI 365 / AI 370):** see [[gpd-pocket-4-supplier-resources]] — Drivers v4.2.0 (2025-03-07).
+- **Current (8840U / AI 365 / AI 370):** [[gpd-pocket-4-drivers-v4-2-0]] — Drivers v4.2.0 (2025-03-07). See also [[gpd-pocket-4-supplier-resources]].
+
+### Manual & Accessories
+
+- [[gpd-pocket-4-user-manual]] — Pocket 4 instruction manual.
+- [[gpd-pocket-4-keyboard-firmware]] — Keyboard firmware (adds backlight toggle).
+- [[gpd-pocket-4-hdmi-in-tool-v2-1-9]] — HDMI IN Tool V2.1.9 (video capture with KVM module).
+- [[gpd-duo-pocket-4-fingerprint-driver]] — Fingerprint driver (Windows & Linux).
+
+### Shared Tools
+
+- [[gpd-motionassistant-v1-2-0-9]] — MotionAssistant v1.2.0.9 (handheld front-end).
+- [[gpd-gpdtool-v1-45]] — GPDTool v1.45 (official GPD handheld front-end).
+- [[gpd-amd-handheld-control-v1-0-0]] — AMD Handheld Control v1.0.0.
 
 ## Reviews & Coverage
 

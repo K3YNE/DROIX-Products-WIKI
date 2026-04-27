@@ -15,6 +15,8 @@ tags: [resource-firmware, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-pocket-fit-elite]].
 
+**Individual source pages:** [[ayaneo-pocket-fit-elite-firmware-20260409]].
+
 ### System Updates
 
 | Resource | Version | Date | Download |

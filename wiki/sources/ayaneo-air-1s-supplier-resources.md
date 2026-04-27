@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, resource-ec, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-air-1s]].
 
+**Individual source pages:** [[ayaneo-air-1s-driver-8840u-20241115]], [[ayaneo-air-1s-driver]], [[ayaneo-air-1s-bios-20241112]], [[ayaneo-air-1s-bios-audio-20240326]], [[ayaneo-air-1s-ec-20240626]], [[ayaneo-air-1s-ec-20240526]], [[ayaneo-air-1s-controller]]. Shared: [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]].
+
 ### Drivers
 
 | Resource | Version | Date | Download |

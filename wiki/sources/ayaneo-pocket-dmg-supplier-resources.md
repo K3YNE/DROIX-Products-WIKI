@@ -15,6 +15,8 @@ tags: [resource-firmware, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-pocket-dmg]].
 
+**Individual source pages:** [[ayaneo-pocket-dmg-ota-20250708]], [[ayaneo-pocket-dmg-firmware-20241121]], [[ayaneo-pocket-dmg-ota-20241115]].
+
 ### System Updates
 
 | Resource | Version | Date | Download |

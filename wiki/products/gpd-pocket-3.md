@@ -34,17 +34,23 @@ Keep this section current whenever a new firmware / BIOS / driver / tool release
 
 ### Firmware (Windows)
 
-- **Current (1195G7 / 1125G4 / 7505):** see [[gpd-pocket-3-supplier-resources]] — Windows 11 22H2 (2025-02-26).
+- **Current (1195G7 / 1125G4 / 7505):** [[gpd-pocket-3-firmware-win11-22h2]] — Windows 11 22H2 (2025-02-26). See also [[gpd-pocket-3-supplier-resources]].
 - Also available: Windows 10 21H2 firmware for 1195G7/1125G4/7505 variants; Windows 11 21H2 and Windows 10 21H2 for N6000 variant.
 
 ### BIOS
 
-- **Current (N6000):** see [[gpd-pocket-3-supplier-resources]] — N6000 BIOS v1.15. Fixes Samsung 970 EVO SSD compatibility.
+- **Current (N6000):** [[gpd-pocket-3-bios-v1-15-n6000]] — N6000 BIOS v1.15. Fixes Samsung 970 EVO SSD compatibility. See also [[gpd-pocket-3-supplier-resources]].
 
 ### Drivers
 
-- **Current (1195G7 / 7505 / 1125G4):** see [[gpd-pocket-3-supplier-resources]] — Drivers V1.7 (2023-11-02). Also compatible with WIN 3 and WIN Max 2021 (1195G7).
+- **Current (1195G7 / 7505 / 1125G4):** [[gpd-pocket-3-drivers-v1-7]] — Drivers V1.7 (2023-11-02). Also compatible with WIN 3 and WIN Max 2021 (1195G7). See also [[gpd-pocket-3-supplier-resources]].
 - **Current (N6000):** see [[gpd-pocket-3-supplier-resources]] — Drivers V1.3. Also compatible with P2 Max 2022 (N6000).
+
+### Other Firmware & Tools
+
+- [[gpd-pocket-3-trackpad-keyboard-firmware]] — Glass trackpad and keyboard firmware (fixes random pointer jumping).
+- [[gpd-pocket-4-hdmi-in-tool-v2-1-9]] — HDMI IN Tool V2.1.9 (also listed on Pocket 3 resource page).
+- [[gpd-power-control-panel]] — Power Control Panel v2 (legacy, community).
 
 ## Reviews & Coverage
 

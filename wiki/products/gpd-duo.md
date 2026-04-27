@@ -38,17 +38,30 @@ Keep this section current whenever a new firmware / BIOS / driver / tool release
 
 ### Firmware (Windows 11)
 
-- **Current (AI 9 HX 370):** see [[gpd-duo-supplier-resources]] — Windows 11 24H2 Home (2025-03-18). SHA1 `30B2D557AEB549ACDC6C36D4E1DE95F209614BBE`. **Must upgrade BIOS to v2.12 before flashing.**
-- **Current (8840U):** see [[gpd-duo-supplier-resources]] — Windows 11 24H2 Home (2024-12-20). SHA1 `A009376A9F17E881F81FE484E16BF54D3E8E8759`.
+- **Current (AI 9 HX 370):** [[gpd-duo-firmware-win11-24h2-370]] — Windows 11 24H2 Home (2025-03-18). SHA1 `30B2D557AEB549ACDC6C36D4E1DE95F209614BBE`. **Must upgrade BIOS to v2.12 before flashing.** See also [[gpd-duo-supplier-resources]].
+- **Current (8840U):** [[gpd-duo-firmware-win11-24h2-8840u]] — Windows 11 24H2 Home (2024-12-20). SHA1 `A009376A9F17E881F81FE484E16BF54D3E8E8759`. See also [[gpd-duo-supplier-resources]].
 
 ### BIOS
 
-- **Current (8840U):** see [[gpd-duo-supplier-resources]] — BIOS v3.08 (2025-03-24). Optimises sleep; adds battery charging threshold management.
-- **Current (AI 9 HX 370):** see [[gpd-duo-supplier-resources]] — BIOS v2.17 (2025-03-26). Optimises sleep; adds battery threshold. Fixes touch input on secondary screens from v2.16.
+- **Current (8840U):** [[gpd-duo-bios-v3-08-8840u]] — BIOS v3.08 (2025-03-24). Optimises sleep; adds battery charging threshold management. See also [[gpd-duo-supplier-resources]].
+- **Current (AI 9 HX 370):** [[gpd-duo-bios-v2-17-370]] — BIOS v2.17 (2025-03-26). Optimises sleep; adds battery threshold. Fixes touch input on secondary screens from v2.16. See also [[gpd-duo-supplier-resources]].
 
 ### Drivers
 
-- **Current (8840U / AI 9 HX 370):** see [[gpd-duo-supplier-resources]] — Drivers v4.1.0 (2025-01-18).
+- **Current (8840U / AI 9 HX 370):** [[gpd-drivers-v4-1-0]] — Drivers v4.1.0 (2025-01-18). See also [[gpd-duo-supplier-resources]].
+- **iGPU Screen Tearing Fix (370):** [[gpd-duo-igpu-screen-tearing-fix]]. See also [[gpd-duo-supplier-resources]].
+
+### Manual & Fingerprint
+
+- [[gpd-duo-user-manual]] — DUO instruction manual.
+- [[gpd-duo-pocket-4-fingerprint-driver]] — Fingerprint driver for DUO and Pocket 4 (Windows & Linux).
+
+### Shared Tools
+
+- [[gpd-motionassistant-v1-2-0-9]] — MotionAssistant v1.2.0.9 (handheld front-end).
+- [[gpd-gpdtool-v1-45]] — GPDTool v1.45 (official GPD handheld front-end).
+- [[gpd-amd-handheld-control-v1-0-0]] — AMD Handheld Control v1.0.0.
+- [[gpd-dtsx-audio]] — DTS:X Audio driver.
 
 ## Reviews & Coverage
 

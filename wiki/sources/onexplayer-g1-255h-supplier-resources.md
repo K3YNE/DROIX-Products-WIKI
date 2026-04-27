@@ -15,6 +15,8 @@ tags: [resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-g1]].
 
+**Individual source pages:** [[onexplayer-g1-255h-drivers]], [[onexplayer-g1-255h-system-pack]]
+
 ### Resources
 
 | Resource | Download |

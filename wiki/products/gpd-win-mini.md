@@ -36,16 +36,29 @@ Keep this section current whenever a new firmware / BIOS / driver / tool release
 
 ### WIN Mini / 2024 (7640U / 7840U / 8840U)
 
-- **Firmware:** see [[gpd-win-mini-2024-supplier-resources]] — Windows 11 24H2 Home (2025-01-18). SHA1 `12DD1623F9515C6F8ACA77CF42AFF6C6CF9A0542`.
-- **BIOS:** see [[gpd-win-mini-2024-supplier-resources]] — BIOS V2.18 (2023-12-14). Adds PCIe 3.0 SSD speed support. Device must be charging during upgrade.
-- **Drivers:** see [[gpd-win-mini-2024-supplier-resources]] — Drivers v4.1.0 (2024-05-07).
+- **Firmware:** [[gpd-win-mini-firmware-win11-24h2]] — Windows 11 24H2 Home (2025-01-18). SHA1 `12DD1623F9515C6F8ACA77CF42AFF6C6CF9A0542`. See also [[gpd-win-mini-2024-supplier-resources]].
+- **BIOS:** [[gpd-win-mini-bios-v2-18]] — BIOS V2.18 (2023-12-14). Adds PCIe 3.0 SSD speed support. Device must be charging during upgrade. See also [[gpd-win-mini-2024-supplier-resources]].
+- **Drivers:** [[gpd-drivers-v4-1-0]] — Drivers v4.1.0 (2024-05-07). See also [[gpd-win-mini-2024-supplier-resources]].
+- **Controller Firmware:** [[gpd-win-mini-controller-firmware-v5-04]] — Controller firmware v5.04/v5.10. See also [[gpd-win-mini-2024-supplier-resources]].
+- **Manual:** [[gpd-win-mini-user-manual]]. See also [[gpd-win-mini-2024-supplier-resources]].
 
 ### WIN Mini 2025 (8840U / AI 9 365 / AI 9 HX 370)
 
-- **Firmware:** see [[gpd-win-mini-2025-supplier-resources]] — Windows 11 24H2 Home (2025-03-18). SHA1 `30B2D557AEB549ACDC6C36D4E1DE95F209614BBE`. Fixes internal screen not working when connecting to GPD G1.
-- **BIOS (AI 9 365 / AI 9 HX 370):** see [[gpd-win-mini-2025-supplier-resources]] — BIOS v2.10 + EC v2.07 (2025-07-07). Introduces battery threshold management. Does not apply to 8840U.
-- **BIOS (8840U):** see [[gpd-win-mini-2025-supplier-resources]] — BIOS v2.11 + EC v2.04 (2025-08-21). Fixes BIOS always showing 8 GB VRAM. Does not apply to 365/370.
-- **Drivers:** see [[gpd-win-mini-2025-supplier-resources]] — Drivers V4.1.0 (2025-01-18).
+- **Firmware:** [[gpd-win-mini-2025-firmware-win11-24h2]] — Windows 11 24H2 Home (2025-03-18). SHA1 `30B2D557AEB549ACDC6C36D4E1DE95F209614BBE`. Fixes internal screen not working when connecting to GPD G1. See also [[gpd-win-mini-2025-supplier-resources]].
+- **BIOS (AI 9 365 / AI 9 HX 370):** [[gpd-win-mini-2025-bios-v2-10-365-370]] — BIOS v2.10 + EC v2.07 (2025-07-07). Introduces battery threshold management. Does not apply to 8840U. See also [[gpd-win-mini-2025-supplier-resources]].
+- **BIOS (8840U):** [[gpd-win-mini-2025-bios-v2-11-8840u]] — BIOS v2.11 + EC v2.04 (2025-08-21). Fixes BIOS always showing 8 GB VRAM. Does not apply to 365/370. See also [[gpd-win-mini-2025-supplier-resources]].
+- **Drivers:** [[gpd-drivers-v4-1-0]] — Drivers V4.1.0 (2025-01-18). See also [[gpd-win-mini-2025-supplier-resources]].
+- **Controller Firmware:** [[gpd-win-mini-2025-controller-firmware-v1-23]] — Controller firmware v1.23 + WinControls v2.08. See also [[gpd-win-mini-2025-supplier-resources]].
+- **Manual:** [[gpd-win-mini-2025-user-manual]]. See also [[gpd-win-mini-2025-supplier-resources]].
+
+### Shared Tools (all WIN Mini models)
+
+- [[gpd-motionassistant-v1-2-0-9]] — MotionAssistant v1.2.0.9 (handheld front-end).
+- [[gpd-gpdtool-v1-45]] — GPDTool v1.45 (official GPD handheld front-end).
+- [[gpd-amd-handheld-control-v1-0-0]] — AMD Handheld Control v1.0.0.
+- [[gpd-dtsx-audio]] — DTS:X Audio driver.
+- [[gpd-gamepad-test-v1-03]] — GamePad Test Calibration Tool V1.03.
+- [[gpd-power-control-panel]] — Power Control Panel v2 (legacy, community).
 
 ## Reviews & Coverage
 

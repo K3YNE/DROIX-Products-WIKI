@@ -17,7 +17,7 @@ All resources from the [[gpd|GPD]] official firmware & driver page. Applies to [
 
 **Note on individual source pages:** Several resources from this page have dedicated versioned source pages in the wiki. Where a dedicated page exists, it is linked in the table below. This page serves as the complete index and preserves all resource metadata.
 
-Individual source pages that exist: [[gpd-win-5-firmware-win11-25h2]], [[gpd-win-5-firmware-win11-24h2]], [[gpd-win-5-bios-v2-25]], [[gpd-win-5-drivers-2025-10-30]], [[gpd-win-5-user-manual-2025-09-04]], [[gpd-win-5-optical-mouse-firmware]].
+**Individual source pages:** [[gpd-win-5-firmware-win11-25h2]], [[gpd-win-5-firmware-win11-24h2]], [[gpd-win-5-bios-v2-25]], [[gpd-win-5-drivers-2025-10-30]], [[gpd-win-5-user-manual-2025-09-04]], [[gpd-win-5-optical-mouse-firmware]], [[gpd-win-5-controller-firmware-v1-11]], [[gpd-win-5-ofn-firmware-2025-11-27]], [[gpd-win-5-wincontrols-v2-08]], [[gpd-win-5-smart-dock-manual-2025-09-04]], [[gpd-gpdtool-v1-45]], [[gpd-amd-handheld-control-v1-0-0]], [[gpd-dtsx-audio]], [[gpd-power-control-panel]], [[gpd-gamepad-test-v1-03]].
 
 ---
 

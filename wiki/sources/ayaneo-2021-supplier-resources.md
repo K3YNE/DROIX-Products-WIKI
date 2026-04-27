@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-2021]].
 
+**Individual source pages:** [[ayaneo-2021-bios]], [[ayaneo-2021-driver]], [[ayaneo-2021-controller-v303]]. Shared: [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]], [[ayaneo-shared-fe-controller-v200]].
+
 ### BIOS
 
 | Resource | Date | Download |

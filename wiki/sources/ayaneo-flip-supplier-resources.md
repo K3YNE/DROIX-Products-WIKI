@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, resource-ec, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-flip]] (both DS and KB models).
 
+**Individual source pages:** [[ayaneo-flip-ds-bios-ec-20250519]], [[ayaneo-flip-kb-bios-ec-20250519]], [[ayaneo-flip-kb-bios-20250408]], [[ayaneo-flip-ds-bios-20250408]], [[ayaneo-flip-ds-bios-20240512]], [[ayaneo-flip-kb-bios-20240512]], [[ayaneo-flip-ds-bios-v5-20240320]], [[ayaneo-flip-kb-bios-v4.1]], [[ayaneo-flip-ec-20240526]], [[ayaneo-flip-ds-ec-20240626]], [[ayaneo-flip-kb-ec-20240626]], [[ayaneo-flip-kb-keyboard-firmware]], [[ayaneo-flip-controller]], [[ayaneo-flip-controller-v9]], [[ayaneo-flip-driver-20240204]]. Shared: [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]].
+
 ### BIOS & EC (Combined)
 
 | Resource | Version | Date | Applies To | Download |

@@ -15,6 +15,8 @@ tags: [resource-bios, resource-driver, resource-firmware, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-x1-mini]].
 
+**Individual source pages:** [[onexplayer-x1-mini-drivers]], [[onexplayer-x1-mini-bios-ec-v1-02-v1-00]], [[onexplayer-x1-mini-bios-ec-v1-03-v1-01]], [[onexplayer-x1-mini-system-pack]], [[onexplayer-x1-mini-controller-firmware]]
+
 ### Drivers
 
 | Resource | Download |

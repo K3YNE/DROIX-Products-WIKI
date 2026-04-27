@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-geek]].
 
+**Individual source pages:** [[ayaneo-geek-1s-bios-20250312]], [[ayaneo-geek-1s-bios-audio-20240322]], [[ayaneo-geek-video-memory-bios]], [[ayaneo-geek-bios]], [[ayaneo-geek-controller-v1.6-20230612]]. Shared: [[ayaneo-shared-controller-v1.6]], [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]].
+
 ### BIOS
 
 | Resource | Version | Date | Changelog | Download |

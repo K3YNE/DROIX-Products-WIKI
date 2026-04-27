@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, resource-tool, resourc
 
 All resources from the [[gpd|GPD]] official firmware, driver & BIOS page. Applies to [[gpd-pocket-4]] (8840U, AI 9 365, and AI 9 HX 370 variants).
 
+**Individual source pages:** [[gpd-pocket-4-bios-v2-10-365-370]], [[gpd-pocket-4-bios-v3-08-8840u]], [[gpd-pocket-4-drivers-v4-2-0]], [[gpd-pocket-4-firmware-win11-24h2]], [[gpd-pocket-4-user-manual]], [[gpd-pocket-4-hdmi-in-tool-v2-1-9]], [[gpd-pocket-4-keyboard-firmware]], [[gpd-duo-pocket-4-fingerprint-driver]], [[gpd-motionassistant-v1-2-0-9]], [[gpd-gpdtool-v1-45]], [[gpd-amd-handheld-control-v1-0-0]].
+
 ---
 
 ### Windows 10 / 11 Firmware

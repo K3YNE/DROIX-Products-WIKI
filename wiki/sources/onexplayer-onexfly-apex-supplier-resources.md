@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-onexfly-apex]].
 
+**Individual source pages:** [[onexplayer-onexfly-apex-drivers]], [[onexplayer-onexfly-apex-system-pack]], [[onexplayer-onexfly-apex-controller-firmware]]
+
 ### Resources
 
 | Resource | Download |

@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, resource-tool, resourc
 
 All resources from the [[gpd|GPD]] official firmware & driver page. Applies to [[gpd-duo]] (8840U and AI 9 HX 370 variants). Note that the GPD DUO has two distinct firmware streams — resources are clearly marked by variant.
 
+**Individual source pages:** [[gpd-duo-bios-v2-17-370]], [[gpd-duo-bios-v3-08-8840u]], [[gpd-duo-firmware-win11-24h2-370]], [[gpd-duo-firmware-win11-24h2-8840u]], [[gpd-duo-user-manual]], [[gpd-duo-pocket-4-fingerprint-driver]], [[gpd-duo-igpu-screen-tearing-fix]], [[gpd-drivers-v4-1-0]], [[gpd-motionassistant-v1-2-0-9]], [[gpd-gpdtool-v1-45]], [[gpd-amd-handheld-control-v1-0-0]], [[gpd-dtsx-audio]].
+
 ---
 
 ### Windows 11 Firmware

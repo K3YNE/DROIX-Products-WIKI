@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-driver, resource-ec, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-air]].
 
+**Individual source pages:** [[ayaneo-air-ec-20240626]], [[ayaneo-air-controller]], [[ayaneo-air-driver]], [[ayaneo-air-card-reader-driver]]. Shared: [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]].
+
 ### EC
 
 | Resource | Version | Date | Changelog | Download |

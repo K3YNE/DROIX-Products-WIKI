@@ -15,6 +15,8 @@ tags: [resource-driver, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-1-mini-amd]].
 
+**Individual source pages:** [[onexplayer-1-mini-amd-drivers]]
+
 ### Resources
 
 | Resource | Download |

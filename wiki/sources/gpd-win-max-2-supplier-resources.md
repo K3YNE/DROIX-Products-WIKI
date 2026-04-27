@@ -17,6 +17,8 @@ Applies to: [[gpd-win-max-2]]
 
 Note: For the 2023/2024 refresh-specific resources (7640U, 7840U, 8840U), see [[gpd-win-max-2-2023-supplier-resources]].
 
+**Individual source pages:** [[gpd-win-max-2-bios-v1-05]], [[gpd-win-max-2-controller-firmware-v3-14]], [[gpd-win-max-2-touchpad-firmware-v1-0-3]], [[gpd-win-max-2-drivers-v3-4]], [[gpd-win-max-2-fingerprint-driver-linux]], [[gpd-win-max-2-screen-calibration]], [[gpd-firmware-win11-24h2-shared]], [[gpd-motionassistant-v1-2-0-9]], [[gpd-gpdtool-v1-45]], [[gpd-amd-handheld-control-v1-0-0]], [[gpd-dtsx-audio]], [[gpd-power-control-panel]].
+
 ---
 
 ## Windows 11 Firmware

@@ -15,6 +15,8 @@ tags: [resource-bios, resource-driver, resource-firmware, onexplayer]
 
 All resources from the [[onexplayer|ONEXPLAYER]] official drivers and FAQs page. Applies to [[onexplayer-g1]].
 
+**Individual source pages:** [[onexplayer-g1-a1370-drivers]], [[onexplayer-g1-ai370-bios-v1-01-v0-26]], [[onexplayer-g1-8840u-bios-v1-02-v0-26]], [[onexplayer-g1-8840u-bios-v1-02a-v0-26]], [[onexplayer-g1-touch-keyboard-firmware]], [[onexplayer-g1-a1370-system-pack]]
+
 ### Drivers
 
 | Resource | Download |

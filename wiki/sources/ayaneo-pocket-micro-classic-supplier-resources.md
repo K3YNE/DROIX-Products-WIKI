@@ -15,6 +15,8 @@ tags: [resource-firmware, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-pocket-micro-classic]].
 
+**Individual source pages:** [[ayaneo-pocket-micro-classic-firmware-20250924]].
+
 ### System Updates
 
 | Resource | Version | Date | Download |

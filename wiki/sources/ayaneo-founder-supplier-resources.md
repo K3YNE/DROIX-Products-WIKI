@@ -15,6 +15,8 @@ tags: [resource-firmware, resource-bios, resource-driver, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-founder]].
 
+**Individual source pages:** [[ayaneo-founder-bios]], [[ayaneo-founder-driver]], [[ayaneo-founder-controller-v200]]. Shared: [[ayaneo-shared-fe-controller-v200]], [[ayaneo-shared-wifi-bt-mtk7921]], [[ayaneo-shared-wifi-bt-intel-ax200]], [[ayaneo-shared-touchscreen-driver]], [[ayaneo-shared-gyro-driver]].
+
 ### BIOS
 
 | Resource | Date | Download |

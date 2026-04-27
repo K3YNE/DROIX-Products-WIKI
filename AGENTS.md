@@ -387,12 +387,26 @@ Triggered when the user adds a new release, typically from a vendor download pag
 
 1. **Read** the raw release notes. Capture: title, version, release date, SHA1/SHA256, download URL, changelog.
 2. **Create** `raw/brands/<brand>/<product>/resources/<kind>/YYYY-MM-DD_<slug>.md` with frontmatter and the full changelog.
-3. **Create** `wiki/sources/<slug>.md` with `subtype: resource-<kind>` and version/hash/download_url fields populated. Include `applies_to:` if the resource covers multiple products.
-4. **Update the product hub's Resources section**: move the previous "current" entry to the historical list; mark the new release as current.
-5. **Update technology-brand page** — add the resource to the relevant vendor's Resources section (e.g., a new AMD driver goes on `amd.md`).
-6. **Update brand page** — add the resource to the brand's Resources section.
-7. **Append to `wiki/log.md`**.
-8. **Archive** — move the raw file to `archive/`.
+3. **Create** `wiki/sources/<slug>.md` with `subtype: resource-<kind>` and version/hash/download_url fields populated. **`download_url` is mandatory** — both in YAML frontmatter and as a clickable link in the body. Include `applies_to:` if the resource covers multiple products.
+4. **Cross-model detection**: Before creating a new page, check whether the same download URL, tool name, or version already appears in other supplier-resources pages. If the resource is shared across products:
+   - Use `applies_to: [product-1, product-2, ...]` in frontmatter listing all applicable products.
+   - Use a brand-level slug (e.g. `gpd-motionassistant-v1-2-0-9`) rather than a product-specific slug.
+   - Do not create duplicate pages per product — one page with `applies_to` is correct.
+5. **Update the product hub's Resources section**: move the previous "current" entry to the historical list; mark the new release as current. Reference the dedicated resource page via wikilink.
+6. **Update the supplier-resources index page** for the product: add the new resource to the table and wikilink to the dedicated page. Pattern: "Individual source pages that exist: [[page1]], [[page2]], ..."
+7. **Update technology-brand page** — add the resource to the relevant vendor's Resources section (e.g., a new AMD driver goes on `amd.md`).
+8. **Update brand page** — add the resource to the brand's Resources section.
+9. **Append to `wiki/log.md`**.
+10. **Archive** — move the raw file to `archive/`.
+
+#### Supplier-resources ↔ dedicated page relationship
+
+The wiki uses a two-layer resource architecture:
+
+- **Supplier-resources page** (`<product>-supplier-resources.md`): master index. Contains a table of ALL resources for that product with download URLs inline. One per product (or per product-year for multi-generation products like GPD WIN 4). Serves as the browsable resource catalogue.
+- **Dedicated resource page** (`<product>-<kind>-<version>.md`): deep-dive page for a specific release. Contains `download_url` in frontmatter, a brief description, install notes, changelog, and a Download section with clickable links.
+
+Both layers always include the download URL. When a dedicated page exists, the supplier-resources page links to it. The dedicated page is the canonical source for a specific release; the supplier-resources page is the canonical index for a product's resources.
 
 ### Ingest benchmark data
 

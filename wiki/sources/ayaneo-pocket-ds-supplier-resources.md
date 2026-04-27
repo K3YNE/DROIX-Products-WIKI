@@ -15,6 +15,8 @@ tags: [resource-firmware, ayaneo]
 
 All resources from the [[ayaneo|AYANEO]] official support page. Applies to [[ayaneo-pocket-ds]].
 
+**Individual source pages:** [[ayaneo-pocket-ds-firmware-20251012]].
+
 ### System Updates
 
 | Resource | Version | Date | Download |
