@@ -542,6 +542,7 @@ _No analysis pages yet._
 - `Element.checkVisibility()` is only available in iOS Safari 17.4+. Do not call it directly in Quartz client scripts without a fallback.
 - `portal/quartz/components/scripts/explorer.inline.ts` must use a compatibility helper for mobile explorer visibility checks, otherwise older iPhones throw `TypeError: <element>.checkVisibility is not a function` during SPA navigation.
 - Quartz global assets (`index.css`, `prescript.js`, `postscript.js`, `static/contentIndex.json`) use stable filenames. If production caches JS/CSS aggressively, page HTML must append a per-build version query string, otherwise mobile browsers can stay stuck on stale bundles after a deploy.
+- The cache contract has two halves and both must hold: HTML responses must send `Cache-Control: no-cache` so browsers revalidate on every load, and asset responses must send `Cache-Control: public, immutable` paired with versioned `?v=<build>` URLs. If HTML is heuristically cacheable (no `Cache-Control` header), iOS Safari can stay pinned to an old HTML document referencing immutable-cached old bundles indefinitely, and SPA navigation breaks even after the bug has been fixed in code.
 - iOS WebKit can miscompute tap hit areas for wrapped inline Quartz internal links inside paragraphs/lists. Keep `.internal` links as real rectangular tap targets with `display: inline-block` and `max-width: 100%`, otherwise some multi-line mobile taps update nothing even though the link looks highlighted.
 
 ## Rules
