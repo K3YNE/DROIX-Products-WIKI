@@ -12,7 +12,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: " — DROIX Wiki",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: "google",
+      tagId: "G-RXFT6V4BNQ",
+    },
     locale: "en-GB",
     baseUrl: "wiki.droix.store",
     ignorePatterns: [
