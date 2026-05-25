@@ -10,6 +10,7 @@ Read this file at the start of every session. It is the single source of truth f
 
 The wiki covers:
 
+- **Production URL:** `https://wiki.droix.store` (hosted on Coolify)
 - **Brands** DROIX represents — primary: GPD, AYANEO, ONEXPLAYER, AYN, Retroid. Secondary: Anbernic, KONKR, and any other brand whose products DROIX sells or has reviewed.
 - **Technology vendors** whose components appear in products — AMD, Qualcomm, Intel, Unisoc, and others. Each gets its own entity page linking to all products that use their chips and all related resources.
 - **Products** from each brand (e.g. GPD WIN 5, GPD Pocket 4, AYANEO Flip 1S DS).
