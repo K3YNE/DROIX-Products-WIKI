@@ -16,6 +16,8 @@ If you are looking to upgrade your DROIX CK2, we at DROIX have put together a sh
 
 ## Step 1 – Remove the lid
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220318_145735031-1024x768.jpg)
+
 To access the CK2, you first need to remove the lid of the unit.
 
 To do so, slide the latch mechanism on the rear of the device (circled in red) to the right, then gently lift the lid from the unit.
@@ -24,6 +26,8 @@ To do so, slide the latch mechanism on the rear of the device (circled in red) t
 
 ## Step 2 – Removing the Mounting Bracket
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220318_145849779_HDR-1-1024x768.jpg)
+
 With the lid lifted, you will now be face-to-face with the mounting bracket of the DROIX CK2.
 
 This bracket will hold a 2.5-inch drive (be it HDD or SSD) in place. To connect a 2.5-inch drive, simply connect the SATA cable (outlined in yellow) to your drive.
@@ -31,6 +35,8 @@ This bracket will hold a 2.5-inch drive (be it HDD or SSD) in place. To connect 
 To remove the bracket, remove the tape securing the SATA cable to the bracket, and then loosen the screws (circled in red). You will then be able to lift the CK2’s mounting bracket
 
 ## Step 3 – Replacing Components
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220318_150106643_HDR-1024x768.jpg)
 
 You will now be at the heart of the DROIX CK2. From here, you can upgrade and replace the components as you wish.
 

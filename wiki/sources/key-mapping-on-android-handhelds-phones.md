@@ -24,9 +24,18 @@ With key mapping, you can key map a physical controller to gain the upper hand i
 
 Screen Mapping for Android AYANEO products, such as the [Pocket S](https://droix.net/product/ayaneo-pocket-s/), can be accessed from the AYASpace Overlay, simply launch a game, and Start any game and open the AYASpace Overlay. To access the AYASpace Overlay, click the dedicate AYASpace button on the AYANEO handheld console. From here navigate to the Controller tab, and turn on Key Mapping. After this, select ‘Go to Configuration’ which will open up an overlay where you can configure the Screen mapping as you would like.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/1-1.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/2-1.png)
+
+
 Enabling the Key Mapping Overlay
 
 From here, you can drag and drop from ‘Add Mapping Point’ to however many on-screen inputs you require. After adding a mapping point, you will need to select which physical button will trigger this input. In the example below, we will be setting up player movement, so we mapped the digital joystick that controls player movement to ‘L’ (the left analogue stick). Repeat the process for each button/input you require for your game. After mapping each button you want to use, simply select ‘Save,’ and you should be all set to go.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/3-1.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/4-1.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/5.png)
+
 
 Adding and Setting Mapping Points
 
@@ -38,45 +47,55 @@ This section delves into [Anbernic Retro Gaming Handhelds](https://droix.net/pro
 
 **Swipe down** from the top of the device’s screen to access the **Control Panel**, just like you would on a smartphone (see *Image 1* below). From here, select the **Key Mapper** (shown in *Image 2* below), which will open the key mapping overlay required to configure your inputs.
 
+![1. Open Control Panel](https://droix.net/knowledge-base/wp-content/uploads/2023/12/1.-Open-Control-Panel.jpg)
+
 1. Open Control Panel
 
-
+![2. Select key mapping](https://droix.net/knowledge-base/wp-content/uploads/2023/12/2.-Select-key-mapping-1.jpg)
 
 2. Select Key Mapping
 
 When adjusting key mappings, ensure you are on the **Button Config** page (check *Image 3* below). Here, you have the option to **enable** or **disable** various inputs, a feature that comes in handy for games requiring fewer or more controls (refer to *Image 4* below).
 
+![3. Button configuration](https://droix.net/knowledge-base/wp-content/uploads/2023/12/3.-Buton-configuration.jpg)
+
 3. Button configuration
 
-
+![4. Remove buttons](https://droix.net/knowledge-base/wp-content/uploads/2023/12/4.-Remove-buttons.jpg)
 
 4. Enable/Disable buttons
 
 Before mapping inputs, let’s go over how to relocate the input icons which represent our device’s **physical buttons** and inputs. Simply use your finger to **drag** each icon to the desired position on the screen (refer to *Images 5–7* below). Typically, we will need to move these to the virtual gamepad that appears whenever you launch a game.
 
+![5. Move buttons](https://droix.net/knowledge-base/wp-content/uploads/2023/12/5.-move-button.jpg)
+
 5. Move buttons 1
 
-
+![6. Move buttons 2](https://droix.net/knowledge-base/wp-content/uploads/2023/12/6.-move-button-2.jpg)
 
 6. Move buttons 2
 
-
+![7. Move buttons 3](https://droix.net/knowledge-base/wp-content/uploads/2023/12/7.-buttons-moved.jpg)
 
 7. Move buttons 3
 
 Now you may be asking how you configure an actual game – simply launch the game and you should see virtual controls displayed onscreen (as shown in *Image 8* below). Then, open the **Key Mapper software** as previously described and assign the **Key Mapper icons**, which represent your physical controller buttons, with the corresponding **virtual buttons** (illustrated in *Images 9 & 10* below). Feel free to customize the key mappings to suit your preferences. Once you’re satisfied with the setup, remember to confirm and **save** your changes (see *Image 10* below).
 
+![8. Open key mapper in -game](https://droix.net/knowledge-base/wp-content/uploads/2023/12/8.-in-game.jpg)
+
 8. Open key mapper in -game
 
-
+![9. Move icons over virtual buttons](https://droix.net/knowledge-base/wp-content/uploads/2023/12/9.-Drag-icons-over-osncrenn-buttons.jpg)
 
 9. Move icons over virtual buttons
 
-
+![10. Confirm changes](https://droix.net/knowledge-base/wp-content/uploads/2023/12/10.-Save.jpg)
 
 10. Confirm changes
 
 For additional assistance or a more detailed guide, [Anbernic](https://anbernic.com/) has got you covered. They have included an in-depth guide within the mapping software. To access it, go to the **Instructions** tab and select **Click for details** (refer to *Image 11* below).
+
+![11. Key Map Instructions](https://droix.net/knowledge-base/wp-content/uploads/2023/12/11.-Key-Map-Instructions-1024x576.jpg)
 
 11. Key Map Instructions
 
@@ -88,9 +107,11 @@ In this section, we’ll focus on screen mapping for [Retroid devices](https://d
 
 Upon launching a game on your Retroid device, you’ll notice a subtle **white line** on the **right side** of the screen. **Swipe left** from this line to open the Game Assist overlay (illustrated in *Images 1 & 2* below). Within this menu, you’ll find several options – which are all relatively self-explanatory. The key feature for screen mapping is the **Key Adapter** (see *Image 2*). Tap this to start personalizing your game controls.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/1.-Open-Game-Assist.jpg)
+
 1. Swipe left to open Game Assist
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/2.-Select-Key-Adapter.jpg)
 
 2. Select Game Adapter
 
@@ -104,15 +125,19 @@ This will open the Key Adapter configuration, there are many important different
 6. Cloud Saves: for any preset settings
 7. **Save**: confirms changes
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/3.-Key-Adapter.jpg)
+
 3. Key Adapter
 
 You can adjust these settings however you feel comfortable, and adapt them for all different types of games However we’ll be using Call of Duty for this example. The first thing we want to do is set up the movement. Simply, drag and drop the **left joystick icon** onto the **virtual joystick** that controls the ingame movement (as shown in *Images 4 & 5* below). The same can be done for the **right joystick** – simply drag and drop the icon to wherever you want the **right joystick** to control. In our case (FPS game), it will be used to control the rotation/camera of our character.
 
 You have the flexibility to adjust these settings to your comfort, making them suitable for various game types. For illustration, we’ll use *Call of Duty* as an example. Start by setting up the movement controls – drag the **left joystick** icon and drop it onto the game’s **virtual joystick**, which controls in-game movement (as shown in *Images 4 & 5* below). The process is similar for the **right joystick**. Drag and drop this icon to the location for controlling the right joystick function. In most mobile FPS games, the right joystick typically controls the rotation or camera angle of your character.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/4.-Left-Joystick-Mapping.jpg)
+
 4. Drag left joystick mapping
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/4c.-Left-Joystick-Mapping.jpg)
 
 5. Drag left joystick mapping cont.
 
@@ -120,39 +145,49 @@ You can see the joystick has been set up, highlighted in purple, showing the ico
 
 To map buttons to specific functions or controls, we start off doing the same as the previous step, drag the **button icon** onto a **virtual button** that you wish to map it to (see *Images 6 & 7* below). This will ensure the key mapper understands which physical button corresponds with the onscreen controls.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/5b.-Button-Mapping.jpg)
+
 6.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/5c.-Button-Mapping.jpg)
 
 Unlike the joystick, we now need to define which button will be assigned to this button mapping. To do this, ensure the **button icon** is selected (represented by a **blue circle** around it) and then **press** the physical button on the controller that you wish to key set it as. The icon will then change corresponding to whichever icon you’ve selected (refer to *Image 9* below).
 
 Essentially what’s happening is whenever you push the button, the software will then create an input at the location of its respective mapping, which is the reason why the button icon needs to be placed on top of the onscreen button you wish a configure.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/6.-Press-Button.jpg)
+
 8. Select the button icon
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/7.-Button-Mapped.jpg)
 
 9. Key mapping set to the A button
 
 Continue doing this for every onscreen button (or input) that you wish to be bound to a physical button, once you have done make sure to **save** and apply your changes by pressing the blue button (refer to *Image 10* below). You should now be able to play using the key mappings you just configured (see *Image 11* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/8.-Apply-Changes.jpg)
+
 10. Save changes
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/9.-Ingame.jpg)
 
 11. Ingame with key mapping active
 
 If you find yourself needing to fine-tune or tweak the joystick/button settings such as the sensitivity, or setting up compatibility for specific game genres and more – you can do so from the Key Adapter menu. Once here, tap on a mapped key and a settings menu for the selected input will appear. Every option is explained in detail, so go through them and change them as you see fit (refer to the *Images* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/10.-Directional-Skill-Settings.jpg)
+
 12. Directional skill mode
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/11.-Adjust-View-Settings-1.jpg)
 
 13. Adjust view mode
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/9.-Virtual-Joystick-Settings.jpg)
 
 14. Virtual joystick mode
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/12.-Arrow-Keys-Settings.jpg)
 
 15. Arrow keys mode
 
@@ -162,9 +197,11 @@ Here, we’ll cover the Android gaming devices from [AYN](https://droix.net/prod
 
 Similarly to Retroid, you can **swipe left** from the edge of the screen ingame, whenever you see the fine **white line** appear, to open the in-game overlay (shown in *Image 1* below). From the overlay, tap the icon named **Key Adapter**, which we will use to configure our controller (refer to *Image 2* below).
 
+![1. Open Game Assistant](https://droix.net/knowledge-base/wp-content/uploads/2023/12/1.-Open-Game-Assistant-1.jpg)
+
 1. Swipe toOpen Game Assistant
 
-
+![2. Select Key Adapter](https://droix.net/knowledge-base/wp-content/uploads/2023/12/2.-Select-Key-Adapter-2.jpg)
 
 2. Select Key Adapter
 
@@ -178,84 +215,98 @@ Within the **Key Adapter** menu, there are many important different options each
 6. Cloud Schemes: for any preset settings
 7. **Save**: confirms changes
 
+![3. Key Adapter Menu](https://droix.net/knowledge-base/wp-content/uploads/2023/12/3.-Key-Adapter-Menu.jpg)
+
 3. Key Adapter menu
 
 To set up joystick input, simply drag and drop the **Left Joystick** icon on the virtual joystick that controls the ingame movement (as shown in *Images 4 & 5* below). The same can be done for the **Right Joystick** – simply **drag and drop** it to wherever you want the right joystick to control. In our example, a first-person game, the joysticks will be used to control the movement and the rotation/camera of our character respectively.
 
+![4. Drag Left Joystick](https://droix.net/knowledge-base/wp-content/uploads/2023/12/4.-Drag-Left-Joystick.jpg)
+
 4. Drag Left Joystick
 
-
+![5. Drag Left Joystick 2](https://droix.net/knowledge-base/wp-content/uploads/2023/12/5.-Drag-Left-Joystick-2.jpg)
 
 5. Drag Left Joystick Cont.
 
 To change the settings of the joystick, whether it’s altering input sensitivity, enabling better MOBA control, or more, you can do so by simply **tapping** again on the configured icon (see *Image 6* below). Doing so will prompt the selected input’s settings to open up. Each option is thoroughly explained within the menu and will be shown below.
 
+![6. Open Joystick Settings](https://droix.net/knowledge-base/wp-content/uploads/2023/12/6.-Open-Joystick-Settings.jpg)
+
 6. Tap to open joystick settings
 
-
+![7. Joystick Settings 1](https://droix.net/knowledge-base/wp-content/uploads/2023/12/6.-Joystick-Settings-1.jpg)
 
 7. Joystick Settings 1
 
-
+![8. Joystick Settings 2](https://droix.net/knowledge-base/wp-content/uploads/2023/12/6.-Joystick-Settings-2.jpg)
 
 8. Joystick Settings 2
 
-
+![8. Joystick Settings 3](https://droix.net/knowledge-base/wp-content/uploads/2023/12/6.-Joystick-Settings-3.jpg)
 
 9. Joystick Settings 3
 
-
+![9. Joystick Settings 4](https://droix.net/knowledge-base/wp-content/uploads/2023/12/6.-Joystick-Settings-4.jpg)
 
 10. Joystick Settings 4
 
-
+![10. Joystick Settings 5](https://droix.net/knowledge-base/wp-content/uploads/2023/12/6.-Joystick-Settings-5.jpg)
 
 11. Joystick Settings 5
 
 Configuring button controls is similar but instead, we’ll use the **button icon** – make sure that the **button icon** is dragged onto the **virtual button** that you wish to configure (see *Images 12 & 13* below). This will ensure the key mapper understands which physical button corresponds with the onscreen controls.
 
+![12. Drag Button Icon](https://droix.net/knowledge-base/wp-content/uploads/2023/12/7.-Drag-Button-Icon.jpg)
+
 12. Drag Button Icon
 
-
+![13. Drag Button Icon 2](https://droix.net/knowledge-base/wp-content/uploads/2023/12/8-Drag-Button-Icon-2.jpg)
 
 13. Drag Button Icon cont.
 
 Unlike the joystick which is already defined, a **physical button** will need to be assigned to this button kep mapping. To do this, ensure the **button icon** is selected (represented by a **blue circle** around it) and then **press the physical button** on the controller that you wish to keymap. The icon will then change corresponding to whichever icon you’ve selected (refer to *Images 14 & 15* below).
 
+![20. Configure button key map](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Button-Keymapping.jpg)
+
 14. Configure button key map
 
-
+![21. Button configured](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Button-Keymapping-2.jpg)
 
 15. Button key map configured
 
 To change the settings of a button, whether it’s enabling directional skill (for MOBAs), changing the on-press event, or something else, you can do so by simply **tapping** again on the configured icon (see *Image 16* below). Doing so will prompt the selected icon’s settings to open up (see the *Images* below).
 
+![14. Open Button Settings](https://droix.net/knowledge-base/wp-content/uploads/2023/12/9.-Open-Button-Settings-1.jpg)
+
 16. Open Button Settings
 
-
+![15. Button Settings 1](https://droix.net/knowledge-base/wp-content/uploads/2023/12/9.-Button-Settings-1-1.jpg)
 
 17. Button Settings 1
 
-
+![16. Button Settings 2](https://droix.net/knowledge-base/wp-content/uploads/2023/12/9.-Button-Settings-2-1.jpg)
 
 18. Button Settings 2
 
-
+![17. Button Settings 3](https://droix.net/knowledge-base/wp-content/uploads/2023/12/9.-Button-Settings-3-1.jpg)
 
 19. Button Settings 3
 
-
+![18. Button Settings 4](https://droix.net/knowledge-base/wp-content/uploads/2023/12/9.-Button-Settings-4-1.jpg)
 
 20. Button Settings 4
 
-
+![19. Button Settings 5](https://droix.net/knowledge-base/wp-content/uploads/2023/12/9.-Button-Settings-5-1.jpg)
 
 21. Button Settings 5
 
 Continue key mapping for every onscreen button (or input) that you wish to be bound to a physical input – once completed, make sure to **save** and apply your changes by pressing the **blue button** (refer to *Image 10* below). You should now be able to play using the key mappings you just configured (see *Image 11* below). You may need to adjust the settings as you see fit for your specific game and playstyle.
 
+![10. Confirm Settings](https://droix.net/knowledge-base/wp-content/uploads/2023/12/10.-Confirm-Settings-1.jpg)
+
 22. Confirm Settings
 
-
+![11. INGAME](https://droix.net/knowledge-base/wp-content/uploads/2023/12/11.-INGAME-1.jpg)
 
 23. In-game screenshot

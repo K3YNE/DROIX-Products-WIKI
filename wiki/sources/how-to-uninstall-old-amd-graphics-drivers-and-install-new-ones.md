@@ -20,21 +20,31 @@ AMD has provided an easy-to-use application that does all the work for you to un
 
 Run the AMD Cleanup Utility application. If you are prompted for Administrator rights, click **YES**.
 
+![AMD Cleanup Utility](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/AMD-Clearnup-Utility-1-1-1024x576.jpg)
+
 Open the Cleanup Utility software
 
 After a moment or two, you will be prompted to reboot your device to boot into [Windows Safe Mode](https://support.microsoft.com/en-us/windows/start-your-pc-in-safe-mode-in-windows-92c27cff-db89-8644-1ce4-b3e5e56fe234). Windows Safe Mode does not use any system drivers and is easier to uninstall any drivers when not in use. Click on **YES** to boot into safe mode.
+
+![AMD Cleanup Utility](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/AMD-Clearnup-Utility-2-1024x576.jpg)
 
 Click Yes when prompted to boot to safe mode
 
 Your device will now reboot, it may take a little longer to boot into Windows than usual. Once it has been booted, the Cleanup Utility software should automatically start and prompt you to proceed with the uninstallation. Choose **YES**.
 
+![AMD Cleanup Utility](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/AMD-Cleanup-Utility-3-1024x576.jpg)
+
 Click Yes to start the uninstallation
 
 It may take a minute or two for the drivers to be uninstalled, do not close the software or shut down Windows during this time. Once the process has been completed you will be informed that it has been completed, click on **FINISH** to proceed.
 
+![AMD Cleanup Utility](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/AMD-Cleanup-Utility-4-1024x307.jpg)
+
 Click Finish to complete the uninstallation
 
 You will now be prompted to reboot back to normal Windows. Choose **YES** to proceed.
+
+![AMD Cleanup Utility](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/AMD-Cleanup-Utility-5-1024x429.jpg)
 
 Choose Yes to reboot Windows
 
@@ -46,6 +56,8 @@ You will first need to download the latest graphics drivers from [here](https://
 
 Once you have downloaded the driver software, you can run the file.
 
+![AMD Graphics Drivers](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/AMD-Graphics-Drivers-1-1024x576.jpg)
+
 Open the graphics driver installation file
 
 The software may prompt you to enter an installation path, you can choose the default path. The software will install and then scan your system for the graphics. This may take a few minutes.
@@ -54,21 +66,31 @@ You will be shown what graphics card has been found on your device. In this exam
 
 The software may visually look slightly different to what we show as there are different versions depending on the auto-detect or manual-detect downloads.
 
+![AMD Graphics Drivers](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/AMD-Graphics-Drivers-2-1024x714.jpg)
+
 Check that it has found your graphics and click Next
 
 You will then be prompted if you wish to install the Privacy View tool, this is optional so you can decide whether to install it or not. Click on **Next** to proceed.
+
+![AMD Graphics Drivers](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/AMD-Graphics-Drivers-3-1024x716.jpg)
 
 You can optionally install Privacy View
 
 You may next be prompted to install Chipset drivers. We recommend installing the latest versions, so tick all of them and then **Install** to proceed.
 
+![AMD Graphics Drivers](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/AMD-Graphics-Drivers-4-1024x658.jpg)
+
 Install all the latest Chipset Drivers
 
 The software will now download and install the latest drivers for your graphics. This may take several minutes depending on your internet speed for example. Please let the software download and install. Your device’s display may go black during the process while the graphics drivers are installed.
 
+![AMD Graphics Drivers](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/AMD-Graphics-Drivers-5-1024x661.jpg)
+
 Graphics Drivers installing
 
 Once the process has finished you will be prompted to Finish or Restart your device. We recommend **Restarting** to finish to process correctly.
+
+![AMD Graphics Drivers](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/AMD-Graphics-Drivers-6-1024x720.jpg)
 
 Restart Windows to complete the installation
 

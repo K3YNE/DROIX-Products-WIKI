@@ -30,6 +30,8 @@ The GPD WIN Mini comes in in a few models, each requiring specific firmware. To 
 2. The Task Manager software will open. Click on the “Performance” icon on the left side
 3. Click on “CPU” if it is not already selected, and the CPU model will be displayed in the top right.
 
+![How to identify your CPU model](https://gpdstore.net/wp-content/uploads/2024/09/How-to-identify-your-CPU-model-1200x675.jpg)
+
 How to identify your CPU model
 
 GPD WIN Mini 2023 – 7640U or 7840U CPU  
@@ -123,6 +125,8 @@ Before starting, you will also need access to a PC and a USB flash drive to stor
 
 We hope your BIOS upgrade was successful and your device is running smoothly. To ensure optimal performance, we recommend referring to our benchmarking and stress testing guide, which will help you evaluate the performance of your updated device.
 
+![GPD WIN Mini 2024 Gaming Handheld PC](https://gpdstore.net/wp-content/uploads/2024/03/GPD-WIN-MINI-2024-LISTING-NEWEST-DONE-01.png)
+
 ## GPD WIN Mini 2024 Gaming Handheld PC
 
 * AMD **Ryzen 5 7640U / Ryzen 7  8840U**
@@ -130,6 +134,8 @@ We hope your BIOS upgrade was successful and your device is running smoothly. To
 * up to **32GB LPDDR5 @ 6400 MT/s**
 * up to **2TB** **High-Speed** PCI-E 4.0 NVMe SSD
 * WiFi **6E** & Bluetooth **5.3** Support
+
+![Free GPD Win Mini Case](https://gpdstore.net/wp-content/uploads/2024/03/GPD-WIN-MINI-FREE-GIFTS-AUTO.jpg)
 
 PAYMENT INFO
 
@@ -178,6 +184,6 @@ WHAT’S INCLUDED
 * 1x Power Plug
 * 1x User Manual
 
-~~$1,128.95~~ Original price was: $1,128.95.$958.95Current price is: $958.95.
+~~$1,112.95~~ Original price was: $1,112.95.$945.95Current price is: $945.95.
 
 [Shop now](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-mini-2024/)

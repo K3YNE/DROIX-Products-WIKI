@@ -67,9 +67,13 @@ We’d advise formatting your media first before loading firmware onto it to min
 
 To format it, insert the media into your system, then right click it in File Explorer. Select “Format” from the context menu.
 
+![Formatting](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/explorer_cRkzl7hUq3-300x188-2.webp)
+
 Formatting
 
 Make sure the card is formatted as whatever is required – this will typically be NTFS or FAT32, then click format.
+
+![](https://droix.net/wp-content/uploads/2020/11/explorer_AgXk0Scl2W-165x300.png)
 
 Now your media clean and ready to be used.
 
@@ -80,6 +84,8 @@ Note that in the case of the following segment (Type A), the partition format is
 It is possible to quickly duplicate a storage device’s contents through the method of “disc imaging”. With the image file (.img) you have downloaded, download imaging software. We highly suggest Win32DiskImager, as it is lightweight, straightforward and easy to use.
 
 *Note that as of writing, Win32 Disk Imager does not play nice with services that persistently scan for drives, such as Google Backup, or Linux File Systems for Windows by Paragon Software. If Disk Imager will not start, exit these programs/disable these services, then try it again.*
+
+![WIN32 Disk Imager](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/Win32DiskImager_UEASR68QLT.jpg)
 
 WIN32 Disk Imager
 
@@ -104,6 +110,8 @@ If you download a compressed file containing the firmware for a GPD Win 2, Beeli
 What you will need to do here is first – format the device you intend to use; in 99% of cases this should be a singular NTFS partition. **Make sure that the partition is called “WINPE” when doing so**.
 
 Once that’s done, just copy over all the files onto the root of the partition. It will probably look very similar to this.
+
+![Copy over the files](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/explorer_2sVJWbX7dD.jpg)
 
 Copy over the files
 

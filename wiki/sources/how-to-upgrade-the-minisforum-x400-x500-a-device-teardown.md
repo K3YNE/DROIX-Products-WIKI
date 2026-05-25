@@ -22,17 +22,23 @@ If you are looking to upgrade your MinisForum X400, we at DROIX have put togethe
 
 ## Step 1 – Remove the rear panel
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220321_164244814_HDR-1024x768.jpg)
+
 To access the MinisForum X400, you first need to remove the rear of the unit.
 
 To do so, remove the screws in the rear panel. You will then be able to pry the lid off the unit. Unlike many other models, the X400 shell’s screws are not intended to be removed from the plate, so just loosen them until you no longer feel any resistance.
 
 ## Step 2 – Removing the drive bracket
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220321_165203243_HDR-1024x768.jpg)
+
 While you can access some components already, you will need to remove the plastic 2.5-inch drive bay before gaining full access to the system.
 
 In the center of the drive bay are four screw holes. Loosen these, and the drive bay will lift out of the unit. If the SATA cable gets in the way, you can loosen the twist ties to gain access.
 
 ## Step 3 – Replacing Components
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220321_165348068_HDR-1024x768.jpg)
 
 You will now be at the heart of the MinisForum X400. From here, you can upgrade and replace the components as you wish.
 

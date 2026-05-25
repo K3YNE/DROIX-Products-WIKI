@@ -24,6 +24,8 @@ The GPD WIN 4 comes in in a few models, each requiring specific firmware. To ens
 2. In the Windows search bar, enter “Task Manager” and press ENTER
 3. The Task Manager software will open. Click on the “Performance” icon on the left side
 
+![How to identify your CPU model](https://gpdstore.net/wp-content/uploads/2024/09/How-to-identify-your-CPU-model-1200x675.jpg)
+
 How to identify your CPU model
 
 GPD WIN 4 (2023) – 7640U & 7840U CPU  

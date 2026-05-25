@@ -32,19 +32,35 @@ For Windows OS you can find the guide immediately below. For macOS and Ubuntu pl
 
 If the file is in an archive format such as .zip, .rar or .7z, you will need to extract it. Once extracted you will have an .img file
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-sd-card-install-1.jpg)
+
 Open Win32 Disk Imager. Check that the **Device** letter is the same as your Micro SD Card.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-sd-card-install-2.jpg)
 
 Click on the Blue folder icon to select an .img file to write.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-sd-card-install-3.jpg)
+
 Select the .img file that you downloaded
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-sd-card-install-4-300x176.jpg)
 
 Double check that the **Device** letter matches that of your Micro SD Card. If you choose the wrong one you could overwrite your Hard Disk for example. You can now click on **Write** to begin writing the .img file to the Micro SD Card.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-sd-card-install-5.jpg)
+
 Just one more confirmation that you are writing to the correct device. If you are 100% sure it is correct, click on **Yes** to proceed.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-sd-card-install-6.jpg)
 
 The image writing process will now begin. Depending on the size of the .img file and the speed of the Micro SD Card this may take some time.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-sd-card-install-7.jpg)
+
 Once the image has been written to the Micro SD Card you will see the below notification. Click on **OK** and you can now remove the Micro SD Card from your PC.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-sd-card-install-8.jpg)
 
 ### macOS and Ubuntu Flashing Guide
 
@@ -52,9 +68,15 @@ If the file is in an archive format such as .zip, .rar or .7z, you will need to 
 
 Load the Imager software. You will be presented with the main screen as below.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/macOS-and-Ubuntu-Imager-1-300x196.png)
+
 Click on **Choose OS** and scroll down to and select **Use Custom**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/macOS-and-Ubuntu-Imager-2-300x195.png)
+
 Locate the .img file on your device and select it. Now Click on Choose **SD Card** option and choose the correct drive for the SD card.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/macOS-and-Ubuntu-Imager-3-300x195.png)
 
 Once select, confirm everything is correct such as the correct SD card. The choose the **Write** option. The image file will now be written to the SD card. Please do not shut down your device or remove the SD card until the process is completed. This may take some time depending on the size of the image file and the card speed.
 
@@ -66,8 +88,12 @@ Most Raspberry Pi images will have a script when you first boot to automatically
 
 After a few moments you should see a boot screen similar to below depending on the image you installed.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-sd-card-install-9-169x300.jpg)
+
 The script will resize the card to the available space for your Micro SD Card. This may take some time depending on the size of your card. The device will also reboot once or twice during the process. Do **NOT** switch off the GPi or press any buttons during this time.
 
 When the device has finished resizing and booting for the first time you will be on the Retropie main menu. Depending on which image you installed it will be similar to below.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-sd-card-install-10-169x300.jpg)
 
 Your Retroflag GPi is now ready to use.

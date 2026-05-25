@@ -30,13 +30,19 @@ Download and extract the latest version of the [GPD Joystick Calibration Tool he
 
 Two windows will open, and they will look like this. Press the button indicated in the below image to start the calibration process.
 
+![GPD Joystick Calibration Tool](https://droix.net/knowledge-base/wp-content/uploads/2023/06/GPD-Joystick-Calibration-Tool-1024x707.jpg)
+
 GPD Joystick Calibration Tool
 
 After pressing the button. The software will instruct you to push both analogue joysticks to their edges and spin them constantly while fully pressing and releasing the left and right analogue trigger buttons. The actions will be reflected on their respective on screen areas.
 
+![Calibrating in progress](https://droix.net/knowledge-base/wp-content/uploads/2023/06/GPD-Joystick-Calibration-Tool-Calibrating-1024x707.jpg)
+
 Calibrating in progress
 
 Once the calibration has completed, the green text will update to as what is shown below to indicate the calibration has been successful.
+
+![Calibration Successful](https://droix.net/knowledge-base/wp-content/uploads/2023/06/GPD-Joystick-Calibration-Tool-Calibration-Successful-1024x707.jpg)
 
 Calibration Successful
 
@@ -48,9 +54,12 @@ If the above method doesn’t work, there is a calibration method built into Win
 
 To calibrate within Windows we need to first open up Windows Run, if you have a keyboard attached this can be done by pressing Windows+R, if not open the start menu and search for ‘Run’. Once open type in joy.cpl and click ‘OK’.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/06/vlcsnap-2023-06-08-17h41m43s349-1024x636.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-08-17h42m24s762-1024x636.jpg)
 
 It will open this window, Windows will see your controller as an XBOX 360 controller, and that’s okay. Click on ‘Properties’. It will open up this screen.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-08-17h43m18s752-1024x636.jpg)
 
 You can use this to test your controller.
 
@@ -61,14 +70,24 @@ You can use this to test your controller.
 * Point of Video Hat is the D-Pad
 * Buttons are all the buttons on your device: A, B, X, Y, LB, RB, LS, RS, LC and RC. They will light up when pressed.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-08-17h46m37s555-1024x636.jpg)
+
 If they all work fine then chances are you don’t need to calibrate your device. But if you do, click over to ‘Settings’ and you’ll see this screen. Click on ‘Calibrate’ to be taken through the calibration process.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-09-09h11m24s374-1024x636.jpg)
+
 Go through the process following the instructions to calibrate your controller. Once you’re done, you’ll be taken back to the Settings page, you can go over to the Test page to see how your work panned out. If you’re unhappy go back to Settings and click ‘Restore Default’. If you are then you can carry on and use your newly calibrated controller.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-09-09h14m47s780-1024x636.jpg)
 
 ## Gamepad-Tester.com
 
 [Gamepad Tester](https://gamepad-tester.com/) is a well-known website in the community, it offers an easy and accessible way to test your gamepad controllers. It even offers additional and more in-depth information than Windows. Head over to the site. You’ll be greeted with this screen.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-09-092518-1024x640.png)
+
 Press any button to begin, and the testing interface will load. From here you can see precisely the angle and force that the joysticks, triggers and buttons are being registered. With this information, you can find faults and properly calibrate your device.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-09-092623-1024x640.png)
 
 To learn more about your GPD handhelds check our site [here](https://droix.net/brand/gpd/). To learn more about our other offerings and products take a look at other Knowledge Base articles [here](https://droix.net/knowledge-base/)

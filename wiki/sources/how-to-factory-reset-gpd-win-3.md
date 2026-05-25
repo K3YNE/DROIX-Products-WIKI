@@ -34,11 +34,19 @@ Luckily, Windows 10 has a handy way of booting from alternative devices after it
 
 On the desktop, open up the Windows Menu, then select the power button.
 
+![Win 3 recovery image 1](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/IMG_20210525_123258244_HDR-1024x768.jpg)
+
 Now, **hold down the shift key** and select the “Reset” option. You’ll then be taken into the advanced startup settings menu.
+
+![Win 3 recovery image 2](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/IMG_20210525_123358624_HDR-1024x768.jpg)
 
 From here, select “Use a device”. Then select UEFI OS (which should be the only option either way).
 
+![Win 3 recovery image 3](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/IMG_20210525_123441801_HDR-1024x768.jpg)
+
 The system will then boot into the recovery partition. Press “Start” and the process will begin.
+
+![Win 3 recovery image 4](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/IMG_20210525_123113853_HDR-910x1024.jpg)
 
 The process typically takes about 15 minutes. After which, your GPD Win 3 will automatically reboot into a fresh installation of Windows, with all prior data wiped.
 

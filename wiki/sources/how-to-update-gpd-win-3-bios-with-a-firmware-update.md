@@ -25,6 +25,8 @@ Ways to identify your CPU on your device:
   Select **About your PC** from the results.  
   Look under “**Device specifications**” for the Processor entry, which lists your CPU model (e.g., Intel Core i7-10750H).
 
+![Task Manager CPU](https://droix.net/knowledge-base/wp-content/uploads/2025/03/Task-Manager-CPU-1024x576.jpg)
+
 Task Manager CPU
 
 <https://youtu.be/hNc7jVEiFeI>
@@ -33,12 +35,22 @@ First of all you will need to download and extract the firmware update to your G
 
 Once you have download the file, extracted the contents and double click on the executable file.
 
+![Running the GPD Win 3 BIOS updater software](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Update-GPD-Win-3-BIOS-1-1024x576.jpg)
+
 The updater software will display. It will take a few moments for the software to check the version numbers.
+
+![GPD Win 3 BIOS Updater version check](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Update-GPD-Win-3-BIOS-2-1024x576.jpg)
 
 After a few checks for system versions, you will be prompted to update. Click the update button and it will start the update process.
 
+![GPD Win 3 BIOS Update proceed](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Update-GPD-Win-3-BIOS-3-1024x576.jpg)
+
 During this time, do not switch off the Win 3 or close the software. The process should take around one to two minutes indicated by a green bar for the two updates it needs to make.
 
+![GPD Win 3 BIOS Updating](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Update-GPD-Win-3-BIOS-4-1024x576.jpg)
+
 After a few moments, you will be notified that the update is complete with confirmations in green text.
+
+![GPD Win 3 BIOS Updating Completed](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Update-GPD-Win-3-BIOS-5-1024x576.jpg)
 
 You can now close the software and reboot the GPD Win 3 to apply the update. Your GPD Win 3 BIOS is now up to date!

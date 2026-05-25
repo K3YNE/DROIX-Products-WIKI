@@ -36,4 +36,4 @@ If I’ve got an HDMI lead and an optical lead in at the same time, this setting
 
 Within the Android app from YouTube, audio is produced from my amp. In Kodi, using default settings with SPDIF passthrough set, 5.1 (AAC encoded, Looper rip from Navi-X) worked, however I couldn’t tell about DD encoding as my hardware predates that. A few people have mentioned in the forum the importance of needing to set Number of Channels: to 2.0 in Kodi’s System area, then System again and Audio Output. Please click “Reset above settings to default” first, then double check channels is (confusingly) set to 2.0
 
-<https://DROIXForums.com> has current advice regarding surround sound AV equipment and Kodi.
+<https://DroidBOXForums.com> has current advice regarding surround sound AV equipment and Kodi.

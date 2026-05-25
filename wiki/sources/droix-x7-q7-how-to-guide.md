@@ -16,17 +16,17 @@ tags: [kb-article, droix]
 
 ### Getting started
 
-[Setting up a Kids Profile for DROIX](#kids)
+[Setting up a Kids Profile for DROIX®](#kids)
 
 ### Fixing known issues
 
-[How to fix “Kodi 4 DROIX has been denied superuser permission” error](#superuser)  
+[How to fix “Kodi 4 DROIX® has been denied superuser permission” error](#superuser)  
 [How to fix Kodi blank keyboard error](#keyboard)  
 [BT Home Hub Parental Controls causing Script Errors](#BT-parental)  
-[How to reinstall XBMC on DROIX X7/X7 Ultimate](#reinstall-xbmc)  
+[How to reinstall XBMC on DROIX® X7/X7 Ultimate](#reinstall-xbmc)  
 [How to use Quick Support](#quick-support)
 
-#### Setting up a Kids Profile for DROIX
+#### Setting up a Kids Profile for DROIX®
 
 It can be handy to set up a kids profile so they can safely watch media without the chance of them seeing something they shouldn’t.
 
@@ -36,7 +36,7 @@ It can be handy to set up a kids profile so they can safely watch media without 
 
 #### 
 
-#### How to fix “Kodi 4 DROIX has been denied superuser permission” error
+#### How to fix “Kodi 4 DROIX® has been denied superuser permission” error
 
 Kodi needs access to areas of the operating system that is normally locked safely away. If you block it from this access it cannot perform properly. If you accidentally block it, this video will show you how to grant superuser access at a later stage.
 
@@ -67,8 +67,8 @@ The BT Home Hub cause a few issues, which can be easily fixed with a few simple 
 <https://youtu.be/e62Z5MgkRKM>
 
 Some more links on the ISP’s blocking content (Virgin & BT Customers):  
-<https://droix.co.uk/blog/faq-2/bt-are-your-isp-and-droix-wizard-or-add-on-problems/>  
-<https://droix.co.uk/blog/faq-2/uk-isps-blocking-content-how-to-remove-their-filters/>
+<https://droidbox.co.uk/blog/faq-2/bt-are-your-isp-and-droidbox-wizard-or-add-on-problems/>  
+<https://droidbox.co.uk/blog/faq-2/uk-isps-blocking-content-how-to-remove-their-filters/>
 
 Alternatively, see the [BT webpage – Stay safe with BT Parental Controls](http://home.bt.com/techgadgets/internet/stay-safe-with-bt-parental-controls-11363887238413)
 
@@ -76,7 +76,7 @@ Alternatively, see the [BT webpage – Stay safe with BT Parental Controls](http
 
 #### How to use Quick Support
 
-You may encounter an issue that you cannot solve yourself or using one of the many helpful videos on this site and YouTube. If you call our support team, they may need to “remote” into your DROIX to help you solve the issue. To do this they use software called Quick Support. You can see what you will need to do on their request in the video below.
+You may encounter an issue that you cannot solve yourself or using one of the many helpful videos on this site and YouTube. If you call our support team, they may need to “remote” into your DROIX® to help you solve the issue. To do this they use software called Quick Support. You can see what you will need to do on their request in the video below.
 
 <https://youtu.be/Kgm6A_QhLHM>
 

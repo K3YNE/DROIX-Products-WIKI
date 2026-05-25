@@ -15,7 +15,7 @@ tags: [kb-article, droix]
 A new Android 5 firmware for Q8-S Owners has been released today.
 
 **p.s. You update this firmware on your own risk  
-“This applies to DROIX Q8-S only purchased before June 2016”**
+“This applies to DROIX® Q8-S only purchased before June 2016”**
 
 For those already comfortable with the Rockchip tool and USB connections, here is the firmware image.
 

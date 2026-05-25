@@ -18,7 +18,7 @@ This time, we have brought gamers the [AYANEO Pocket S](https://droix.net/produc
 
 ## Downloading the Software and Firmware
 
-You can download all the files required [here](https://droix.sharepoint.com/:f:/s/Purchasing/Eh46N8n1Zk9Mj_ddPod1qN0BWlFhr5OUrgoJVQmaNJniOQ?e=aMGkAe).
+You can download all the files required [here](https://droidbox.sharepoint.com/:f:/s/Purchasing/Eh46N8n1Zk9Mj_ddPod1qN0BWlFhr5OUrgoJVQmaNJniOQ?e=aMGkAe).
 
 ## Installation of software and drivers
 
@@ -29,22 +29,36 @@ Install the Qualcomm 9008 Driver
 
 Open the QFIL Tool, select **Flat Build**
 
+![AYANEO Pocket S Firmware Reflash Guide](https://droix.net/knowledge-base/wp-content/uploads/2024/10/AYANEO-Pocket-S-Firmware-Reflash-Guide-1-1024x775.jpg)
+
 Select **Browse**. Choose the firmware package path, select all files in the lower right corner, choose **thexbl sdevprg\_ns.melf file**, and click **Open**
+
+![AYANEO Pocket S Firmware Reflash Guide-2](https://droix.net/knowledge-base/wp-content/uploads/2024/10/AYANEO-Pocket-S-Firmware-Reflash-Guide-2-1024x590.jpg)
 
 AYANEO Pocket S Firmware Reflash Guide-2
 
 Select **Load XML**. The path will be automatically located, after confirming the correct path above, select all files, and click **Open**
 
+![AYANEO Pocket S Firmware Reflash Guide](https://droix.net/knowledge-base/wp-content/uploads/2024/10/AYANEO-Pocket-S-Firmware-Reflash-Guide-3-1024x596.jpg)
+
 Click configuration at the top, then select **FireHose Configuration**.
+
+![AYANEO Pocket S Firmware Reflash Guide](https://droix.net/knowledge-base/wp-content/uploads/2024/10/AYANEO-Pocket-S-Firmware-Reflash-Guide-4-1024x744.jpg)
 
 Choose Device Type: **UFS**  
 Check: **Reset After Download** – device will automatically boot after download  
 Check: **Erase All Before Download** – fully erase before downloading  
 Choose according to your needs, and click **OK**
 
+![AYANEO Pocket S Firmware Reflash Guide](https://droix.net/knowledge-base/wp-content/uploads/2024/10/AYANEO-Pocket-S-Firmware-Reflash-Guide-5-1024x505.jpg)
+
 The device enters 9008 mode, connect USB to PC, and 901D port will be displayed at this time.
 
+![AYANEO Pocket S Firmware Reflash Guide](https://droix.net/knowledge-base/wp-content/uploads/2024/10/AYANEO-Pocket-S-Firmware-Reflash-Guide-6-1024x760.jpg)
+
 Adb reboot edl – the device enters 9008 mode, and will display as 9008 at this time.
+
+![AYANEO Pocket S Firmware Reflash Guide](https://droix.net/knowledge-base/wp-content/uploads/2024/10/AYANEO-Pocket-S-Firmware-Reflash-Guide-7-1024x767.jpg)
 
 Click **Download** to start downloading.
 

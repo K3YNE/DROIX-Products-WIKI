@@ -14,7 +14,7 @@ tags: [kb-article, droix]
 
 You may have been sent to this page because your device storage is filled up every few weeks, even though you’re not specifically downloading anything.
 
-It could be that you’re finding Kodi, DBMC (DROIX Media Centre) or even XBMC is losing configuration files and you want to stop this happening again.
+It could be that you’re finding Kodi, DBMC (DROIX® Media Centre) or even XBMC is losing configuration files and you want to stop this happening again.
 
 CLOSE KODI DOWN BEFORE TURNING OFF YOUR DEVICE!
 
@@ -25,6 +25,6 @@ In general, you should return to Kodi’s homescreen and then look for Power, Ex
 
 However the closedown is initiated, wait for the application to close down completely. Until it vanishes from the screen, files have not been written to or deleted entirely yet.
 
-With the application properly shutdown, new temporary files should be cleared away each time automatically. If problems remain after closing down each time, please watch the video below. If DROIX Control Centre is not already installed on your device, you can grab it from Google’s Play Store.
+With the application properly shutdown, new temporary files should be cleared away each time automatically. If problems remain after closing down each time, please watch the video below. If DROIX® Control Centre is not already installed on your device, you can grab it from Google’s Play Store.
 
 https://www.youtube.com/watch?v=8ab7WGjUXr0

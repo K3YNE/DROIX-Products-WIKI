@@ -20,13 +20,19 @@ First, download the GPD WIN 5 Optical Finger Mouse firmware pdate [here](https:/
 
 Open the file named **WIN5\_OFN\_20251127A.exe**; the utility will briefly analyse your hardware state before automatically starting the upgrade. The entire sequence is expected to last approximately 20 to 30 seconds.
 
+![Mechanical Keyboard Update Tool Burning](https://gpdstore.net/wp-content/uploads/2025/12/Mechanical-Keyboard-Update-Tool-Burning.png)
+
 Mechanical Keyboard Update Tool Burning
 
 When the process concludes, the tool will verify the result, and the text **PASS** will appear on the screen to indicate success.
 
+![Mechanical Keyboard Update Tool Pass](https://gpdstore.net/wp-content/uploads/2025/12/Mechanical-Keyboard-Update-Tool-Pass.png)
+
 Mechanical Keyboard Update Tool Pass
 
 You may now exit the application and restart your [GPD WIN 5](https://gpdstore.net/product/gpd-win-5/ "GPD WIN 5") to finalise the installation. After the reboot, your device will be ready to use as usual.
+
+![GPD WIN 5 Gaming Handheld PC](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-5-INFOGRAPHIC-01.png)
 
 ## GPD WIN 5 Gaming Handheld PC
 

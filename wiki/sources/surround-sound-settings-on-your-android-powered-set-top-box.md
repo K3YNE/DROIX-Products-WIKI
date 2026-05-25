@@ -12,7 +12,7 @@ updated: 2026-04-22
 tags: [kb-article, droix]
 ---
 
-If you have a surround sound capable amplifier then after checking just a few settings, you should find you can enjoy fully immersive sound with your DROIX device
+If you have a surround sound capable amplifier then after checking just a few settings, you should find you can enjoy fully immersive sound with your DROIX® device
 
 Some of these steps will depend on your exact hardware, software and audio equipment.
 
@@ -20,9 +20,14 @@ It would be a good idea to be aware of your particular setup before you start, s
 
 ### How is your surround sound system connected to your DROIX?
 
+![HDMI Plug](https://droix.net/wp-content/uploads/2015/11/unnamed-3-150x150.jpg)  
 **HDMI**: If you have an AV amp, you may be connecting your TV to it (with an HDMI cable to the amp’s HDMI output) and then have the DROIX device connected to the amp’s HDMI input.
 
+![Optical Audio TOSLINK Plug](https://droix.net/wp-content/uploads/2016/11/Toslink21-150x150.jpg)
+
 **Optical/TOSLINK**: If the cable connecting your DROIX to your sound system is really thin, and the plugs have plastic/glass in the middle, you are only using HDMI for the video signal to your TV. If this is your first time using such a cable and you’re finding it difficult to plug it in, check it is rotated correctly (so the flat part matches up to the flat section of the socket) and that the cover has been carefully removed from the plug.
+
+![Coaxial Digital Audio](https://droix.net/wp-content/uploads/2016/11/CoaxialDigitalAudio-150x150.png)
 
 **Coaxial**: If the connection to your amp is digital, but uses a metal plug (either a 3.5mm headphone plug or a *single* RCA/phono plug) to connect to your DROIX, then again your HDMI cable is JUST being used for video. You may find your amp’s socket is coloured orange.
 
@@ -56,6 +61,8 @@ If you’re using an HDMI cable and have not changed settings already, you can n
 
 **Lollipop/Marshmallow**
 
+![DROIX T8-S Plus Launcher Homescreen Settings Icon Highlighted](https://droix.net/wp-content/uploads/2015/12/20161115_102303_0-300x169.png)![DROIX T8-S Plus Settings Sounds Icon Highlighted](https://droix.net/wp-content/uploads/2015/12/20161115_102314_0-300x169.png)![DROIX T8-S Plus Sound Settings Digital Sounds Icon Highlighted](https://droix.net/wp-content/uploads/2015/12/20161115_102319_0-300x169.png)![DROIX T8-S Plus Digital Sound Settings Automatic On](https://droix.net/wp-content/uploads/2015/12/20161115_102325_0-300x169.png)
+
 Starting from Android’s homescreen, please click the icon of two cogs, to be taken to the Settings screen.
 
 From here, click the sounds icon, then the Digital sounds icon on the right.
@@ -64,11 +71,16 @@ If automatic detection has not resulted in the correct socket being used for Aud
 
 **KitKat**
 
+![DROIX® T8 T8-S Launcher Homescreen](https://droix.net/wp-content/uploads/2015/12/upload_2015-5-27_20-58-44-300x172.png)![DROIX® T8 Settings Advanced Part I](https://droix.net/wp-content/uploads/2016/06/ThirdAdvancedPartI-300x169.png)
+
 First click the Settings icon (two cogs), then click the red Advanced tab please. If Digital audio auto-detection has not resulted in your amp receiving a signal, please turn it off and select the line below.  
 If you’re using an HDMI cable to connect to your amplifier then HDMI passthrough is the option to select. Likewise, if using a TOSLINK cable, select the SPDIF passthrough entry.  
 As with Lollipop devices, if your amplifier can not process the raw audio, select the PCM option.
 
 #### Kodi Jarvis (Android and OpenELEC)
+
+![Kodi Homescreen](https://droix.net/wp-content/uploads/2016/11/Kodi-Homescreen-300x169.png)  
+![Kodi Settings Screen](https://droix.net/wp-content/uploads/2016/11/Kodi-Settings-Screen-300x169.png)![ Kodi Settings Level Standard](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Kodi-Settings-Level-Basic-300x169.png)![Kodi Settings Level Expert](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Kodi-Settings-Level-Expert-300x169.png)![Kodi Audio Output](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Kodi-Audio-Output-300x169.png)![Kodi Audio Output Continued](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Kodi-Audio-Output-Continued-300x169.png)
 
 Open Kodi and click on the SYSTEM menu
 
@@ -85,6 +97,11 @@ If your amp can handle the audio codecs used by your media files natively, you c
 
 #### DBMC and LibreELEC 7
 
+![DBMC Homescreen](https://droix.net/wp-content/uploads/2016/11/DBMC-Homescreen-300x169.png)  
+![DBMC Settings Screen](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DBMC-Settings-Screen-300x169.png)  
+![DBMC Settings Level Basic](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DBMC-Settings-Level-Basic-300x169.png)  
+![DBMC Settings Level Expert](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DBMC-Settings-Level-Expert-300x169.png)![DBMC Audio Output](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DBMC-Audio-Output-300x169.png)![DBMC Audio Output Continued](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DBMC-Audio-Output-Continued-300x169.png)![DBMC Audio Output Device Selection](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DBMC-Audio-Output-Device-Selection-300x169.png)
+
 Open DBMC and click on the SYSTEM menu
 
 Now click on the bottom entry (again called SYSTEM)
@@ -100,7 +117,10 @@ If your amp can handle the audio codecs used by your media files natively, you c
 
 #### Kodi Krypton in Android
 
- 
+![LibreELEC 8 Kodi Homescreen Settings/System Icon Highlighted](https://droix.net/wp-content/uploads/2016/11/20170803_154358_0-300x169.png) ![LibreELEC 8 Settings System Settings Highlighted](https://droix.net/wp-content/uploads/2016/11/20170803_154352_0-300x169.png)  
+![Click Bottom Left Until Expert Is Shown For LibreELEC 8 To Reveal All The Required Options](https://droix.net/wp-content/uploads/2016/11/20170803_154348_0-300x169.png)  
+![Android Kodi 17 Settings System Audio First Half](https://droix.net/wp-content/uploads/2016/11/20170803_164138_0-300x169.png)  
+![LibreELEC 8 Settings System Audio Second Half](https://droix.net/wp-content/uploads/2016/11/20170803_154337_0-300x169.png)
 
 Boot your device into Android and open Kodi
 
@@ -118,7 +138,10 @@ If your amp can handle the audio codecs used by your media files natively, you c
 
 #### Kodi Krypton in LibreELEC 8
 
- 
+![LibreELEC 8 Kodi Homescreen Settings/System Icon Highlighted](https://droix.net/wp-content/uploads/2016/11/20170803_154358_0-300x169.png) ![LibreELEC 8 Settings System Settings Highlighted](https://droix.net/wp-content/uploads/2016/11/20170803_154352_0-300x169.png)  
+![Click Bottom Left Until Expert Is Shown For LibreELEC 8 To Reveal All The Required Options](https://droix.net/wp-content/uploads/2016/11/20170803_154348_0-300x169.png)  
+![LibreELEC 8 Settings System Audio First Half](https://droix.net/wp-content/uploads/2016/11/20170803_154242_0-300x169.png)  
+![LibreELEC 8 Settings System Audio Second Half](https://droix.net/wp-content/uploads/2016/11/20170803_154337_0-300x169.png)
 
 Boot your device into LibreELEC
 
@@ -140,8 +163,10 @@ If your amp can handle the audio codecs used by your media files natively, you c
 
 For optimal surround sound staging/recreation you may want to check the placement of your speakers, relative to where you will be sat. Exact positioning may require you to take your room’s acoustics and actual dimensions into account.
 
+![Surround Sound Suggested Speaker Placements](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/SurroundSound.jpg)
+
 We hope this guide has helped you configure your DROIX device for surround sound. Please note that DROIX are unable to support 3rd party hardware such as AV equipment.
 
 Some videos may only be recorded in 2 channel stereo. In these situations you may find your amplifier has a setting to “fill” the surround channels with audio from the stereo audio information.
 
-For further information or assistance on using Surround Sound with DROIX and Kodi/DBMC please visit <https://DROIXForums.com> where our community discusses these topics.
+For further information or assistance on using Surround Sound with DROIX and Kodi/DBMC please visit <https://DroidBOXForums.com> where our community discusses these topics.

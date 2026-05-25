@@ -19,16 +19,22 @@ Updating T8-S Plus will resolve issues like Playstore not working on the device 
 Please follow the steps below to update your T8-S Plus.  
 1: Start your box as normal.  
 2: From the Home Screen click on the circle with 6 dots as in the picture below.  
-  
+![20151217_172538_0](https://droix.net/wp-content/uploads/2015/12/20151217_172538_0-300x169.png)  
 3a: Now a list of apps will come up on your screen, scroll down and click OK on your remote after selecting OTA updates app.
 
-3b If you’re using a network (ethernet) cable with your T8-S Plus, please click the top right corner, then untick the “Download on Wi-Fi only” option before proceeding
+![20151217_172730_0](https://droix.net/wp-content/uploads/2015/12/20151217_172730_0-300x169.png)
 
-4: Now once the OTA updates app is open, it will show Available Updates, you need to click (OK) on available updates.
+3b If you’re using a network (ethernet) cable with your T8-S Plus, please click the top right corner, then untick the “Download on Wi-Fi only” option before proceeding  
+![DROIX Update LAN Ethernet Turn Off WiFi Only](https://droix.net/wp-content/uploads/2015/12/20160311_151743_0-300x169.png)
 
-5: Now it will show a pop up box with Download option, you need to click(OK) on download and it will start downloading the update.
+4: Now once the OTA updates app is open, it will show Available Updates, you need to click (OK) on available updates.  
+![20151217_171705_0](https://droix.net/wp-content/uploads/2015/12/20151217_171705_0-300x169.png)
 
-6: Once the download is complete, it will show the Install option and you will need to click(OK) on install option.
+5: Now it will show a pop up box with Download option, you need to click(OK) on download and it will start downloading the update.  
+![20151217_171725_0](https://droix.net/wp-content/uploads/2015/12/20151217_171725_0-300x169.png)
+
+6: Once the download is complete, it will show the Install option and you will need to click(OK) on install option.  
+![20151217_172155_0](https://droix.net/wp-content/uploads/2015/12/20151217_172155_0-300x169.png)
 
 7: After you click on install it will restart the box and display the Upgrading Message and then it will take you back to the Home Screen.  After it loads back the Home Screen make sure the box is connected to the internet and wait for around 10 minutes and the you can start using the box.
 

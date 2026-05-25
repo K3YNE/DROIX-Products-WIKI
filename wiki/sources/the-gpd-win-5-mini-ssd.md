@@ -20,6 +20,8 @@ This manual will focus specifically on the technical specifications of the Mini 
 
 The [Mini SSD](https://droix.net/product/biwin-mini-ssd/) operates on a PCIe Gen4 x2 interface and supports the NVMe 1.4 protocol, offering remarkable potential sequential read and write speeds reaching up to 3700MB/s and 3400MB/s, respectively. It is offered in 512GB, 1TB, and 2TB storage options. This drive, which functions without a DRAM cache, employs 3D TLC flash memory to ensure a good mix of speed and durability. Engineered for reliability, the Mini SSD boasts a Mean Time Between Failures (MTBF) exceeding 1.5 million hours and a Terabytes Written (TBW) endurance rating as high as 1500 TBW.
 
+![512GB & 1TB Mini SSD](https://droix.net/knowledge-base/wp-content/uploads/2025/10/512GB-1TB-Mini-SSD-1024x576.jpg)
+
 512GB & 1TB Mini SSD
 
 It is crucial, however, to understand the interplay between the GPD WIN 5’s internal hardware and this high-performance drive. The [GPD WIN 5](https://droix.net/product/gpd-win-5/) is equipped with a PCIe 4.0 x1 slot for storage, its performance will be constrained by the single PCIe lane to a theoretical peak of approximately 2000MB/s. In practical terms, users can expect speeds around 1700MB/s for both reading and writing data. Although this is a bottleneck, it represents a vast improvement compared to slower storage types like Micro SD cards and delivers more than sufficient bandwidth for a fluid gaming experience on the GPD WIN 5.
@@ -28,23 +30,31 @@ It is crucial, however, to understand the interplay between the GPD WIN 5’s in
 
 Included with your [GPD WIN 5](https://droix.net/product/gpd-win-5/) is a SIM tool, located within the envelope that holds the user manual, which is used to access the Mini SSD tray.
 
+![Push the SIM tool into the Mini SSD slot hole](https://droix.net/knowledge-base/wp-content/uploads/2025/10/Push-the-SIM-tool-into-the-Mini-SSD-slot-hole-1024x576.jpg)
+
 Push the SIM tool into the Mini SSD slot hole
 
 To begin, ensure the GPD WIN 5 is completely powered down. The slot for the Mini SSD is situated on the lower right-hand side of the device. Find the small aperture on the slot’s right edge, insert the SIM tool, and apply gentle pressure. This action will cause the Mini SSD holder to pop out slightly. You can then pull the holder all the way out of the [GPD WIN 5](https://droix.net/product/gpd-win-5/).
 
 The [Mini SSD](https://droix.net/product/biwin-mini-ssd/) for GPD WIN 5 is designed to fit into the holder in only one specific orientation. Align the small cutout on the top-left corner of the Mini SSD with the corresponding notch on the holder. The drive will then seat correctly inside, as illustrated in the accompanying image.
 
+![The notches on the top left show correct fitting](https://droix.net/knowledge-base/wp-content/uploads/2025/10/The-notches-on-the-top-left-show-correct-fitting-1024x576.jpg)
+
 The notches on the top left show correct fitting
 
-
+![The notches in top left corner](https://droix.net/knowledge-base/wp-content/uploads/2025/10/The-notches-in-top-left-corner-1024x576.jpg)
 
 The notches in top left corner
 
 Slide the Mini SSD holder back into its slot on the GPD WIN 5. The tray is keyed to prevent incorrect insertion, so you should not need to use any force.
 
+![The Mini SSD can only be inserted one way](https://droix.net/knowledge-base/wp-content/uploads/2025/10/The-Mini-SSD-can-only-be-inserted-one-way-1024x576.jpg)
+
 The Mini SSD can only be inserted one way
 
 Confirm that the Mini SSD holder is pushed in completely and sits flush with the casing of the GPD WIN 5.
+
+![The Mini SSD holder should be flush with the GPD WIN 5](https://droix.net/knowledge-base/wp-content/uploads/2025/10/The-Mini-SSD-holder-should-be-flush-with-the-GPD-WIN-5-1024x576.jpg)
 
 The Mini SSD holder should be flush with the GPD WIN 5
 
@@ -54,9 +64,13 @@ You may now power on your GPD WIN 5 and allow it to boot.
 
 Using the Windows search function, enter “Disk Management” and select the “Create and format hard disk partitions” option from the results.
 
+![Search for Disk Manager](https://droix.net/knowledge-base/wp-content/uploads/2025/10/Search-for-Disk-Manager-1024x576.jpg)
+
 Search for Disk Manager
 
 You will need to identify the Mini SSD from the list of storage volumes. Typically, the new drive will appear as “Unallocated,” and its capacity will be a key indicator. Note that the reported size will differ from the advertised capacity (for instance, a 1TB drive will show as 953.85GB, as seen in the example).
+
+![Righ Click on the Mini SSD disk and choose New Simple Volume](https://droix.net/knowledge-base/wp-content/uploads/2025/10/Righ-Click-on-the-Mini-SSD-disk-and-choose-New-Simple-Volume-1024x576.jpg)
 
 Righ Click on the Mini SSD disk and choose New Simple Volume
 
@@ -64,11 +78,15 @@ After confirming you have selected the correct disk, right-click anywhere on its
 
 When choosing the File system, you have the option of NTFS or EXFAT. For portable drives, we suggest EXFAT due to its broad compatibility across different operating systems. You can also assign a custom name to the disk by editing the Volume Label.
 
+![Format Partition Settings](https://droix.net/knowledge-base/wp-content/uploads/2025/10/Format-Partition-Settings-1024x576.jpg)
+
 Format Partition Settings
 
 Proceed through the on-screen prompts, most of which can be left at their default settings. For the Volume size, it is generally best to use the maximum available space. You are free to assign any unused Drive Letter from the drop-down list.
 
 After the formatting process finishes, the Disk Management tool will update to display the newly prepared and accessible drive.
+
+![The Mini SSD is now ready to use](https://droix.net/knowledge-base/wp-content/uploads/2025/10/The-Mini-SSD-is-now-ready-to-use-1024x576.jpg)
 
 The Mini SSD is now ready to use
 

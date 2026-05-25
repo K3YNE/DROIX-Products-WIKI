@@ -25,6 +25,9 @@ Then extract it by **right clicking** the file and clicking **extract**.
 
 When you have done this, go into the folder and double click **update\_all\_firmware**.
 
+![Double click on update_all_firmware
+](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/06/Untitled-1-1024x768.png)
+
 After this, the update should begin and you are on your way to fixing the problem!
 
 This process may take a few minutes, so do not close the window while it is happening.

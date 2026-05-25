@@ -41,6 +41,8 @@ You can also make use of the provided stand and/or VESA mount to improve your ov
 
 And… that’s it! You’re all ready to go! Power on the mini PC and it will boot to the [Windows 11 Pro](https://www.microsoft.com/en-gb/windows/business/windows-11-pro-onward-itdm) setup screen (see *Image* below). Follow the onscreen prompts, which consist of a series of steps to help configure and tailor the UM780 XTX to meet your specific needs. This includes selecting your region, preferred language, keyboard layout, accessibility settings and more. You will also be able to connect to the internet and start downloading the latest updates during the process.
 
+![Windows Setup Screen](https://droix.net/knowledge-base/wp-content/uploads/2023/08/Windows-Setup-Screen.jpg)
+
 Windows Setup Screen
 
 The mini PC may reboot once or twice during the setup process – this is completely normal. Once complete, you will be able to log into Windows.
@@ -121,9 +123,11 @@ BitLocker is a full encryption feature incorporated within Windows OS that is de
 
 This process may take a few hours to decrypt your drive and you may also be required to input your password or PIN (if you have one). You can continue to use your device during this time.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/2-1.png)
+
 2. Select Manage BitLocker
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Untitled-design-1.png)
 
 3. Select Turn off BitLocker
 
@@ -144,6 +148,8 @@ Your new Minisforum UM780 XTX mini PC can do so much already, what more is there
 [NH8 USB Hub with NVME](https://droix.net/product/droix-nh8-nvme-usb-hub/): The NH8 USB Type-C Hub with NVME is a versatile, portable device that extends your device’s connectivity. It includes a variety of ports, including HDMI, USB Type-A, USB Type-C, and SD card readers, providing comprehensive compatibility with a range of peripherals. But its highlight feature is the built-in NVME slot, allowing you to expand your storage with ease.
 
 [15.6″ 4K Portable Monitor](https://droix.net/product/15-6-4k-portable-monitor-with-touchscreen/) | [with Adobe RGB](https://droix.net/product/15-6-4k-portable-monitor-with-adobe-rgb/) | [with Stylus Support](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/): These portable monitors offer a stunning 4K resolution across their 15.6″ display. The monitor comes with touchscreen capabilities and even has an option for Adobe RGB or Stylus support. It is fantastic for artists, note-takers, handwriting enthusiasts and more. It’s the perfect addition as a main or additional monitor for your mini PC. Its slim and lightweight design makes it easy to carry around.
+
+![15.6″ 4K portable monitor with Adobe RGB](https://droix.net/knowledge-base/wp-content/uploads/2023/10/S23_B5-PORTABLE_MONITOR-IMAGE-LISTING-DONE-1.png)
 
 15.6″ 4K portable monitor with Adobe RGB
 

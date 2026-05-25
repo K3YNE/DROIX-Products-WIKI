@@ -25,6 +25,8 @@ Ways to identify your CPU on your device:
   Select **About your PC** from the results.  
   Look under “**Device specifications**” for the Processor entry, which lists your CPU model (e.g., Intel Core i7-10750H).
 
+![Task Manager CPU](https://droix.net/knowledge-base/wp-content/uploads/2025/03/Task-Manager-CPU-1024x576.jpg)
+
 Task Manager CPU
 
 For both devices please ensure the charger is connected at all times during the BIOS and EC firmware update process. Do NOT remove the charge cable.
@@ -37,29 +39,43 @@ This firmware is for the ONEXPLAYER F1 Pro 8840U model. You can download the V1.
 
 Extract the files to your PC, it should look similar to this
 
+![ONEXPLAYER ONEXFly 9940U BIOS update files](https://droix.net/knowledge-base/wp-content/uploads/2025/06/ONEXPLAYER-ONEXFly-9940U-BIOS-update-files.png)
+
 ONEXPLAYER ONEXFly 9940U BIOS update files
 
 Right click on the **01\_F1pro-8840U.bat** file and choose **Run as administrator**. Choose **Yes** to any prompts.
+
+![ONEXPLAYER ONEXFLY F1 Pro BIOS Update](https://droix.net/knowledge-base/wp-content/uploads/2025/06/ONEXPLAYER-ONEXFLY-F1-Pro-BIOS-Update-1024x576.jpg)
 
 ONEXPLAYER ONEXFLY F1 Pro BIOS Update
 
 A command prompt window will appear to notify of the progress. After a few moments the device will reboot.
 
+![ONEXPLAYER ONEXFLY F1 Pro BIOS Update Starting](https://droix.net/knowledge-base/wp-content/uploads/2025/06/ONEXPLAYER-ONEXFLY-F1-Pro-BIOS-Update-Starting-1024x576.jpg)
+
 ONEXPLAYER ONEXFLY F1 Pro BIOS Update Starting
 
 The BIOS upgrade screen will display and inform you of the progress of the BIOS update. This process will take around 5 minutes.
+
+![ONEXPLAYER ONEXFLY F1 Pro BIOS Update In Progress](https://droix.net/knowledge-base/wp-content/uploads/2025/06/ONEXPLAYER-ONEXFLY-F1-Pro-BIOS-Update-In-Progress-1024x576.jpg)
 
 ONEXPLAYER ONEXFLY F1 Pro BIOS Update In Progress
 
 One completed the device will restart and boot after a few moments. Do not switch off the device during this period. Let it boot to Windows. Once back into Windows, right click on the **02\_EC.bat** and select **Run as administrator**.
 
+![ONEXPLAYER ONEXFLY F1 Pro EC Update](https://droix.net/knowledge-base/wp-content/uploads/2025/06/ONEXPLAYER-ONEXFLY-F1-Pro-EC-Update-1024x576.jpg)
+
 ONEXPLAYER ONEXFLY F1 Pro EC Update
 
 After a moment or two, Windows will reboot and enter the EC update process.
 
+![ONEXPLAYER ONEXFLY F1 Pro EC Update In Progress](https://droix.net/knowledge-base/wp-content/uploads/2025/06/ONEXPLAYER-ONEXFLY-F1-Pro-EC-Update-In-Progress-1024x576.jpg)
+
 ONEXPLAYER ONEXFLY F1 Pro EC Update In Progress
 
 This process will take a few minutes to complete and show the progress of the update. Do NOT switch off the device during this process.
+
+![ONEXPLAYER ONEXFLY F1 Pro EC Update Completed](https://droix.net/knowledge-base/wp-content/uploads/2025/06/ONEXPLAYER-ONEXFLY-F1-Pro-EC-Update-Completed-1024x576.jpg)
 
 ONEXPLAYER ONEXFLY F1 Pro EC Update Completed
 
@@ -77,6 +93,8 @@ This firmware is for the ONEXPLAYER F1 Pro HX 365 and HX 370 models. You can dow
 
 Extract the files to your PC and copy all the contents to a freshly formatted FAT32 USB drive.
 
+![ONEXPLAYER F1 Pro firmware update files](https://droix.net/knowledge-base/wp-content/uploads/2025/06/ONEXPLAYER-F1-Pro-firmware-update-files.png)
+
 ONEXPLAYER F1 Pro firmware update files
 
 Ensure your ONEXPLAYER is charged and keep the charge cable connected to ensure there is no power failure during the update process.
@@ -85,17 +103,25 @@ Plug in your USB drive to the USB port on the top of the device. For ease of use
 
 Power on the ONEXPLAYER F1 Pro and press the **DEL** key on the keyboard a few times until the **BIOS Main menu** appears.
 
+![ONEXPLAYER F1 Pro firmware update Main BIOS](https://droix.net/knowledge-base/wp-content/uploads/2025/06/ONEXPLAYER-F1-Pro-firmware-update-Main-BIOS-1024x576.jpg)
+
 ONEXPLAYER F1 Pro firmware update Main BIOS
 
 Press the **Left or Right** keys to navigate to the **Save & Exit menu**. Scroll down to the **Boot Override** option and select the USB drive, it should be the second option. Press the **Enter** key to begin the update process.
+
+![ONEXPLAYER F1 Pro firmware update files Boot Override](https://droix.net/knowledge-base/wp-content/uploads/2025/06/ONEXPLAYER-F1-Pro-firmware-update-files-Boot-Override-1024x576.jpg)
 
 ONEXPLAYER F1 Pro firmware update files Boot Override
 
 The first stage will prepare the firmware update, it will pause for a short period, you can press a key other than ESC to continue or wait until the timer counts down.
 
+![ONEXPLAYER F1 Pro firmware update stage 1](https://droix.net/knowledge-base/wp-content/uploads/2025/06/ONEXPLAYER-F1-Pro-firmware-update-stage-1-1024x576.jpg)
+
 ONEXPLAYER F1 Pro firmware update stage 1
 
 The second stage will show some progress bars a few times.
+
+![ONEXPLAYER F1 Pro firmware update stage 2](https://droix.net/knowledge-base/wp-content/uploads/2025/06/ONEXPLAYER-F1-Pro-firmware-update-stage-2-1024x576.jpg)
 
 ONEXPLAYER F1 Pro firmware update stage 2
 

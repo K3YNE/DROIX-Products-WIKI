@@ -26,6 +26,8 @@ We highly recommend running at least a general PC stress test whenever buying a 
 
 To guarantee accurate results from a performance test, you will need to minimise all other factors that may affect the accuracy and performance of the benchmark results. It’s crucial to establish a baseline with controlled variables, and the best way to do this is to ensure all of your firmware and drivers are up to date. We recommend you complete the following preparatory steps.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/DALL·E-2024-01-08-10.22.15-A-highly-photorealistic-image-of-a-modern-gaming-PC-setup-in-a-chill-and-cool-gamer-themed-room.-The-room-features-subtle-and-tasteful-ambient-lightin-1024x585.png)
+
 ### Update BIOS Version
 
 Your BIOS (Basic Input/Output System) or UEFI system is at the heart of your device. Verifying that your BIOS is up-to-date often fixes issues and improves performance, stability and compatibility. It’s important to note that you should only install stable BIOS updates, as an incorrect or unstable BIOS update can cause serious issues.
@@ -56,9 +58,13 @@ Close all unnecessary software before running to ensure the tests are accurate a
 
 [PCMark](https://benchmarks.ul.com/pcmark10) is the industry standard for benchmarking the complete PC performance. We recommend this benchmark as it tests what real people would be using their devices for in day-to-day life – such as working with large office documents, media playback, image and video rendering and much more. Similar to its graphics rendering counterpart, 3DMark, this benchmark software not only breaks down your test results but also compares them to similar spec devices and hardware to ensure you have a deep but easy understanding of your device’s performance.
 
+![PCMark Benchmark Test](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/PCMark-300x169.jpg)
+
 PCMark
 
 [PassMark](https://www.passmark.com/) is a great alternative if you want to stress out your CPU, GPU, RAM and Storage in one go. Their benchmarks can be run as a whole, or individually if you want to stress something specifically.
+
+![PassMark](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/NUCXi5-NUCXi7-Review-PassMark-Results-300x169.jpg)
 
 PassMark
 
@@ -66,11 +72,15 @@ PassMark
 
 [3DMark](https://benchmarks.ul.com/3dmark) has a long history, being one of the most popular benchmarks for stress testing CPU and GPU for gaming. It’s considered the industry standard for graphics performance measurement. A free version is available for everyone and a paid upgrade features many additional benchmarks to run. Similar to its productivity counterpart, PCMark, you will get kind depth but easy-to-understand benchmark scores and comparison scores to ensure your device is working as intended.
 
+![3DMark](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/3DMark-300x169.jpg)
+
 3DMark
 
 ## CPU Only Tests
 
 [Cinebench](https://www.maxon.net/en/cinebench) is highly recommended for CPU benchmark testing that uses Cinema4D’s rendering engine. It’s quick and simple to set up with little to no configuration – simply choose between running either or both, the single and multi-core tests, each taking around ten minutes.
+
+![Cinebench CPU benchmark](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Cinebench-300x181.jpg)
 
 Cinebench CPU benchmark
 
@@ -80,17 +90,23 @@ Another great alternative is [Prime95](https://www.mersenne.org/download/) which
 
 [FurMark](https://geeks3d.com/furmark/) is an excellent choice for GPU stress testing and benchmarking on Windows devices. It’s a free and lightweight software that conducts intensive and stressful graphics card tests. This is simply the one we recommend. but there are plenty of alternatives available if needed.
 
+![FurMark GPU benchmark](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/FurMark-300x169.jpg)
+
 FurMark GPU benchmark
 
 ## Memory **Only Te**s**ts**
 
 The original benchmark for memory diagnostics is [MemTest86](https://www.memtest86.com/) and is still the best for testing your RAM. It does require you to make a USB boot drive and run the software from there. But it is worthwhile if you want to test your RAM accurately.
 
+![Memtest86](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Memtest86_v83p-300x233.png)
+
 Memtest86
 
 ## Storage Only Tests
 
 [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) is a free-to-use and extremely simple software to use for testing the performance of your SSD. This software benchmarks across multiple different tests to provide the read and write speed of your storage device.
+
+![CrystalDiskMark](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/CrystalDiskMark-300x215.jpg)
 
 CrystalDiskMark
 

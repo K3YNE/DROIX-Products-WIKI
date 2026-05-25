@@ -17,9 +17,13 @@ Windows OS is regularly updated with fixes, improvements, and new features. We h
 
 In the search bar, type **“Check for updates”** (Step 1), and then select **“Best match – Check for updates”** (Step 2).
 
+![Check for Windows Updates](https://gpdstore.net/wp-content/uploads/2024/09/Check-for-Windows-Updates-1-1200x675.jpg)
+
 Check for Windows Updates
 
 Once on the updates screen, click on **“Check for updates”** and wait while it checks for any available updates.
+
+![Download and install updates](https://gpdstore.net/wp-content/uploads/2024/09/Check-for-Windows-Updates-2-1200x675.jpg)
 
 Download and install updates
 

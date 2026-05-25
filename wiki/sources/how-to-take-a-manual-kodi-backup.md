@@ -22,4 +22,4 @@ Open the ES File Explorer application on your device and expand the LOCAL menu. 
 
 Copy and paste these two directories to a new location, if you use a USB device or memory card, the backup will remain in place even if you need to factory reset in the future.
 
-To double check it works, you could install Kodi on a phone/tablet/PC/Mac , NOT configure it, close Kodi down. Then “restore” (copy and paste back place) the backup you made above to your non-DROIX device, and see if the set up is transferred OK. If it does, you should be reasonably confident that your backup is functioning and will work on your DROIX (without having to actually wipe your DROIX’s Kodi install first!).
+To double check it works, you could install Kodi on a phone/tablet/PC/Mac , NOT configure it, close Kodi down. Then “restore” (copy and paste back place) the backup you made above to your non-DROIX® device, and see if the set up is transferred OK. If it does, you should be reasonably confident that your backup is functioning and will work on your DROIX® (without having to actually wipe your DROIX®’s Kodi install first!).

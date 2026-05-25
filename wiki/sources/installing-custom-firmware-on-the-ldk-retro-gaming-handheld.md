@@ -25,7 +25,11 @@ Custom Firmware with software installed – Download **[here](https://rs97.bitga
 
 On the back of the LDK, remove the battery cover.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/SD-Card-Remove-1-300x169.jpg)
+
 You can now remove the battery to reveal the Micro SD Card.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/SD-Card-Remove-2-300x169.jpg)
 
 You can now gently remove the Micro SD Card from the slot.
 
@@ -35,13 +39,23 @@ Insert your Micro SD Card into your PC and load Mini Tool Partition Wizard.
 
 Identify and double check that you can see the Micro SD Card and then select it by clicking on the text for the card to select all of the card.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Mini-Tool-1-300x225.jpg)
+
 Right Click on the same area and choose **Delete All Partitions**
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Mini-Tool-2-300x225.jpg)
 
 Right Click on the **Unallocated Space** area and choose **Create** from the menu.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Mini-Tool-3-300x225.jpg)
+
 Select the drop down menu for **File System** and choose **FAT32**, then click on **OK**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Mini-Tool-4-300x269.jpg)
+
 Click on **Apply** to begin deleting the partitions and format the Micro SD Card.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Mini-Tool-5-300x225.jpg)
 
 Once it has completed you are ready to write the custom firmware.
 
@@ -55,7 +69,11 @@ Load the Win32 DiskImager program and choose the first drive (Device) for your S
 
 Click on the small blue folder icon and select the .img file that you have extracted
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Win32DI-1-300x209.jpg)
+
 Double and triple check that you have selected the correct drive for the Micro SD Card and that you have prepared and chosen the correct image file. Once checked, press **Write** to begin writing the image file.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Win32DI-2-300x209.jpg)
 
 The process should take around up to 15 minutes depending on the speed of the Micro SD card and your PC.
 
@@ -69,9 +87,15 @@ Load the Mini Tool Partition Wizard software. You will now see that there five p
 
 We now want to expand the partition named ‘**main**’ to use the remaining available space. Right click on the ‘main’ partition and choose **Extend**
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/minidisk-6-300x225.jpg)
+
 Drag the slider all the way to the right to fully allocate all the space to the ‘main’ partition. Click on **OK**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/minidisk-7-300x164.jpg)
+
 Click on Apply in the top left to start allocating the free space to the ‘**main**’ partition. This may take some time depending on the size of your MicroSD Card
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/minidisk-8-300x266.jpg)
 
 Once complete, you can now exit the Mini Tool Partition Wizard software.
 
@@ -85,11 +109,19 @@ If you are using the internal Micro SD card you will need to copy the files to a
 
 Choose the last USB Device on your list, it should have a **retrofw** icon. You should see the contents of it similar to below. You can copy any files to the **roms** folder.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/sd-card-1-300x138.jpg)
+
 If you can not see this drive, load Mini Tool Partition Wizard, Right Click on the **RETROFW** area and choose **Change Letter** from the menu.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Mini-Tool-6-300x225.jpg)
 
 You can choose any available drive letter from the drop down menu. Click on **OK** once chosen.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Mini-Tool-7-300x147.jpg)
+
 Click on **Apply**.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Mini-Tool-8-300x225.jpg)
 
 **External Micro SD Card Only**
 
@@ -98,6 +130,8 @@ If you have not already, format your Micro SD card to **FAT32**. Insert the Micr
 ### **Copying files**
 
 We recommend keeping an organised folder structure if you are planning to add many games. By making folders for each system it allows for easier finding of games and also faster loading times. Make a folder for each of the systems you plan to add games for.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/sd-card-2-300x75.jpg)
 
 If you have a large number of games for a system, you can organise it further into sub-folders such as A-F, G-L, M-S, T-Z. This makes it faster to load the list of games, and also saves time for you scrolling to get to a game beginning with R for example.
 
@@ -108,3 +142,5 @@ Once you are done copying over your files, you can insert the Micro SD Card into
 Reinsert the battery into the battery compartment and then put the battery compartment lid back into place.
 
 Switch on your LDK and after a few moments it should boot to the custom firmware.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Retro-FW-300x169.jpg)

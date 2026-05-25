@@ -32,11 +32,15 @@ We will take a few moments first to go over the main software where you can set 
 
 ### Controller
 
+![Handheld Companion Controller](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Handheld-Companion-Controller-1024x576.jpg)
+
 Handheld Companion Controller
 
 Some handhelds identify as OEM controllers which can have compatibility issues with some games either not being recognised at all or incorrectly configured. From here you can change the identity of your handheld controller to for example a Xbox 360 or a PlayStation DualShock 4 controller.
 
 ### Profiles
+
+![Handheld Companion Profiles](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Handheld-Companion-Profiles-1024x576.jpg)
 
 Handheld Companion Profiles
 
@@ -44,11 +48,15 @@ The profiles tab lets you set up different profiles which is very handy to have.
 
 ### Overlay
 
+![Handheld Companion Overlay](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Handheld-Companion-Overlay-1024x576.jpg)
+
 Handheld Companion Overlay
 
 The overlay is an onscreen display of performance metrics showing varying levels of CPU, GPU, TDP and Battery information. This is useful for benchmarking, or simply setting up your game for the best graphics levels to run at 60 FPS for example. You can change the position of the data on the screen, the size and colours amongst others.
 
 ### Hotkeys
+
+![Handheld Companion Hotkeys](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Handheld-Companion-Hotkeys-1024x576.jpg)
 
 Handheld Companion Hotkeys
 
@@ -60,11 +68,15 @@ The Hotkeys settings allow you to configure a variety of different button combin
 
 While you are in a game or emulator, if you have enabled the performance metrics display you will see them on screen. Along the bottom of the overlay are four icons for the Settings, Power, Profile and Task Manager.
 
+![Handheld Companion System Info](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Handheld-Companion-System-Info-1024x576.jpg)
+
 Handheld Companion Performance Metrics
 
 ### Quick Settings
 
 The power icon gets you quick access to a bunch of commonly used functions such as the display level of the on-screen stats, changing the display resolution, fan settings and power mode.
+
+![Handheld Companion Overlay ](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Handheld-Companion-Overlay-1-1024x576.jpg)
 
 Handheld Companion Overlay
 
@@ -74,9 +86,13 @@ The most useful is the profile icon where you can adjust various power-related s
 
 The auto TDP is especially useful for saving battery life as we will show. For example, we are playing Forza Horizon 5 on the AYA NEO 2S and the frame rate is around 90+ FPS and the TDP around 28W. We don’t need to go above 60 FPS, the TDP is set too high and is wasting battery life
 
+![Handheld Companion Overlay](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Handheld-Companion-Overlay-2-1024x576.jpg)
+
 Handheld Companion Overlay
 
 By enabling the automatic TDP and setting the frame rate to 60 FPS. The game will now target a 60 FPS rate and automatically adjust the power demand based on that. We can now see the TDP at around 11W compared to around 28W previously. It is not 100% perfect and you may see some dips below 60 FPS now and again but it’s often barely noticeable unless you have the FPS counter on screen.
+
+![Handheld Companion Auto TDP Enabled](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Handheld-Companion-Auto-TDP-Enabled-1024x576.jpg)
 
 Handheld Companion Auto TDP Enabled
 
@@ -86,11 +102,15 @@ The game does need to be configured to run above 60 FPS beforehand, it won’t m
 
 More games are taking advantage of motion control and not forgetting emulators as well. Most Windows handhelds have a built-in gyroscope which is often overlooked as it can be a bit of a pain to set up and get it working. The Handheld controller software makes this process extremely easy now.
 
+![Handheld Companion Motion Control Setup](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Handheld-Companion-Motion-Control-1-1024x576.jpg)
+
 Handheld Companion Motion Control Setup
 
 We will use the [YuZu emulator](https://yuzu-emu.org/) as an example. To enable motion controls, simply start the service in the main Handheld Companion software. Then in the Yuzu emulator go to the Input setup and define all your controls. At the bottom is a Motion setting, select that and then shake your handheld. You will see the setting update to “cemuhookudp”.
 
 Now load a motion control-compatible game and you will now be able to use your controller for motion input. If it’s not working, check the game settings in case you need to enable it.
+
+![Handheld Companion Motion Control on Yuzu](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Handheld-Companion-Motion-Control-2-1024x576.jpg)
 
 Handheld Companion Motion Control on Yuzu
 

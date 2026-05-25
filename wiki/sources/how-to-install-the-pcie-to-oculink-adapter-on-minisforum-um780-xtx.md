@@ -16,29 +16,43 @@ This guide will show the process to install the PCIe to Oculink adapter board on
 
 Remove the top lid, it is held with magnets and will come off with little force.
 
+![Remove the lid](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Minisforum-UM780-XTX-Install-Oculink-adapter-1-1024x576.jpg)
+
 Remove the lid
 
 There are four screws in the corner which hold the LED component in place, remove these screws.
+
+![Remove the four screws](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Minisforum-UM780-XTX-Install-Oculink-adapter-2-1024x576.jpg)
 
 Remove the four screws
 
 You can now carefully lift the LED component out of the case. There is a short cable as indicated below which you will need to disconnect.
 
+![Lift out the LED component, disconnect the short cable](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Minisforum-UM780-XTX-Install-Oculink-adapter-3-1024x576.jpg)
+
 Lift out the LED component, disconnect the short cable
 
 Move the LED component to one side, you shouldn’t need to remove the other cables.
+
+![You shouldn't need to remove the other cables](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Minisforum-UM780-XTX-Install-Oculink-adapter-4-1024x576.jpg)
 
 You shouldn’t need to remove the other cables
 
 Unscrew the screw indicated below, this screw will keep the PCIe to Oculink adapter secure.
 
+![Unscrew the PCIe screw](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Minisforum-UM780-XTX-Install-Oculink-adapter-5-1024x576.jpg)
+
 Unscrew the PCIe screw
 
 Insert the PCIe to OcuLink adapter into the [PCIe slot](https://www.intel.com/content/www/us/en/gaming/resources/what-is-pcie-4-and-why-does-it-matter.html). It can only go in one way into the slot.
 
+![Insert the adapter](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Minisforum-UM780-XTX-Install-Oculink-adapter-6-1024x576.jpg)
+
 Insert the adapter
 
 Fit the PCIe screw back to keep the adapter secure
+
+![Fit the PCIe screw back to keep the adapter secure](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Minisforum-UM780-XTX-Install-Oculink-adapter-7-1024x576.jpg)
 
 Fit the PCIe screw back to keep the adapter secure
 

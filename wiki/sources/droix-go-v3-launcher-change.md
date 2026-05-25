@@ -12,7 +12,7 @@ updated: 2026-04-22
 tags: [kb-article, droix]
 ---
 
-If you have a [Go v3 projector](https://droix.co.uk/droix-go-v3-android-lollipop-mini-pico-led-handheld-pocket-dlp-air-projector-s905.html?utm_campaign=DROIX+Website&utm_source=Top+Banner+Desktop&utm_medium=GoV3+Projector) and want to use an HDMI cable to connect your laptop/console, this post has the details for you.  
+If you have a [Go v3 projector](https://droidbox.co.uk/droidbox-go-v3-android-lollipop-mini-pico-led-handheld-pocket-dlp-air-projector-s905.html?utm_campaign=DroidBOX+Website&utm_source=Top+Banner+Desktop&utm_medium=GoV3+Projector) and want to use an HDMI cable to connect your laptop/console, this post has the details for you.  
 If you have not already tried this launcher, please install it from the DROIX Market.  
   
 With this launcher, (which keeps access to all the other DROIX applications still) we have an alternative launcher for access to HDMI In selection.  
@@ -20,17 +20,40 @@ It will continue to allow access to the DROIX launcher for people who prefer the
 
 To use the DROIX Market, open the application drawer (a circle with six dots), click on the DROIX Market entry, then scroll down to Utilities and click on. Scroll across and open the Launchers area, then open the “Go v3 Alternative Launcher” entry. Select install and follow the on screen instructions. At the very end, once installed, press the home button.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DBxMarketLauncherInstall1-300x162.png)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DBxMarketLauncherInstall2-1-300x164.png)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DBxMarketLauncherInstall3-1-300x165.png)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DBxMarketLauncherInstall4-1-300x104.png)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DBxMarketLauncherInstall5-1-300x165.png)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DBxMarketLauncherInstall6-1-300x163.png)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DBxMarketLauncherInstall7-1-300x162.png)
+
 Once the launcher has installed, you can press the home button to try out each launcher in turn.
 
 When you see this sort of option, until you’re certain which launcher you’d like to use, select the Just Once option.
 
+![DROIX V3 Projector Launcher Selection Just Once](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Screenshot_2017-06-29-09-54-22-1-300x169.png)
+
 Until you select the Always option, each time you press the home button on your remote control, you’ll be asked to confirm which one to use.
+
+![DROIX V3 Projector Launcher Selection Switch](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Screenshot_2017-06-29-09-54-28-300x169.png)
 
 #### How To Change The Launcher
 
 If you accidentally click the Always button and want to swap launchers again, the Settings icon from your launcher’s homescreen (both launchers have this shortcut). From here, we need to go to “Home” (in the Device section) entry, please click it. If you can’t see this entry, scroll down, look for More Settings and click that first.
 
+![DROIX V3 Projector Android Settings](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Screenshot_2017-06-29-09-54-44-1-300x169.png)  
+![DROIX V3 Projector Launcher Possible Other Settings To See](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Screenshot_2017-06-29-09-54-37-1-300x169.png)
+
 Finally (your screen may show something slightly different), select the launcher you want to use instead of the current one, and return to the previous screen. Now press the home button to test everything has turned out well.
+
+![DROIX V3 Projector Launcher Selection In Settings](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Screenshot_2017-06-29-09-54-49-1-300x169.png)
 
 In terms of the DROIX launcher, from the left we have the time and date (if the internet is connected). Click the area to the right if you’d like weather reports. The six dots in a circle is the standard Android icon for the list of all applications installed – the app drawer.
 

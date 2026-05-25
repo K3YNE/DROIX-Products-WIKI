@@ -14,12 +14,14 @@ tags: [kb-article, droix]
 
 This is a screenshot of a typical T8 and T8-S launcher homescreen…
 
+![upload_2015-5-27_20-58-44](https://droix.net/wp-content/uploads/2015/12/upload_2015-5-27_20-58-44-1024x587.png)
+
 There are some extra shortcuts on the right and you’ve probably got the buttons at the very bottom hidden, but other than that (working from left to right, splitting into thirds):
 
 #### Left section
 
 Top left is obvious in terms of time and date. Click the area to the right if you’d like weather reports.  
-Below that we have DROIX Share (T8-S has this insstalled) and the blue swirly icon is for the Flix Universe app.  
+Below that we have DroidBOX® Share (T8-S has this insstalled) and the blue swirly icon is for the Flix Universe app.  
 Bottom left is the free RAM available, click it to free up some when possible  
 The six dots in a circle is the standard Android icon for the list of all applications installed.
 

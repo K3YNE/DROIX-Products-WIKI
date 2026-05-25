@@ -30,6 +30,8 @@ When setting up your Anbernic device, it’s important to ensure you have all th
 * 1x [MicroSD Card](https://droix.net/product-attribute/storage-technology/micro-sd/) (Storage)
 * 1x User Manual
 
+![RG405V accessories](https://droix.net/knowledge-base/wp-content/uploads/2023/11/RG405V-accessories-edited-1.webp)
+
 ## Device Overview
 
 The Anbernic RG405V runs [Android 12](https://droix.net/product-attribute/operating-system/android-12/), all whilst powered by the [UNISOC Tiger T618](https://droix.net/product-attribute/processor-cpu-model/tiger-t618/) processor and [Mali-G52 MP2](https://droix.net/product-attribute/graphics-gpu-model/g52-mp2/) GPU. Along with 4GB [LPDDR4X](https://droix.net/product-attribute/memory-ram-technology/lpddr4x/) RAM, this device provides a very good emulator performance. The Anbernic RG405V features many buttons and connectors, all of which are promptly labelled in the user manual. Notable ones include:
@@ -40,6 +42,8 @@ The Anbernic RG405V runs [Android 12](https://droix.net/product-attribute/operat
 4. Home Button: This takes you to the home screen, located in the middle of the device’s front.
 5. 3.5mm Headphone Jack: for wired headphone support, located at the bottom of the device
 6. Power Button: power on/off device, located on the right side of the RG405V.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/RG405V-overview-PhotoRoom.jpg)
 
 1. Anbernic RG405V Overview
 
@@ -81,13 +85,15 @@ Your [Android OS](https://www.android.com/) may look slightly different dependin
 
 Your Android control centre (or control panel) can be accessed by sliding down from the top of the screen, similar to how you would on a smartphone (refer to *Image 1* below). Swipe down again to expand the control panel if needed (refer to *Images 2 & 3* below). From here you can easily and quickly access and modify device options such as WiFi, Bluetooth, Mode Control, button keymapping and more.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Home-Screen-1.png)
+
 1. Home Screen
 
-
+![Control Panel Swipe](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Control-Panel-1.1.png)
 
 2. Control Panel
 
-
+![Control Panel Expanded](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Control-Panel-2.png)
 
 3. Expanded Control Panel
 
@@ -95,13 +101,15 @@ Your Android control centre (or control panel) can be accessed by sliding down f
 
 To access and connect Network settings, open the control centre and hold you’re finger on the WiFi option (refer to *Image 1* below). This will open the WiFi menu and show all the different available network connections. Simply select your desired network, and enter the password (refer to *Images 2 & 3* below respectively).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/WiFi-0.png)
+
 1. Control Panel
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/WiFi-1.png)
 
 2. Available Networks
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/WiFi-2.png)
 
 3. Enter Network Password
 
@@ -113,13 +121,15 @@ To quickly start playing games on your Anbernic device with minimal setup, simpl
 
 Alternatively, you can open the control centre, like before (refer to *Image 1* below). Once open, there will be the option that has the Anbernic RG icon and is labelled either ‘Normal’ or ‘Game Mode’ (refer to *Images 2 & 3* below). Tapping this will also open/close the RG Launcher.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Home-Screen-1.png)
+
 1. Swipe Down
 
-
+![Control Panel Swipe](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Control-Panel-1.1.png)
 
 2. Control Panel
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Control-Panel-3.png)
 
 3. Extended Control Panel
 
@@ -133,33 +143,35 @@ To do this, select ‘Add directory’ and a new window will open. Here, tap the
 
 After selecting the folder, press ‘Use this folder’ at the bottom of the screen. This will cause a pop-up asking for access to the device. Select ‘Allow Access’ and the emulator will then begin scanning the folder for compatible games. Once complete, the games should appear in the emulator’s menu, ready for you to play!
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-0.png)
+
 1. Open Emulator
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-1.png)
 
 2. Select ‘Add To Directory’
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-2.png)
 
 3. Tap ‘Navigation Icon’
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-3.png)
 
 4. Select Storage Device
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-4.png)
 
 5. Locate & open games folder
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-5.png)
 
 6. Select ‘Use This Folder’
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-6.png)
 
 7. Allow access
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-7.png)
 
 8. Game should appear
 

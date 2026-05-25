@@ -34,6 +34,8 @@ Inside the box, you should find:
 * 1x AV Cable
 * 1x User Manual
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Whats-In-the-Box-1.jpg)
+
 Inside the BudPlus S3 Box
 
 ## What To Do?
@@ -43,6 +45,8 @@ Ensure the BudPlus S3 Projector is positioned on a secure, stable surface to mai
 The remote requires 2x AAA batteries, which are *NOT* included.
 
 Your BudPlus S3 Projector boasts two built-in JBL-level speakers and is ready to be used out of the box. However, the BudPlus S3 Projector offers multiple ways to connect your devices to the Projector. You can use the HDMI and AV ports for wired connections, or take advantage of the wireless alternatives with *[Bluetooth 5.0](https://www.whathifi.com/advice/bluetooth-5-everything-you-need-to-know)* and dual-band [Wi-Fi 6](https://www.tomsguide.com/us/wifi-6-explained,news-28274.html) connectivity. We’ll dive deeper into these topics later.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/BudPlus3-Projector-Ports.jpg)
 
 BudPlus3 Projector Ports
 
@@ -57,9 +61,11 @@ To access the BudPlus S3 Proejector’s Settings menu:
 1. Go to the *Settings* tab.
 2. Select *Settings*.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Settings-Tab-1-scaled.jpg)
+
 1. Settings Tab
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Settings-Button-1-scaled.jpg)
 
 2. Select Settings
 
@@ -78,13 +84,15 @@ To turn on Auto Focus:
 5. Turn on *Power on Auto Focus*.
 6. Turn on *Auto Focus*.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Projection-Settings-3-scaled.jpg)
+
 3. Select Projection Settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Projection-Settings-2-2-scaled.jpg)
 
 4. Select Focus Settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Auro-Focus-Settings-1-scaled.jpg)
 
 5. Turn on Power on & Auto Focus
 
@@ -95,9 +103,11 @@ In the case where the projector doesn’t automatically recognise the projected 
 1. Using the autofocus button on the remote.
 2. Manually adjusting the image focus on the remote.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Auto-Focus-Button-1.jpg)
+
 1. Force Auto Focus Button
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Manual-Focus-Buttons-1.jpg)
 
 2. Manual Focus Adjustment Buttons
 
@@ -114,13 +124,15 @@ To turn on Keystone Correction:
 5. Turn on *Power on Automatic Correction*.
 6. Turn on *Auto Keystone*.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Projection-Settings-1-scaled.jpg)
+
 3. Select Projection Settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Projection-Settings-2-1-scaled.jpg)
 
 4. Select Keystone Settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Keystone-Settings-1-scaled.jpg)
 
 5. Turn on Power on & Auto Keystone
 
@@ -135,9 +147,11 @@ To connect to Wi-Fi:
 3. Go to *Network Settings*.
 4. Connect to your *Wi-Fi*.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Network-Settings-1-scaled.jpg)
+
 3. Select Network Settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Wi-Fi-Settings-1-scaled.jpg)
 
 4. Connect to Wi-Fi
 
@@ -152,9 +166,11 @@ To connect via Bluetooth:
 3. Go to *Bluetooth Settings*.
 4. Connect to your *Bluetooth* Device.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Bluetooth-Settings-scaled.jpg)
+
 3. Select Bluetooth Settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Bluetooth-Settings-2-scaled.jpg)
 
 4. Connect to Bluetooth Device
 
@@ -169,9 +185,11 @@ To change your language settings:
 3. Go to *Language and Input Method*.
 4. Select your Language and Keyboard settings.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Language-Settings-scaled.jpg)
+
 3. Select Language and Input Method
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Change-Language-scaled.jpg)
 
 4. Select Language or Keyboard settings
 
@@ -215,13 +233,15 @@ To change the boot settings:
 5. Go to *Boot App* (open app at startup).
    1. Select App.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Other-Settings-scaled.jpg)
+
 3. Select Other Settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Boot-Signal-Input-scaled.jpg)
 
 4. Select Boot Signal Input
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Boot-App-scaled.jpg)
 
 5. Select Boot App
 
@@ -239,13 +259,15 @@ To restore your BudPlus S3 to factory settings:
 4. Select *Restore Factory Settings*.
 5. Follow the onscreen instructions.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Other-Settings-1-scaled.jpg)
+
 3. Select Other Settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Restore-Factory-Settings-scaled.jpg)
 
 4. Select Restore Factory Settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Restore-Factory-Settings-2-scaled.jpg)
 
 5. Select OK
 
@@ -287,17 +309,19 @@ At the time of writing, the version was *v3.0.58*. To ensure you have the latest
 4. Go to *Upgrade*.
 5. Select *Check for Upgrade*.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/App-Tab-scaled.jpg)
+
 2. Open App Store
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/App-Store-Menu-scaled.jpg)
 
 3. Go to Settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/App-Store-Upgrade-scaled.jpg)
 
 4. Select Upgrade
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/App-Store-Upgrade-2-scaled.jpg)
 
 5. Select Check for Upgrade
 
@@ -312,6 +336,8 @@ It’s incredible, right? Your new projector can do so much already, what more i
 ### Input Devices
 
 [*G30 Air-Mouse with Voice Control*](https://droix.net/product/g30-wireless-air-mouse/): Elevate your BudPlus S3 experience with the G30 Air-Mouse – a must-have accessory for enhanced navigation and convenience. This versatile remote offers precise and responsive control, eliminating the need to stay close to your projector. Whether you’re browsing or delivering presentations, the G30’s wireless cursor navigation ensures seamless interaction, with a range of up to 10 meters. The G30 Air-Mouse even support voice commands, offering effortless, hands-free controls on compatible voice-enabled applications such as YouTube and more. Elevate your control and convenience with the G30 air mouse, designed to enhance your overall entertainment and productivity.
+
+![G30 Air-Mouse with Voice Control](https://droix.net/knowledge-base/wp-content/uploads/2023/10/G30.png)
 
 G30 Air-Mouse with Voice Control
 

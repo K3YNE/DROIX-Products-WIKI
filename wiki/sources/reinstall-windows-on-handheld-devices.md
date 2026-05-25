@@ -28,23 +28,38 @@ For this section you will need:
 
 The first step is to download the Windows 11 [Media Creation Tool](https://www.microsoft.com/en-gb/software-download/windows11). While we can use Windows 11 Installation Assistant to install Windows 11 on your device, in this guide we’re going to Create Windows 11 Installation Media. So go ahead and click ‘Download Now’ underneath the Create Windows 11 Installation Media.
 
+![Windows 11 installation tool](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-3-1024x459.png)
+
 Windows 11 installation tool
 
 Once it has completed downloading, find the program where you downloaded it. It will be called ‘mediacreationtool’. Double-click to run the application. Enter your administrator details, if you do not know them then ask the administrator of your device to enter them, and click yes.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-4.png)
+
 The program will load the Notices and License terms. Read through them and if you wish to click ‘Accept’. You are now able to begin to create a bootable device.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-5.png)
 
 You will be asked to select your language and edition of Windows 11 to create installation media. If you wish to change your language and edition from the auto-selected option uncheck ‘Use the recommended options for this PC’ and make any changes you wish to. Once you’re happy with your choices click on ‘Next’.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-6.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-05-161414.png)
 
 Ensure that you are flashing to a USB Drive and not an ISO file.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-8.png)
+
 If you haven’t already, plug the USB device you wish to use into your handheld. If your handheld does not have a USB Port and/or you don’t have a [USB-C](https://uk.pcmag.com/laptop-how-to/40348/what-is-usb-c-an-explainer) flash drive you will need to use a USB Dock to add the necessary port to the device. Once you can see the Removable drive, click ‘Next’.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-9.png)
 
 The program will then download Windows 11 before flashing it to your USB drive. Feel free to make a cup of coffee or continue using your handheld.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-10.png)
+
 It will create the media using the downloaded copy. Let it do its thing.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-11.png)
 
 Once the installation media has been created and it says ‘Your USB flash drive is ready’ you can click ‘Finish’ and reboot. We will be booting from the drive. This will be different for most devices, so we’ll go through a few of them. If your device is not explained refer to its manual, or try one of these methods chances are it will work.
 
@@ -55,17 +70,28 @@ Once the installation media has been created and it says ‘Your USB flash drive
 
 Once you are in the boot menu, select the USB and boot into it. Once it has loaded, you can select your preferred language, time & currency format and keyboard of your choice.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-05-16h59m22s247-1024x576.jpg)
+
 Click on ‘Install Now’ and accept the Terms and Conditions.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-05-17h00m05s148-1024x576.jpg)
 
 Click on Custom Install. Then select your System Disk, this will be the largest partition on your handheld. Click ‘Format’ and then ‘OK’. Once that has been completed click ‘Next’.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/06/vlcsnap-2023-06-05-17h01m50s778-1024x576.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/06/vlcsnap-2023-06-05-17h02m11s731-1024x576.jpg)
 
 Windows will install, let it do its thing. Once it has been completed it will automatically restart your handheld.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-05-17h03m35s426-1024x576.jpg)
+
 Your system will boot into your Windows installation, and begin to set up the OS. Some devices will display this portion in portrait as opposed to the expected landscape. This is okay, simply continue with the device in a portrait orientation. Go through the installation process entering your preferred settings.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-05-17h06m13s730-1024x576.jpg)
+
 Let the handheld finish setting up. When it is done it will boot into Windows. From here, if you need to, you can right-click and click on Display Settings. From here you can scroll down and change the Display Orientation to ‘Landscape’ to match the device. Congratulations you have successfully installed a fresh copy of Windows on your device.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-05-17h06m44s432-1024x576.jpg)
 
 ## Installing Drivers
 
@@ -93,9 +119,13 @@ This portion of the guide will cover all [Ayaneo devices](https://droix.net/prod
 
 On your device, download the requisite drivers for your handheld. They are available [here](https://store.ayaneo.com/support/download). Each driver package is labelled for the device it is made for. Simply find and download ALL of the ones that apply to your device.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-12-1024x460.png)
+
 For each driver, except AMD drivers, unzip and follow the install process. For the AMD drivers, the Download link will take you to the AMD website. From here you can [download](https://www.amd.com/en/support) Windows drivers to automatically detect which components you have and install the correct drivers.
 
 Once you have installed all of the drivers, to ensure that they are all correctly installed go into Device Manager and check under each category. If there aren’t any unknown devices then all of the drivers have been installed successfully. If not, then ensure that you have downloaded and installed the driver for that component. If there are still any issues reach out to DROIX customer support.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-13.png)
 
 Once that is done and there are no unknown devices, you have finished the process and are free to game at your pleasure on your Ayaneo device.
 
@@ -107,7 +137,8 @@ Once you’re into Windows on your handheld, head over to the drivers’ website
 
 Once expanded find Install.bat within each folder and install the driver. There may be a similar install file such as ‘Setup.exe’ depending on the driver and the device. Be sure to install all available drivers for your device.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/06/image-15.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-14-1024x636.png)
 
 Once you have successfully installed all drivers, the device is ready to use and you can get to gaming!
 

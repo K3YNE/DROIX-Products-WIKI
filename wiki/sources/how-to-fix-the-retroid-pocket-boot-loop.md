@@ -14,9 +14,11 @@ tags: [kb-article, retroid, troubleshooting]
 
 If your Retroid [retro gaming handheld](https://droix.net/product-category/handhelds/retro-gaming-handheld/) is stuck in a boot loop, continuously restarting without fully booting up, or seemingly has a dead battery, it can be frustrating and may seem difficult to fix. However, we have discovered a method that often resolves this issue. This guide will walk you through the steps to troubleshoot and fix a Retroid device stuck in a boot loop, specifically targeting the [Retroid Pocket 3+](https://droix.net/product/retroid-pocket-3-plus/) and [Pocket Flip](https://droix.net/product/retroid-pocket-flip/) devices.
 
+![Retroid Pocket 3+](https://droix.net/knowledge-base/wp-content/uploads/2024/02/RETROID-POCKET-3P-METAL-DONE-LISTING-IMAGE-2-Photoroom.png-Photoroom.png)
+
 Retroid Pocket 3+
 
-
+![Retroid Pocket Flip](https://droix.net/knowledge-base/wp-content/uploads/2024/02/POCKET-FLIP-WATERMELON-DONE-LISTING-IMAGE-1-1.png)
 
 Retroid Pocket Flip
 

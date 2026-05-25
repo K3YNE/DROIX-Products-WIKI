@@ -34,21 +34,27 @@ If you encounter any other issues with your docking station, refer to our [getti
 
 The first step in updating your GPD G1 eGPU is preparing a USB drive for BIOS flashing. Be aware that formatting the USB will erase all its contents, so it’s recommended to use an empty USB or one without important data. After connecting the USB to your PC, open File Explorer, right-click the USB drive, and select the ‘Format’ option (see Images 1 & 2 below). Note that the name of your USB drive may vary depending on its brand, model, or any previous renaming.
 
+![1. Right click USB device
+](https://gpdstore.net/wp-content/uploads/2024/09/Reformatting-USB-1-1200x675.jpg)
+
 1. Right click USB device
 
-
+![2. Select ‘format’
+](https://gpdstore.net/wp-content/uploads/2024/09/Reformatting-USB-2-1200x675.jpg)
 
 2. Select ‘format’
 
 When the format window appears, set the ‘File system’ to NTFS, FAT32, or FAT16, then press ‘Start’ to begin the formatting process (refer to Image 3 below). You will be warned that all data on the USB will be erased—select ‘OK’ (see Image 4 below) to proceed. The USB will then begin formatting. Once complete, a notification window will confirm the successful format (see Image 5 below).
 
+![3. USB formatting menu](https://gpdstore.net/wp-content/uploads/2024/09/Reformatting-USB-3-1200x675.jpg)
+
 3. USB formatting menu
 
-
+![4. Warning message](https://gpdstore.net/wp-content/uploads/2024/09/Reformatting-USB-4-1200x675.jpg)
 
 4. Warning message
 
-
+![5. Formatting complete](https://gpdstore.net/wp-content/uploads/2024/09/Reformatting-USB-5-1200x675.jpg)
 
 5. Formatting complete
 
@@ -68,13 +74,16 @@ The next step is to download and install the latest firmware and drivers, specif
 
 Be sure to save the firmware and driver files to your USB drive. After downloading, you may need to unzip the folders. To do this, right-click the folder and select ‘Extract All’ (refer to Image 1 below). A window will appear asking where to extract the folder—simply proceed without making any changes and let the process finish (see Images 2 & 3 below).
 
+![1. Extract folder
+](https://gpdstore.net/wp-content/uploads/2024/09/Download-vBIOS-files-1-1200x675.jpg)
+
 1. Extract folder
 
-
+![2. Select ‘extract’](https://gpdstore.net/wp-content/uploads/2024/09/Download-vBIOS-files-2-1200x675.jpg)
 
 2. Select ‘extract’
 
-
+![3. Extraction complete](https://gpdstore.net/wp-content/uploads/2024/09/Download-vBIOS-files-3-1200x675.jpg)
 
 3. Extraction complete
 
@@ -86,21 +95,23 @@ To begin the vBIOS installation, navigate to your vBIOS folder and run the file 
 
 After launching the file, the setup window will appear (refer to Image 1 below). Follow the prompts until the installation begins (refer to Images 1, 2 & 3 below). Once the installation is complete, follow any on-screen instructions. Before completing the process, you can uncheck the “Open Installed Folder” option, as no further changes are needed there (refer to Image 5 below).
 
+![1. AMDVBFlash setup window](https://gpdstore.net/wp-content/uploads/2024/09/BIOS-2-1200x675.jpg)
+
 1. AMDVBFlash setup window
 
-
+![2. Install location](https://gpdstore.net/wp-content/uploads/2024/09/BIOS-3-1200x675.jpg)
 
 2. Install location
 
-
+![3. Start menu shortcut](https://gpdstore.net/wp-content/uploads/2024/09/BIOS-4-1200x675.jpg)
 
 3. Start menu shortcut
 
-
+![4. Installation complete](https://gpdstore.net/wp-content/uploads/2024/09/BIOS-5-1200x675.jpg)
 
 4. Installation complete
 
-
+![5. Close setup window](https://gpdstore.net/wp-content/uploads/2024/09/BIOS-6-1200x675.jpg)
 
 5. Close setup window
 
@@ -123,17 +134,19 @@ which will be highlighted in blue (see Image 4 below). Change this line to one o
 
 Once you’ve verified that the changes are correct (refer to Image 4), save the .bat file and proceed with the installation.
 
+![1. Right-click Auto Updater.bat](https://gpdstore.net/wp-content/uploads/2024/09/BIOS-7-1200x675.jpg)
+
 1. Right-click Auto Updater.bat
 
-
+![2. Select edit](https://gpdstore.net/wp-content/uploads/2024/09/BIOS-8-1200x675.jpg)
 
 2. Select edit
 
-
+![3. Find line](https://gpdstore.net/wp-content/uploads/2024/09/BIOS-9-1200x675.jpg)
 
 3. Find line
 
-
+![4. Change GPD G1 Wattage](https://gpdstore.net/wp-content/uploads/2024/09/BIOS-10-1200x675.jpg)
 
 4. Change GPD G1 Wattage
 
@@ -141,11 +154,15 @@ Once you’ve verified that the changes are correct (refer to Image 4), save the
 
 To continue with the vBIOS flashing process, run the **Auto Updater.bat** file (refer to Image 1 below). This will open the Command Prompt. While the screen may seem intimidating, don’t worry—you won’t have to do much!
 
+![1. Run Auto Updater.bat](https://gpdstore.net/wp-content/uploads/2024/09/BIOS-11-1200x675.jpg)
+
 1. Run Auto Updater.bat
 
 In the Command Prompt, you will be prompted to accept the End-User License Agreement (EULA). To agree, simply type **‘y’** and press Enter, as shown in green (see Image 2 below). If everything is set up correctly, the G1 eGPU BIOS flashing process will begin automatically.
 
 During the flashing process, it is very important not to press any keys to avoid any accidental interruptions. Once the process is complete, the Command Prompt will display a confirmation message, highlighted in green (refer to Image 2 below), indicating whether the flash was successful.
+
+![2. Successful BIOS flash](https://gpdstore.net/wp-content/uploads/2024/09/Auto-Updater-1200x675.jpg)
 
 2. Successful BIOS flash
 
@@ -157,9 +174,11 @@ After a successful flash, close the Command Prompt and restart your G1 eGPU by t
 
 In Device Manager, the G1 eGPU should appear under **Display Adapters** as **AMD Radeon RX 7600M XT** (refer to Image 2 below). If the GPD G1 dock is not recognized or if there’s a ⚠️ warning symbol next to it, the AMD Graphics Drivers might need to be installed or updated. Even if you’ve previously installed or updated the drivers, it’s a good idea to do it again after completing the BIOS flash.
 
+![AMD XConnect Enabled](https://gpdstore.net/wp-content/uploads/2024/09/AMD-XConnect-Enabled-1200x675.jpg)
+
 1. Windows System Notification
 
-
+![AMD Radeon RX 7600M XT Found](https://gpdstore.net/wp-content/uploads/2024/09/AMD-Radeon-RX-7600M-XT-Found-1200x675.jpg)
 
 2. Connected in Device Manager
 
@@ -168,6 +187,8 @@ In Device Manager, the G1 eGPU should appear under **Display Adapters** as **AMD
 We recommend following our detailed guide for correctly [installing the latest AMD Graphics Drivers here](https://gpdstore.net/kb-article/getting-started-with-the-gpd-g1-egpu-docking-station/). This guide is essential when installing or updating the drivers for your G1 eGPU docking station.
 
 Once the AMD driver installation is complete, a device restart is required to activate the new drivers. After rebooting, it’s important to verify in Device Manager that the G1 docking station is connected and working properly. The GPD G1 eGPU should appear as **AMD Radeon RX 7600M XT** (refer to the image below).
+
+![AMD Radeon RX 7600M XT Found](https://gpdstore.net/wp-content/uploads/2024/09/AMD-Radeon-RX-7600M-XT-Found-1200x675.jpg)
 
 AMD Radeon RX 7600M XT Found
 

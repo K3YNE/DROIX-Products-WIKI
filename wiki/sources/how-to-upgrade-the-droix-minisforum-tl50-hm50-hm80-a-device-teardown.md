@@ -22,6 +22,8 @@ If you are looking to upgrade your MinisForum mini PC, we at DROIX have put toge
 
 ## Step 1 – Remove the rear panel
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220323_104719563_HDR-1024x768.jpg)
+
 To access the mini PC, you will first need to remove the rear of the unit.
 
 First, loosen the four screws located in the corners of the rear panel.
@@ -31,6 +33,8 @@ You will now be able to remove the rear panel. **However**, unlike many other mi
 *Our recommended method is to take a small prying tool such as a [plastic spudger](https://www.amazon.co.uk/plastic-spudger/s?k=plastic+spudger), and run it along the outer edge until you hear a “pop”, you can then lift the rear panel away.*
 
 ## Step 2 – Replacing Components
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220323_112559683_HDR-1024x768.jpg)
 
 You will now be at the heart of the mini computer. From here, you can upgrade and replace the components as you wish.
 

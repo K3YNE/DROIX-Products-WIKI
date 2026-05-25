@@ -28,13 +28,19 @@ In the age of M.2 NVMe SSDs however, where boot speeds are already extremely fas
 
 To disable fast startup, first open the **control panel** and select **power options**. This can be done by searching for the control panel in the Start menu search bar, then selecting the icon with the green battery. (If you can’t see, change the “View by” to “large icons”.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_ZjO6iXTtoi-1024x465.jpg)
+
 Changing the view style makes it easier to find what you’re looking for.
 
 Next, select “**choose what the power buttons do**”.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_6MNEzVw5eL.jpg)
+
 The option can be found on the left-most side of the window.
 
 You will then need to uncheck “**turn on fast startup**” if it is enabled. If the option is greyed out, click the “**change settings that are currently unavailable**” to fix this.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_ytB8ZzuUmF.jpg)
 
 The option will likely be greyed out by default.
 
@@ -51,22 +57,32 @@ Because we’re already in Windows at this point, it will be quicker to do it vi
 
 In the Windows **start menu**, select the **power** button, then select **restart** **while holding the LEFT SHIFT** key.,
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_O564BRB7Wz.jpg)
+
 Ignore the other options.
 
 This will bring you into the Advanced Startup options.
 
 From here, select Troubleshoot, Advanced Options, then finally UEFI Firmware Settings. This will reboot the PC straight into the BIOS.
 
-* Once again, ignore the other options. You want “Advanced options”.
-* This option will take you straight to the BIOS, after a reboot.
+* ![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_7sxVcerure.jpg)
+
+  Once again, ignore the other options. You want “Advanced options”.
+* ![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_N7kyHnrkFa.jpg)
+
+  This option will take you straight to the BIOS, after a reboot.
 
 ### Enabling Auto-Power-On (RTC Wake)
 
 You can navigate the BIOS via the arrow, enter and escape keys on your keyboard.
 
+![Enabling Auto-Power-On -  BIOS Step 1](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_cOfWQeZ8ee-1024x564.jpg)
+
 Press the right arrow key to move to the **advanced** tab.
 
 From the list of items, select **S5 RTC Wake Settings**.
+
+![Enabling Auto-Power-On -  Step 2](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_H1xjqlO9ZD-1024x564.jpg)
 
 Finally, select the **Wake Up System from S5** option and set it to either Fixed Time or Dynamic Time.
 
@@ -75,7 +91,11 @@ Finally, select the **Wake Up System from S5** option and set it to either Fixed
 
 Select whichever type of auto-wake you’re happy with, and then press the escape key.
 
+![Enabling Auto-Power-On -  BIOS Step 3](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_e2wTdpemU4-1024x564.jpg)
+
 Navigate to the **Save & Exit** tab, then click **Save Changes and Exit** to exit the BIOS and go back to Windows.
+
+![Enabling Auto-Power-On -  BIOS Step 4](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_ZSbNE35kaL-1024x564.jpg)
 
 Now whenever your PC is next powered off, it will automatically turn itself on at the time defined by you!
 

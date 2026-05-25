@@ -65,9 +65,13 @@ Resetting your device through the native Windows utility is a built-in feature a
 
 To access this utility, simply type **“Reset this PC”** into the Windows search bar.
 
+![Reset this PC software](https://gpdstore.net/wp-content/uploads/2024/09/Reset-this-PC-software-1200x675.jpg)
+
 Reset this PC software
 
 Once the utility opens, you’ll be presented with two options:
+
+![Reset this PC options](https://gpdstore.net/wp-content/uploads/2024/09/Reset-this-PC-options-1200x675.jpg)
 
 Reset this PC options
 
@@ -79,6 +83,8 @@ While this tool is convenient and universally available on Windows devices, it t
 ## How to Reset via Recovery Partition
 
 This method of resetting a device depends on the specific Windows installation and the manufacturer, and is not universally available across all devices.
+
+![GPD reset utility -The screen is rotated on some models](https://gpdstore.net/wp-content/uploads/2024/09/GPD-reset-utility-1200x675.jpg)
 
 GPD reset utility -The screen is rotated on some models
 
@@ -100,6 +106,8 @@ The exact steps to access the recovery partition will vary depending on the devi
 * **Press F7** repeatedly after you switch on the device: This is one of the most common ways to enter the boot menu. If successful, a blue window will appear, allowing you to choose the recovery partition.
 * **Enter the BIOS**: You can also access the BIOS by pressing keys like **ESC**, **F1**, **F2**, or whichever key is specified for your device during startup. Once inside the BIOS, navigate to the boot options using your keyboard and select the correct drive.
 
+![GPD WIN MAX boot menu](https://gpdstore.net/wp-content/uploads/2024/09/GPD-WIN-MAX-boot-menu-1200x675.jpg)
+
 GPD WIN MAX boot menu
 
 In most cases, the recovery partition is labeled as **“UEFI OS”** occasionally followed by some more text.
@@ -108,13 +116,19 @@ In most cases, the recovery partition is labeled as **“UEFI OS”** occasional
 
 The fastest way to access the advanced startup menu is by holding the **LEFT SHIFT** key and selecting the **Restart** option from the Windows Start menu, like this:
 
+![Easy way to Advanced Startup menu](https://gpdstore.net/wp-content/uploads/2024/09/Easy-way-to-Advanced-Startup-menu-1200x675.jpg)
+
 Easy way to Advanced Startup menu
 
 Once the system restarts, you’ll be presented with several options. Select **“Use a device”** from the list.
 
+![Advanced Startup menu Choose an option](https://gpdstore.net/wp-content/uploads/2024/09/Advanced-Startup-menu-Choose-an-option-1200x675.jpg)
+
 Advanced Startup menu Choose an option
 
 In the next screen, choose **UEFI OS** from the available options. Depending on how your hard drive is partitioned or what USB devices are connected, you may see a large number of options, so make sure to select the correct one.
+
+![Advanced Startup menu Use a device](https://gpdstore.net/wp-content/uploads/2024/09/Advanced-Startup-menu-Use-a-device-1200x675.jpg)
 
 Advanced Startup menu Use a device
 

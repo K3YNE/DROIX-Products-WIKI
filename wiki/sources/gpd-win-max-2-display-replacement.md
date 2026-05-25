@@ -31,6 +31,8 @@ Please be advised that while we permit customers to perform their own repairs, o
 
 <https://youtu.be/bQGD4rot6iE>
 
+![GPD WIN MAX 2 2025 Gaming Handheld PC](https://gpdstore.net/wp-content/uploads/2024/12/GPD-WIN-MAX-2-2025-INFOGRAPHIC-NEW-GENERIC-01.png)
+
 ## GPD WIN MAX 2 2025 Gaming Handheld PC
 
 [Shop now](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-max-2-2025/)

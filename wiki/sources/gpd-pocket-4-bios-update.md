@@ -27,6 +27,8 @@ Ways to identify your CPU on your device:
   Select **About your PC** from the results.  
   Look under “**Device specifications**” for the Processor entry, which lists your CPU model (e.g., Intel Core i7-10750H).
 
+![Task Manager CPU](https://droix.net/knowledge-base/wp-content/uploads/2025/03/Task-Manager-CPU-1024x576.jpg)
+
 Task Manager CPU
 
 Next you will need to download the BIOS files. There are two versions depending on which processor your GPD Pocket 4 BIOS has. You can check by the label on the back of the device to confirm, or from within Windows Task Manager CPU. Or if you are unsure and purchased the Pocket 4 from us at GPD Store, please contact support with your order number and we can check.
@@ -41,19 +43,27 @@ Next you will need to download the BIOS files. There are two versions depending 
 
 First extract the download archive. You will have two folders similar to below
 
+![ Extracting the files](https://gpdstore.net/wp-content/uploads/2025/03/Upgrading-GPD-Pocket-4-BIOS-Extracting-the-files.jpg)
+
 Extracting the files
 
 ## BIOS Update
 
 Enter the **P4\_BIOS.vxxxx** fodler and open the **P4\_xxxx\_GPD.exe** file. A window with some information on what to do and not do during the BIOS update will be displayed.
 
+![GPD Pocket 4 BIOS update checklist](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-BIOS-update-checklist-1200x658.jpg)
+
 GPD Pocket 4 BIOS update checklist
 
 Once you have read the information, press any key to proceed with the upgrade. The first stage will take a few moments and once completed you will be prompted to confirm to restart the device to continue. Choose **Y**.
 
+![GPD Pocket 4 BIOS first stage update](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-BIOS-first-stage-update-1200x710.jpg)
+
 GPD Pocket 4 BIOS first stage update
 
 Your GPD Pocket will now reboot and proceed with the BIOS update. Do **NOT** switch off your device during this process!
+
+![GPD Pocket 4 BIOS updating main firmware](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-BIOS-updating-main-firmware-1200x720.jpg)
 
 GPD Pocket 4 BIOS updating main firmware
 
@@ -63,23 +73,33 @@ The process will take around 3 to 5 minutes to complete. Once completed, the Poc
 
 The second part of the process is to update the EC firmware. Enter the **P4\_EC.Vx.xx** folder and copy all of the contents to your USB flash drive
 
+![Copy the contents to the flash drive](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-Updating-EC-1.jpg)
+
 Copy the contents to the flash drive
 
 Once the contents have copied over, switch off your GPD Pocket 4. Now switch on the GPD Pocket 4 and hold the **FN key + F7** key until the boot menu appears. In our image below, the USB flash drive is the second option on the menu. Your flash drives name and menu option may be different. Choose your flash drive to proceed.
+
+![GPD Pocket 4 BIOS Upgrade Boot Menu](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-BIOS-Upgrade-Boot-Menu-1200x753.jpg)
 
 GPD Pocket 4 BIOS Upgrade Boot Menu
 
 Some progress text will briefly appear on screen, you can wait a few seconds or press any key to continue.
 
+![GPD Pocket 4 BIOS EC Upgrade](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-BIOS-EC-Upgrade-1-1200x666.jpg)
+
 GPD Pocket 4 BIOS EC Upgrade
 
 The upgrade process will start and the screen will update on the progress. The process should only take a minute or two.
+
+![GPD Pocket 4 BIOS EC Upgrade](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-BIOS-EC-Upgrade-2.jpg)
 
 GPD Pocket 4 BIOS EC Upgrade
 
 Once completed, the GPD Pocket 4 will power off. Wait a few moments and you can power it back on. Press the **Del** key to enter the BIOS. You can now check which BIOS and EC version you are to confirm the upgrade has completed.
 
 In the below image we can see the BIOS is now on 2.07 and the EC is on 1.11. Your numbers may be different to different CPU or newer firmware updates.
+
+![Check it has been updated](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-BIOS-Check-it-has-been-updated-1200x751.jpg)
 
 Check it has been updated
 

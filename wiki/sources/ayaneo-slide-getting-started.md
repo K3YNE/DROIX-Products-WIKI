@@ -30,25 +30,27 @@ When setting up your portable gaming PC, it’s important to ensure you have all
 
 Your AYANEO SLIDE features many buttons and connectors, all of which are promptly shown below and labelled in the user manual. It’s a good idea to familiarise yourself with your device. You can also read or watch our [AYANEO SLIDE review](https://droix.net/blogs/aya-neo-slide-review/) embedded below for a more technical overview.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/AYA-NEO-SLIDE-WHITE-DONE-05.jpg)
+
 Right View
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/AYA-NEO-SLIDE-WHITE-DONE-01.png)
 
 Front View
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/AYA-NEO-SLIDE-WHITE-DONE-06.jpg)
 
 Left View
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/AYA-NEO-SLIDE-WHITE-DONE-03.jpg)
 
 Top View
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/unnamed-file.jpg)
 
 Back View
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/AYA-NEO-SLIDE-WHITE-DONE-04.jpg)
 
 Bottom View
 
@@ -59,6 +61,8 @@ Bottom View
 ## Setting Up Windows
 
 Every AYANEO SLIDE, like all our portable gaming PCs, comes with [Windows 11](https://www.microsoft.com/en-us/windows/windows-11?r=1) pre-installed, ready for setup straight out of the box. The setup process for Windows may vary slightly depending on the version installed on your device. However, it’s generally straightforward and guided by on-screen prompts. These steps include selecting your country, choosing the keyboard layout, and entering your user details. You also have the option to connect to the internet during setup, allowing your AYA NEO device to download and install the latest updates automatically. There’s no need to worry too much as all of these settings can be adjusted later.
+
+![Windows Setup Screen](https://droix.net/knowledge-base/wp-content/uploads/2023/08/Windows-Setup-Screen.jpg)
 
 Windows Setup Screen
 
@@ -91,11 +95,11 @@ You can find links to the necessary Firmware & Drivers below.
 |  |  |
 | --- | --- |
 | **Firmware (BIOS)** | **Download Link** |
-| BIOS 16GB V3 | [Download](https://droix.sharepoint.com/:u:/s/Purchasing/Eegd7_DxTwtChXBqaYUovN8Brx1aXelhBZjkkQ2i8UXjWA?e=KdfgSc), [Alternative Link](https://www.ayaneo.com/support/download) |
-| BIOS 32GB V3 | [Download](https://droix.sharepoint.com/:u:/s/Purchasing/EcSUsulIFdhFmDIZEa2EGbsBN6kQjSMEDWOBQg-C-jf3kA?e=O87Ylc), [Alternative Link](https://www.ayaneo.com/support/download) |
-| BIOS 64GB V3 | [Download](https://droix.sharepoint.com/:u:/s/Purchasing/EeEVR5F_eF5BlVyY_5CSDgEByWg6_YruOxmWp7xmsy_Chw?e=zTuCMq), [Alternative Link](https://www.ayaneo.com/support/download) |
+| BIOS 16GB V3 | [Download](https://droidbox.sharepoint.com/:u:/s/Purchasing/Eegd7_DxTwtChXBqaYUovN8Brx1aXelhBZjkkQ2i8UXjWA?e=KdfgSc), [Alternative Link](https://www.ayaneo.com/support/download) |
+| BIOS 32GB V3 | [Download](https://droidbox.sharepoint.com/:u:/s/Purchasing/EcSUsulIFdhFmDIZEa2EGbsBN6kQjSMEDWOBQg-C-jf3kA?e=O87Ylc), [Alternative Link](https://www.ayaneo.com/support/download) |
+| BIOS 64GB V3 | [Download](https://droidbox.sharepoint.com/:u:/s/Purchasing/EeEVR5F_eF5BlVyY_5CSDgEByWg6_YruOxmWp7xmsy_Chw?e=zTuCMq), [Alternative Link](https://www.ayaneo.com/support/download) |
 | **Drivers** | **Download Link** |
-| Driver Package 20231213 | [Download](https://droix.sharepoint.com/:u:/s/Purchasing/ERhfZ6Zo8N5JhXJuQ4uQUkUBsh17_U7upYpCvKpLgCTzwg?e=L8drlC), [Alternative Link](https://www.ayaneo.com/support/download) |
+| Driver Package 20231213 | [Download](https://droidbox.sharepoint.com/:u:/s/Purchasing/ERhfZ6Zo8N5JhXJuQ4uQUkUBsh17_U7upYpCvKpLgCTzwg?e=L8drlC), [Alternative Link](https://www.ayaneo.com/support/download) |
 
 Ensure you install the correct BIOS Version respective to your device’s RAM configuration. Improper use or deviation may render your device inoperable. DROIX assumes no responsibility.
 
@@ -109,9 +113,11 @@ Do not power down or unplug your device during the update process.
 
 The AYANEO Driver Package contains all the necessary drivers for the AYANEO SLIDE, including the AMD Adrenalin Software for the Graphics & Chipset Drivers. Run the drivers or find the instructions within the subfolders as shown below.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/Untitled-design-3.png)
+
 1. Driver Package
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/Untitled-design.png)
 
 2. Drivers subfolder
 
@@ -179,6 +185,26 @@ And the good news doesn’t stop there. We’ve put together a detailed guide to
 > [How to install and set up RetroArch on your Windows or Android devices](https://droix.net/knowledge-base/article/retroarch/)
 
 <https://droix.net/knowledge-base/article/retroarch/embed/#?secret=5FniR273Vm#?secret=NX1wQM0ur9>
+
+## Connecting the GPD G1 eGPU (Optional)
+
+The [GPD G1 eGPU docking station](https://droix.net/product/gpd-g1/) is a game-changer, not only offering additional USB ports, HDMI, and DisplayPort for connecting to your monitor or TV. But its standout feature is the built-in [Radeon RX 7600M XT GPU](https://www.amd.com/en/products/graphics/amd-radeon-rx-7600m-xt), which elevates your gaming experience with higher FPS and improved visual quality. When hooked up to an external monitor, this eGPU flexes its muscles, enabling even the most demanding games to run at higher resolutions.
+
+For those with an Oculink port on their handheld, the GPD G1 allows you to leverage the fastest data transfer speeds. However, if your device doesn’t have this port, there’s no need to worry. The GPD G1 eGPU docking station is still fully functional via the USB 4.0 port on your AYA NEO SLIDE. To get the most out of this powerful accessory, don’t miss our comprehensive guide on [Getting Started with the GPD G1 eGPU Docking Station](https://droix.net/knowledge-base/getting-started-with-the-gpd-g1-egpu-docking-station/), where we delve into everything from setup to advanced usage tips with the GPD G1.
+
+## Accessories & Add-Ons
+
+[15.6″ 4K Portable Monitor](https://droix.net/product/15-6-4k-portable-monitor-with-touchscreen/) | [with Adobe RGB](https://droix.net/product/15-6-4k-portable-monitor-with-adobe-rgb/) | [with Stylus Support](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/): These portable monitors boast a stunning 4K resolution on their 15.6″ displays, featuring touchscreen capabilities and options for Adobe RGB or stylus support. They are exceptionally well-suited for gamers, artists, and office work, making them an ideal high-quality external display. Perfectly compatible with your AYA NEO, enhancing your docked setup, and ensuring a premium look with no cost at performance.
+
+![15.6″ 4K portable monitor with Adobe RGB](https://droix.net/knowledge-base/wp-content/uploads/2023/10/S23_B5-PORTABLE_MONITOR-IMAGE-LISTING-DONE-1.png)
+
+15.6″ 4K portable monitor with Adobe RGB
+
+[GPD G1 eGPU Docking Station](https://droix.net/product/gpd-g1/)**:** This docking station not only provides the usual USB, DisplayPort, and HDMI port expandability but its highlight feature is the built-in graphics card. The GPD G1 houses a high-performance Radeon RX 7600M XT eGPU, capable of running the latest games at higher graphics settings and resolutions on an external monitor. Dive into our [full review](https://droix.net/blogs/gpd-g1-egpu-docking-station-review) for more details.
+
+[NH8 USB Hub with NVME](https://droix.net/product/droix-nh8-nvme-usb-hub/): The NH8 USB Type-C Hub with NVME is a versatile, portable device that extends your AYA NEO Slide’s connectivity. Including a variety of ports from HDMI, USB Type-A, and USB Type-C, to SD card readers, providing comprehensive compatibility with a range of peripherals. But its highlight feature is the built-in [NVME slot](https://en.wikipedia.org/wiki/NVM_Express), allowing you to expand your storage with ease.
+
+[DROIX USB 4.0 Type-C Cable](https://droix.net/product/usbc-4-cable/?cgkit_search_word=usb): Equipped with a staggering 40Gbps data transfer speed, our cable ensures that your data transfers will be faster than ever, making slow read/write speeds a thing of the past. The best part? This cable is fully compatible with both, the [GPD G1](#GPD-G1) and all variations of our [*Portable Monitors*](#portable-monitor).
 
 ---
 

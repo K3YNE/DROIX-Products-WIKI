@@ -16,6 +16,8 @@ If you are looking to upgrade your MinisForum DMAF5, UM250, UM700, or whichever 
 
 ## Step 1 – Remove the lid
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220318_155129309-1024x768.jpg)
+
 To access the MinisForum mini PC, you first need to remove the lid of the unit.
 
 All of these models feature a useful “click-lock” mechanism for the lid. Press down on the two front corners of the lid to release the clips from the locking mechanism. You can then gently remove the lid in its entirety.
@@ -23,6 +25,8 @@ All of these models feature a useful “click-lock” mechanism for the lid. Pre
 To put it back, just press the corners down again.
 
 ## Step 2 – Replacing Components
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220318_155157429_HDR-1024x768.jpg)
 
 You will now be at the heart of the MinisForum DMAF5, UM250 or UM700. From here, you can upgrade and replace the components as you wish.
 

@@ -33,17 +33,25 @@ Navigate to the folder **ResearchDownload\_R24.0.0001** > **Bin** – then run t
 
 Click the single Cog icon in the top left area, and find/load the firmware update “**RP35Flip\_user\_20230705.pac**” file that you extracted earlier.
 
+![Flash Retroid Pocket Flip firmware step 1](https://droix.net/knowledge-base/wp-content/uploads/2024/10/Flash-Retroid-Pocket-Flip-firmware-step-1-1024x605.jpg)
+
 Flash Retroid Pocket Flip firmware step 1
 
 It will take a few moments for the firmware to load into the software. Once completed, the firmware details will be displayed in the top area of the window.
+
+![Flash Retroid Pocket Flip firmware step 2](https://droix.net/knowledge-base/wp-content/uploads/2024/10/Flash-Retroid-Pocket-Flip-firmware-step-2.jpg)
 
 Flash Retroid Pocket Flip firmware step 2
 
 Click the Double Cog icon (2nd icon), select the **Flash Operations** tab, then tick the “**Erase All Flash**“. Press **OK** to confirm.
 
+![Flash Retroid Pocket Flip firmware step 3](https://droix.net/knowledge-base/wp-content/uploads/2024/10/Flash-Retroid-Pocket-Flip-firmware-step-3-1024x710.jpg)
+
 Flash Retroid Pocket Flip firmware step 3
 
 Press the Play/action button (3rd icon) on the menu. You will be prompted to continue, choose **Yes**.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/10/Flash-Retroid-Pocket-Flip-firmware-step-4.jpg)
 
 ## Starting the flashing on the Retroid Pocket Flip
 
@@ -51,14 +59,18 @@ On the Retroid Pocket Flip, hold down the **Power button** and **Volume Down but
 
 If you get the recovery menu or “dead Android” screen, press and hold the **Power button** and **Volume Down button** again for several seconds. It will start to flash the firmware on to the Retroid Pocket Flip.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/10/Retroid-Pocket-Flip-recovery-menu-1024x768.jpg)
+
 Dead Android screen
 
-
+![Dead Android screen](https://droix.net/knowledge-base/wp-content/uploads/2024/10/Dead-Android-screen.jpg)
 
 Dead Android screen
 
 This process will take around 30 minutes to flash the firmware. During this period of time, do NOT remove the USB cable, switch off the Flip or shut down the flashing software.
 
 Once the firmware has been flashed and tested, the software will show the Progress has Passed.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/10/Flash-Retroid-Pocket-Flip-firmware-step-5-1024x128.jpg)
 
 You can now use your Retroid Pocket Flip. NOTE: The first boot may take a little longer than usual as it sets up the operating system for first use.

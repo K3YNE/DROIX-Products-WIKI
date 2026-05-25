@@ -44,19 +44,29 @@ Antstream – <https://www.antstream.com/> – Cloud-based streaming retro gamin
 
 Create a new folder on your [Handheld Gaming PC’s](https://droix.net/product-category/handhelds/handheld-gaming-pcs/) storage called ‘ROMS’. Then enter that folder and create new folders for each of the game consoles you have games for. For example, a folder called “Genesis” for Mega Drive / Genesis games.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Adding-ROMS-on-Windows-1-300x169.jpg)
+
 Load RetroArch and choose **Import Content** then **Scan Directory** menu options.
+
+![Choose Import Content then Scan Directory](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Adding-ROMS-on-Windows-3-300x169.jpg)
 
 Choose Import Content then Scan Directory
 
 Navigate to the ROMS folder you created.
 
+![Choose the ROMS folder](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Adding-ROMS-on-Windows-4-300x169.jpg)
+
 Choose the ROMS folder
 
 If you want to scan a single console folder, enter that folder and choose **Scan This Directory**. If you would like to scan all the game folders at once, choose it here but be warned it will take longer if you have a large collection.
 
+![You can scan all the folders or individual one at a time](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Adding-ROMS-on-Windows-5-300x169.jpg)
+
 You can scan all the folders or individual one at a time
 
 Once all the folders have been scanned, return to the main menu and you will see that the consoles you added have been scanned and there are now menu options for fast access to the consoles and games.
+
+![The ROMs are scanned and added](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Adding-ROMS-on-Windows-6-300x169.jpg)
 
 The ROMs are scanned and added
 
@@ -72,17 +82,27 @@ While the handheld is switched off, remove the storage micro SD Card and plug it
 
 Open your File Manager and you will see a new drive.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/rg351_games_partition.jpg)
+
 If you can not see the drive, it may need to have a drive letter assigned to it. To fix this, you will need to assign a drive letter to the partition. Type “disk manager” in the Windows 10 search bar, then select “Create & Format Hard Disk Partitions”.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/disk_management.jpg)
 
 Now locate the micro SD card entry, right-click the GAMES partition and select **Change Drive Letter and Paths…**
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/rg351p_assign_drive_letter.jpg)
+
 Click **Add**, choose a drive letter, then click **OK** in both windows.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/rg351p_choose_letter.jpg)
 
 The drive letters available will depend on what’s already in the device. It doesn’t matter which one you pick. You’ll now be able to see the empty partition.
 
 Eject the Micro SD card from your PC, insert it into your handheld and switch it on. The boot process will take longer than usual as the software will be creating the required folders for you to copy your games to. Let it boot to the main menu and then you can shut down the handheld, remove the card and re-insert it into your PC.
 
 There will be a list of folders with familiar names based on consoles and computers similar to what is shown in the below image.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/rg351_games_folders.jpg)
 
 You can then copy the ROM files you have downloaded into their respective folders. For example, a Dreamcast game would go into the “dreamcast” folder, and a Game Gear game would go into the “gamegear” folder.
 
@@ -100,13 +120,19 @@ If you have a micro SD card slot you can simply copy game files from your PC to 
 
 Insert a micro SD card into your retro handheld and you may be notified that the card has been detected and needs to be set up. Click on the notification to proceed,
 
+![Set up Micro SD Card](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Android-Set-up-Micro-SD-Card-1-300x169.jpg)
+
 Set up a Micro SD Card
 
 You will be presented with two options, to either create for extra storage or portable storage. Choose the portable storage options as we will be copying files from a PC.
 
+![Choose Portable Storage as we are copying between devices](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Android-Set-up-Micro-SD-Card-2-300x169.jpg)
+
 Choose Portable Storage as we are copying between devices
 
 Follow any prompts to format and prepare the micro SD card.
+
+![The card is ready to be used](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Android-Set-up-Micro-SD-Card-3-300x169.jpg)
 
 The card is ready to be used
 
@@ -115,6 +141,8 @@ Once this process has been completed, you can remove the micro SD card and inser
 Locate the micro SD card drive in your file manager. You will see a list of folders such as Alarms, Android, Audiobook etc.
 
 Right-click on the list and create a new folder called ROMS, enter this folder and then create a folder for your games console. For example, if it was a Dreamcast game then name the folder Dreamcast. Repeat this for any additional game consoles.
+
+![Create a ROM folder](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Create-ROM-folder.png)
 
 Create a ROM folder
 
@@ -138,28 +166,42 @@ The folder navigation can be tricky to work out at first. So we will use the Dre
 
 On the Manage Game Library menu option, choose **Add Directory**.
 
+![Adding games on Redream ](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Adding-games-on-Redream-1-300x169.jpg)
+
 Adding games on Redream
 
 On the top left corner are three horizontal lines, click on these.
+
+![Selecting the storage menu](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Adding-games-on-Redream-2-300x169.jpg)
 
 Selecting the storage menu
 
 You will see two options, one is the handheld’s internal storage, and the other is the micro SD card, in this case, ours is named “JELOS”. Select the micro SD card.
 
+![Selecting the micro SD card storage](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Adding-games-on-Redream-3-300x169.jpg)
+
 Selecting the micro SD card storage
 
 You will then see a list of folders with the “ROMS” folder you created.
+
+![Choosing the location of your ROMs](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Adding-games-on-Redream-4-300x169.jpg)
 
 Choosing the location of your ROMs
 
 Choose this folder, then the “Dreamcast” folder. You will see a list of games you copied over. Select the **USE THIS FOLDER** option and it will return to the menus and scan the folder for your newly added games.
 
+![Select the folder to scan and load games from](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Adding-games-on-Redream-5-300x169.jpg)
+
 Select the folder to scan and load games from
 
 You may be prompted to permit the emulator to access the folder, click on **Allow**.
 
+![Allow any requests for the emulator to access the files](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Adding-games-on-Redream-6-300x169.jpg)
+
 Allow any requests for the emulator to access the files
 
 Each emulator has a different process to add files, but the folder navigation should always be very similar.
+
+![The games folder has been added to the emulator](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Adding-games-on-Redream-7-300x169.jpg)
 
 The games folder has been added to the emulator

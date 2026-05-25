@@ -24,6 +24,8 @@ When setting up, ensure you have all the correct components and accessories. Whi
 
 * 1x DROIX NT8 Clear USB Hub
 
+![DROIX NT8 Clear USB Hub](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DROIX_8IN1_CLEAR-LISTING-IMAGE-1.webp)
+
 DROIX NT8 Clear USB Hub
 
 If something is missing or you are not sure, please contact [DROIX Customer Service](https://droix.net/contact-us/) and we will be happy to assist.
@@ -32,17 +34,23 @@ If something is missing or you are not sure, please contact [DROIX Customer Serv
 
 Ensure that the NT8 Hub is placed in a safe location. Take care to ensure there is no damage to both the hub and the handheld device connected to it. When following the steps in this section of the guide, please refer to the images below for the location of each port/connection on the NT8 USB Hub.
 
-Droix NT8 Connections
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/NT8-Ports-1.jpg)
+
+DROIX NT8 Connections
 
 ### Connect Your Handheld Device
 
 The first thing to do is to simply connect your handheld gaming device using the [USB Type-C cable](https://uk.pcmag.com/laptop-how-to/40348/what-is-usb-c-an-explainer) attached to the NT8 (refer to *Image 1* below).
+
+![NT8 USB-C Cable](https://droix.net/knowledge-base/wp-content/uploads/2023/11/NT8-Port-1.png)
 
 1. USB-C Cable
 
 ### Power & Charge Your Device
 
 Next, ensure that power is being supplied and that your device stays charged during those intense gaming sessions. Connect a charger to the USB-C PD Port located at the back of the Hub (refer to *Image 2* below). There is only one dedicated PD port for supplying power to your connected devices and peripherals.
+
+![NT8 PD Port](https://droix.net/knowledge-base/wp-content/uploads/2023/11/NT8-Port-2.png)
 
 2. USB-C PD Port
 
@@ -52,11 +60,15 @@ Please note, that the charger is not included with the hub – so we recommend y
 
 To elevate your gaming experience onto a larger screen, connect a HDMI cable between your hub and the display (refer to *Image 3* below). This could be a TV, monitor or more! Remember to change the display input source to the HDMI source if required. The NT8 supports up to 4K resolution @ 60Hz refresh rate, providing an immersive experience and allowing you to enjoy your games or media in the highest quality. It’s important to note that the HDMI cable is not included in the packaging.
 
+![NT8 HDMI Port](https://droix.net/knowledge-base/wp-content/uploads/2023/11/NT8-Port-3-1.png)
+
 3. HDMI Port
 
 ### USB-A 3.0 Ports
 
 The DROIX NT8 USB Hub also features 3x [USB-A 3.0](https://en.wikipedia.org/wiki/USB_3.0) ports (refer to *Image 4* below), which opens a world of possibilities, enabling you to connect more peripherals or other USB Type-A devices. It enhances your gaming experience, but it can also transform your [handheld gaming device](https://droix.net/product-category/gaming-handhelds/) into a much more versatile tool. Allowing you to extend useability and the functionality of your handheld device far beyond gaming.
+
+![NT8 USB-A Port](https://droix.net/knowledge-base/wp-content/uploads/2023/11/NT8-Port-4.png)
 
 4. USB-A Ports
 
@@ -64,11 +76,15 @@ The DROIX NT8 USB Hub also features 3x [USB-A 3.0](https://en.wikipedia.org/wiki
 
 For a direct, ultra-fast, and stable internet connection, you can connect an ethernet cable to the hub, minimizing latency and improving your performance in online games and multimedia streaming. The ethernet port is conveniently located alone on the shortest side of the NT8 Hub (refer to *Image 5* below). Please be aware, the ethernet cable is not included.
 
+![NT8 Ethernet Port](https://droix.net/knowledge-base/wp-content/uploads/2023/11/NT8-Port-5.png)
+
 5. Ethernet Port
 
 ### SD & MicroSD Card
 
 SD cards provide a convenient means of expanding storage, both SD and MicroSD slots can be found on the same side as the HDMI port (refer to *Image 6* below). This expandable storage allows gamers to carry extensive game libraries and media collections in a compact form. With the ability to quickly transfer files and manage content across devices, you can easily expand but also install games. Whether it’s for gaming on the go, transferring files or expanding storage, the integration of these cards into the NT8 is simple but impactful for any handheld gaming enthusiasts.
+
+![NT8 SD & MicroSD Card Slots](https://droix.net/knowledge-base/wp-content/uploads/2023/11/NT8-Port-6-1.png)
 
 6. SD & MicroSD Card Slots
 
@@ -89,9 +105,11 @@ To adjust your settings in [Windows 11](https://www.microsoft.com/en-us/windows/
 5. Change the *Refresh Rate* to the highest option.
 6. Select *Keep Changes*.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Display-Settings-1024x602.jpg)
+
 2. Select highest Display Resolution
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Display-Settings-2-1024x598.jpg)
 
 5. Select highest Refresh Rate
 
@@ -126,6 +144,8 @@ Here at DROIX, we’re big proponents of the user’s Right to Repair your devic
 ### Output Devices
 
 [15.6″ 4K portable monitor with Adobe RGB](https://droix.net/product/15-6-4k-portable-monitor-with-adobe-rgb/): This portable monitor offers a stunning 4K resolution across their 15.6″ display. The monitor offers Adobe RGB support and even has touchscreen capabilities. The colours you see are true to life thanks to 100% coverage of [Adobe RGB’s colour space](https://en.wikipedia.org/wiki/Adobe_RGB_color_space), ensuring a rich and authentic visual experience. It is fantastic for gamers, designers, video editors and more. It’s the perfect addition to get that extra screen space and provides a display capable of 4K display with the HDMI connection on the NT8. Its slim and lightweight design makes it easy to set up and carry around.
+
+![15.6″ 4K portable monitor with Adobe RGB](https://droix.net/knowledge-base/wp-content/uploads/2023/10/S23_B5-PORTABLE_MONITOR-IMAGE-LISTING-DONE-1.png)
 
 15.6″ 4K portable monitor with Adobe RGB
 

@@ -20,6 +20,8 @@ Please be advised that while we permit customers to perform their own repairs, o
 
 <https://youtu.be/5rDAFl6zCn8>
 
+![GPD Pocket 4 Mini Laptop](https://gpdstore.net/wp-content/uploads/2024/08/GPD-POCKET-4-INFOGRAPHICS-DONE-GENERIC-01.png)
+
 ## GPD Pocket 4 Mini Laptop
 
 [Shop now](https://gpdstore.net/gpd-mini-laptop/gpd-pocket-4/)

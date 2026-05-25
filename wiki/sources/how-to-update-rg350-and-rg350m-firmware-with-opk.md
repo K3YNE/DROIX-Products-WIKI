@@ -31,6 +31,8 @@ We will be copying the firmware on to the second Micro SD Card. If you have a ca
 
 Extract the **.OPK** file found inside the download to your PC and then copy it to the **APPS** folder on the Micro SD Card. If the folder is not present, please create the folder otherwise the update will not be recognised.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350M-OPK-update-300x102.png)
+
 You can now safely eject the card and put it back in to the your device.
 
 ### **Installing the update**
@@ -39,16 +41,30 @@ You can now safely eject the card and put it back in to the your device.
 
 With the Micro SD Card now back in the device, you can now switch it on. Once it has booted, navigate to the **Applications** menu by tapping the L or R shoulder buttons. Scroll down the icons until you see the update file, it should be named **OS Update** or similar.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-series-OPK-update-1-300x169.jpg)
+
 Open this app with the **A** button.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-series-OPK-update-2-300x169.jpg)
 
 Double check you are installing the correct update for your device and navigate to **Update** and press the **START** button to start the firmware upgrade.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-series-OPK-update-3-300x169.jpg)
+
 The upgrade process will now begin. This will happen in several stages and take a few minutes to perform. Do **NOT** at any time switch off the device or remove the Micro SD card. The below two images show the start and near the end of the procedure.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-series-OPK-update-4-300x169.jpg)![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-series-OPK-update-5-300x169.jpg)
+
 Once the update has completed you will be presented with the below information. Press the **START** button to continue.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-series-OPK-update-6-300x169.jpg)
 
 The device will now reboot and return to the main menu and is now ready to use.
 
 You can activate the HDMI (beta) output by loading the **Gmenu2x** settings app found in **Settings.**
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-series-OPK-update-7-300x169.jpg)
+
 Scroll down the menu to **HDMI** option and press Left or Right on the D-Pad to switch ON/OFF the HDMI output. Press **START** to confirm your choice.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-series-OPK-update-8-300x169.jpg)

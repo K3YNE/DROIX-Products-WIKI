@@ -25,6 +25,8 @@ Ways to identify your CPU on your device:
   Select **About your PC** from the results.  
   Look under “**Device specifications**” for the Processor entry, which lists your CPU model (e.g., Intel Core i7-10750H).
 
+![Task Manager CPU](https://gpdstore.net/wp-content/uploads/2025/08/Task-Manager-CPU-1200x675.jpg)
+
 Task Manager CPU
 
 ## **Download the BIOS update**
@@ -37,6 +39,8 @@ Decompress the downloaded BIOS update file, where you will find three available 
 
 You must format your USB stick to FAT32. If you are not certain how to complete this step, you can follow our detailed guide on how to format a large USB drive here. Transfer all files and folders from the extracted BIOS update onto the root of the USB stick.
 
+![GPD WIN MAX 2 2025 BIOS update files](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-MAX-2-2025-BIOS-update-files.png)
+
 GPD WIN MAX 2 2025 BIOS update files
 
 ## **Installing the GPD WIN MAX 2 2025 BIOS update**
@@ -45,33 +49,45 @@ Verify that your [GPD WIN MAX 2 2025](https://gpdstore.net/gpd-handheld-gaming-p
 
 Turn on the GPD WIN MAX 2 2025 and continuously tap the **F7** key on the keyboard as it starts up. In a moment, the boot menu will be displayed. Use the **Down** arrow key on your keyboard to highlight the USB drive from the list, and then press the **ENTER** key to select it.
 
+![GPD WIN MAX 2 2025 Boot Menu](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-MAX-2-2025-Boot-Menu-1200x675.jpg)
+
 GPD WIN MAX 2 2025 Boot Menu
 
 Text will be displayed on the screen to indicate the status of the installation. You have the option to press the **ESC** key to cancel the process. Otherwise, you can either wait for the update to begin automatically after a brief pause or press any key to start it immediately.
+
+![GPD WIN MAX 2 2025 BIOS update setup](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-MAX-2-2025-BIOS-update-setup-1200x675.jpg)
 
 GPD WIN MAX 2 2025 BIOS update setup
 
 After a brief wait, the AMI Firmware Update Utility interface will be displayed. This will remain on screen for about 20 to 30 seconds; during this period, it is important to avoid pressing any keys and to not shut down the device.
 
+![AMI Firmware Update Utility screen](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-MAX-2-2025-BIOS-update-AMI-Firmware-Update-Utility-screen-1200x675.jpg)
+
 AMI Firmware Update Utility screen
 
 The screen for the BIOS flashing process will now be displayed. For approximately 30 seconds, there may be no visible activity on the screen. During this time, it is critical that you do not press any keys or turn off the device.
+
+![GPD WIN MAX 2 2025 BIOS update screen](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-MAX-2-2025-BIOS-update-screen-1200x675.jpg)
 
 GPD WIN MAX 2 2025 BIOS update screen
 
 The installation will now commence, with the screen displaying the progress of the BIOS update. This procedure will take several minutes to complete. Throughout this entire process, it is vital that you do not press any keys or power off the device.
 
+![GPD WIN MAX 2 2025 BIOS update progress 1](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-MAX-2-2025-BIOS-update-progress-1-1200x675.jpg)
+
 GPD WIN MAX 2 2025 BIOS update progress 1
 
-
+![GPD WIN MAX 2 2025 BIOS update progress 2](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-MAX-2-2025-BIOS-update-progress-2-1200x675.jpg)
 
 GPD WIN MAX 2 2025 BIOS update progress 2
 
-
+![GPD WIN MAX 2 2025 BIOS update progress 3](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-MAX-2-2025-BIOS-update-progress-3-1200x675.jpg)
 
 GPD WIN MAX 2 2025 BIOS update progress 3
 
 When the BIOS update is finished, the [GPD WIN MAX 2 2025](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-max-2-2025/) will restart to continue the installation. The device may restart itself one or two more times during this final stage. Allow this procedure to complete fully without pressing any keys or powering off the device.
+
+![GPD WIN MAX 2 2025 rebooting](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-MAX-2-2025-rebooting-1200x675.jpg)
 
 GPD WIN MAX 2 2025 rebooting
 
@@ -79,7 +95,11 @@ After the update has finalized, your [GPD WIN MAX 2 2025](https://gpdstore.net/g
 
 Should you wish to verify that the firmware was installed successfully, you can do so from the BIOS menu. To access this menu, power on your device and repeatedly tap the ESC key during startup. Inside the BIOS, you can confirm the update by checking that the BIOS version is 0.21 and the EC Firmware version is 0.10.
 
+![GPD WIN MAX 2 2025 BIOS Menu](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-MAX-2-2025-BIOS-Menu-1200x675.jpg)
+
 GPD WIN MAX 2 2025 BIOS Menu
+
+![GPD WIN MAX 2 2025 Gaming Handheld PC](https://gpdstore.net/wp-content/uploads/2024/12/GPD-WIN-MAX-2-2025-INFOGRAPHIC-NEW-GENERIC-01.png)
 
 ## GPD WIN MAX 2 2025 Gaming Handheld PC
 

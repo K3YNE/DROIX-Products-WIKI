@@ -12,6 +12,8 @@ updated: 2026-04-22
 tags: [kb-article, retroid]
 ---
 
+![How to install the 8.1 OS update for the RETROID POCKET 2 ](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/maxresdefault.jpg)
+
 Welcome! We at DROIX recently started selling the popular [Retroid Pocket 2](https://droix.net/product/retroid-pocket-2/) retro gaming handheld. The Retroid Pocket 2 comes with Android 6.0 installed, but there does exist an official update to Android 8.1, so we felt it would be helpful to create a guide that walks you through the process. Read on to find out how to install the Retroid Pocket 2 update!
 
 The Retroid Pocket 2 is set apart from it’s contemporaries in the “retro handeld” space by being one of the few devices that runs Android. This makes it slightly more involved to update or install custom firmware compared to devices such as ANBERNIC’s [RG351P](https://droix.net/product/anbernic-rg351p-games-console/), for which updates are just a matter of [flashing an SD card](https://droix.net/knowledge-base/rg351-custom-firmware-installation/).
@@ -45,6 +47,8 @@ Download and install the Android USB and MT65xx Preloader drivers.
 
 ### Installing Android Drivers (usb\_driver\_r13-windows.zip)
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/fjM5SHx4Ir.jpg)
+
 Extract the zip file, then right click android\_winusb.inf. Click install.  
 You will probably see a pop-up window requiring you confirm the installation. This is just a security measure (you should only install apps from trusted sources). Click “Install”.
 
@@ -52,6 +56,8 @@ You will probably see a pop-up window requiring you confirm the installation. Th
 
 Download, extract the zip file, then click “install.exe”. The drivers will install, you’ll get a short message confirming they’re installed, and you’re good to go!  
 (If you get a warning indicating that the drivers may not have installed correctly – ignore it)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/explorer_sVID3uqxs1.jpg)
 
 ## Back Up The Retroid OS App Key
 
@@ -67,6 +73,8 @@ Then, power on your Retroid Pocket 2 and enable USB Debugging. You can do this b
 
 Now connect your Retroid Pocket 2 to your PC. Open the backup tools folder, and double click the “RP2 Key Backup.bat” file to run the backup process. If successful, a “device\_key” file will be generated.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/8uRTcVwkLO.jpg)
+
 ## Flashing The Firmware
 
 Important: **Make sure that your Retroid Pocket 2 is powered off during this step**, **and that the stock SD card (or a card you’ve prepared with the same files) is inserted.**
@@ -74,6 +82,8 @@ Important: **Make sure that your Retroid Pocket 2 is powered off during this ste
 First, download the firmware for Android 6.0 (*RP2-6.0v5.zip*) or Android 8.1 (*RP2-8.1v3.zip*) respectively. Extract them.
 
 Download, and extract SPFlash (*SPFlashWin.1832.zip*). Then run flash\_tool.exe to open the software. You’ll be met with a screen like this:
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/flash_tool_qXQswxMuNN.jpg)
 
 Under “Download-Agent”, select the “**MTK\_AllInOne\_DA.bin**” file, this will be found in the SPFlash folder.  
 For Scatter-loading File, navigate to the 6.0 or 8.1 firmware folder you downloaded previously, and select the “**MT6580\_Android\_scatter.txt**” file.
@@ -84,6 +94,8 @@ Now depending on what firmware you have here, the next step will differ.
 * **If you are re-flashing or updating to the same version**, change the box to “**Download only**“, then scroll down the list of options and **uncheck** the “userdata” option.
 
 Now click the “Download” button at the top of the program. You can then connect your **powered-off** Retroid Pocket 2, and the process will automatically carry out.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/flash_tool_zlOrObC40Q.jpg)
 
 Once finished, disconnect your Retroid Pocket 2 from your computer. **It will not boot if it is connected.**
 

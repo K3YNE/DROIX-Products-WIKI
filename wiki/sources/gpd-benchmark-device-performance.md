@@ -31,17 +31,25 @@ Once you have installed 3DMark, open the application. If you receive a notificat
 
 Click on the **Benchmarks** icon at the top.
 
+![3DMARK Home Page](https://gpdstore.net/wp-content/uploads/2025/05/3DMARK-Home-Page-1200x675.jpg)
+
 3DMARK Home Page
 
 Scroll down the list and locate the **Time Spy** (not Time Spy Extreme) benchmark and click on that.
+
+![3DMARK Benchmarks Page](https://gpdstore.net/wp-content/uploads/2025/05/3DMARK-Benchmarks-Page-1200x675.jpg)
 
 3DMARK Benchmarks Page
 
 Confirm that you are using the correct GPU for the test. This would normally be the internal GPU found inside the handheld unless you are testing external GPU cards performance. Click on the **Run** icon to begin the benchmark. The process will take around 10-15 minutes.
 
+![3DMARK Time Spy Page](https://gpdstore.net/wp-content/uploads/2025/05/3DMARK-Time-Spy-Page-1200x675.jpg)
+
 3DMARK Time Spy Page
 
 After the benchmark finishes, a screen displaying the results will appear. It’s important to record the Time Spy Score, along with the Graphics score and CPU score, which are shown to its right. As an alternative, you can capture this information by taking a photograph with your phone or by taking a screenshot (using the Print Screen key) to save a copy.
+
+![3DMARK Time Spy Benchmarks result](https://gpdstore.net/wp-content/uploads/2025/05/3DMARK-Time-Spy-Benchmarks-result-1200x675.jpg)
 
 3DMARK Time Spy Benchmarks result
 
@@ -51,13 +59,19 @@ You can then make any changes such as changes to the TDP and click the **Run Aga
 
 From the Home screen, click on the **Stress Test** icon at the top.
 
+![3DMARK Home Page Stress Test](https://gpdstore.net/wp-content/uploads/2025/05/3DMARK-Home-Page-Stress-Test-1200x675.jpg)
+
 3DMARK Home Page Stress Test
 
 Before proceeding, ensure that the “**Steel Nomad Light Stress Test**” option is chosen. Double-check that the appropriate GPU is selected for the assessment; this will usually be the integrated GPU within your handheld device, unless you are specifically evaluating the performance of an external graphics card. To initiate the stress test, click on the “**Run Stress Test**” icon. This testing procedure typically lasts for approximately 20 minutes.
 
+![3DMARK Windows Stress Test Page](https://gpdstore.net/wp-content/uploads/2025/05/3DMARK-Windows-Stress-Test-Page-1200x675.jpg)
+
 3DMARK Windows Stress Test Page
 
 Upon completion of the stress test, a results screen will be displayed. Take note of the “Frame rate stability,” “Best loop score,” and “Worst loop score.” Alternatively, you can capture this information by taking a photograph with your mobile phone or by taking a screenshot (using the Print Screen key) to retain a copy.
+
+![3DMARK Windows Stress Test Results Page](https://gpdstore.net/wp-content/uploads/2025/05/3DMARK-Windows-Stress-Test-Results-Page-1200x675.jpg)
 
 3DMARK Windows Stress Test Results Page
 

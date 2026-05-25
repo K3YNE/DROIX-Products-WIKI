@@ -16,17 +16,25 @@ The GPD Pocket 4 has a [modular port](https://gpdstore.net/blog/gpd-pocket-4-mod
 
 Remove the two screws on either side of the module port
 
+![How to change the GPD Pocket 4 Module 2](https://gpdstore.net/wp-content/uploads/2024/11/How-to-change-the-GPD-Pocket-4-Module-2-1200x675.jpg)
+
 Remove the two screws on either side of the module.
 
 You can now remove the module by sliding it out. You can get a grip of the module from the bottom.
+
+![How to change the GPD Pocket 4 Module 3](https://gpdstore.net/wp-content/uploads/2024/11/How-to-change-the-GPD-Pocket-4-Module-3-1200x675.jpg)
 
 The exposed GPD Pocket 4 modular port
 
 You can now insert the module, it can only go in one way and once fully inserted should be almost flush with the [GPD Pocket 4](https://gpdstore.net/product/gpd-pocket-4/).
 
+![How to change the GPD Pocket 4 Module 4](https://gpdstore.net/wp-content/uploads/2024/11/How-to-change-the-GPD-Pocket-4-Module-4-1200x675.jpg)
+
 The new module will be almost flush with the GPD Pocket 4
 
 Refit the two screws to either side of the module. Once securely in place, the module will be flush with the [GPD Pocket 4](https://gpdstore.net/product/gpd-pocket-4/ "GPD Pocket 4").
+
+![How to change the GPD Pocket 4 Module 5](https://gpdstore.net/wp-content/uploads/2024/11/How-to-change-the-GPD-Pocket-4-Module-5-1200x675.jpg)
 
 The module should be flush with the GPD Pocket 4 once securely screwed in.
 

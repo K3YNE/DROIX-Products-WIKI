@@ -12,7 +12,7 @@ updated: 2026-04-22
 tags: [kb-article, droix, android]
 ---
 
-This video will guide you how you can remote control you DROIX T8/T8-S/T8-S Plus from Android Phone or Tablet using app available in Google Play Store
+This video will guide you how you can remote control you DROIX® T8/T8-S/T8-S Plus from Android Phone or Tablet using app available in Google Play Store
 
 You can get remote app from Google Play:
 

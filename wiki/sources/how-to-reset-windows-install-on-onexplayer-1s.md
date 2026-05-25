@@ -33,6 +33,8 @@ In short, the process to enter the Windows boot menu is as follows.
 
 The DESKTOP button is located here.
 
+![OneXPlayer 1S Desktop Button](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/02/msedge_uDBq82E7P5-1024x499.jpg)
+
 And the volume button is located on the back and is the button closest to the top of the device.
 
 Power on the ONEXPLAYER using the power button on the back. And when you see the logo, press both the **DESKTOP** and **VOLUME +** button at the same time.

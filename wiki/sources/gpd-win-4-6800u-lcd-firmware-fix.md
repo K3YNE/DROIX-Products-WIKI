@@ -34,29 +34,53 @@ This guide will be split into two parts, the first is to check whether or not yo
 
 To check click Win+R to open Run and type in ‘msinfo32’.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/WIN4-LCD-2-1024x576.jpg)
+
 Once you’re into msinfo check to see the Enabled Controller Version. If it is v8.0 and above. If it is then you can skip to [here](#h-installing-the-fix). If not, and it is v7 and below you will need to update your BIOS, the instructions for which are below.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/WIN4-LCD-3-1024x576.jpg)
 
 ## Upgrading Your BIOS
 
 Once your USB Drive is plugged in and seen, right-click on it within This PC and click on ‘Format’. Formatting the drive will erase its contents so back up anything you wish to keep. Ensure that the ‘FAT32’ file type is selected and when you’re ready, format the drive.
 
-The [link](https://droix.sharepoint.com/:u:/s/Purchasing/ERoRnsgD1qRPnqebN3EQ2JMBx9WjVwfhMma6Hgzt3PgA5Q?e=pfxs4S) will download one ZIP file called ‘WIN4\_LCD\_Update 0601.zip’.
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-01-153125-3.png)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/WIN4-LCD-4-2-1024x576.jpg)
+
+The [link](https://droidbox.sharepoint.com/:u:/s/Purchasing/ERoRnsgD1qRPnqebN3EQ2JMBx9WjVwfhMma6Hgzt3PgA5Q?e=pfxs4S) will download one ZIP file called ‘WIN4\_LCD\_Update 0601.zip’.
 
 Download the ZIP file and extract its contents. Within you will find a folder called WIN4\_LCD\_Update.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-01-152833.png)
+
 Within this folder, you will have another ZIP file called WIN4-V08.00.zip.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-01-152933.png)
 
 Move this ZIP file to another location and extract its contents. Within you will find a folder called ‘WIN4-V08.00’.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-01-153021.png)
+
 Inside of that folder are the BIOS update files. Copy over the CONTENTS of the folder to the USB drive, not the folder itself.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-01-153033.png)
 
 Next, restart your device, and as soon as it starts booting repeatedly press Fn+7(F7) to enter the boot menu. Boot into the USB Drive and let the script to update the bios run.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/WIN4-LCD-6-1024x576.jpg)
+
 Press any key when it asks you to begin
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/WIN4-LCD-7-1024x576.jpg)
 
 Let the install run, this will take roughly a minute.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/WIN4-LCD-8-1024x576.jpg)
+
 Once it has been installed, the device will power off. After a few moments press the power button to turn it on. When you’re in Windows again, go back to MSInfo32 and check the Enabled Controller Version. If it reads 8.0 then you are free to continue, if it doesn’t then go through the steps again.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/WIN4-LCD-9-1024x576.jpg)
 
 ## Installing The Fix
 
@@ -64,17 +88,24 @@ Before proceeding, please ensure that Motion Assist software is not loaded. If i
 
 Once your BIOS is updated you can go into the contents of the original WIN4\_LCD\_Update folder, and inside you will find an application called WIN4\_LCD\_Update.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-01-153622.png)
+
 Right-click on the application and press ‘Run as Administrator’. Enter your administrator details, if you do not know them then ask the administrator of your device to enter them, and click yes.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/WIN4-LCD-10-1024x576.jpg)
 
 The program will open. Click on the ‘Update’ button and the installation will begin.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/WIN4-LCD-11-1024x576.jpg)
+
 Allow it to progress, this will take several minutes. When it is done reboot your device and the process is complete and the fix has been installed.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/WIN4-LCD-12-1024x576.jpg)
 
 
 ---
 
 If you have updated the LCD and something has gone wrong or you updated when you should not have then you can try the below LCD updates for your CPU model.
 
-* [6800U Model](https://droix.sharepoint.com/:u:/s/Purchasing/ESGVD6TvJlFOv6v7RcujZ7sBZqW5N18fw5jnh3GDGeSeDQ?e=KWIWV6)
-* [7840U Model](https://droix.sharepoint.com/:u:/s/Purchasing/EQgOwNlXiuFFmuVFJ8j0nKYBS1AW8pf6EbqIcUcmNCRCEw?e=4rc6pI)
+* [6800U Model](https://droidbox.sharepoint.com/:u:/s/Purchasing/ESGVD6TvJlFOv6v7RcujZ7sBZqW5N18fw5jnh3GDGeSeDQ?e=KWIWV6)
+* [7840U Model](https://droidbox.sharepoint.com/:u:/s/Purchasing/EQgOwNlXiuFFmuVFJ8j0nKYBS1AW8pf6EbqIcUcmNCRCEw?e=4rc6pI)

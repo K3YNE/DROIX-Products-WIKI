@@ -52,6 +52,8 @@ Once extracted all the files and right click -> copy, then navigate to the USB d
 
 Once copied over, the USB stick’s contents should look something like this:
 
+![Win 3 USB Files](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/explorer_jwfj4CgMyk.jpg)
+
 It does not matter if the PDF’s are present or not.
 
 Your USB is now ready for re-flashing. You can skip step 3b, as it is concerned
@@ -61,6 +63,8 @@ Your USB is now ready for re-flashing. You can skip step 3b, as it is concerned
 If you’ve downloaded the image file we prepared, you’ll also need to download a USB flashing tool. We personally prefer [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/), but there are alternatives you can pick from such as [Rufus](https://rufus.ie/en/), or [ApplePi Baker](https://www.tweaking4all.com/software/macosx-software/applepi-baker-v2/) (for Macintosh users).
 
 Win32 Disk Imager is a lightweight, powerful, and easy-to-use tool for both creating .img files from USB.
+
+![1.jpg](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/1.jpg)
 
 Make sure your USB drive is inserted, and you have the image file downloaded.
 
@@ -80,11 +84,17 @@ To do this, insert the USB into the USB port at the top of the GPD Win 3. Then p
 
 We find that this is inconsistent however due to the speed at which the device boots up (making it difficult to hit the window). If you can’t do this, you can instead enter windows, open the start menu, then hold the SHIFT key while selecting “Restart”.
 
+![Accessing Windows 10 Advanced Boot Options](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/msedge_PhWRa3myOZ.jpg)
+
 Hold shift while selecting “Restart” to access the Windows 10 Advanced Boot options.
 
 Select “Use a Device” from the menu that appears, and then select the device that corresponds to the USB you have used. For example: if you have used a Kingston USB, it might be called something like “Kingston DataTraveller”.
 
+![Win 3 recovery image 2](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/IMG_20210525_123358624_HDR-1-1024x768.jpg)
+
 The re-installation process will now proceed automatically. You’ll be met with a command line interface on a blue background like this, as the system performs the necessary steps to wipe your device and reinstall Windows.
+
+![GPD Win 3 Reinstallation Screen](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/win3_installation-1024x768.jpg)
 
 If you see something like this, you’re good. Make sure it has enough charge and leave it be.
 

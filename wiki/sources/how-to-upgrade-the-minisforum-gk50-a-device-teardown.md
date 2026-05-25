@@ -16,17 +16,25 @@ If you are looking to upgrade your MinisForum GK50, we at DROIX have put togethe
 
 ## Step 1 – Remove the rear panel
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220323_132312357_HDR-1024x768.jpg)
+
 To access the GK50, you first need to remove the rear of the unit.
 
 First, you will need to remove the rubber feet. You can use your nail to peel them off, or a dull, slim tool such as a butter knife. Exercise caution so that you do not damage the rubber feet.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220323_132552132_HDR-1024x768.jpg)
 
 Once the feet are peeled off, they should still retain some amount of glue, so place them to one side and be careful not to accidentally stick them to anything.
 
 Once the feet are removed, you can loosen the screws underneath as normal (using a regular cross-head screwdriver).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220323_134710803_MP-1024x768.jpg)
+
 The rear panel is securely attached, so a prying tool such as a [plastic spudger](https://www.amazon.co.uk/plastic-spudger/s?k=plastic+spudger) is necessary to remove it. In the rear of the device is a small indent that can be used to get some initial leverage. Once your tool is in, carefully move the prying tool around the edges of the device until the rear panel begins to “pop” away. Once this happens, it will be substantially easier to lift the panel off.
 
 ## Step 2 – Replacing Components
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220323_134349419_BURST000_COVER-1024x768.jpg)
 
 You will now be at the heart of the MinisForum GK50. From here, you can upgrade and replace the components as you wish.
 

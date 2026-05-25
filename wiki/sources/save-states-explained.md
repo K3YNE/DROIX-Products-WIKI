@@ -20,9 +20,15 @@ Using Save States is very easy to do but it can vary slightly from emulator to e
 
 While playing a game you can bring up the in-emulator menu by pressing **START + SELECT** together, for some emulators it may be a quick tap of the **POWER** button. The menu design will vary between emulators but what we are looking for is a menu entry named **Save State** as shown in the example below.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Save-States-Explained-1-300x169.jpg)
+
 Using the controls, highlight and select **Save State**. It will bring up another menu with a number of **Slots**. Each Slot is available to save to, so in many cases you can have 9 different saves which can be overwritten.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Save-States-Explained-2-300x169.jpg)
+
 In this example we will choose **Slot 2** to save to. Highlight **Slot 2** and press the button to save it.  With the Genesis emulator it will show a preview of the screen in the background. With other emulators it may make a noise or return to the game with a notification that it has saved.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Save-States-Explained-3-300x169.jpg)
 
 Once it has saved, you can return to the game and continue playing.
 
@@ -30,9 +36,15 @@ Once it has saved, you can return to the game and continue playing.
 
 While playing the game that you wish to load a previous save from, press **START + SELECT** to bring up the in-emulator menu.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Save-States-Explained-1-300x169.jpg)
+
 Using the controls, highlight and select **Load State**. It will bring up another menu with the **Slots** to load from.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Save-States-Explained-4-300x169.jpg)
+
 Highlight the **Slot** that you had previously saved to and it will show a preview image of the game in the background. Choose it and it will load the state.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Save-States-Explained-5-300x169.jpg)
 
 Once it has loaded, you can return to the game and continue playing exactly where you saved from.
 

@@ -14,8 +14,14 @@ tags: [kb-article, droix, troubleshooting]
 
 If you own a DROIX device (if your device is not a DROIX model and was sold by someone else, please contact them directly, as we will not be able to assist) and see “Please enter at least eight key” when you turn on your device, please [contact us](https://droix.net/contact-us/) with either your order number/ID or the full delivery address, including the postcode.
 
+![Activation Code Request](https://droix.net/wp-content/uploads/2017/01/1ActivationCodeRequest-300x163.png)
+
 If you prefer, you can send us an email directly ( support@droix.net), start a text session during office hours at our main site – https://droix.net/ with the chat widget.
+
+![Activation Code Accepted](https://droix.net/wp-content/uploads/2017/01/2ActivationCodeAccepted-300x114.png)
 
 We will generate the code and pass it on for you to enter.
 
 Once this code is entered, it should not be asked for again unless all data is wiped from the device during an OTA firmware update, or you perform a factory reset.
+
+![Launcher On Boot No Request](https://droix.net/wp-content/uploads/2017/01/3LauncherOnBootNoRequest-300x170.png)

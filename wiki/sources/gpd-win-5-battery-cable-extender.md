@@ -14,27 +14,37 @@ tags: [kb-article, gpd, gpd-win-5]
 
 The GPD WIN 5 Battery Cable Extender [accessory](https://gpdstore.net/product-category/accessories/ "accessory") allows you to continue using the external battery without having to connect it directly to the [GPD WIN 5](https://gpdstore.net/product/gpd-win-5/ "GPD WIN 5"). It can be used in a variety of ways such as simply having it on a desk or in a bag to reduce the weight of the handheld gaming PC itself while playing on it.
 
+![The GPD WIN 5 Battery Cable Extender](https://gpdstore.net/wp-content/uploads/2025/10/The-GPD-WIN-5-Battery-Cable-Extender-1200x675.jpg)
+
 The GPD WIN 5 Battery Cable Extender
 
 The two ends of the battery cable extender have different connections and can only be connected one way to the battery and the [GPD WIN 5](https://gpdstore.net/product/gpd-win-5/ "GPD WIN 5") itself.
 
+![The GPD WIN 5 Battery Connector](https://gpdstore.net/wp-content/uploads/2025/10/The-GPD-WIN-5-Battery-Connector-1200x675.jpg)
+
 The GPD WIN 5 Battery Connector
 
-
+![The GPD WIN 5 connector](https://gpdstore.net/wp-content/uploads/2025/10/The-GPD-WIN-5-connector-1200x675.jpg)
 
 The GPD WIN 5 connector
 
 The Battery Connector side slides into the battery and can then be secured by tightening the two screws. The GPD WIN 5 side plugs in and again can be secured by tighening the two screws.
 
+![The Battery screwed in and connected](https://gpdstore.net/wp-content/uploads/2025/10/The-Battery-screwed-in-and-connected-1200x675.jpg)
+
 The Battery screwed in and connected
 
-
+![The screws keep the connection secure](https://gpdstore.net/wp-content/uploads/2025/10/The-screws-keep-the-connection-secure-1200x675.jpg)
 
 The screws keep the connection secure
 
 Once both connectors are secured, you can switch on your [GPD WIN 5](https://gpdstore.net/product/gpd-win-5/ "GPD WIN 5") and use it as normal. Its great for when travelling, you can keep the battery in the bag and reduce the weight in your hands.
 
+![Keep the battery in the bag while playing](https://gpdstore.net/wp-content/uploads/2025/10/Keep-the-battery-in-the-bag-while-playing-1200x675.jpg)
+
 Keep the battery in the bag while playing
+
+![GPD WIN 5 Gaming Handheld PC](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-5-INFOGRAPHIC-01.png)
 
 ## GPD WIN 5 Gaming Handheld PC
 

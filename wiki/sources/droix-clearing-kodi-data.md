@@ -33,6 +33,10 @@ You may need to scroll, but you should see an entry for Kodi (or the names above
 
 Lollipop Devices:
 
+![DROIX® T8-S Plus Settings Clicked](https://droix.net/wp-content/uploads/2016/06/Settings-Clicked-300x169.png)  
 Kitkat Amlogic Devices:
 
+![DROIX® T8 Settings Other Tab](https://droix.net/wp-content/uploads/2016/06/FourthOther-300x169.png)  
 Older Devices:
+
+![DROIX® X7 Settings](https://droix.net/wp-content/uploads/2016/06/Settings-300x170.png)

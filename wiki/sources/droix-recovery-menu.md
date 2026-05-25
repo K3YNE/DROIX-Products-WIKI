@@ -18,7 +18,7 @@ This guide demonstrates how to perform a Wipe Date/Factory Reset. A factory rese
 
 Please click on your device below for how to perform a factory reset:
 
-* [DROIX X3](https://droix.net/how-to-factory-reset-the-droix-x3/)
+* [DROIX X3](https://droix.net/how-to-factory-reset-the-DROIX-x3/)
 * [T8 range (T8, T8-S, T8-S Plus v1 & v2, T8 SE)](#T8)
 * [iMXQPro Mini](#iMXQProMini)
 * [H96 MAX X2 (4/32Gb & 4/64Gb)](#H96MAXX2)
@@ -39,7 +39,7 @@ Please click on your device below for how to perform a factory reset:
 ### T8 range (T8, T8-S, T8-S Plus v1 & v2 and T8 SE)
 
 Disconnect and reconnect the power supply. Using a cocktail stick, paper clip or similar, gently insert it into the Restore hole located on the right of the device towards the right hand side similar to as shown in the photo below. You will feel a button click, keep it held down.  
- 
+![](https://droix.net/wp-content/uploads/2015/11/T8-SE-Restore-Hole-150x150.jpg) ![](https://droix.net/wp-content/uploads/2015/11/T8-S-Plus-v2-Restore-Hole-150x150.jpg)
 
 While keeping the reset button held down, press the Power button on the device and wait until you see the Recovery Menu. You can now release the restore button. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
@@ -47,11 +47,15 @@ While keeping the reset button held down, press the Power button on the device a
 
 Disconnect the power supply. Using a cocktail stick, paper clip or similar, gently insert it into the Restore hole located on the bottom side of the device as shown in the photo below. You will feel a button click, keep it held down.
 
+![](https://droix.net/wp-content/uploads/2015/11/iMXQ-Pro-Mini-Restore-Hole-300x169.jpg)
+
 With the button still held down, reconnect the power supply and wait until you see the Recovery Menu. You can now release the restore button. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
 ### H96 MAX X2 (4/32Gb & 4/64Gb)
 
 Disconnect the power supply. Using a cocktail stick, paper clip or similar, gently insert it into the Restore hole located in the AV port of the device as shown in the photo below. It may take a few attempts to get the correct location of the button, you will feel a button click when located, keep it held down.
+
+![](https://droix.net/wp-content/uploads/2015/11/H96-MAX-X2-300x169.jpg)
 
 With the button held down, Insert the power cable and wait until the recovery menu has appeared. You can now release the restore button. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
@@ -59,11 +63,15 @@ With the button held down, Insert the power cable and wait until the recovery me
 
 Disconnect the power supply. Using a cocktail stick, paper clip or similar, gently insert it into the Restore hole located in the AV port of the device as shown in the photo below. It may take a few attempts to get the correct location of the button, you will feel a button click when located, keep it held down.
 
+![](https://droix.net/wp-content/uploads/2015/11/X96-MAX-300x169.jpg)
+
 With the button held down, Insert the power cable and wait until the recovery menu has appeared. You can now release the restore button. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
 ### A95X Plus
 
 Disconnect the power supply. Using a cocktail stick, paper clip or similar, gently insert it into the Restore hole located in the SPDIF port of the device as shown in the photo below. It may take a few attempts to get the correct location of the button, you will feel a button click when located, keep it held down.
+
+![](https://droix.net/wp-content/uploads/2015/11/A95X-Plus-recovery-hole-300x169.jpg)
 
 With the button held down, Insert the power cable and wait until the recovery menu has appeared. You can now release the restore button. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
@@ -71,11 +79,15 @@ With the button held down, Insert the power cable and wait until the recovery me
 
 Disconnect the power supply. Using a cocktail stick, paper clip or similar, gently insert it into the Restore hole located in the AV port of the device as shown in the photo below. It may take a few attempts to get the correct location of the button, you will feel a button click when located, keep it held down.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/T95X2-recovery-hole-300x169.jpg)
+
 With the button held down, Insert the power cable and wait until the recovery menu has appeared. You can now release the restore button. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
 ### T95Q
 
 Disconnect the power supply. Using a cocktail stick, paper clip or similar, gently insert it into the Restore hole located in the AV port of the device as shown in the photo below. It may take a few attempts to get the correct location of the button, you will feel a button click when located, keep it held down.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/T95Q-recovery-hole-300x169.jpg)
 
 With the button held down, Insert the power cable and wait until the recovery menu has appeared. You can now release the restore button. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
@@ -83,11 +95,15 @@ With the button held down, Insert the power cable and wait until the recovery me
 
 Disconnect the power supply. Using a cocktail stick, paper clip or similar, gently insert it into the Restore hole located in the AV port of the device as shown in the photo below. It may take a few attempts to get the correct location of the button, you will feel a button click when located, keep it held down.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/T95Z-Restore-Hole-300x169.jpg)
+
 With the button held down, Insert the power cable and wait until the recovery menu has appeared. You can now release the restore button. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
 ### Go v3
 
 Using a cocktail stick, paper clip or similar, gently insert it into the Restore hole located on the side of the device as shown in the photo below. You will feel a button click, keep it held down.
+
+![](https://droix.net/wp-content/uploads/2015/11/Go-v3-Restore-Hole-300x169.jpg)
 
 With the button held down, Insert the power cable and slide the Power switch to the ON position and wait until the recovery menu has appeared. You can now release the restore button. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
@@ -95,40 +111,58 @@ With the button held down, Insert the power cable and slide the Power switch to 
 
 Using a cocktail stick, paper clip or similar, gently insert it into the Restore hole located on the bottom of the device as shown in the photo below. You will feel a button click, keep it held down.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/T2-Restore-Hole-300x169.jpg)
+
 With the button held down, Insert the power cable and wait until the recovery menu has appeared. You can now release the restore button. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
 ### GPD XD Plus
 
 Choose the **Settings** menu option, then choose **Advanced Settings**.
 
+![](https://droix.net/wp-content/uploads/2015/11/GPD-XD-Plus-Factory-Reset-1-300x169.jpg)
+
 Scroll down the list until **Backup & Reset** and choose this
+
+![](https://droix.net/wp-content/uploads/2015/11/GPD-XD-Plus-Factory-Reset-2-300x169.jpg)
 
 Choose **Factory data reset**
 
+![](https://droix.net/wp-content/uploads/2015/11/GPD-XD-Plus-Factory-Reset-3-300x169.jpg)
+
 Choose **RESET TABLET**
 
+![](https://droix.net/wp-content/uploads/2015/11/GPD-XD-Plus-Factory-Reset-4-300x169.jpg)
+
 Choose **ERASE EVERYTHING**
+
+![](https://droix.net/wp-content/uploads/2015/11/GPD-XD-Plus-Factory-Reset-5-300x169.jpg)
 
 ### iMX6 & iMX6Q
 
 Turn off your device and remove the power cable.
 
+![iMX6 Reset Recovery Switch Location](/wp/wp-content/uploads/2014/11/iMX6.jpg "iMX6 Reset Recovery Switch Location")  
 For an iMX6 (and iMX6Q), you’ll need to insert the match into the socket marked AV on the back of your iMX6, and keep pushing it in until you feel/hear a slight click. You’ll also find the switch hidden in the same place (AV Socket) for M8 models that have M8N printed on their label. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
 ### X7
+
+![X7 Reset Recovery Switch Location](/wp/wp-content/uploads/2014/11/X7.jpg "X7 Reset Recovery Switch Location")
 
 With an X7, the switch is located on the bottom of your device, and you can easily hold it down with a finger. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
 ### Q7
 
+![Q7 Reset Recovery Switch Location](/wp/wp-content/uploads/2014/11/Q7.jpg "Q7 Reset Recovery Switch Location")  
 On a Q7 device, look on the right hand side, behind the USB sockets. A biro is normally perfect for holding down the switch. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
 ### M6
 
+![M6 Reset Recovery Switch Location](/wp/wp-content/uploads/2014/11/M6.jpg "M6 Reset Recovery Switch Location")  
 If you have an M6 model, it is again on the right hand side behind the USB sockets, but you’ll need something sturdy, and thinner than most biro tips. I personally filed down a match stick (I prefer it to cocktail sticks as they are a bit more sturdy). Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
 ### V9
 
+![V9 Reset Recovery Switch Location](/wp/wp-content/uploads/2014/11/V9.jpg "V9 Reset Recovery Switch Location")  
 If you have a V9 stick, check the end that has the HDMI socket. You should see on one side of the device there is a blue LED when the power is connected and the device is turned on. Below that, in the lower left corner, you’ll see another small hole. Insert a needle (CAREFULLY) to hold down the switch.Keeping the switch held down, reattach the power lead. Please read the **[Recovery Menu](#RecoveryMenu)** section below for how to proceed.
 
 ### **The Recovery Menu**
@@ -139,10 +173,10 @@ When the factory reset has completed. You can choose the first option “Reboot 
 
 <https://youtu.be/310x5awtHPs>
 
-How to factory reset DROIX T8 or T8-S from Android or using the recovery menu:
+How to factory reset DROIX® T8 or T8-S from Android or using the recovery menu:
 
 <https://youtu.be/YY_wtA0vqQM>
 
-After 20 minutes have passed (assuming your WiFi/ethernet is functioning already), you can now sign into Google’s Play Store to allow auto-updates (see [https://droix.co.uk/blog/googles-play-store-signing-in-and-auto-updates/](https://droix.co.uk/blog/faq-2/googles-play-store-signing-in-and-auto-updates/) ).
+After 20 minutes have passed (assuming your WiFi/ethernet is functioning already), you can now sign into Google’s Play Store to allow auto-updates (see [https://droidbox.co.uk/blog/googles-play-store-signing-in-and-auto-updates/](https://droidbox.co.uk/blog/faq-2/googles-play-store-signing-in-and-auto-updates/) ).
 
 Please note that on most iMX6 models, pressing the remote control’s OK button does not select any options, you’ll need to press the RETURN (go back) button to do this.

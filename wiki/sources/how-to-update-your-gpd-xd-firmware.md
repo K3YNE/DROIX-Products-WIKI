@@ -62,9 +62,13 @@ Extract (unzip) both ZIP files
 
 From the DriverAssitant\_v4.2 folder, open DriverInstall.exe
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Image5-1-300x145.jpg)
+
 Press the Install Driver button and wait for the drivers to be installed. Once completed press any confirmation buttons to complete the process and exit the program.
 
 From the BatchTool English folder, open RKBatchTool.exe (the screenshot is a generic one)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Image4-1-300x234.jpg)
 
 Click on the button with 3 dots to the right of FW Path and locate the file update.img that was downloaded
 

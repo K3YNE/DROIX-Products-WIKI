@@ -17,6 +17,8 @@ In this guide, we will walk you through installing and setting up the RetroArch 
 
 To get RetroArch on your Windows device, head over to the official homepage at [https://www.retroarch.com](https://www.retroarch.com/).
 
+![RetroArch for Windows download](https://gpdstore.net/wp-content/uploads/2024/09/Windows-RetroArch-Download-1200x675.jpg)
+
 RetroArch for Windows download
 
 You can choose between the latest Nightly build, which may include some bugs, or the Stable version, which is slightly older but more reliable. Once the file is downloaded, open it and follow the installation instructions provided.
@@ -27,6 +29,8 @@ You can choose between the latest Nightly build, which may include some bugs, or
 
 The first step in setting up RetroArch is to update the configuration and data files. To do this, go to the **Settings** menu from the main screen and select **Online Updater**.
 
+![Update configuration and data files](https://gpdstore.net/wp-content/uploads/2024/09/RetroArch-Online-Updater-1200x675.jpg)
+
 Update configuration and data files
 
 From there, choose the menu items that begin with “Update…”—each option will download and update the corresponding files to their latest versions.
@@ -35,9 +39,15 @@ From there, choose the menu items that begin with “Update…”—each option 
 
 Once your configuration files are up to date, you can start downloading emulator cores. These cores represent the various emulators available for your device. From the **Settings > Online Updater** menu, select **Core Downloader**.
 
+![RetroArch Core Downloader
+](https://gpdstore.net/wp-content/uploads/2024/09/RetroArch-Core-Downloader-1200x675.jpg)
+
 RetroArch Core Downloader
 
 You will see a list of available cores. Some systems, like Arcade, may have multiple cores—Arcade, for example, has twelve. The term “Arcade” is generic, and certain cores may support specific systems, while others support multiple.
+
+![A RetroArch Core Downloading
+](https://gpdstore.net/wp-content/uploads/2024/09/RetroArch-Core-Downloading-1200x675.jpg)
 
 A RetroArch Core Downloading
 
@@ -49,9 +59,13 @@ Once you’ve downloaded your desired cores, the next step is to add your game R
 
 After your ROMs are on your device, you can scan them using RetroArch. From the main menu, select **Import Content**, then choose **Scan Directory**.
 
+![Import your ROMS by scanning them](https://gpdstore.net/wp-content/uploads/2024/09/HOW-TO-ADD-ROMS-TO-YOUR-GPD-2-1200x675.jpg)
+
 Import your ROMS by scanning them
 
 Navigate to the folder where your ROMs are stored. You can choose to scan all folders or select a specific system if your ROMs are organized by platform. Click on **<Scan This Directory>**, and RetroArch will scan the folder, adding the games to your library.
+
+![You can scan all ROMs or a specific folder](https://gpdstore.net/wp-content/uploads/2024/09/HOW-TO-ADD-ROMS-TO-YOUR-GPD-4-1200x675.jpg)
 
 You can scan all ROMs or a specific folder
 
@@ -61,15 +75,23 @@ Depending on how many games you’re scanning, this process might take a while�
 
 From the main menu, scroll through the list and you’ll see the gaming systems you previously scanned.
 
+![Browse your collection](https://gpdstore.net/wp-content/uploads/2024/09/HOW-TO-ADD-ROMS-TO-YOUR-GPD-5-1200x675.jpg)
+
 Browse your collection
 
 Select a gaming system, and on the right side, you will see a list of the games found during the scan. Choose the game you want to play.
+
+![RetroArch Game Menu
+](https://gpdstore.net/wp-content/uploads/2024/09/RetroArch-Game-Menu-1200x675.jpg)
 
 RetroArch Game Menu
 
 Once selected, a menu will appear with several options. For now, since we’re focusing on playing the game, simply select **Run**.
 
 Another menu will appear, showing a list of emulator cores that are compatible with the game. The number of cores listed depends on how many you have installed—you might see one or several options. If you’re not satisfied with the performance of a particular core, you can always return and try another.
+
+![RetroArch Choose Core
+](https://gpdstore.net/wp-content/uploads/2024/09/RetroArch-Choose-Core-1200x675.jpg)
 
 RetroArch Choose Core
 
@@ -83,13 +105,20 @@ RetroArch should automatically detect your game controller or built-in controlle
 
 Hotkeys allow you to use button combinations for shortcuts. To set up a hotkey, you first need to define which button will serve as the hotkey. The most commonly used hotkey is the **SELECT** button, but you can choose any button you prefer. From the main menu, go to **Settings**, then select **Input**.
 
+![RetroArch Input
+](https://gpdstore.net/wp-content/uploads/2024/09/RetroArch-Input-1200x675.jpg)
+
 RetroArch Input
 
 Scroll down to find **Hotkeys** and select it.
 
+![RetroArch Hotkeys](https://gpdstore.net/wp-content/uploads/2024/09/RetroArch-Hotkeys-1200x675.jpg)
+
 RetroArch Hotkeys
 
 Next, choose the **Hotkey Enable** option. A popup will appear, prompting you to press a button on your controller. Press the **SELECT** button or any other button you’d like to assign as your hotkey.
+
+![RetroArch Hotkey Enable](https://gpdstore.net/wp-content/uploads/2024/09/RetroArch-Hotkey-Enable-1200x675.jpg)
 
 RetroArch Hotkey Enable
 
@@ -100,6 +129,9 @@ Your hotkey is now enabled! Let’s move on to configuring it for various shortc
 On the **Hotkeys** screen, you’ll find a list of shortcuts that can be configured. Here, we’ll show you how to set up the **Load** and **Save State** functions. These options allow you to save your exact progress in a game and pick up right where you left off later. We’ll use the **L1** and **R1** buttons for these combinations, but feel free to assign others if you prefer.
 
 Scroll down to the **Load State** entry and select it. When prompted, press the **L1** button to set it. Then, select **Save State** and press the **R1** button to assign it.
+
+![RetroArch Load Save State
+](https://gpdstore.net/wp-content/uploads/2024/09/RetroArch-Load-Save-State-1200x675.jpg)
 
 RetroArch Load Save State
 
@@ -121,9 +153,15 @@ However, if you want RetroArch to always start in full-screen mode, follow these
 
 From the main menu, select **Settings**, then choose **Video**.
 
+![RetroArch Video Settings
+](https://gpdstore.net/wp-content/uploads/2024/09/RetroArch-Video-Settings-1200x675.jpg)
+
 RetroArch Video Settings
 
 In the **Video Settings** menu, select **Fullscreen Mode**.
+
+![RetroArch Fullscreen Mode
+](https://gpdstore.net/wp-content/uploads/2024/09/RetroArch-Fullscreen-Mode-1200x675.jpg)
 
 RetroArch Fullscreen Mode
 

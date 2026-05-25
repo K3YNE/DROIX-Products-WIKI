@@ -54,6 +54,8 @@ Download Win32 Disk Imager here: <https://sourceforge.net/projects/win32diskima
 
 Once you’ve downloaded it, install it, and start it up. You’ll be met with a menu like this:
 
+![WIN32 Disk Manager](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/Win32DiskImager_hGvPQj6sgc.png)
+
 WIN32 Disk Manager
 
 Click the blue folder icon, then navigate to the folder you’ve downloaded the firmware image file to (see the previous section). Select the firmware file, and you’ll see the path automatically be filled in.
@@ -72,6 +74,8 @@ Otherwise the imaging process will fail, and you’ll need to start again. When 
 
 Now your USB stick is formatted, it should be called “WINPE”, and the contents should look *similar* to this:
 
+![How you USB should look](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/7zFM_XgWctllJCO.png)
+
 How you USB should look
 
 Your USB drive is now ready for use. You can keep it lying around so you can quickly reinstall to one or multiple systems too, if you’d like.
@@ -80,11 +84,15 @@ Your USB drive is now ready for use. You can keep it lying around so you can qui
 
 With your USB drive ready and inserted into any free USB port on the device, power it on and press F7 on any attached keyboard while it boots up. If successful, you should be met with the Boot Menu (if you aren’t, restart the computer and try again).
 
+![Boot menu](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/chrome_4MnhlShcxd.png)
+
 Boot menu
 
 Select the UEFI option from he list of devices (the exact name will differ depending on the USB stick you use).
 
 The installation will now proceed automatically.
+
+![Installation](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/RECentral_OhMo7Sr1vw.png)
 
 Installation
 
@@ -93,6 +101,8 @@ Installation
 (However, if the installation fails due to not finding a drive – try selecting “eMMC” from the radio buttons in the top left, then clicking apply)!
 
 When completed, the computer will boot into a limited administrative account known as “System Preparation Mode”. After you’ve performed whatever quick checks you wish, select “OK”, and the system will reboot into the regular Windows 10 setup screen.
+
+![System Preparation tool](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/chrome_ctYLNZAXeZ.png)
 
 System Preparation tool
 

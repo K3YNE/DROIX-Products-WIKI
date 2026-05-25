@@ -42,9 +42,9 @@ You will also find the DROIX Market application installed on your device. This 
 
 If you are considering installing an anti malware scanner then visit <https://droix.net/antivirus-malware-protection-for-android-devices/> for a run down of some of the popular systems.
 
-Once your system is setup you will probably want to get started with DBMC (DROIX Media Centre) or Kodi. Covering both configuration for your existing media library and the basics of online media streams via add-ons, <https://droix.net/setting-up-kodi-the-right-way/> is well worth a read.
+Once your system is setup you will probably want to get started with DBMC (DroidBOX® Media Centre) or Kodi. Covering both configuration for your existing media library and the basics of online media streams via add-ons, <https://droix.net/setting-up-kodi-the-right-way/> is well worth a read.
 
-Finally, for this section, please read about our [DROIX Control Centre](https://droix.net/control-centre-maintaining-your-droix) application. It is there to help guide you and apply fixes if you get stuck.
+Finally, for this section, please read about our [DROIX Control Centre](https://droix.net/control-centre-maintaining-your-droidbox) application. It is there to help guide you and apply fixes if you get stuck.
 
 [Return to top](#top)
 
@@ -63,7 +63,7 @@ Customers who use BT’s Smart or Home Hub modem/router can encounter an issue w
 <https://youtu.be/e62Z5MgkRKM>
 
 Some more links on the ISP’s blocking content (Virgin & BT Customers):  
-<https://droix.co.uk/blog/faq-2/uk-isps-blocking-content-how-to-remove-their-filters/>
+<https://droidbox.co.uk/blog/faq-2/uk-isps-blocking-content-how-to-remove-their-filters/>
 
 For more information about their Parental Controls, please see BT’s page at [BT webpage – Stay safe with BT Parental Controls](http://home.bt.com/techgadgets/internet/stay-safe-with-bt-parental-controls-11363887238413)
 
@@ -71,7 +71,7 @@ For more information about their Parental Controls, please see BT’s page at [B
 
 #### How to use Quick Support
 
-You may encounter an issue that you cannot solve yourself or using one of the many helpful videos on this site and YouTube. If you call our support team, they may need to “remote” into your DROIX to help you solve the issue. To do this they use software called Quick Support. You can see what you will need to do on their request in the video below.
+You may encounter an issue that you cannot solve yourself or using one of the many helpful videos on this site and YouTube. If you call our support team, they may need to “remote” into your DROIX® to help you solve the issue. To do this they use software called Quick Support. You can see what you will need to do on their request in the video below.
 
 <https://youtu.be/jK2Mvv4qYG0>
 

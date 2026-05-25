@@ -49,6 +49,8 @@ Once this is set up, you’ll need to install the Qualcomm USB drivers. In the *
 
 Select Next, and then just continue through the installation as normal.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/Qualcomm-USB-driver-install.jpg)
+
 Ensure you have downloaded and extracted the MOQI i7s firmware file from the previous section (**MUCH-i7s-9.6.35.zip**), and you can continue with the installation process.
 
 ## MOQI i7s Firmware Installation Process
@@ -62,6 +64,8 @@ C:\Program Files (x86)\Qualcomm\QPST\bin\QFIL.exe
 ```
 
 Run this executable file, and the QFIL program will open. On the first run, it will look something like this.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/QFIL-first-run.jpg)
 
 Under **Select Build Type**, change the selected option to **Flat Build**.
 
@@ -87,6 +91,8 @@ You will know you are successfully in download mode when the device does not res
 
 Now connect the device to your PC or laptop via the USB cable.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/IMG_20220119_104102371_HDR-1024x768.jpg)
+
 The USB Type-C port on the MOQI i7S
 
 
@@ -99,9 +105,13 @@ After connecting the device, go back to the QFIL and chose **Select port…**, a
 
 Enable **Reset After Download**, and click OK.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/QFIL-Firehose-Config.jpg)
+
 The QFIL FireHose Configuration
 
 Now you’re ready to reflash! Double check to ensure that your QFIL window looks identical to this (or at least almost – as the directory you have saved the files in may be named differently). Then click **Download**.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/QFIL-ready-to-flash.jpg)
 
 The process will take a minute or two to complete. Once finished, your MOQI i7s will automatically restart (exiting download mode in the process).
 

@@ -20,6 +20,8 @@ While we do permit self-repairs, any damage you cause is not covered by our warr
 
 <https://youtu.be/yAXqhsdrYYI>
 
+![GPD WIN 5 Gaming Handheld PC](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-5-INFOGRAPHIC-01.png)
+
 ## GPD WIN 5 Gaming Handheld PC
 
 [Shop now](https://gpdstore.net/product/gpd-win-5/)

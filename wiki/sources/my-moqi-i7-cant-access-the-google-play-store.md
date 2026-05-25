@@ -24,16 +24,24 @@ We at DROIX have put together a quick guide that should hopefully get you up and
 
 So you’ve started up the MOQI, gone through the first-time setup, and are now on the home screen. Only to be met with (shock and horror!) a distinct lack of Play Store app icon. Something like this:
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/HomeScreen-300x173.jpg)
+
 No matter where you look, you just can’t find the Play Store icon…  
 To solve this, first we’ll need to enter settings. You can do this by touching the Settings icon in the bottom left or by sliding down the notifications bar at the top of the screen twice, then selecting the gear icon in the corner.  
 Once you’re in the settings menu, you’ll need to add your [Google/Gmail account](https://accounts.google.com/SignUp?hl=en-GB) to the device (without it, you won’t be able to make use of the Play Store).  
 Scroll down in the list of options until you find the “Accounts” setting.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/settingsAccounts-300x177.jpg)
+
 ## 2. Add your Google account
 
 When you select the Accounts option, you might be met with a fairly empty screen, like this:
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Account-300x177.jpg)
+
 From here, select “Add Account”.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/AddAccount-300x172.jpg)
 
 Then choose “Google” from the list.
 
@@ -44,7 +52,11 @@ Wait a second, and then you’ll be taken to the appropriate login screen automa
 Now we just need to enable the Google Play Store app. You can do this by going back to the settings menu, then selecting the “Apps” option.  
 You’ll be taken to a list of apps already installed on the device, this should include the Google Play Store and Google Play Services apps, as seen below.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DisabledApps-300x177.jpg)
+
 It is likely the Google Play Store app is disabled, so to enable it, simply select it from the list above.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/howToEnable-300x179.jpg)
 
 Press “Enable”, and you’re good to go!
 
@@ -54,7 +66,11 @@ Now your Play Store should be enabled. To access it, go back to the main screen 
 
 If it hasn’t, select the “common” folder, then select Add App.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/homeScreenAddAppp.jpg)
+
 Scroll to the right, and you’ll find the app icon. You can then drag it around and place it wherever you please!
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/AddApp2.jpg)
 
 ## Afterword
 

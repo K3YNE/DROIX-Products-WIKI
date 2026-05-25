@@ -43,45 +43,53 @@ The instructions provided by AYN can be hard to understand at times. That’s wh
 
 On your Windows device, **Extract** the downloaded **zip file** (refer to *Image 1* below). Open the extracted folder and then **Extract** all compressed folders within (see *Images 2 & 3* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/1-2.jpg)
+
 1. Extract parent folder
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/2-2.jpg)
 
 2. Extract child folders
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/3-2.jpg)
 
 3. Child folders extracted
 
 Navigate to **QPST\bin** and run **QFIL.exe** (see *Image 4* below). A program window will open, from here, ensure the **Flat Build** option is selected – then click **Browse…** and open the **xbl\_s\_devprg\_ns**.**melf** file located in **odin2\odin2\_20231201** (shown in *Images 5 & 6* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/4-2.jpg)
+
 4. Run QFIL.exe
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/5-2.jpg)
 
 5. Select Flat Build and Path
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/6-2.jpg)
 
 6. Select .melf folder
 
 Select **Load XML…** and open all of the **raw program XLM files** located in odin2\odin2\_20231201 by holding the Ctrl key and clicking on the respective files (see *Images 7 & 8* below). Another window will be displayed immediately afterwards – open all **patch XML files** from the same location (refer to *Image 9* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/7-2.jpg)
+
 7. Select Load XLM…
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/8-2.jpg)
 
 8. Select all raw program files
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/9-2.jpg)
 
 9. select all patch files
 
 You should be able to see the **RawProgram** and **Patch** files loaded in (see *Image 10* below). Before proceeding, ensure that the Storage Type is set to **UFS** – to change simply click the Storage type located at the bottom right and select **UFS** (refer to *Images 10 & 11* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/10-1.jpg)
+
 10. XLM files loaded
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/11-1.jpg)
 
 11. Select storage type
 
@@ -89,29 +97,35 @@ Ensure your device is **powered down** and connect it to the computer. At this p
 
 Press and hold the **volume-** and **power buttons**. This will go into the Odin 2 bootloader. Select **Emergency Mode**, and the Device Manager should recognise the correct port (**Qualcomm HS-USB QDLoader 9008**).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/12-1024x813.jpg)
+
 12. No Port Available
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/13-1024x749.jpg)
 
 13. Device manager
 
 In the QFIL program, you will also be asked to select an **Existing Port**. Click on **Select Port…** and choose the correct port (**Qualcomm HS-USB QDLoader 9008**) and press **OK** (refer to *Images 14 & 15* below). Sometimes the port may be automatically recognised and selected, if this is the case simply proceed to the next step.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/14-1024x553.jpg)
+
 14. Select port
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/15-1024x598.jpg)
 
 15. Select port cont.
 
 With the correct port selected, press **Download** to begin the firmware reflashing *(Image 16* below). You will see a blue bar indicative of the progress – during this time, do not disconnect your device or you may risk rendering the device inoperable. Once complete, you will see **Finish Download** displayed in the Status box (see *Image 18* below). Afterwards, you can simply need to exit the program and boot your Android Gaming Console.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/16.jpg)
+
 16. Select Download
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/17.jpg)
 
 17. Progress bar
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/18.jpg)
 
 18. Successful download
 

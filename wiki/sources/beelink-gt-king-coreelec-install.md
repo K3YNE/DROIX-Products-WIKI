@@ -47,6 +47,8 @@ The version of CoreELEC you download will likely come in the **.img.gz** format.
 
 Once you have extracted the image file from the compressed file, you’ll need to insert your SD into your computer, and start up Rufus.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/rufus-3.15_3v37EX6Ppt-1.jpg)
+
 There’s a lot of buttons on the Rufus UI, but you only have to pay attention to those outlined in red.
 
 First, ensure that the chosen **Device** matches your SD card. Be very careful here as if you choose the wrong device, it may result in a loss of data.
@@ -67,6 +69,8 @@ In this location will be a few files and folders. Most namely the folder called 
 
 You now need to copy the file called “**g12b\_s922x\_beelink\_gt\_king.dtb**” onto the root of the SD card, then rename it to **dtb.img**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/explorer_VVwjZ9Hs65.jpg)
+
 The location should look like this once you’re finished.
 
 Once this is done, you have finished setting up the microSD card, and can now use it with your device.
@@ -77,15 +81,21 @@ The first boot of CoreELEC is a little different from the subsequent booting seq
 
 First, insert the SD card into the unit. This will typically be on the side of the device.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220317_122150632-1024x768.jpg)
+
 Pictured: The microSD card slot on the Beelink GT King
 
 Second, locate the reset button on the device. It should be in a small pin-sized hole that you will need a toothpick, paperclip, or similar to access. **Ensure that this button is being pressed down**.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220317_125347881_HDR-1024x768.jpg)
 
 For the Beelink GT King, the reset button is located on the underside of the device, next to the manufacturer info.
 
 Third (and finally), power on the device.
 
 If successful, the device will boot into CoreELEC. A couple of preliminary operations will be carried out first, so do not turn off the device until it is finished.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220317_125331531-1024x768.jpg)
 
 CoreELEC is now set up and ready to go. **You only need to hold the reset button for the first time you start CoreELEC.** Afterwards, you can simply insert or remove the SD card before you boot the device in order to switch between the two operating systems.
 

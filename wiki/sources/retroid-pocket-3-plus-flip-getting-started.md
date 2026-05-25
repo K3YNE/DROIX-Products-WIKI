@@ -22,6 +22,8 @@ At DROIX we pride ourselves on our high level of before and after-sales customer
 
 The Retroid Pocket 3 Plus & Flip comes with the device itself (Metal version shown below), a user manual and a USB charge cable. No micro SD card is included, you will need to supply this yourself.
 
+![Retroid Pocket 3+ Metal edition](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Metal-edition-300x169.jpg)
+
 Retroid Pocket 3+ Metal edition
 
 If something is missing or you are not sure, please [contact our customer service](https://droix.net/contact-us/) and we will be happy to assist.
@@ -34,17 +36,25 @@ Once you have powered on, the Retroid Pocket 3 Plus or Flip will boot into [Andr
 
 Follow the prompts to select the language and WiFi settings. We recommend entering your WiFi settings now as it is a bit faster than going through the Android menus afterwards.
 
+![Retroid Pocket 3 Plus Wizard WiFi settings](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-Wizard-3-300x169.png)
+
 Retroid Pocket 3 Plus Wizard WiFi settings
 
 If required, choose your time zone, and if you wish to have Google Play services installed. We recommend installing this if you want access to the Google Play store for updating and downloading new apps etc.
+
+![Retroid Pocket 3 Plus Wizard 5 Google Services](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-Wizard-5-300x169.png)
 
 Retroid Pocket 3 Plus Wizard 5 Google Services
 
 You will next be prompted to pre-install some apps. These include emulators, tools and media players for example. You can select them with the check box on the right of each title, or select them all towards the bottom of the screen. The apps will then install which can take a minute or two to complete.
 
+![Retroid Pocket 3 Plus Wizard Pre-install apps](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-Wizard-6-300x169.png)
+
 Retroid Pocket 3 Plus Wizard Pre-install apps
 
 You will next be prompted for the default launcher to use when booting into Android. The RP3+ & Flip launcher does require a bit of setting up first (see the guide below), or you can use the Android launcher which shows any installed apps. You can switch between these afterwards if you wish to.
+
+![Retroid Pocket 3 Plus Wizard Launcher Selection](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-Wizard-8-300x169.png)
 
 Retroid Pocket 3 Plus Wizard Launcher Selection
 
@@ -74,51 +84,75 @@ The Retroid Launcher does require a bit of setting up. It is worth the effort as
 
 We will show you first how to add emulators and their games to the menu. Select *Emulation* from the menu.
 
+![Retroid Launcher Main Screen](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/RP3Plus-Launcher-1-300x169.png)
+
 Retroid Launcher Main Screen
 
 Choose *Systems* from the menu
+
+![Choose Systems](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/RP3Plus-Launcher-2-300x169.png)
 
 Choose Systems
 
 You will then be presented with a list of classic consoles that you can add to the launcher. The list scrolls down to show more. Check the box for each system you have games for on your micro SD card.
 
+![System selector](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/RP3Plus-Launcher-4-300x169.png)
+
 System selector
 
 Click on *OK* and after a few moments you will see the menu has been populated with your chosen systems.
+
+![Installed systems showing](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/RP3Plus-Launcher-5-300x169.png)
 
 Installed systems showing
 
 Now you will need to add the games for each system you just added. In this example, we are adding Mega Drive / Genesis games. Click on a system icon such as *Genesis*, and then click on the *Roms* menu option.
 
+![Click on the Roms menu option](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/RP3Plus-Launcher-6-300x169.png)
+
 Click on the Roms menu option
 
 Choose on the *Add* option
+
+![Click on Add](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/RP3Plus-Launcher-7-300x169.png)
 
 Click on Add
 
 You can now choose the location of your ROMs, either on the internal storage or external storage (micro SD card).
 
+![Choose where your ROMS are located](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/RP3Plus-Launcher-8-300x169.png)
+
 Choose where your ROMS are located
 
 You will now need to navigate to the folder where your Genesis ROMs are located. We have them stored in */ROMS/md/* folder. You do not need to enter the folder where the ROMS are located, beside is a box that you can *Check* to scan everything inside that folder as shown in the image below.
+
+![Check the box for the folder where you systems rom files are located](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/RP3Plus-Launcher-10-300x169.png)
 
 Check the box for the folder where you systems rom files are located
 
 The folder will now be added to the game path. Click on *Scan* to start scanning the folder for recognised games. Depending on the number of games in the folder this can take some time, just let it do its thing.
 
+![Click on Scan to start scanning the game paths](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/RP3Plus-Launcher-12-300x169.png)
+
 Click on Scan to start scanning the game paths
 
 If some games are not recognised, you may receive a prompt to do a more in-depth scan of the game to recognise it. This is optional as it can take a little longer to perform.
 
+![A more in depth scan of game files  (optional)](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/RP3Plus-Launcher-13-300x169.png)
+
 A more in depth scan of game files (optional)
 
 Once the process has been completed you will be returned to your chosen system menu and it will be populated with the found games. If you are connected to the internet via [Wi-Fi 5](https://en.wikipedia.org/wiki/IEEE_802.11ac-2013) it will also download the box art if it can locate them.
+
+![System Menu with any installed games](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/RP3Plus-Launcher-14-300x169.png)
 
 System Menu with any installed games
 
 You can now go back to the main system menu and repeat the process for any other systems you choose.
 
 Or if you just want to check out a game, select one and the game should automatically load into the correct RetroArch core if you have already set it up (see the guide above). If not, you will be prompted to manually or automatically load a core.
+
+![Manually or automatically load a RetroArch core](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/RP3Plus-Launcher-15-300x169.png)
 
 Manually or automatically load a RetroArch core
 
@@ -130,6 +164,8 @@ You can also add other Android apps etc using the same process but from the main
 
 The AOSP launcher is more of a familiar look similar to an Android phone interface. All of the apps you chose to install during the setup wizard can be found on the screens which you can navigate by sliding your finger left or right to change.
 
+![Retroid Pocket 3 Plus AOSP Launcher apps](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-AOSP-Launcher-apps-300x169.jpg)
+
 Retroid Pocket 3 Plus AOSP Launcher apps
 
 From here you have access to the Google Play Store where you can download and update apps etc. You also have RetroArch (we recommend using the (AArch64) version, and several individual emulators such as Flycast, PPSSPP, AetherSX2 and many more! These may require a little setting up such as the location of the games on your micro SD card.
@@ -140,41 +176,61 @@ Each emulator does have different setup requirements, so it is out of the scope 
 
 First, run the PPSSPP emulator by touching its icon on the launcher. You will be prompted to set the location of the emulator’s data. Choose the first option to *Create or Choose a PSP folde*r.
 
+![PPSSPP Setup Screen](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-PPSSPP-1-300x169.png)
+
 PPSSPP Setup Screen
 
 We will use the internal storage for the emulator data as it is faster for loading box art etc. Click on the blue *CREATE NEW FOLDER* text.
+
+![Create a new folder on the internal storage](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-PPSSPP-2-300x169.png)
 
 Create a new folder on the internal storage
 
 Enter a name for the folder, in this example, we are naming it *Ppsspp*. After submitting the name, click on the *USE THIS FOLDER* text at the bottom of the screen.
 
+![Confirm to use this folder](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-PPSSPP-4-300x169.png)
+
 Confirm to use this folder
 
 If you are prompted to allow PPSSPP access to the files in the created folder, choose *ALLOW*. And on the following screen click *OK* to confirm the folder.
+
+![Allow permission](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-PPSSPP-5-300x169.png)
 
 Allow permission
 
 You will now be presented with the main menu. From here, we will set the location of the game files. Click on the *Browse* icon near the top of the screen.
 
+![Choose Browse to set the location of your games](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-PPSSPP-7-300x169.png)
+
 Choose Browse to set the location of your games
 
 The following procedure will be very similar for other emulators when choosing the game location. Select the *three horizontal lines* in the top left area of the screen.
+
+![Select the three horizontal lines](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-PPSSPP-8-300x169.png)
 
 Select the three horizontal lines
 
 You will be prompted to choose from the internal or external (micro SD card) storage. As our games are on the micro SD card, we will choose this.
 
+![Choose from either internal or external (SD card) storage](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-PPSSPP-9-300x169.png)
+
 Choose from either internal or external (SD card) storage
 
 Scroll down the list of files and folders to find the location of your games. In our guide, we use */ROMS/PSP*. Once you have located the correct folder you will see a list of PSP games. Choose the *USE THIS FOLDER*  text on the bottom area of the screen.
+
+![When you have the correct folder, choose the USE THIS FOLDER text](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-PPSSPP-11-300x169.png)
 
 When you have the correct folder, choose the USE THIS FOLDER text
 
 If you are prompted to permit PPSSPP to access the folder, choose *ALLOW*.
 
+![Choose ALLOW if prompted to give access](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-PPSSPP-12-300x169.png)
+
 Choose ALLOW if prompted to give access
 
 Depending on how many games are in the folder, PPSSPP will process them and then display them on the browser.
+
+![PSP games on the browser](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Plus-PPSSPP-13-300x169.png)
 
 PSP games on the browser
 
@@ -184,6 +240,8 @@ Simply choose a game and it will load the emulator and game. As mentioned, the p
 
 The Retroid Pocket series has a very useful screen overlay which you can access by sliding your finger from the right side to the center of the screen while in a game.
 
+![Slide your finger from right edge of the screen to the center](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-Overlay-1-300x135.jpg)
+
 Slide your finger from the right edge of the screen to the center
 
 An overlay will display on the right side of the screen with various options.
@@ -192,23 +250,33 @@ An overlay will display on the right side of the screen with various options.
 
 Many Android games do not natively support gamepad input. But with the RP3+ we can use their software to map key presses to the on-screen touch controls. In this example, we are using Spelunky Classic which does support gamepad, but it has onscreen touch icons which we can demonstrate how to set up the key mapping. Choose the *Key Adapter* icon on the overlay
 
+![Retroid Pocket Overlay](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-Overlay-2-300x169.png)
+
 Retroid Pocket Overlay
 
 You will see a row of controller icons. From left to right they are Buttons, Left Analogue Stick, Right Analogue Stick, Delete, Settings, Download profile from Cloud and Save.
 
 We will first set up the left analogue joystick. Drag and drop the left analogue stick icon to the D-Pad touch area at the bottom left of the screen.
 
+![Retroid Pocket Key Mapping](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-Overlay-3b-300x169.jpg)
+
 Retroid Pocket Key Mapping
 
 You will see an overlay showing the area of the D-Pad. it does not have to be 100% center but try and get it accurate as best you can.
+
+![Left analogue stick mapped to joystick touch area](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-Overlay-4-300x169.png)
 
 Left analogue stick mapped to joystick touch area
 
 We will now map a key to the buttons on the bottom right area of the screen. Drag and drop the first icon to the ‘X’ icon on the bottom right.
 
+![Drag and drop a button to the bottom right touch area](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-Overlay-3c-300x169.jpg)
+
 Drag and drop a button to the bottom right touch area
 
 Press the respective button on the controller to map it. The icon will change from white to text with the button you pressed.
+
+![Setting a game button](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-Overlay-5-300x169.png)
 
 Setting a game button
 
@@ -218,11 +286,15 @@ Repeat the process for any other controls or buttons on the screen and map them 
 
 From the overlay menu, you can choose *Screenshot* to save the current screen or choose *Record* to record video capture to the storage.
 
+![Taking a screenshot](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-Overlay-7-300x169.png)
+
 Taking a screenshot
 
 ### Built-in overlay guide
 
 There is a built-in guide for the overlay operations that you can access by choosing the *Guide* icon on the main overlay menu.
+
+![Retroid Overlay Guide](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-Overlay-8-300x169.png)
 
 Retroid Overlay Guide
 

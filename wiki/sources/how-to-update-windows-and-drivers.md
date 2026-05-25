@@ -18,11 +18,15 @@ tags: [kb-article, droix]
 
 In the search bar, enter “**Check for updates**” (Step 1) and then choose “**Best match result – Check for updates**” (Step 2)
 
+![Check for Windows Updates](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Check-for-Windows-Updates-1-1024x846.jpg)
+
 Check for Windows Updates
 
 ### Check for updates and install them
 
 Click on the “**Check for updates**” option, and wait a few moments for it to check and present a list of any found updates.
+
+![Check for Windows Updates](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Check-for-Windows-Updates-3-1024x228.jpg)
 
 Download & Install Updates
 

@@ -49,9 +49,15 @@ We’ll briefly go over the latter here.
 
 In the Windows start menu, select the power button, then select restart while holding the LEFT SHIFT key.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_O564BRB7Wz.jpg)
+
 This will bring you into the Advanced Startup options.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_7sxVcerure.jpg)
+
 From here, select Troubleshoot, Advanced Options, then finally UEFI Firmware Settings. This will reboot the PC straight into the BIOS.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_N7kyHnrkFa.jpg)
 
 ### Navigating the BIOS
 
@@ -61,9 +67,15 @@ This will look **slightly different** depending on exactly what device you’re 
 
 Navigate to the “Advanced” section and select. “Trusted Computing”.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_ZP0mNEOIMB-1024x564.jpg)
+
 Set the **Security Device Support** to enabled, and you’re good to go! You can then go back (hit ESC), navigate to **Save & Exit**, then select **Save Changes and Exit**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_qhopTcV9ax-1024x564.jpg)
+
 Now, assuming that the **only** limitation was a lack of TPM, your system should now be eligible to upgrade to Windows 11!
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/obs64_uogtzfIlrG.jpg)
 
 ## What to do if it is still not compatible
 

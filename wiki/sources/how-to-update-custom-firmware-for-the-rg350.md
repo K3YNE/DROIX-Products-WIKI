@@ -26,34 +26,62 @@ We recommend having a full battery charge before continuing. Insert the Micro SD
 
 Navigate to the **Applications** folder and locate the **OS Update** icon as shown in the image below, and press the **A** button to open it.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-1-1024x576.jpg)
+
 You will receive a notice prompting to Update, highlight it and press **START** to continue.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-2-1024x576.jpg)
 
 The Update process will now begin. There are a few steps to the update which can take several minutes to complete. Do not switch off or press any buttons during this process.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-3-1024x576.jpg)
+
 When the update is complete, it will verify everything has updated correctly.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-4-1024x576.jpg)
 
 When prompted, press **START** to reboot the RG350.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-5-1024x576.jpg)
+
 The RG350 will reboot and you will be back on to the main menu. Highlight **DinguxCmdr** icon and press **A** to open it.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-7-1024x576.jpg)
 
 Highlight the two dots **..** at the top of the folder list and press the **A** button to move back folders until you reach the root folder. You will see a **media** folder, choose this.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-8-1024x576.jpg)
+
 Select **data** from the folder list.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-9-1024x576.jpg)
+
 Select **apps** from the folder list.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-10-1024x576.jpg)
 
 Press the **START** button once to copy the folder location on the right panel as we will use this later.
 
 Press the **X** button and choose **Select All**. The files in the left side panel will change to red colour. Press **Y** and then choose **Delete** from the menu.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-13-1024x576.jpg)
+
 Press the two dots **..** twice to return to the **/media** folder and now choose **sdcard**
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-14-1024x576.jpg)
+
 Choose the **upgrade pack** folder, or similar name if different as it may change over time.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-15-1024x576.jpg)
 
 Press the **X** button and choose **Select All** from the menu. The files should now be a red colour.
 
 Press the **Y** button and choose **Copy** from the menu. It will now copy all the files from the External SD Card to the internal storage. Depending on the size of the update this process can take up to several minute. Do not switch off or press any buttons while the **Please wait** notification is showing.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-17-1024x576.jpg)
+
 Once the copy process is complete, the left and right side panels should be matching.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Update-Firmware-18-1024x576.jpg)
 
 Press the **X** button and then choose **Quit** from the menu to return to the Main Menus and your RG350 is now updated.

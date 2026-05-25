@@ -12,22 +12,24 @@ updated: 2026-04-22
 tags: [kb-article, droix]
 ---
 
-This article will help you understand how to return a product to us to ensure its safety during transit. We will show you how to return a product for a repair and for a refund.
+This article will help you understand how to return a product to us to ensure it remains safe during transit. We will explain how to return a product for both repairs and refunds.
 
-# For Repair
+If you have not already done so, you can begin the return process for either a repair or a refund via the **[DROIX Returns Portal](https://returns.droix.net/)**. To start, simply enter your Order Number (found in your DROIX order confirmation email) and the email address used to place the order. Follow the instructions provided to proceed with your return.
 
-When you return something to us for it to be repaired, we usually only need the device in question (For example: a [Mini PC](https://droix.net/product-category/mini-pcs/), or the [Retro Gaming Handheld](https://droix.net/product-category/retro-game-console/)) **not**the accessories that come with it when you received it from us. (For example: a lanyard, user manual, or USB Cable).
+## For Repair
 
-If we believe that the issue with the device may be related to an accessory (Say: the power supply, or the HDMI Cable) we will make it clear in our replies to you that we would like you to include that as well.
+When returning an item for repair, we generally only require the device itself (e.g., a [handheld gaming PC](https://droix.net/product-category/gaming-handheld/handheld-gaming-pcs/) or an [Android gaming handheld](https://droix.net/product-category/gaming-handheld/android-gaming-handheld/)); please do not include the accessories that were included in your original shipment (such as lanyards, user manuals, or USB cables).
 
-Below you will find a video on how to package your return for repair to ensure a safe journey, and a fast inbound processing by us.
+If we determine that the issue may be related to a specific accessory (e.g., the power supply or HDMI cable), we will explicitly request that you include that item in our correspondence with you. Below, you will find a video on how to package your repair return to ensure a safe journey and fast inbound processing by our team.
 
 <https://youtu.be/STJugmiSpMM>
 
-# For Refund
+## For Refund
 
-When you return your order to us for a full refund, we require all the original box, packaging & accessories that were originally shipped with your order.
-
-Below you will find a video on how to package your return for repair to ensure a safe journey, and a fast inbound processing by us.
+When returning your order for a full refund, we require that you include the original box, all packaging, and every accessory that was originally shipped with your order. Below, you will find a video on how to properly package your return to ensure a safe journey and fast inbound processing by our team.
 
 <https://youtu.be/ZomiOweIcpk>
+
+## Tracking Your Return
+
+The [DROIX Returns Portal](https://returns.droix.net/) can also be used to track the status of your return. On the portal, click the **Track** link; you will be prompted to enter the RMA number you received and the email address used to place your order.

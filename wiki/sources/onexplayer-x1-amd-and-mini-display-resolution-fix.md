@@ -18,19 +18,27 @@ Download and unzip the EDID file from [here](https://droidbox.sharepoint.com/:u:
 
 You will have a file named **EDID.reg**. Double click on this file, a notification will appear asking if you are sure you wish to open this file, choose **Run**.
 
+![ONEXPLAYER X1 screen resolution fix 1](https://droix.net/knowledge-base/wp-content/uploads/2024/08/ONEXPLAYER-X1-screen-resolution-fix-1-300x245.png)
+
 A security warning prompt, choose Run
 
 A second notification will appear asking if you are sure you wish to continue. Choose **Yes**.
 
+![ONEXPLAYER X1 screen resolution fix 2](https://droix.net/knowledge-base/wp-content/uploads/2024/08/ONEXPLAYER-X1-screen-resolution-fix-2-300x98.png)
+
 A second security warning, choose Yes
 
 A third notification will now show to confirm that the keys and values have been added to the registry. Click on **OK** to close the notification.
+
+![ONEXPLAYER X1 screen resolution fix 3](https://droix.net/knowledge-base/wp-content/uploads/2024/08/ONEXPLAYER-X1-screen-resolution-fix-3-300x72.png)
 
 A confirmation the registry has been updated
 
 Reboot your ONEXPLAYER X1.
 
 Once rebooted, right click on the desktop and choose **Display Settings**. Click on the drop down menu for **Display Resolution** and you will now see the various resolutions have been restored.
+
+![The resolutions are now available again](https://droix.net/knowledge-base/wp-content/uploads/2024/08/ONEXPLAYER-X1-screen-resolution-fix-4-300x112.png)
 
 The resolutions are now available again
 

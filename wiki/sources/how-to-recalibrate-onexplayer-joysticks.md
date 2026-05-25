@@ -18,6 +18,8 @@ Occasionally the joysticks on devices such as controllers or handheld PC’s can
 
 You will first need to download the correct firmware for your ONEXPLAYER handheld. If you are not sure which model you have you can check on the back of your handheld or box for the model name on the silver sticker as shown below. In the image below we have the ONEXPLAYER Mini 5800U model identified by the screen size of 7 inches and the 5800U processor on the sticker.
 
+![ONEXPLAYER Model Name](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/03/ONEXPLAYER-Controller-Calibration-14-1024x576.jpg)
+
 ONEXPLAYER Model Name
 
 **Please ensure you are downloading the correct firmware. It may cause further issues if the incorrect firmware is installed.**
@@ -35,6 +37,8 @@ ONEXPLAYER Mini – Intel 1195G7 Model – [Download here](https://droidbox.shar
 
 For the 8.4″ display models you also need to check the Serial Number (SN) for which version of firmware you need:
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/03/ONEXPLAYER-Controller-Calibration-13-1024x576.jpg)
+
 ONEXPLAYER – Intel 1195G7, AMD 4800U/5700U/5800U Models:  
 Serial Number starting with SN: 21: [Download here](https://droidbox.sharepoint.com/:u:/s/Purchasing/EZtUTXp8YHhHla2L-99oArABiA3uc-hHQ5bdD_lPTdXXjg?e=dXnyig)  
 Serial Number starting with SN: 22: [Download here](https://droidbox.sharepoint.com/:u:/s/Purchasing/EeLXjlXO1aREuklMor2h0ooBp1ijW9SUiPzK5r3c5VFRcA?e=0hTIDr)
@@ -51,21 +55,31 @@ Extract the file(s) from the firmware file you downloaded.
 
 Press and hold the **Keyboard** button (indicated below) for 1.5 seconds until the LED beside it turns orange.
 
+![Press and hold the Keyboard button](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/03/ONEXPLAYER-Controller-Calibration-10-1024x576.jpg)
+
 Press and hold the Keyboard button
 
 The LED beside the keyboard button will switch on with an orange light.
+
+![ONEXPLAYER Orange LED](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/03/ONEXPLAYER-Controller-Calibration-11-1024x576.jpg)
 
 ONEXPLAYER Crange LED
 
 **Right click** on the **BM*xxx*.exe** (filename will vary depending on model and version) file you extracted and choose **Run as administrator**.
 
+![Load it with admin privileges](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/03/ONEXPLAYER-Controller-Calibration-1-1024x579.png)
+
 Load it with admin privileges
 
 The firmware flashing software will now load. Click on the **START** button.
 
+![Click on the START button](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/03/ONEXPLAYER-Controller-Calibration-3-1024x302.png)
+
 Click on the START button
 
 It will now flash the latest update which takes a short whole, the blue bar shows the progress. Do not close the software or shutdown your ONEXPLAYER during this process.
+
+![Flashing the update](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/03/ONEXPLAYER-Controller-Calibration-4-1024x351.png)
 
 Flashing the update
 
@@ -73,9 +87,13 @@ After a short wait it will show the download is successful. And after 5 seconds 
 
 Click on **OK** and close the firmware update software.
 
+![Update successful](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/03/ONEXPLAYER-Controller-Calibration-5-1024x444.png)
+
 Update successful
 
 Press and hold the **BACK** button for 5 seconds to calibrate the joystick. The LED beside the keyboard button will rapidly flash a few times to confirm it is calibrated.
+
+![Press and hold the Back button](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/03/ONEXPLAYER-Controller-Calibration-12-1024x576.jpg)
 
 Press and hold the Back button
 
@@ -86,5 +104,7 @@ Your controller is now calibrated! Don’t forget to re-enable your Anti-virus s
 Open your browser and go to <https://gamepad-tester.com/> . It will prompt you to connect your gamepad and press a button. As it is already connected, simply press any button and it will be recognised.
 
 You can now move both of the analogue sticks in any direction to to see if it is accurate to your input.
+
+![Gamepad Tester Website](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/03/ONEXPLAYER-Controller-Calibration-7-1024x579.png)
 
 Gamepad Tester Website

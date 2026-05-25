@@ -16,11 +16,15 @@ If you are looking to upgrade your Beelink GK35, we at DROIX have put together a
 
 ## Step 1 – Remove the rear plate
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220318_120552583-1024x768.jpg)
+
 To access the GK35, first you must remove the bottom of the unit.
 
 The bottom of the GK35 is held in place by four cross-head screws, one in each corner of the device (circled in red). Once these screws are removed, you can easily lift the rear plate up. The first time you do this, you *may* need to use a thin prying tool such as a toothpick, plastic spudger, or even your fingernail.
 
 ## Step 2 – Replacing Components
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220318_121101648-1024x768.jpg)
 
 You will now be at the heart of the Beelink GK35. From here, you can upgrade and replace the components as you wish.
 

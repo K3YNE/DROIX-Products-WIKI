@@ -20,7 +20,7 @@ Mini Tool Partition Wizard – <https://www.partitionwizard.com/free-partition-m
 
 Win32 Disk Imager – <https://sourceforge.net/projects/win32diskimager/>
 
-Custom Firmware – The latest version can be found at <https://www.droixforums.com/forums/bittboy-and-pocket-go-retro-gaming-handheld.145/>
+Custom Firmware – The latest version can be found at <https://www.droidboxforums.com/forums/bittboy-and-pocket-go-retro-gaming-handheld.145/>
 
 Game ROMs – We do not provide any downloads for games. You will need to find these yourself.
 
@@ -36,13 +36,23 @@ Insert your MicroSD Card into your PC and load Mini Tool Partition Wizard.
 
 Identify and double check that you can see the MicroSD Card and then select the MicroSD Card by clicking on it once. Click on the text for the card to select all of the card.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/minidisk-1-300x225.jpg)
+
 Right click on the card and choose **Format**
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/minidisk-2-300x225.jpg)
 
 On the File System, choose **FAT32** then press **OK**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/minidisk-3-300x166.jpg)
+
 Click on **Apply** in the top left corner.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/minidisk-4-300x225.jpg)
+
 The software will now format the MicroSD card to FAT32 which can take a few moments to complete.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/minidisk-5-300x266.jpg)
 
 Once completed, you can close the Mini Tool Partition Wizard software.
 
@@ -52,13 +62,23 @@ Next, load Win32 Disk Imager
 
 Click on the **Blue Folder** icon and locate the custom firmware image file, for example PocketGo.V1.2\_CFW\_1-08-2019.img
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/win32disk-1-300x209.jpg)
+
 Next, double check that the drive letter is the correct one for your MicroSD card. Be 100% sure it is correct otherwise you may overwrite your PC hard drive. If it is not correct, click on the drive letter and choose the correct one.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/win32disk-2-300x209.jpg)
 
 Double check again you have selected the correct drive letter and then click on **Write**
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/win32disk-3-300x209.jpg)
+
 A prompt will appear to be 100% sure again, if all is good then press **Yes** to begin writing the custom firmware to the SD Card.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/win32disk-4-300x120.jpg)
+
 The software will now write the custom firmware to the MicroSD Card. It will take a short period of time to complete.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/win32disk-5-300x209.jpg)
 
 Once the software has finished writing you may get some popup notifications to format a drive, click **Cancel** to ignore them as we do not want to format the drive. You can now close the Win32 Disk Imager software.
 
@@ -70,9 +90,15 @@ Load the Mini Tool Partition Wizard software. You will now see that there five p
 
 We now want to expand the partition named ‘**main**’ to use the remaining available space. Right click on the ‘main’ partition and choose **Extend**
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/minidisk-6-2-300x225.jpg)
+
 Drag the slider all the way to the right to fully allocate all the space to the ‘main’ partition. Click on **OK**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/minidisk-7-2-300x164.jpg)
+
 Click on Apply in the top left to start allocating the free space to the ‘**main**’ partition. This may take some time depending on the size of your MicroSD Card
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/minidisk-8-2-300x266.jpg)
 
 Once complete, you can now exit the Mini Tool Partition Wizard software.
 
@@ -84,8 +110,12 @@ Open the ‘main’ drive and you will see a folder named ‘**roms**’ You can
 
 We recommend keeping an organised folder structure if you are planning to add many games. By making folders for each system it allows for easier finding of games and also faster loading times. Make a folder for each of the systems you plan to add games for.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/sdcard-1-300x114.jpg)
+
 If you have a large number of games for a system, you can organise it further into sub-folders such as A-F, G-L, M-S, T-Z. This makes it faster to load the list of games, and also saves time for you scrolling to get to a game beginning with M for example.
 
 Copy over any files in to their respective folders. Once you are done you can insert the Micro SD Card into your BittBoy Pocket GO.
 
 Switch on your BittBoy Pocket GO and it will take a few seconds to boot the the menu software. You are now ready to play!
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Pocket-Go-300x169.jpg)

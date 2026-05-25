@@ -25,13 +25,19 @@ You will need a PC, and a way of reading microSD cards. Either a USB card reader
 
 Firstly, remove the SD card from the system, and insert it into your PC.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/rg351p_sd_card_slot.jpg)
+
 There might be a sticker over your SD card slot. You’ll need to remove it first.
 
 Now, open the games partition in your file explorer.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/rg351_games_partition.jpg)
+
 The drive letter will change automatically based on how many drives are already connected.
 
 Finally, copy your game files over into the respective folder to add them to the device, or delete them to remove them from the device! It’s really that easy!
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/rg351_games_folders.jpg)
 
 There will already be a number of folders present as a sort of structural guide. You can delete the platform-related ones as you wish, but do not rename them!
 
@@ -43,13 +49,19 @@ To fix this, you will need to assign a drive letter to the partition. This can b
 
 Firstly, open the disk management interface. Type “disk manager” in the Windows 10 search bar, then select “Create & Format Hard Disk Partitions”.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/disk_management.jpg)
+
 You can type a variety of approximations to get the same result. “drive manager”, “disk m” – it usually works.
 
 Now right click the GAMES partition and select “Change Drive Letter and Paths…”
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/rg351p_assign_drive_letter.jpg)
+
 The partition will usually be around 56GB in size.
 
 Click “Add”, choose a drive letter, then click “OK” in both windows.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/rg351p_choose_letter.jpg)
 
 The letters available will depend on what’s already in the device. It doesn’t matter which one you pick.
 
@@ -65,19 +77,27 @@ This second method can be used even if you do not have an SD card reader.
 
 First, make sure that your RG351P is connected to the internet, and make a note of its IP address.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/rg351p_wifi.jpg)
+
 The IP address may be different each time you connect. Keep that in mind.
 
 Now, open your FTP Client and create a new SFTP connection for the IP address (host name) you have written down.  
 **The RG351P username is “root”**, and **the RG351P password is “emuelec”**. Leave the port as 22.  
 Save it, and click “Login”.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/rg351p_ssh_login.jpg)
+
 If you get a warning regarding connecting to an unknown server, just click “Yes”.
 
 If successful, you should now be able to browse the contents of the device. Should you be unsuccessful, make sure that the host name and username/password are correct.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/rg351p_ssh_screen.jpg)
+
 The left half represents our PC. The right half represents the handheld.
 
 Navigate to the correct folder, and you can now copy over and remove files as your FTP client allows. Click the folder with two dots as the name to go up a directory level.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/rg351o_ssh_games_folders.jpg)
 
 The correct directory is /var/media/GAMES.
 

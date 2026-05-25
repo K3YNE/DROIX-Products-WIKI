@@ -43,11 +43,17 @@ Keeping your GPD WIN Mini up-to-date is crucial for optimal performance and secu
 1. Open the Start menu by clicking the Windows icon or pressing the Windows Key
 2. Select the Settings icon (gear symbol) or type “Settings” in the search bar and press RETURN(Enter).
 
+![Image showing the first step on updating Windows 11 on the GPD Pocket 3](https://gpdstore.net/wp-content/uploads/2024/09/Step-1-1200x675.jpg)
+
 1. In the Settings window, click on “Windows Update” in the left sidebar.
 2. To check for available updates, click the “Check for updates” button.
 
+![](https://gpdstore.net/wp-content/uploads/2024/09/Step-3-1200x675.jpg)
+
 1. If updates are available, Windows will begin downloading them automatically.
 2. Once downloaded, you may need to restart your GPD WIN Mini to complete the installation process.
+
+![](https://gpdstore.net/wp-content/uploads/2024/09/Step-2-1200x675.jpg)
 
 **Note:** Your GPD WIN Mini is set to automatically check for updates, but it’s a good practice to manually check periodically. You can customize update settings by clicking “Advanced options” in the Windows Update menu
 
@@ -133,6 +139,8 @@ The GPD G1 is a powerful accessory for the GPD WIN Mini, offering significant pe
 * Despite its powerful features, the GPD G1 maintains a compact and portable design, making it easy to carry alongside the WIN Mini.
 * The GPD G1 offers flexible connectivity through OCuLink (with 63Gbps effective bandwidth) and USB 4.0, ensuring compatibility with various devices beyond the WIN Mini.
 
+![GPD G1 (2024) eGPU Docking Station](https://gpdstore.net/wp-content/uploads/2023/11/GPD-G1_2024-LISTING_DONE-IMAGE-0-1200x1200.png)
+
 ## GPD G1 (2024) eGPU Docking Station
 
 $690.95
@@ -148,13 +156,17 @@ The GPD WIN Mini pairs perfectly with the versatile 14-inch 4K Ultra HD DROIX PM
 * The monitor is available in both touch and non-touch models, catering to different user preferences.
 * Weighing just 578g and featuring a slim profile, the PM14 is highly portable, complementing the mobility of the GPD WIN Mini.
 
+![DROIX PM14 4K Portable  Monitor](https://gpdstore.net/wp-content/uploads/2024/07/DROIX-PM14T-LISTING-DONE-NEW-01.jpg)
+
 ## DROIX PM14 4K Portable Monitor
 
-$133.95 – $162.95Price range: $133.95 through $162.95
+$131.95 – $160.95Price range: $131.95 through $160.95
 
 [Shop now](https://gpdstore.net/portable-monitors/droix-pm14-portable-monitor/)
 
 ## Where to buy the GPD WIN Mini
+
+![GPD WIN Mini 2024 Gaming Handheld PC](https://gpdstore.net/wp-content/uploads/2024/03/GPD-WIN-MINI-2024-LISTING-NEWEST-DONE-01.png)
 
 ## GPD WIN Mini 2024 Gaming Handheld PC
 
@@ -163,6 +175,8 @@ $133.95 – $162.95Price range: $133.95 through $162.95
 * up to **32GB LPDDR5 @ 6400 MT/s**
 * up to **2TB** **High-Speed** PCI-E 4.0 NVMe SSD
 * WiFi **6E** & Bluetooth **5.3** Support
+
+![Free GPD Win Mini Case](https://gpdstore.net/wp-content/uploads/2024/03/GPD-WIN-MINI-FREE-GIFTS-AUTO.jpg)
 
 PAYMENT INFO
 
@@ -211,6 +225,6 @@ WHAT’S INCLUDED
 * 1x Power Plug
 * 1x User Manual
 
-~~$1,128.95~~ Original price was: $1,128.95.$958.95Current price is: $958.95.
+~~$1,112.95~~ Original price was: $1,112.95.$945.95Current price is: $945.95.
 
 [Shop now](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-mini-2024/)

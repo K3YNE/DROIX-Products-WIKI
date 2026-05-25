@@ -57,13 +57,19 @@ Please only make sure to use firmware that matches your serial number. If your s
 
 To update your device via USB, you’ll need a Windows computer, and a male-to-male USB cable, like so:
 
+![USB cable](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/s-l640.jpg)
+
 USB cable
 
 You’ll also need the Amlogic USB Burning tool, which you can download [here](https://droidbox.sharepoint.com/:u:/s/Purchasing/EVJKogTC-JNBkxFFS_kxuM4BzmkvoPEd4NKey_WbA1i8Aw?e=83W6Hz).
 
 Install the Burning tool,, then start it up. You’ll be met with an interface like this:
 
+![The burning tool](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/chrome_M0nxoQE4gb.png)
+
 In the top left corner, click “FIle” and then “Import Image”
+
+![import image](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/chrome_ilk1sUSKiO.png)
 
 import image
 
@@ -71,9 +77,11 @@ Find the image file you downloaded previously, and open it. It may take a while 
 
 Now connect one end of the USB cable into your PC, and the other end into the appropriate USB port on the device (see below for images).
 
+![connect usb](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/IMG_20200717_151400368.jpg)
+
 connect usb
 
-
+![Flashing process has begun](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/chrome_Iu3CcjtMUQ.png)
 
 Flashing process has begun
 
@@ -91,6 +99,8 @@ You will also need some method of both accessing and modifying the contents of t
 
 First, we’ll need to format the SD card as FAT32. To do that, insert the card into your PC, right click the SD card in Windows File Explorer, and select “Format”.
 
+![Format WINPE](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/2020-07-16_12-03-47.png)
+
 Format WINPE
 
 Make sure that FAT32 is selected as the File System, and that Quick Format is ticked. Then click Start. There’s no need to change anything else.
@@ -107,17 +117,25 @@ Now, insert the SD card into the GT King/Pro, and then turn it on.
 
 Once turned on, select the icon with six white dots inside of a grey circle.
 
+![Select icon with dots](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/RECentral_lmJN6V28M2-1024x576.png)
+
 Select icon with dots
 
 You’ll be taken to the list of apps on the device. Select “UPDATE&BACKUP” (It may also be called “LOCAL UPDATE)
+
+![Local input](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/RECentral_H11iv5BflD-1024x576.png)
 
 Local input
 
 Press the “Select”, and choose the OTA zip file from the list of zip files found on the device.
 
+![Update ](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/RECentral_aUN9W4YBwP-1024x577.png)
+
 Update
 
 Now select “Update” (if prompted to confirm, just press update again), and the update will proceed automatically.
+
+![Start update](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/RECentral_hQSI5FgbyX-1024x573.png)
 
 Start update
 

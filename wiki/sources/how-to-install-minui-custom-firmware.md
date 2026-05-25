@@ -27,11 +27,15 @@ Download the latest version of the MinUI OS from [here](https://github.com/shaun
 
 Once extracted, you will have a list of folders and files similar to below:
 
+![MinUI for Miyoo A30 base and extra folders](https://droix.net/knowledge-base/wp-content/uploads/2024/07/MinUI-for-Mitoo-A30-1.png)
+
 MinUI for Miyoo A30 base and extra folders
 
 Navigate to the **MinUI-xxx-extras** folder and press **CTRL+A** to select all the contents, then **CTRL+C** to copy them. Now navigate to the **MinUI-xxx-base** folder and press **CTRL+V** to paste the copied files. You may be prompted to overwrite files, if so, choose **Yes**.
 
 Once completed, the **MinUI-xxx-base** folder should look similar to below.
+
+![MinUI for Miyoo A30 base folder structure](https://droix.net/knowledge-base/wp-content/uploads/2024/07/MinUI-for-Miyoo-A30-2.png)
 
 MinUI for Miyoo A30 base folder structure
 
@@ -40,6 +44,8 @@ MinUI for Miyoo A30 base folder structure
 If you want to transfer your games files from the original micro SD card you can do so now. We are using the Miyoo A30 classic gaming handheld in this example, so the folders may be slightly different on yours.
 
 Insert the original Micro SD card in to your PC and navigate to the correct drive for it. You will see a number of files and folders.
+
+![Miyoo A30 micro SD card structure](https://droix.net/knowledge-base/wp-content/uploads/2024/07/Spruce-CFW-2-1024x433.png)
 
 Miyoo A30 micro SD card structure
 
@@ -55,6 +61,8 @@ Load the MiniTool Partition Wizard software. Insert the micro SD card into your 
 
 Right click on the micro SD card drive and choose **Delete All Partition**s. Next, right click on the **Unallocated** space to the right and choose **Create**.
 
+![Format Options](https://droix.net/knowledge-base/wp-content/uploads/2024/07/Spruce-CFW-3.png)
+
 Format Options
 
 A menu will show with some options, for the **File System** option, change this to **FAT32**, then click on **OK**. Double and triple check you have chosen the correct drive for your micro SD card. Now click on **Apply**, the software will delete the original partitions, and then format the card to **FAT32**. This may take a short while if the card is large.
@@ -69,10 +77,14 @@ Everything will now be copied to your new micro SD card in one go. This may take
 
 Once all of the files have been copied to the micro SD card, you can safely eject it. Now insert it into the Miyoo A30 mobile gaming handheld and switch it on.
 
+![MinUI for Miyoo A30 Menus](https://droix.net/knowledge-base/wp-content/uploads/2024/07/MinUI-for-Miyoo-A30-Menus-1024x576.jpg)
+
 MinUI for Miyoo A30 Menus
 
 The first boot will take longer than usual as it finishes setting up the software and scans for any games you copied over. Again this may take some time if you have a lot of games.
 
 Once completed you will now be able to use the [Miyoo A30](https://droix.net/product/miyoo-a30/) retro gaming handheld with MinUI. Enjoy!
+
+![MinUI for Miyoo A30 Game](https://droix.net/knowledge-base/wp-content/uploads/2024/07/MinUI-for-Miyoo-A30-Game-1024x576.jpg)
 
 MinUI for Miyoo A30 Game

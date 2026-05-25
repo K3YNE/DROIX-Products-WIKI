@@ -20,6 +20,8 @@ Ensuring your handheld receives consistent energy is vital for an uninterrupted 
 
 It is crucial to recognise that the USB 4 port on the [GPD WIN 5](https://gpdstore.net/product/gpd-win-5/ "GPD WIN 5") is rated for a maximum of 100W. Therefore, even if you employ a massive 140W adapter, the GPD WIN 5 USB power intake remains restricted by these hardware specs. During our lab tests, we found that attempting high TDP settings without a battery often resulted in system instability.
 
+![GPD WIN 5 USB Charger Use](https://gpdstore.net/wp-content/uploads/2025/12/GPD-WIN-5-powered-by-USB-charger-1200x675.jpg)
+
 GPD WIN 5 powered by USB charger
 
 For instance, at a 55W TDP, our power meter showed the GPD WIN 5 peaking at 103W. When we boosted the TDP to 65W, the draw occasionally hit 112W. However, the GPD WIN 5 faced significant trouble at 75W. Because the power requirements exceeded what the charger could deliver consistently, the handheld simply shut down mid-benchmark.
@@ -27,6 +29,8 @@ For instance, at a 55W TDP, our power meter showed the GPD WIN 5 peaking at 103W
 ## Why a GPD WIN 5 External Battery is Essential
 
 We highly advise keeping your [GPD WIN 5 battery](https://gpdstore.net/product/gpd-win-5-battery/ "GPD WIN 5 battery") attached even while using a high-performance wall plug. While running the GPD WIN 5 solely on USB power is possible, the results are frequently unpredictable. Our testing showed that the GPD WIN 5 often crashed during the Windows boot sequence or heavy 3DMark tests when the battery was missing.
+
+![GPD WIN 5 with USB charger](https://gpdstore.net/wp-content/uploads/2025/12/GPD-WIN-5-with-USB-charger-1200x675.jpg)
 
 GPD WIN 5 with USB charger
 
@@ -37,6 +41,8 @@ The GPD WIN 5 external battery serves as a critical buffer that can even repleni
 ## Optimising GPD WIN 5 USB Charger Use via TDP Settings
 
 If you find it necessary to operate the [GPD WIN 5](https://gpdstore.net/product/gpd-win-5/ "GPD WIN 5") without its battery, a 40W TDP seems to be the safest threshold. Nevertheless, we still encountered some unexpected shutdowns during very demanding software at this level. Because of this, the official mains power brick via the DC barrel jack remains the superior method for powering the GPD WIN 5.
+
+![A high capacity power bank could also be used as an alternative](https://gpdstore.net/wp-content/uploads/2025/12/GPD-WIN-5-and-power-bank-1200x675.jpg)
 
 A high capacity power bank could also be used as an alternative
 
@@ -50,9 +56,13 @@ The external battery is a major factor in maintaining a reliable experience for 
 * Combine a 100W+ charger or power bank with the battery for a portable, lightweight setup.
 * Always use the DC barrel jack power brick to achieve the highest possible performance.
 
+![GPD WIN 5 powered by power brick](https://gpdstore.net/wp-content/uploads/2025/12/GPD-WIN-5-powered-by-power-brick-1200x675.jpg)
+
 GPD WIN 5 powered by power brick
 
 In summary, while a 100W+ charger is a fantastic accessory, it should not be your sole power source. Keep your battery plugged in to avoid frustrating, random power-offs. By following these simple steps, your [GPD WIN 5](https://gpdstore.net/product/gpd-win-5/ "GPD WIN 5") will remain protected and powered for your most intense gaming marathons.
+
+![GPD WIN 5 Gaming Handheld PC](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-5-INFOGRAPHIC-01.png)
 
 ## GPD WIN 5 Gaming Handheld PC
 

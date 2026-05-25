@@ -16,6 +16,8 @@ tags: [kb-article, droix]
 
 The Blue Screen of Death (BSOD), technically known as a “stop error,” is a critical safety mechanism within the Windows 11 operating system. When Windows encounters a problem so severe that it cannot recover without risking data corruption or hardware damage, it halts all operations and displays this error screen. While its appearance can be alarming, the BSOD is fundamentally a protective measure. In Windows 11, this screen may appear as a Black Screen of Death, a cosmetic change intended to align with the operating system’s new aesthetic, but its function remains identical.
 
+![Windows BSOD](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Windows-BSOD-1024x576.jpg)
+
 Windows BSOD
 
 This guide provides a definitive troubleshooting methodology tailored specifically for the unique ecosystem of high-performance devices, from a portable gaming PC to a mini PC. Devices from manufacturers such as [GPD](https://droix.net/product-attribute/brands/gpd/), ONEXPLAYER, [AYANEO](https://droix.net/product-attribute/brands/ayaneo/), Minisforum, GMKTec, and Beelink represent a specialized class of hardware, including the popular [handheld gaming PC](https://droix.net/product-category/gaming-handheld/handheld-gaming-pcs/). The compact form factors of a mobile gaming PC or a mini PC for office use, along with their highly integrated components and custom hardware configurations, present unique challenges. These designs can lead to specific types of errors, particularly those related to bespoke device drivers, thermal management under heavy loads, and compatibility with major Windows updates.
@@ -27,6 +29,8 @@ The troubleshooting philosophy of this report follows a systematic, “funnel”
 When a BSOD occurs, the initial moments are critical for gathering information. Resisting the urge to immediately restart the device and instead adopting a structured diagnostic process can significantly shorten the time to resolution.
 
 ### Deconstructing the Blue Screen: Gathering Intelligence
+
+![Windows Blue Screen Warning](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Windows-Blue-Screen-Warning.jpg)
 
 Windows Blue Screen Warning
 
@@ -75,17 +79,23 @@ Issues originating from the Windows operating system itself are a frequent sourc
 
 Two powerful command-line utilities are built into Windows to repair the operating system’s core files: System File Checker (SFC) and Deployment Image Servicing and Management (DISM). These should be run from an administrative Command Prompt, which can be accessed from Safe Mode or the Windows Recovery Environment. In the Windows search bar, type **cmd**, right click on the Command Prompt option and choose **Run as administrator**
 
+![Command Prompt Run As Administrator](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Command-Prompt-Run-As-Administrator-300x169.jpg)
+
 Command Prompt Run As Administrator
 
 First, the System File Checker tool should be run. This utility scans all protected operating system files and replaces corrupted, incorrect, or damaged versions with the correct versions. To execute it, the following command is used:
 
 **sfc /scannow**
 
+![Windows SFC command line scan](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Windows-SFC-command-line-scan-1024x593.jpg)
+
 Windows SFC command line scan
 
 If SFC reports that it found corrupt files but was unable to fix some of them, it often means the underlying component store that SFC relies on is also damaged. In this case, the DISM tool must be used to repair the Windows image itself. DISM can download clean files from Windows Update to replace corrupted ones in the local image. The command to run is:
 
 **DISM /Online /Cleanup-Image /RestoreHealth**
+
+![Windows DISM command line scan](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Windows-DISM-command-line-scan-1024x593.jpg)
 
 Windows DISM command line scan
 
@@ -95,9 +105,13 @@ After the DISM command completes successfully, it is best practice to run **sfc 
 
 A significant pattern of instability has been observed across the landscape of handheld and [Mini PCs](https://droix.net/product-category/mini-pcs/) in relation to a specific Windows update. Numerous user reports from the GPD, ONEXPLAYER, AYANEO, and Beelink communities indicate that the Windows 11 Version 24H2 feature update is a direct cause of severe BSODs, including **DPC\_WATCHDOG\_VIOLATION**, and persistent boot loops. This suggests a systemic incompatibility between the hardware and driver ecosystem of these specialized devices and the architectural changes introduced in that update. Consequently, it was strongly recommended to avoid installing the 24H2 update. If it has already been installed and is causing issues, it must be uninstalled.
 
+![Windows Uninstall Updates](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Windows-Uninstall-Updates-1024x560.jpg)
+
 Windows Uninstall Updates
 
 To remove a problematic update, the system should be booted into Safe Mode. From there, navigate to **Settings > Windows Update > Update history > Uninstall updates**. This will display a list of recently installed updates. The latest Quality Update or Feature Update can be selected and uninstalled. Similarly, if BSODs began after installing a new application, particularly system utilities or antivirus software, it should be uninstalled from Safe Mode via **Settings > Apps > Installed Apps**
+
+![Windows Installed Apps](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Windows-Installed-Apps-1024x539.jpg)
 
 Windows Installed Apps
 
@@ -113,9 +127,11 @@ Device drivers are the single most common cause of Blue Screen of Death errors. 
 
 The first line of defense is proper driver maintenance. This involves ensuring all drivers are up-to-date while also having the ability to revert a recent update if it causes instability.
 
+![Windows Install Optional Updates](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Windows-Install-Optional-Updates-1024x543.jpg)
+
 Windows Install Optional Updates
 
-
+![Windows Roll Back Driver](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Windows-Roll-Back-Driver.jpg)
 
 Windows Roll Back Driver
 
@@ -125,6 +141,8 @@ Windows Roll Back Driver
 ### Solution 2: Advanced Diagnostics with Driver Verifier
 
 When BSOD memory dump files are inconclusive, often blaming a generic Windows kernel file like **ntoskrnl.exe**, a more advanced tool is needed to identify the true culprit. Driver Verifier is a utility built into Windows specifically for this purpose. It subjects selected drivers to a series of extreme stress tests, monitoring them for illegal function calls or actions that could corrupt the system. This process is designed to force latent bugs within a driver to manifest immediately, causing a BSOD that directly implicates the faulty driver file.
+
+![Driver Verifier Manager](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Driver-Verifier-Manager-300x229.jpg)
 
 Driver Verifier Manager
 
@@ -152,6 +170,8 @@ Certain BSOD errors are caused by known conflicts between specific software and 
 
 and turning off the toggle. It is important to note that disabling this feature reduces system security, and it should be considered a temporary measure until the anti-cheat software provider releases a compatible update.
 
+![Windows Core Isolation](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Windows-Core-Isolation-300x184.jpg)
+
 Windows Core Isolation
 
 ## Section 4: RAM (Memory) Issues
@@ -165,6 +185,8 @@ For an office mini PC from brands like Beelink and Minisforum where the RAM is u
 ### Solution 2: Windows Memory Diagnostic
 
 Windows includes a built-in tool for performing a basic memory test. The Windows Memory Diagnostic tool can be launched by pressing **Win + R**, typing **mdsched.exe** in the Run dialog, and pressing **Enter**. The tool will prompt for a system restart to begin the test. While this utility is a convenient first step and can detect obvious hardware failures, it is not as exhaustive as more specialized third-party software. If the Windows tool reports no errors but memory-related BSODs continue, a more rigorous test is required.
+
+![Windows mdsched](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Windows-mdsched-1024x746.jpg)
 
 Windows mdsched
 
@@ -183,6 +205,8 @@ A comprehensive tutorial for using MemTest86 involves the following steps:
 7. The test will begin a countdown and then start running automatically. For a thorough and conclusive diagnosis, the test should be allowed to complete a minimum of four full passes. Depending on the amount and speed of the RAM, this process can take several hours.
 8. Monitor the screen for errors. If any errors are detected, they will be displayed in red. The presence of even a single error confirms that at least one of the RAM modules is physically faulty and must be replaced to achieve system stability.
 
+![Memtest86](https://droix.net/knowledge-base/wp-content/uploads/2023/07/Memtest86_v83p.png)
+
 Memtest86
 
 ## Section 5: SSD (Storage) Issues
@@ -197,6 +221,8 @@ The first step in diagnosing a potential storage issue is to verify the integrit
 
 The **/f** parameter instructs the utility to fix any errors it finds, while the **/r** parameter tells it to locate bad sectors and recover readable information.
 
+![Windows CHKDSK](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Windows-CHKDSK-1024x593.png)
+
 Windows CHKDSK
 
 ### Solution 2: Analyze SSD Health with S.M.A.R.T. Utilities
@@ -210,6 +236,8 @@ Modern SSDs include a built-in monitoring technology called S.M.A.R.T. (Self-Mon
 ### Solution 3: Verify BIOS/UEFI Boot Settings
 
 In some cases, a BSOD like **INACCESSIBLE\_BOOT\_DEVICE** is not caused by a failing drive but by incorrect settings in the system’s BIOS or UEFI. It is essential to enter the setup menu during startup and verify two key settings. First, the boot priority order must be correctly set, with “Windows Boot Manager” or the specific SSD model listed as the primary boot device.
+
+![Windows Boot Manager Boot Option](https://droix.net/knowledge-base/wp-content/uploads/2025/08/Windows-Boot-Manager-Boot-Option-1024x581.jpg)
 
 Windows Boot Manager Boot Option
 

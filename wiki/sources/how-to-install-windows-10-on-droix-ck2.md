@@ -28,11 +28,16 @@ Disk image writing software, you can use any software such as Win32 DiskImager o
 
 ### **Preparing the USB Stick**
 
-Open the Imager software. Click on **Choose OS**.
+Open the Imager software. Click on **Choose OS**.  
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/macOS-and-Ubuntu-Imager-1-1-300x196.png)
 
 Scroll down the list and choose: **Use Custom – Select a custom .img from your computer**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/macOS-and-Ubuntu-Imager-2-1-300x195.png)
+
 Locate the Windows Install .img file on your PC and select it. Now click on **Choose SD Card** option and choose the correct drive for the USB Stick.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/macOS-and-Ubuntu-Imager-3-1-300x195.png)
 
 Once selected, confirm everything is correct such as the correct USB stick. Then choose the **Write** option. The image file will now be written to the USB stick.
 
@@ -48,9 +53,13 @@ Press the power button and repeatedly tap the **F7** key on your keyboard. Keep 
 
 You can now choose the USB stick from the devices. In this example below it is UEFI: KingstonDataTraveler. Pick the appropriate name for your USB Stick.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/CK2-Boot-Menu-300x185.png)
+
 Once chosen, the install process will begin. This part of the process is automated and does not require any setting up. The process should not take long, it depends on the speed of the USB stick, it shouldn’t be more than 20 minutes or so but be patient and it will install.
 
 Once Windows has been installed you will be booted in to Windows System Preparation Mode. You do not need to do anything here. On the Window prompt, choose **OOBE** mode and **Reboot** as the Shutdown option, then click on **OK**.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/CK2-OOBE-Menu-300x171.png)
 
 The system will clean up any remaining files and reboot.
 

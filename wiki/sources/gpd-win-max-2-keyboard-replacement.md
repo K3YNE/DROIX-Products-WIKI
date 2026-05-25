@@ -20,6 +20,8 @@ While we do permit self-repairs, any damage you cause is not covered by our warr
 
 <https://youtu.be/c7S6uRfPnyE>
 
+![GPD WIN MAX 2 2025 Gaming Handheld PC](https://gpdstore.net/wp-content/uploads/2024/12/GPD-WIN-MAX-2-2025-INFOGRAPHIC-NEW-GENERIC-01.png)
+
 ## GPD WIN MAX 2 2025 Gaming Handheld PC
 
 [Shop now](https://gpdstore.net/product/gpd-win-max-2-2025/)

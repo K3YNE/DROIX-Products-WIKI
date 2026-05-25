@@ -12,10 +12,10 @@ updated: 2026-04-22
 tags: [kb-article, droix]
 ---
 
-Please follow the steps in this video to factory reset your DROIX iMX6
+Please follow the steps in this video to factory reset your DROIX® iMX6
 
 <https://youtu.be/310x5awtHPs>
 
 Download recovery.img file and place it into the SD Card as shown in the video.
 
-You can find the download and a more detailed guide at this link: https://droixforums.com/threads/firmware-links-for-imx6-devices.4874/
+You can find the download and a more detailed guide at this link: https://droidboxforums.com/threads/firmware-links-for-imx6-devices.4874/

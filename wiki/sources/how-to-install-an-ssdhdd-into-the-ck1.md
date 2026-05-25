@@ -26,11 +26,15 @@ If you find yourself in this situation often, you might figure that it’s time 
 
 To start with, remove the two screws located in the back of the device (circled in red):
 
+![CK1 mini pc](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/1-2.jpg)
+
 CK1 mini pc
 
 (Put these somewhere safe! You wouldn’t want to lose them!)
 
 Now the screws are removed, lift up the lid to separate it from the case, until eventually you’re left with this:
+
+![Lid lifted from PC](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/2-1.jpg)
 
 Lid lifted from PC
 
@@ -44,15 +48,21 @@ If you didn’t receive them, and you bought the device from us – contact us w
 
 Now you have all the necessary omponents, line up the screw holes on your chosen drive with the screw holes of the drive bay inside the lid of the CK1, like so (if it doesn’t fit, you probably don’t have a 2.5″ drive):
 
+![Installing the SSD](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/4-1.jpg)
+
 Installing the SSD
 
 Once lined up, insert the screws and tighten them (make sure they’re tight, but not too tight, otherwise they might be a pain to remove if you ever decide to change the drive later on!)
 
 Now the drive is securely fastened, take the cable (which is a SATA cable) from earlier and connect the smaller end to the CK1 (the place you connect it is located *just* above the M.2 SSD:
 
+![SATA Cable](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/3-1.jpg)
+
 SATA Cable
 
 Then connect the larger end of the SATA to the drive, like so:
+
+![SATA Cable attached to the hard drive](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/5.jpg)
 
 SATA Cable attached to the hard drive
 
@@ -60,9 +70,13 @@ The device is now connected on the physical level! All that’s left to do is cl
 
 To close the CK1, place the lid on the device, and make sure that the ends of the cable are on the same side. This just ensures that everything is aligned correctly. See the below picture for reference:
 
+![Everything Aligned closing lid](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/6.jpg)
+
 Everything Aligned closing lid
 
 Fasten the external case screws again, and you’re good to go! Here’s a photo if you forgot where they go:
+
+![Finished Mini PC](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/1-1.jpg)
 
 Finished Mini PC
 
@@ -76,13 +90,19 @@ Now you’ve connected your drive, there’s a good chance it probably hasn’t 
 
 To fix this, you’l need to press the Windows Button on your connected keyboard, or just open the search bar on the bottom right of the screen, and input “Computer Management”.
 
+![Search for Computer Management](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/ShareX_Q7gcgZ9IgC.png)
+
 Search for Computer Management
 
 Then select “Disk Management” (if you can’t see it, click the little icon next to the right-facing arrow).
 
+![Select Disk Management](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/MP9XZAjhrm.png)
+
 Select Disk Management
 
 Now you should be able to see all the connected drives and partitions that Windows 10 is aware of.
+
+![Initialize Disk](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/8.jpg)
 
 Initialize Disk
 

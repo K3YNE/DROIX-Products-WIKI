@@ -27,6 +27,8 @@ If you have an iPhone or iPad (not tested, but the iPod Touch 5th gen or later m
 
 Windows Phone also has a client app at <https://www.microsoft.com/en-gb/store/p/unified-remote/9nblggh083jx> abc
 
+![Unified Remote](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/unified-remote-full1-300x300.png)
+
 Floating Remotes (use remotes over other apps)  
 Custom Remotes  
 Widgets & Quick Actions  

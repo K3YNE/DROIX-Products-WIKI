@@ -30,15 +30,23 @@ Disk image writing software: You can use any software such as Win32 DiskImager o
 
 There may be a security sticker covering the Micro SD Card slot. You can use your fingernail or similar to break the seal either side of the Micro SD Card as shown in the below photo.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Breaking-RG350M-seal-300x169.jpg)
+
 Gently press the Micro SD card and it should click and pop up. You can now remove the card.
 
 ### **Writing the Firmware to the Micro SD Card**
 
 Open the Imager software. Click on **Choose OS**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/macOS-and-Ubuntu-Imager-1-2-300x196.png)
+
 Scroll down the list and choose: **Use Custom – Select a custom .img from your computer**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/macOS-and-Ubuntu-Imager-2-2-300x195.png)
+
 Locate the downloaded firmware **.img** file on your PC and select it. Now click on **Choose SD Card** option and choose the correct drive for the Micro SD Card.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/macOS-and-Ubuntu-Imager-3-2-300x195.png)
 
 Once selected, confirm everything is correct such as the correct Micro SD Card drive. Then choose the **Write** option. The image file will now be written to the Micro SD Card.
 

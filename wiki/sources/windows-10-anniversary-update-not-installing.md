@@ -16,11 +16,14 @@ Windows 10 Anniversary Update brings some interesting features and improvements 
 
 What should you do if this update fails or you’re not sure if it is in place yet?
 
+![0 Initial System Properties Windows 10 Anniversary Update Pre-Update Properties](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/0InitialSystemProperties-1024x608.png)  
 If the Anniversary Update has not been installed yet, the Copyright shown will indicate 2015. Hold down the Windows Flag key on your keyboard/controller, then tap the Pause/Break key (on some controllers you will need to also hold down a FN or similar modifier for Pause/Break). You can release both now. Check the © date within “Windows edition”. If you don’t have any luck with this keyboard combination, you can right click on “This Computer” in Windows Explorer, and select properties, or access it via the Control Panel.
 
 Still need to continue?
 
 First run Windows Update (click the Start button then type in  UPDATE  , you’ll find the  Check for Updates  entry there, and ensure all available updates have been installed. Now clear at least 8Gb of free space on your C drive. If you’re not sure how much space you have left, hold down the Windows Flag key on your controller, then tap the E key. You can release both now. Scroll down to and click on “This PC”. You should see the storage space available for each drive. If you’ve changed from the default view, right click on the C: drive and and select Properties.
+
+![Windows 10 Anniversary Updated Failed Error Message](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/error.png)
 
 If it is below 8Gb (8192Mb), you’ll get an error similar to the one shown above. Find some downloads you can delete or move to external storage. CCleaner ( <https://www.piriform.com/ccleaner/download/standard> ) can help you to clear away temporary files and other data that is not needed permanently.
 
@@ -28,23 +31,42 @@ T11 – if you have a 2.5″ hard drive (be it the conventional spinning drive o
 
 All models – use a memory card or USB storage device (a thumb drive, external hard drive etc) and copy the file below onto it before running
 
+![1 Media Creation Tool Windows 10 Anniversary Update](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/1MediaCreationTool-1024x576.png)
+
 Click the “Download tool now” button over at <http://microsoft.com/en-us/software-download/windows10>
 
 Once it has completed the download, open/run the application.
+
+![2 Accept Windows 10 Anniversary Update](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/2Accept.png)
 
 Wait for the “Getting a few things ready” message to go away, then click the “Accept” button (once you’ve read the Terms & Conditions.
 
 Again wait again for this new “Getting a few things ready” message to go away
 
+![3 Next Windows 10 Anniversary Update](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/3Next.png)  
 Keep it on “Upgrade this PC now” and click the “Next” button. The program will continue, downloading and installing the Windows 10 Anniversary update.
+
+![4 In Progress Windows 10 Anniversary Update](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/4InProgress.png)
+
+![5 Verifying Download Windows 10 Anniversary Update](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/5VerifyingDownload.png)
+
+![6 Licence Download Windows 10 Anniversary Update](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/6Licence.png)
 
 You’ll again be asked to agree to Microsoft’s license terms.
 
+![7 Updates Windows 10 Anniversary Update](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/7Updates.png)
+
+![8 Wait Then Keep Windows 10 Anniversary Update](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/8WaitThenKeep.png)
+
 We recommend leaving the options here at default, unless you want to lose any downloaded files and programs you’ve installed.
+
+![9 Processing Windows 10 Anniversary Update](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/9Processing-1024x576.png)
 
 After quite a long time and a few reboots, your system should now be updated. To double check if the update has indeed been processed correctly, head back to System Properties. The quickest way to get there is to hold down the Windows Flag key on your keyboard, and then tap the Pause/Break key (you can then release both keys).
 
 If your keyboard doesn’t have one of those buttons (look for Fn combinations on reduced sized controllers), open Windows Explorer instead, then scroll down to the “This PC” entry. Right click it, and select properties.
+
+![10 System Properties After Windows 10 Anniversary Update](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/10SystemPropertiesAfter-1024x608.png)
 
 If you still see Windows 10 Home with a ©201**5** Microsoft… message (rather than 201**6**), something went wrong. Reboot your device, run the program once again, and keep an eye out for any error messages or questions you may have missed during the first attempt.
 

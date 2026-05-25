@@ -20,11 +20,11 @@ tags: [kb-article, droix]
 
 ### Fixing known issues
 
-[How to reinstall DROIX Media Center (KODI,SPMC,XBMC)](#dbmcinstall)  
+[How to reinstall DROIX® Media Center (KODI,SPMC,XBMC)](#dbmcinstall)  
 [How to fix Kodi blank keyboard error](#keyboard)  
 [How to factory reset your T8 Mini](#factory-reset)  
 [BT Home Hub Parental Controls causing Script Errors](#BT-parental)  
-[Setting up a Kids Profile for DROIX](#kids)  
+[Setting up a Kids Profile for DROIX®](#kids)  
 [How to use Quick Support](#quick-support)
 
 #### Getting your T8 Mini set up at first use
@@ -35,15 +35,17 @@ YouTube video to go here[Return to top](#top)
 
 ## VIP Plus: how to connect, button functions
 
-#### Setting up a Kids Profile for DROIX
+![DROIX VIP Plus](https://droix.net/wp-content/uploads/2016/05/DroidBOX_VIP_Pro-769x1024.png)
+
+#### Setting up a Kids Profile for DROIX®
 
 It can be handy to set up a kids profile so they can safely watch media without the chance of them seeing something they shouldn’t.
 
 https://www.youtube.com/embed/GeztRbKvwqs[Return to top](#top)
 
-#### How to reinstall DROIX Media Centre based on Kodi/SPMC
+#### How to reinstall DROIX® Media Centre based on Kodi/SPMC
 
-Sometimes you might need to reinstall the DROIX Media Centre, these simple steps will help you get the most recent version for Kodi/XBMC/SPMC  
+Sometimes you might need to reinstall the DROIX® Media Centre, these simple steps will help you get the most recent version for Kodi/XBMC/SPMC  
 https://www.youtube.com/embed/QBAjw4GIjuM?rel=0[Return to top](#top)
 
 #### How to fix Kodi blank keyboard error
@@ -54,7 +56,7 @@ https://www.youtube.com/embed/Gtt7-uY2750[Return to top](#top)
 
 #### How to factory reset your T8 Mini
 
-Sometimes the simplest thing to to do to solve issues with your device is to do a factory reset. This will restore the DROIX back to the condition it was in when you took it out of the box the first time. Ideally you should only do this if instructed by a DROIX support person, but over time you may become comfortable in knowing when you may need to do this and how to go about it.
+Sometimes the simplest thing to to do to solve issues with your device is to do a factory reset. This will restore the DROIX® back to the condition it was in when you took it out of the box the first time. Ideally you should only do this if instructed by a DROIX® support person, but over time you may become comfortable in knowing when you may need to do this and how to go about it.
 
 Check button placement  
 https://www.youtube.com/embed/psOrMVm9DAI[Return to top](#top)
@@ -72,6 +74,6 @@ Alternatively, see the [BT webpage – Stay safe with BT Parental Controls](http
 
 #### How to use Quick Support
 
-You may encounter an issue that you cannot solve yourself or using one of the many helpful videos on this site and YouTube. If you call our support team, they may need to “remote” into your DROIX to help you solve the issue. To do this they use software called Quick Support. You can see what you will need to do on their request in the video below.
+You may encounter an issue that you cannot solve yourself or using one of the many helpful videos on this site and YouTube. If you call our support team, they may need to “remote” into your DROIX® to help you solve the issue. To do this they use software called Quick Support. You can see what you will need to do on their request in the video below.
 
 https://www.youtube.com/embed/jK2Mvv4qYG0?rel=0[Return to top](#top)

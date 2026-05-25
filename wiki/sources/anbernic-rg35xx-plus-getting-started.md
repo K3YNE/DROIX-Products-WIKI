@@ -28,7 +28,7 @@ When setting up your RG35XX Plus, ensuring you have all the necessary components
 * 1x [MicroSD Card](https://droix.net/product-attribute/storage-technology/micro-sd/) ([Linux OS](https://droix.net/product-attribute/operating-system/linux/) & Storage)
 * 1x User Manual
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Whats-Inside-the-Box.jpg)
 
 ## Device Overview
 
@@ -60,13 +60,15 @@ The Anbernic RG35XX Plus runs on the [Linux Operating System](https://opensource
 
 Select **Game Rooms** from the main menu and you will be presented with a list of different consoles/emulators (see *Images 1, 2 & 3* below). If you have inserted more than one MicroSD Card into your Anbernic device, you will be asked to select which storage device you wish to access each time you enter this menu. Selecting the console/emulator will present you with a list of compatible games that are saved onto that storage device.
 
+![Game Rooms 1](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Game-Rooms-1.jpg)
+
 1. Select Game Rooms
 
-
+![Game Rooms 2](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Game-Rooms-2.jpg)
 
 2. Select console/emulator
 
-
+![Game Rooms 3](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Game-Rooms-3.jpg)
 
 3. Select console/emulator cont.
 
@@ -74,13 +76,15 @@ If you have a lot of different emulators or games, continue scrolling as this me
 
 Selecting a game will launch you straight into the game’s title screen (refer to *Images 4 & 5* below). Press the **Function button**, conveniently located on the front of the controller to bring the emulators menu, where you can state save, exit and more (see *Image 6* below).
 
+![Game Rooms 4](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Game-Rooms-4.jpg)
+
 4. Select game
 
-
+![Game Rooms 5](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Game-Rooms-5.jpg)
 
 5. Game title screen
 
-
+![Game Rooms 6](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Game-Rooms-6.jpg)
 
 6. Emulator menu
 
@@ -88,25 +92,31 @@ Selecting a game will launch you straight into the game’s title screen (refer 
 
 You can also emulate games through the [RetroArch](https://www.retroarch.com/) frontend – luckily for you, it’s already installed and set up on the RG35XX Plus. All you need to do is simply select **RA Game** from the main menu (see *Image 1* below). Doing so will present you with a list of the RetroArch cores that have been installed (see *Image 2* below).
 
+![RetroArch 1](https://droix.net/knowledge-base/wp-content/uploads/2023/12/RetroArch-1.jpg)
+
 1. Select RA Games
 
-
+![RetroArch 2](https://droix.net/knowledge-base/wp-content/uploads/2023/12/RetroArch-2.jpg)
 
 2. Select RetroArch core
 
 Similar to launching individual emulators via the **Game Rooms** option, after selecting an emulator, you will find a list of compatible games – simply **select** the game to be launched to the title screen (as shown in *Images 3 & 4* below).
 
+![RetroArch 4](https://droix.net/knowledge-base/wp-content/uploads/2023/12/RetroArch-4.jpg)
+
 3. Select game
 
-
+![RetroArch 5](https://droix.net/knowledge-base/wp-content/uploads/2023/12/RetroArch-5.jpg)
 
 4. game title screen
 
 Press the **Function button** at any point during a game to open up the RetroArch menu (see *Images 5 & 6* below). From this menu you can access state saves, configurations, net play and much more.
 
+![RetroArch 6](https://droix.net/knowledge-base/wp-content/uploads/2023/12/RetroArch-6.jpg)
+
 5. RetroArch quick menu
 
-
+![RetroArch 7](https://droix.net/knowledge-base/wp-content/uploads/2023/12/RetroArch-7.jpg)
 
 6. RetroArch main menu
 
@@ -116,17 +126,21 @@ Favouriting games is a good method to quickly and easily access all of your favo
 
 To **favourite** any game, simply press the **Start button** before launching it (see *Image 1* below). A game that has been added to your favourites will be represented by a **gold star** at the end of the game name (refer to *Image 2* below).
 
+![Favourites 1](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Favourites-1.jpg)
+
 1. Press Select to favourite
 
-
+![Favourites 2](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Favourites-2.jpg)
 
 2. Favourite game
 
 Once you have favourited a few games and you want to now find them, all you need to do is select **Favourites** from the **main menu** (refer to *Image 3* below). This will open a separate menu which will display all of your favourite games (refer to *Image 4* below).
 
+![Favourites 3](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Favourites-3.jpg)
+
 3. Select Favourites
 
-
+![Favourites 4](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Favourites-4.jpg)
 
 4. All favourites games
 
@@ -134,9 +148,11 @@ Once you have favourited a few games and you want to now find them, all you need
 
 You can select **History** from the **main menu** to see a list of all the games you most recently and frequently revisit (as shown in *Images 1 & 2* below). This is another way to quickly access games if you have a big library.
 
+![History 1](https://droix.net/knowledge-base/wp-content/uploads/2023/12/History-1.jpg)
+
 1. Select History
 
-
+![History 2](https://droix.net/knowledge-base/wp-content/uploads/2023/12/History-2.jpg)
 
 2. Recently played games
 
@@ -144,13 +160,15 @@ You can select **History** from the **main menu** to see a list of all the games
 
 To search for a game, select the **Search button** from the **main menu** (as shown in *Image 1* below). This will bring up a search menu which will let search for any games within your library (as seen in *Images 2 & 3* below).
 
+![Search 1](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Search-1.jpg)
+
 1. Select Search
 
-
+![Search 2](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Search-2.jpg)
 
 2. Search for game
 
-
+![Search 3](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Search-3.jpg)
 
 3. Search results
 
@@ -158,17 +176,19 @@ To search for a game, select the **Search button** from the **main menu** (as sh
 
 Select the **Settings button** to access the Anbernic RG355XX Plus **Settings**. From here you will be able to change the global device settings such as Network, Bluetooth and more. you will also be able to power off and reboot your device from this menu (check *Images 2, 3 & 4* below).
 
+![Settings 1](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Settings-1.jpg)
+
 1. Select Settings
 
-
+![Settings 2](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Settings-2.jpg)
 
 2. RG35XX Settings 1
 
-
+![Settings 3](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Settings-3.jpg)
 
 3. RG35XX Settings 2
 
-
+![Settings 4](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Settings-4.jpg)
 
 4. RG35XX Settings 3
 

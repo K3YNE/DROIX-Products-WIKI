@@ -32,6 +32,8 @@ Copy and paste the following text in to the file
 
 You can now update the three lines shown below in the red boxes
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-wifi-setup-1.jpg)
+
 Replace the country code if needed (GB, FR, DE, ES, US, CA etc..).
 
 Replace **your\_wifi\_ssdid** with your wifi ssid (ex: ‘’homewifi’’).
@@ -41,5 +43,7 @@ Replace **your\_wifi\_password** with your wifi password (ex: ‘’1234’’).
 Save and copy it to the root of boot partition on your Micro SD Card (the only partition you see on PC after burning the image file).
 
 Copy it on **wifibackup** folder too for an easy re enable by script.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-wifi-setup-2-300x114.jpg)
 
 Insert the Micro SD Card back into the Retroflag GPi case and it is now ready to use.

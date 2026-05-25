@@ -20,14 +20,26 @@ Install the HDD or SSD as per your motherboard and drive instructions.
 
 Right click on the Windows Start button, and choose **Disk Management**
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/format-ssd-1-146x300.jpg)
+
 You should now see an unallocated/unformatted drive, it may be the second or third drive etc depending on how many storage devices you have on your PC, so you may need to scroll down the list. 
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/format-ssd-2-300x238.jpg)
 
 Please be 100% sure you have identified the correct drive. **Left click** on the unallocated/unformatted area of the drive to highlight it.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/format-ssd-3-300x238.jpg)
+
 **Right click** the same area to bring up a menu. Choose **New Simple Volume**.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/format-ssd-4-300x238.jpg)
 
 A pop up window will appear where you can alter the settings if you wish to. In most cases you can leave them as default unless you wish to change the recommended drive letter, or name the SSD by changing the Volume Name. Make any necessary changes and click Finish to begin the format and drive letter assign.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/format-ssd-6-300x236.jpg) ![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/format-ssd-7-300x236.jpg)
+
 Once the process is complete, your drive will be assigned a drive letter and formatted to your preference.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/format-ssd-9-300x238.jpg)
 
 You can now use your drive.

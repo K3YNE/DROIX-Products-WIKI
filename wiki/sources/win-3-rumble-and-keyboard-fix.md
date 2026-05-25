@@ -39,9 +39,13 @@ The installation for this fix is fortunately incredbily simple.
 
 First, extract the update file from the .zip it came in.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/explorer_LfWHFdGTFO.jpg)
+
 Unzip the file via whatever method you wish.
 
 Inside the .zip there will be two files. Run the one called **Hynitron\_Touch\_Update\_Tool(4).exe**.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/01/explorer_4gk4blYtQE.jpg)
 
 …and that’s it!
 

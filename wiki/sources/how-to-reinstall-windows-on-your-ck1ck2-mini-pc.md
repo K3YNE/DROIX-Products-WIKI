@@ -49,6 +49,8 @@ If you know what you’re doing and are using imaging software of your own choic
 
 For everyone else, install [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) via the above link(s), and then run it. You’ll be met with a screen like this:
 
+![WIN32 Disk imager](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/1.jpg)
+
 WIN32 Disk imager
 
 Make sure your USB drive is inserted, and you have the image file downloaded.
@@ -69,6 +71,8 @@ To begin the installation process, make sure that the CK1/CK2 is powered off, th
 
 Once inserted, power on the CK1/CK2. Repeatedly press the “F7” key on your connected keyboard as it is booting up until you’re met with this screen:
 
+![Select Boot Device](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/2.jpg)
+
 Select Boot Device
 
 (If you missed it, you were probably too slow. Just turn off the PC and try again!)
@@ -76,6 +80,8 @@ Select Boot Device
 The contents of this menu may differ depending on what’s plugged into the PC, but all you will need to do is select the one that matches your USB drive (for example, we have used a Kingston-brand USB to make this guide, so the one we’ll be selecting is KingstonDataTraveler).
 
 The installation will then proceed automatically. If the command prompt asks for any input, just agree by typing “y”.
+
+![Installation Screen ](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/3.jpg)
 
 Installation Screen
 
@@ -86,6 +92,8 @@ Once the installation is complete, the computer will shut down automatically.
 When you turn on the PC for the first time after reinstalling, it will launch into System Preparation Mode, which allows you to use a limited version of Windows 10 via a temporary account before starting the fresh installation for real. There will also be some sample programs and files present that can be used to troubleshoot the PC’s performance – these will all be uninstalled automatically later on.
 
 There will also be a window that pops up automatically – the System Preparation Tool (if you close it, you can find it again at C:\Windows\System32\Sysprep )
+
+![System Preparation Tool](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/4.jpg)
 
 System Preparation Tool
 

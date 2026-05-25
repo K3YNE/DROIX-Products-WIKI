@@ -18,15 +18,24 @@ Whether to get additional space and performance or just replace a faulty part th
 
 The first thing you’ll need to do is open up your computer. This is different for every model but for the most part, it will involve removing a set of screws on the bottom and prying open the cover. So be sure to place the screws somewhere safe.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-1-1024x576.jpg)
+
 Opening the case can be difficult so I recommend using a spudger or other such tool to help get it off.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-2-1024x576.jpg)
 
 Once it’s open you can see inside the PC. The location of the SSD and RAM is different in every PC, but you’ll be able to recognize them when you see them. If not refer to the manual for your device.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-3-edited.jpg)
+
 You can remove the RAM by pulling on the two small tabs holding it in, it will then release and you can gently pull it out. Remove the top stick and then follow the same instructions for the bottom stick if there are two.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-4-1024x576.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-5-1024x576.jpg)
 
 To remove the SSD, first, unscrew the screw at the top holding the device down. This will release the SSD and you can gently pull it out similarly to how to RAM was removed.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-6-1024x576.jpg)
 
 You’ve now successfully removed the RAM and SSD from your PC! You can get your new kit ready to install.
 
@@ -34,11 +43,21 @@ The installation is very similar to the removal, only in reverse. We’ll start 
 
 With the new SSD, line up the pins with the layout on the motherboard. One side has fewer than the other so ensure that the SSD is oriented the right way.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-7-1024x592.jpg)
+
 Once the SSD is in you can screw it down to secure it.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-8-1024x576.jpg)
 
 Installing RAM is a similar operation. Line up the pins on the stick with the slots in the motherboard. Once they are aligned you can gently insert the RAM until it is all the way in and then press down to click into place.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-9-1024x645.jpg)
+
 Insert the bottom stick first and then the top one.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/6479fb89c8ee4245797846.gif)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-11-1024x576.jpg)
 
 Congratulations you have replaced the SSD and RAM in your mini PC! Now just put the cover back on, click it into place and screw it in!
 

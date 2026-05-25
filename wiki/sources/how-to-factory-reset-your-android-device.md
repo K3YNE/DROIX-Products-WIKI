@@ -46,17 +46,19 @@ To back up your data using your Google account:
 
 Alternatively, you can access this menu by simply searching for “**backup**” in the search bar within the **Settings app**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/1.jpg)
+
 1. Open Settings app
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/2.jpg)
 
 2. Select Google
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/3-1024x576.jpg)
 
 3. Select Backup
 
-
+![Backup data before factory reset](https://droix.net/knowledge-base/wp-content/uploads/2024/01/4.jpg)
 
 4. Turn on backup
 
@@ -76,21 +78,23 @@ The recommended way to reset your Android device is to do so through your device
 
 Alternatively, you can access this menu by simply searching for “**factory reset**” in the search bar within the **Settings app**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/1-2.jpg)
+
 1. Navigate to Settings app
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/5.1-1.jpg)
 
 2. Select System in Settings app
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/8.jpg)
 
 3. Select Reset options
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/6.jpg)
 
 4. Select Erase all data (factory reset)
 
-
+![Begin Factory Reset](https://droix.net/knowledge-base/wp-content/uploads/2024/01/7.jpg)
 
 5. Select Erase all data to begin
 

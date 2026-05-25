@@ -24,6 +24,8 @@ The GPD WIN MAX 2 2024 comes in in a few models, each requiring specific firmwar
 2. In the Windows search bar, enter “Task Manager” and press ENTER
 3. The Task Manager software will open. Click on the “Performance” icon on the left side
 
+![How to identify your CPU model](https://gpdstore.net/wp-content/uploads/2024/09/How-to-identify-your-CPU-model-1200x675.jpg)
+
 How to identify your CPU model
 
 GPD WIN MAX 2 2022 – 6800U CPU  
@@ -70,6 +72,8 @@ Do not download or use the file shown in the video, and instead download the BIO
 After downloading the firmware update, extract the contents to your PC. You should see a **Readme.txt** file, a **startup.nsh** file, and two folders: **EFI** and **ARN28\_Bios\_Release\_V1.05** (or similarly named, depending on the firmware version).
 
 Copy all of these files onto a USB flash drive that has been formatted with FAT32. Once the files are copied, safely eject the USB drive and insert it into your GPD WIN MAX 2. Finally, connect the power supply to the device to proceed with the update.
+
+![GPD WIN MAX 2 BIOS Update Files](https://gpdstore.net/wp-content/uploads/2024/09/GPD-WIN-MAX-2-BIOS-update.png)
 
 GPD WIN MAX 2 BIOS Update Files
 

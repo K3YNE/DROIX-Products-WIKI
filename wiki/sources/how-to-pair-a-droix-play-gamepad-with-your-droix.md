@@ -14,6 +14,6 @@ tags: [kb-article, droix]
 
 ## 
 
-This video demonstrates how to pair your DROIX Play Gamepad controller with your DROIX device (or other Android model) via Bluetooth
+This video demonstrates how to pair your DROIX® Play Gamepad controller with your DROIX® device (or other Android model) via Bluetooth
 
 <https://youtu.be/hB4Fw1EDu2s>

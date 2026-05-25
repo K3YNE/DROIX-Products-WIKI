@@ -38,10 +38,12 @@ To install the APK, locate the file on your TV Box using a method of your choice
 
 If prompted to provide permissions to install apps from external sources – grant them. It might look something like this:
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/IMG_20200814_143622386-1024x390.jpg)
+
 Some android boxes have an online repository as part of their factory default. From here you can usually quickly download older versions of Netflix, Showbox, and various other popular streaming and IPTV programs.
 
 The app should then install. Now all you’ll need to do is log into Netflix, and you’re good to go!
 
-If you’re in the market for an Android TV Box, check out our range of devices on offer at <https://droix.net/product-category/tv-and-home-cinema/android-powered-tv-devices-by-droix/>
+If you’re in the market for an Android TV Box, check out our range of devices on offer at <https://droix.net/product-category/tv-and-home-cinema/android-powered-tv-devices-by-DROIX/>
 
 Until next time!

@@ -12,19 +12,19 @@ updated: 2026-04-22
 tags: [kb-article, droix]
 ---
 
-We wrap up our “Streaming and Casting with your DROIX video series with a look at using an iOS based device with AirPlay and YouTube. We show how you can mirror your iOS device’s screen to the DROIX – great for showing your phone to more people or even play games on your TV! In the second part we show how to cast YouTube videos from your device to the DROIX .
+We wrap up our “Streaming and Casting with your DROIX® video series with a look at using an iOS based device with AirPlay and YouTube. We show how you can mirror your iOS device’s screen to the DROIX® – great for showing your phone to more people or even play games on your TV! In the second part we show how to cast YouTube videos from your device to the DROIX .
 
-**Using iPhone Airplay with DROIX TV set top box based on Android**
+**Using iPhone Airplay with DROIX® TV set top box based on Android**
 
 <https://youtu.be/8yCdyZvpiGk>
 
-**Using YouTube casting with DROIX TV set top box based on Android**
+**Using YouTube casting with DroidBOX® TV set top box based on Android**
 
 <https://youtu.be/JlT34Ey6Y9g>
 
 Please watch our other videos in the series below:
 
-[DROIX Share on Android Devices – Demonstration Video](https://droix.net/wordpress/droidbox-share-on-android-devices-demonstration-video/)
+[DROIX® Share on Android Devices – Demonstration Video](https://droix.net/wordpress/droidbox-share-on-android-devices-demonstration-video/)
 
 [Streaming and Casting with Android demo video](https://droix.net/wordpress/streaming-and-casting-with-android-demo-video/)
 

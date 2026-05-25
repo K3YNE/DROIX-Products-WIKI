@@ -31,6 +31,8 @@ Ways to identify your CPU on your device:
   Select **About your PC** from the results.  
   Look under “**Device specifications**” for the Processor entry, which lists your CPU model (e.g., Intel Core i7-10750H).
 
+![Task Manager CPU](https://droix.net/knowledge-base/wp-content/uploads/2025/03/Task-Manager-CPU-1024x576.jpg)
+
 Task Manager CPU
 
 ## Download Firmware
@@ -86,9 +88,11 @@ When upgrading the BIOS on [Windows OS](https://www.microsoft.com/en-us/windows/
 6. Wait for the installation process to complete.
 7. After a successful upgrade, the device will **automatically restart**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Untitled-design-2-1024x553.jpg)
+
 2. Extract files
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Untitled-design-1-1-1024x553.jpg)
 
 3. Copy .exe file
 
@@ -109,9 +113,11 @@ Before proceeding, you will also need access to a PC and a USB flash drive, that
 9. After a successful upgrade, the device will automatically power off.
 10. **Power on** the device after waiting a short moment.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Untitled-design-2-1-1024x553.jpg)
+
 1. Extract files
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Untitled-design-1-1-1-1024x553.jpg)
 
 2. Copy files onto USB drive
 

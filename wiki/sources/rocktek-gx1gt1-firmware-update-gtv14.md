@@ -49,44 +49,62 @@ This firmware update is quite sizable with a comprehensive list of changes, bugf
 
 From the [RockTek GX1](https://droix.net/product/rocktek-gx1/) home screen, navigate to the **Settings** menu, and then navigate to and select **System**
 
+![Choose System](https://droix.net/knowledge-base/wp-content/uploads/2025/12/GX1_GT1-Firmware-Update-Choose-System-1024x576.jpg)
+
 Choose System
 
 Next, navigate to and select **About**
+
+![Choose About](https://droix.net/knowledge-base/wp-content/uploads/2025/12/GX1_GT1-Firmware-Update-Choose-About-1024x576.jpg)
 
 Choose About
 
 Navigate to and select **System Update**
 
+![Choose System Update](https://droix.net/knowledge-base/wp-content/uploads/2025/12/GX1_GT1-Firmware-Update-Choose-System-Update-1024x576.jpg)
+
 Choose System Update
 
 It will now check for an OTA update for the device. This may take a few moments to complete.
+
+![Checking for updates](https://droix.net/knowledge-base/wp-content/uploads/2025/12/GX1_GT1-Firmware-Update-Checking-for-updates-1024x576.jpg)
 
 Checking for updates
 
 If an update is available it will start to download and verify. If there is not a firmware update then you may already be on the latest version or it has not been rolled out to your device. In this case, check back in a few days.
 
+![RockTek GX1 OTA Update Verifying](https://droix.net/knowledge-base/wp-content/uploads/2026/01/RockTek-GX1-OTA-Update-Verifying-1024x576.jpg)
+
 RockTek GX1 OTA Update Verifying
 
 If you have a firmware update available – after a few moments, a two step process of updating the firmware will begin. The first step will take around 10-15 mins and the second step a bit shorter at around several minutes. During this process, **DO NOT** switch off your device or press any buttons on the remote control.
 
+![RockTek GX1 OTA Update Installing Step 1 of 2](https://droix.net/knowledge-base/wp-content/uploads/2026/01/RockTek-GX1-OTA-Update-Installing-Step-1-of-2-1024x576.jpg)
+
 RockTek GX1 OTA Update Installing Step 1 of 2
 
-
+![RockTek GX1 OTA Update Installing Step 2 of 2](https://droix.net/knowledge-base/wp-content/uploads/2026/01/RockTek-GX1-OTA-Update-Installing-Step-2-of-2-1024x576.jpg)
 
 RockTek GX1 OTA Update Installing Step 2 of 2
 
 Once the update has completed, you will be prompted to restart the device. Press the central button on your remote to restart when ready.
 
+![RockTek GX1 OTA Update Ready to Restart](https://droix.net/knowledge-base/wp-content/uploads/2026/01/RockTek-GX1-OTA-Update-Ready-to-Restart-1024x576.jpg)
+
 RockTek GX1 OTA Update Ready to Restart
 
 The device will restart and after a few moment the RockTek GX1 Boot screen will display for a few minutes while the update completes. During this process, **DO NOT** switch off your device or press any buttons on the remote control.
+
+![RockTek GX1 Boot Screen](https://droix.net/knowledge-base/wp-content/uploads/2026/01/RockTek-GX1-Boot-Screen-1024x576.jpg)
 
 RockTek GX1 Boot Screen
 
 When the update is completed, the Google TV screen will display for a few minutes then boot into the [RockTek GX1](https://droix.net/product/rocktek-gx1/) Home Screen where you can now continue to use your [Android TV box](https://droix.net/product-category/android-gadgets/android-tv-boxes/) as usual.
 
+![RockTek GX1 loading screen](https://droix.net/knowledge-base/wp-content/uploads/2026/01/RockTek-GX1-loading-screen-1024x576.jpg)
+
 RockTek GX1 loading screen
 
-
+![RockTek GX1 Home Screen](https://droix.net/knowledge-base/wp-content/uploads/2026/01/RockTek-GX1-Home-Screen-1024x576.jpg)
 
 RockTek GX1 Home Screen

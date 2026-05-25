@@ -20,6 +20,8 @@ While we do permit self-repairs, any damage you cause is not covered by our warr
 
 <https://youtu.be/Qb9Y5Y6msho>
 
+![GPD WIN 4 2025 Gaming Handheld PC](https://gpdstore.net/wp-content/uploads/2024/12/GPD-WIN-4-2025-LISTING-GENERIC-01.png)
+
 ## GPD WIN 4 2025 Gaming Handheld PC
 
 [Shop now](https://gpdstore.net/product/gpd-win-4-2025/)

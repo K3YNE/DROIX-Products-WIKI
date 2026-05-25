@@ -29,9 +29,11 @@ If something is missing, or damaged or if you are unsure about anything, please 
 
 The GuliKit dock is equipped with various ports and connections, positioning it as the central hub of your handheld gaming setup. It’s a good idea to familiarise yourself with the device as the MicroSD card slots are discreetly designed to maintain the dock’s sleek and retro appearance.
 
+![GuliKit 7-in-1 Docking Station](https://droix.net/knowledge-base/wp-content/uploads/2024/01/GULIKIT-7IN1_SD-DOCKING-DONE-LISTING-IMAGE-2.jpg)
+
 GuliKit 7-in-1 Docking Station
 
-
+![GuliKit 7-in-1 Docking Station](https://droix.net/knowledge-base/wp-content/uploads/2024/01/8558517.jpg)
 
 7-in-1 Dock MicroSD slots
 
@@ -67,7 +69,11 @@ Supporting up to 4K resolution and a smooth 60Hz refresh rate will transform you
 4. Select the **Advanced Display** under Related Settings.
 5. Select the highest **Refresh Rate** option (refer to Image) and **Keep Changes**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Display-Settings.jpg)
+
 Display Resolution settings
+
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/10/Display-Settings-2.jpg)
 
 Refresh Rate settings
 
@@ -120,6 +126,8 @@ The GuliKit 7-in-1 docking station supports numerous handheld devices, but it’
 ## Accessories & Add-ons
 
 [15.6″ 4K Portable Monitor](https://droix.net/product/15-6-4k-portable-monitor-with-touchscreen/) | [with Adobe RGB](https://droix.net/product/15-6-4k-portable-monitor-with-adobe-rgb/) | [with Stylus Support](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/): These portable monitors offer a stunning 4K resolution across their 15.6″ display. The monitor has touchscreen capabilities and even has an option for Adobe RGB or Stylus support. It is fantastic for gamers, artists, office work and more. It’s the perfect addition as a main or additional monitor for your mini PC. Its slim and lightweight design makes it easy to carry around or look chic alongside your setup.
+
+![15.6″ 4K portable monitor with Adobe RGB](https://droix.net/knowledge-base/wp-content/uploads/2023/10/S23_B5-PORTABLE_MONITOR-IMAGE-LISTING-DONE-1.png)
 
 15.6″ 4K Portable Monitor (with Adobe RGB)
 

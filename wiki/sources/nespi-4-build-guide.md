@@ -30,6 +30,8 @@ Easier done than said! The case doesn’t come screwed together, so it can be ea
 
 When you open the case you’ll be met with a couple of connectors. One USB 2.0, one USB 3.0, an RJ45 (Ethernet) connector, and a 9-pin connector intended to connect to the golden pins on the Raspberry Pi 4. This is what powers the device.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/case_connectors.png)
+
 (Pictured: The USB 2.0, 3.0 and RJ45 connectors)
 
 Now that we’ve opened the device, the next step is hooking the Raspberry Pi 4 up.
@@ -38,15 +40,21 @@ Now that we’ve opened the device, the next step is hooking the Raspberry Pi 4 
 
 ### Plug in the USB/RJ45 connectors
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RPI4_connectors.png)
+
 The USB 2.0 connector will plug into the topmost USB 2.0 port (on the left side), the USB 3.0 connector will plug into the bottom USB 3.0 port (in the middle).
 
 Once connected, lay down the Raspberry Pi 4 in the case, and make sure that the HDMI and audio jack outputs line up with the holes on the case, like so.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/line_up_case_holes.png)
 
 ### Connect the power cable
 
 To connect the power cable to the device, pay attention to the small slip of paper near the connector itself – this indicates what way the plug should be connected, starting from the right-most pins on the Raspberry Pi 4.
 
 If incorrectly done, your device may not power on correctly. So try to get it right the first time to save yourself the annoyance of opening the unit a second time!
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/hooked_up_RPI4-300x160.png)
 
 Once the main components are hooked up, your raspberry pi should look something like this.
 
@@ -57,6 +65,8 @@ Most of the RetroFlag cases have a safe-shutdown script available for them. What
 Without these, the power buttons may not work at all. Or if they do, they’ll immediately cut power akin to disconnecting the device from the mains. This can cause a cascade of issues such as corrupted files should it be done frequently, or at inopportune momenets.
 
 You can find the safe-shutdown switch here, next to the RJ45 connector.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/safe_shutdown.png)
 
 If you purchased this unit pre-assembled from us, it will already be switched on. However, keep it in mind if you’re just buying the case on its own!
 
@@ -70,9 +80,12 @@ Unlike our previous offering in the Snes/NES-styled cases for the Raspberry Pi 3
 
 To connect the fan, insert the 2-pin connector into the 2-pin socket  on the circuit-board section of the case. The red pin should be facing towards the front, while the black pin should be facing towards the back. This is a little finicky, but should not cause too much issue.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/fan_connector.png)
+
 You’ll also need to screw the heatsink. There will be two black screws which will attach to the bottom left and bottom right corners of the heatsink respectively. This leaves the other two screw holes free (which is necessary, as the case screws will use those holes).
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/heatsink_screws.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/heatsink_screws_in-300x101.png)
 
 With just about everything else connected, there’s one more thing left.
 
@@ -86,11 +99,15 @@ This is also an optional step, but one we’d recommend just so you get it out o
 
 The connector will look like this:
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/top_half_connector-300x276.png)
+
 Plug it in to the appropriate port, then simply close the lid down. You may need to wriggle it about slightly in order to make sure the cable sits comfortably inside the unit.
 
 ## Step 3: Closing the Case
 
 Closing the case is a stSghtforward process. You can find the six screw holes in each of the four corners, plus the central top and bottom edges of the unit.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/case_screw_holes-300x162.png)
 
 When inserting the screws, make sure to push down slightly on the case to ensure that they’re as close together as possible.
 
@@ -98,13 +115,19 @@ When inserting the screws, make sure to push down slightly on the case to ensure
 
 The cartridge itself is simple to put together. Just insert your 2.5 inch drive into one half, snap the other half down, then fasten the screws in the two large holes.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/cartridge_screws-300x133.png)
+
 Then just insert it fully into the front of the unit.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/cartridge_insert-300x140.png)
 
 If you have multiple cartridges, you can quickly swap them out with very little hassle.
 
 ## Step 5: Inserting the SD card
 
 Easier done than said! Just place the SD card into the slot on the side of the unit. Make sure the small ridge on the device is pointing outwards.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/SD_card.png)
 
 Now your NESPi 4 case is fully assembled and ready to go!
 

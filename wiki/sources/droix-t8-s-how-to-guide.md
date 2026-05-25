@@ -22,25 +22,25 @@ There is space to insert a 2.5in hard drive which is popular with people who lik
 
 The ability to dual boot with Open Elec means you can run Kodi without the Android operating system in the background. This gives you the ability to boot stSght into Kodi and reduce the load on the hardware which provides slightly faster results.
 
-DroidShare is a new service available only on the T8-S that enables you to control your DROIX using your phone; display the screen of your phone or tablet directly on the TV screen or vice versa and more.
+DroidShare is a new service available only on the T8-S that enables you to control your DROIX® using your phone; display the screen of your phone or tablet directly on the TV screen or vice versa and more.
 
 ## Common questions and solutions
 
 ### Getting started
 
 [Getting your T8/T8-S set up at first use](#getting-started)  
- [How to install a hard drive into the DROIX T8-S](#install-hdd)  
-[An Intro to DROIX Share](#DROIX-share)  
+ [How to install a hard drive into the DROIX® T8-S](#install-hdd)  
+[An Intro to DROIX® Share](#DROIX-share)  
  [How to install Showbox and Mobdro](#showbox-modbro)  
- [Setting up a Kids Profile for DROIX](#kids)
+ [Setting up a Kids Profile for DROIX®](#kids)
 
 ### Fixing known issues
 
 [How to factory reset your T8](#factory-reset)  
- [How to reinstall DROIX Media Center (KODI,SPMC,XBMC)](#dbmcinstall)  
- [How to fix “Kodi 4 DROIX has been denied superuser permission” error](#superuser)  
+ [How to reinstall DROIX® Media Center (KODI,SPMC,XBMC)](#dbmcinstall)  
+ [How to fix “Kodi 4 DROIX® has been denied superuser permission” error](#superuser)  
  [How to fix Kodi blank keyboard error](#keyboard)  
- [How to update DROIX T8-S with most recent firmware using OTA application](#ota-update)  
+ [How to update DROIX® T8-S with most recent firmware using OTA application](#ota-update)  
  [BT Home Hub Parental Controls causing Script Errors](#BT-parental)  
  [How to use Quick Support](#quick-support)
 
@@ -53,9 +53,9 @@ Before running your T8-S for the first time, it would be helpful to have a quick
 
 [Return to top](#top)
 
-#### How to install a hard drive into the DROIX T8-S
+#### How to install a hard drive into the DROIX® T8-S
 
-It is very easy to install a hard drive into the DROIX T8-S.
+It is very easy to install a hard drive into the DROIX® T8-S.
 
 #### PLEASE MAKE SURE YOU REMOVE ALL USB STORAGE DEVICES BEFORE CLICKING THIS OPTION. openELEC/Linux does not differentiate between internally connected and USB connected drives.
 
@@ -63,9 +63,9 @@ It is very easy to install a hard drive into the DROIX T8-S.
 
 [Return to top](#top)
 
-#### An Intro to DROIX Share
+#### An Intro to DROIX® Share
 
-This video gives a good idea of all the things you can do with DROIX Share.
+This video gives a good idea of all the things you can do with DROIX® Share.
 
 <https://youtu.be/qcXykn7tTfE>
 
@@ -79,7 +79,7 @@ Showbox is a great app which allows you to download a program and store it on a 
 
 [Return to top](#top)
 
-#### Setting up a Kids Profile for DROIX
+#### Setting up a Kids Profile for DROIX®
 
 It can be handy to set up a kids profile so they can safely watch media without the chance of them seeing something they shouldn’t.
 
@@ -89,13 +89,13 @@ It can be handy to set up a kids profile so they can safely watch media without 
 
 #### How to factory reset your T8
 
-Sometimes the simplest thing to to do to solve issues with your device is to do a factory reset. This will restore the DROIX back to the condition it was in when you took it out of the box the first time. Ideally you should only do this if instructed by a DROIX support person, but over time you may become comfortable in knowing when you may need to do this and how to go about it.
+Sometimes the simplest thing to to do to solve issues with your device is to do a factory reset. This will restore the DROIX® back to the condition it was in when you took it out of the box the first time. Ideally you should only do this if instructed by a DROIX® support person, but over time you may become comfortable in knowing when you may need to do this and how to go about it.
 
 <https://youtu.be/psOrMVm9DAI>
 
 [Return to top](#top)
 
-#### How to fix “Kodi 4 DROIX has been denied superuser permission” error
+#### How to fix “Kodi 4 DROIX® has been denied superuser permission” error
 
 Kodi needs access to areas of the operating system that is normally locked safely away. If you block it from this access it cannot perform properly. If you accidentally block it, this video will show you how to grant superuser access at a later stage.
 
@@ -111,9 +111,9 @@ Kodi ships without a default keyboard nationality selected. This often results i
 
 [Return to top](#top)
 
-#### How to reinstall DROIX Media Centre based on Kodi/SPMC
+#### How to reinstall DROIX® Media Centre based on Kodi/SPMC
 
-Sometimes you might need to reinstall the DROIX Media Centre, these simple steps will help you get the most recent version for Kodi/XBMC/SPMC
+Sometimes you might need to reinstall the DROIX® Media Centre, these simple steps will help you get the most recent version for Kodi/XBMC/SPMC
 
 <https://youtu.be/QBAjw4GIjuM>
 
@@ -121,7 +121,7 @@ Sometimes you might need to reinstall the DROIX Media Centre, these simple steps
 
 #### How to update DROIX T8-S with most recent firmware using OTA application
 
-You can update your T8-S using the OTA (Over-the-air) Update application. This will install the latest version of the firmware for your device. Because it does a full update you will need to [set up your wifi](https://droix.co.uk/blog/faq-2/how-to-use-the-droix-wizard-add-on-in-xbmc/)  again. The video below shows you how to run the OTA update.
+You can update your T8-S using the OTA (Over-the-air) Update application. This will install the latest version of the firmware for your device. Because it does a full update you will need to [set up your wifi](https://droidbox.co.uk/blog/faq-2/how-to-use-the-droidbox-wizard-add-on-in-xbmc/)  again. The video below shows you how to run the OTA update.
 
 <https://youtu.be/JeutSLU7BBY>
 
@@ -134,14 +134,14 @@ The BT Home Hub cause a few issues, which can be easily fixed with a few simple 
 <https://youtu.be/e62Z5MgkRKM>
 
 Some more links on the ISP’s blocking content (Virgin & BT Customers):  
-<https://droix.co.uk/blog/faq-2/bt-are-your-isp-and-droix-wizard-or-add-on-problems/>  
-<https://droix.co.uk/blog/faq-2/uk-isps-blocking-content-how-to-remove-their-filters/>
+<https://droidbox.co.uk/blog/faq-2/bt-are-your-isp-and-droidbox-wizard-or-add-on-problems/>  
+<https://droidbox.co.uk/blog/faq-2/uk-isps-blocking-content-how-to-remove-their-filters/>
 
 Alternatively, see the [BT webpage – Stay safe with BT Parental Controls](http://home.bt.com/techgadgets/internet/stay-safe-with-bt-parental-controls-11363887238413)
 
 #### How to use Quick Support
 
-You may encounter an issue that you cannot solve yourself or using one of the many helpful videos on this site and YouTube. If you call our support team, they may need to “remote” into your DROIX to help you solve the issue. To do this they use software called Quick Support. You can see what you will need to do on their request in the video below.
+You may encounter an issue that you cannot solve yourself or using one of the many helpful videos on this site and YouTube. If you call our support team, they may need to “remote” into your DROIX® to help you solve the issue. To do this they use software called Quick Support. You can see what you will need to do on their request in the video below.
 
 <https://youtu.be/jK2Mvv4qYG0>
 

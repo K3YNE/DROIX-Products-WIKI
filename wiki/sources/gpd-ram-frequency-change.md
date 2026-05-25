@@ -19,21 +19,29 @@ Please note, that some devices may allow you to change the RAM frequency above t
 
 **Power on** the [GPD WIN 4 2025](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-4-2025/) and tap the **DEL** key on the keyboard until the **BIOS Main** page appears.
 
+![GPD WIN 4 2025 - BIOS Main](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-4-2025-BIOS-Main-1200x675.jpg)
+
 GPD WIN 4 2025 – BIOS Main
 
 Press the **Right arrow key** to change the menu to **Advanced**. Then press the **Down** arrow key to highlight **Memory Configuration** and press the **Enter** key to select it.
+
+![GPD WIN 4 2025 - Advanced](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-4-2025-Advanced-1200x675.jpg)
 
 GPD WIN 4 2025 – Advanced
 
 You will only be able to select Maximum Memory Data Clock Speed, press Enter to choose it. A menu with available clock speeds will display. Highlight the clock speed you want and press **Enter** to select it.
 
+![GPD WIN 4 2025 - Maximum Memory Data Clock Speed](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-4-2025-Maxmum-Memory-Data-Clock-Speed-1200x675.jpg)
+
 GPD WIN 4 2025 – Maximum Memory Data Clock Speed
 
 Now press the **ESC** key until you return to the **Advanced BIOS** page. Press the **Right** arrow key to change to the **Save & Exit** menu. Highlight **Save & Exit** and then choose **Yes** to save the configuration and exit the BIOS.
 
+![GPD WIN 4 2025 - Save and Reset](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-4-2025-Save-and-Reset-1200x675.jpg)
+
 GPD WIN 4 2025 – Save and Reset
 
-
+![GPD WIN 4 2025 - Save and Reset Confirm](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-4-2025-Save-and-Reset-Confirm-1200x675.jpg)
 
 GPD WIN 4 2025 – Save and Reset Confirm
 
@@ -43,49 +51,67 @@ Your [GPD WIN 4 2025](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-4-202
 
 **Power on** the [GPD Pocket 4](https://gpdstore.net/gpd-mini-laptop/gpd-pocket-4/) and tap the **ESC** key on the keyboard until the **BIOS Main** page appears.
 
+![GPD Pocket 4 - BIOS Main](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-BIOS-Main-1200x675.jpg)
+
 GPD Pocket 4 – BIOS Main
 
 Press the **Right arrow key** to change the menu to **Advanced**. Then press the **Down** arrow key to highlight **AMD CBS** and press the **Enter** key to select it.
+
+![GPD Pocket 4 - Advanced Menu](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-Advanced-Menu-1200x675.jpg)
 
 GPD Pocket 4 – Advanced Menu
 
 Press the **Down** arrow key to highlight **UMC Common Options** and press **Enter** to select it.
 
+![GPD Pocket 4 - AMD CBS Menu](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-AMD-CBS-Menu-1200x675.jpg)
+
 GPD Pocket 4 – AMD CBS Menu
 
 Highlight **LPDDR Timing Configuration** and press **Enter** to select it.
+
+![GPD Pocket 4 - LPDDR Options](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-LPDDR-Options-1200x675.jpg)
 
 GPD Pocket 4 – LPDDR Options
 
 You will now be presented with a warning screen. Please read through it and press the Down arrow key to scroll the text. Highlight Accept and press Enter to select it.
 
+![GPD Pocket 4 - LPDDR Timing Configuration 1](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-LPDDR-Timing-Configuration-1-1200x675.jpg)
+
 GPD Pocket 4 – LPDDR Timing Configuration 1
 
-
+![GPD Pocket 4 - LPDDR Timing Configuration 2](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-LPDDR-Timing-Configuration-2-1200x675.jpg)
 
 GPD Pocket 4 – LPDDR Timing Configuration 2
 
 Highlight **Active Memory Timing Settings** and press **Enter** to select it. Then highlight **Enabled** and press **Enter** to select it.
 
+![GPD Pocket 4 - Active Memory Timing Settings Auto](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-Active-Memory-Timing-Settings-Auto-1200x675.jpg)
+
 GPD Pocket 4 – Active Memory Timing Settings Auto
 
-
+![GPD Pocket 4 - Active Memory Timing Settings Enabled](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-Active-Memory-Timing-Settings-Enabled-1200x675.jpg)
 
 GPD Pocket 4 – Active Memory Timing Settings Enabled
 
 Highlight **Maximum Memory Data Clock Speed** and press **Enter** to select it.
 
+![GPD Pocket 4 - Maximum Memory Data Clock Speed](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-Maximum-Memory-Data-Clock-Speed-1200x675.jpg)
+
 GPD Pocket 4 – Maximum Memory Data Clock Speed
 
 A menu will appear with clock speed options. Highlight the clock speed you want and press **Enter** to select it. Please note, DO NOT set the clock speed higher than 7500MT/s as this will cause system instability with random reboots and shutdowns.
+
+![GPD Pocket 4 - Adjust the Maximum Memory Data Clock Speed](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-Adjust-the-Maximum-Memory-Data-Clock-Speed-1200x675.jpg)
 
 GPD Pocket 4 – Adjust the Maximum Memory Data Clock Speed
 
 Now press the **ESC** key until you return to the **Advanced BIOS** page. Press the **Right** arrow key to change to the **Save & Exit** menu. Highlight **Save & Exit** and then choose **Yes** to save the configuration and exit the BIOS.
 
+![GPD Pocket 4 - Save and Exit](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-Save-and-Exit-1200x675.jpg)
+
 GPD Pocket 4 – Save and Exit
 
-
+![GPD Pocket 4 - Confirm Save and Exit](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-Confirm-Save-and-Exit-1200x675.jpg)
 
 GPD Pocket 4 – Confirm Save and Exit
 
@@ -95,25 +121,35 @@ Your [GPD Pocket 4](https://gpdstore.net/gpd-mini-laptop/gpd-pocket-4/) will now
 
 **Power on** the [GPD WIN MAX 2 2025](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-max-2-2025/) and tap the **DEL**key on the keyboard until the **BIOS Main** page appears.
 
+![GPD WIN MAX 2 2025 – BIOS Main](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-MAX-2-2025-–-BIOS-Main-1200x675.jpg)
+
 GPD WIN MAX 2 2025 – BIOS Main
 
 Press the **Right arrow key** to change the menu to **Advanced**. Then press the **Down** arrow key to highlight **Memory Configuration** and press the **Enter** key to select it.
+
+![GPD WIN MAX 2 2025 -Advanced](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-MAX-2-2025-Advanced-1200x675.jpg)
 
 GPD WIN MAX 2 2025 -Advanced
 
 You will only be able to select Maximum Memory Data Clock Speed, press Enter to choose it.
 
+![GPD WIN MAX 2 2025 – Memory Configuration](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-MAX-2-2025-–-Memory-Configuration-1200x675.jpg)
+
 GPD WIN MAX 2 2025 – Memory Configuration
 
 A menu with available clock speeds will display. Highlight the clock speed you want and press **Enter**to select it.
+
+![GPD WIN MAX 2 2025 – Maximum Memory Data Clock Speed](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-MAX-2-2025-–-Maximum-Memory-Data-Clock-Speed-1200x675.jpg)
 
 GPD WIN MAX 2 2025 – Maximum Memory Data Clock Speed
 
 Now press the **ESC**key until you return to the **Advanced BIOS**page. Press the **Right**arrow key to change to the **Save & Exit** menu. Highlight **Save & Exit** and then choose **Yes**to save the configuration and exit the BIOS.
 
+![GPD WIN MAX 2 2025 – Save and Exit](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-MAX-2-2025-–-Save-and-Exit-1200x675.jpg)
+
 GPD WIN MAX 2 2025 – Save and Exit
 
-
+![GPD WIN MAX 2 2025 – Save and Exit Confirm](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-MAX-2-2025-–-Save-and-Exit-Confirm-1200x675.jpg)
 
 GPD WIN MAX 2 2025 – Save and Exit Confirm
 
@@ -123,53 +159,73 @@ Your [GPD WIN MAX 2 2025](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-m
 
 **Power on** the [[GPD WI](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-mini-2025/)[N](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-mini-2025/) [Mini 2025](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-mini-2025/)](https://droix.net/product/gpd-win-mini-2025/) and tap the **ESC** key on the keyboard until the **BIOS Main** page appears.
 
+![GPD WIN Mini 2025 - BIOS Main](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-BIOS-Main-1200x675.jpg)
+
 GPD WIN Mini 2025 – BIOS Main
 
 Press the **Right arrow key** to change the menu to **Advanced**. Then press the **Down** arrow key to highlight **AMD CBS** and press the **Enter** key to select it.
+
+![GPD WIN Mini 2025 – Advanced Menu](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-–-Advanced-Menu-1200x675.jpg)
 
 GPD WIN Mini 2025 – Advanced Menu
 
 Press the **Down** arrow key to highlight **UMC Common Options** and press **Enter**to select it.
 
+![GPD WIN Mini 2025 – AMD CBS Menu](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-–-AMD-CBS-Menu-1200x675.jpg)
+
 GPD WIN Mini 2025 – AMD CBS Menu
 
 You will not be able to navigate this menu, so go ahead and press **Enter**on **LPDDR Options**.
+
+![GPD WIN Mini 2025 – UMC Common Options](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-–-UMC-Common-Options-1200x675.jpg)
 
 GPD WIN Mini 2025 – UMC Common Options
 
 Highlight **LPDDR Timing Configuration** and press **Enter**to select it.
 
+![GPD WIN Mini 2025 – LPDDR Options](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-–-LPDDR-Options-1200x675.jpg)
+
 GPD WIN Mini 2025 – LPDDR Options
 
 You will now be presented with a warning screen. Please read through it and press the Down arrow key to scroll the text. Highlight Accept and press Enter to select it.
 
+![GPD WIN Mini 2025 – LPDDR Timing Configuration Page 1](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-–-LPDDR-Timing-Configuration-Page-1-1200x675.jpg)
+
 GPD WIN Mini 2025 – LPDDR Timing Configuration Page 1
 
-
+![GPD WIN Mini 2025 – LPDDR Timing Configuration Page 2](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-–-LPDDR-Timing-Configuration-Page-2-1200x675.jpg)
 
 GPD WIN Mini 2025 – LPDDR Timing Configuration Page 2
 
 Highlight **Active Memory Timing Settings** and press **Enter**to select it. Then highlight **Enabled**and press **Enter**to select it.
 
+![GPD WIN Mini 2025 – Active Memory Timing Settings Auto](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-–-Active-Memory-Timing-Settings-Auto-1200x675.jpg)
+
 GPD WIN Mini 2025 – Active Memory Timing Settings Auto
 
-
+![GPD WIN Mini 2025 – Active Memory Timing Settings Enabled](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-–-Active-Memory-Timing-Settings-Enabled-1200x675.jpg)
 
 GPD WIN Mini 2025 – Active Memory Timing Settings Enabled
 
 Highlight **Maximum Memory Data Clock Speed** and press **Enter**to select it.
 
+![GPD WIN Mini 2025 – Maximum Memory Data Clock Speed](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-–-Maximum-Memory-Data-Clock-Speed-1200x675.jpg)
+
 GPD WIN Mini 2025 – Maximum Memory Data Clock Speed
 
 A menu will appear with clock speed options. Highlight the clock speed you want and press **Enter**to select it. Please note, DO NOT set the clock speed higher than 7500MT/s as this will cause system instability with random reboots and shutdowns.
+
+![GPD WIN Mini 2025 – Adjust the Maximum Memory Data Clock Speed](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-–-Adjust-the-Maximum-Memory-Data-Clock-Speed-1200x675.jpg)
 
 GPD WIN Mini 2025 – Adjust the Maximum Memory Data Clock Speed
 
 Now press the **ESC**key until you return to the **Advanced BIOS**page. Press the **Right**arrow key to change to the **Save & Exit** menu. Highlight **Save & Exit** and then choose **Yes**to save the configuration and exit the BIOS.
 
+![GPD WIN Mini 2025 – Save and Exit](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-–-Save-and-Exit-1200x675.jpg)
+
 GPD WIN Mini 2025 – Save and Exit
 
-
+![GPD WIN Mini 2025 – Save and Exit Confirm](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-–-Save-and-Exit-Confirm-1200x675.jpg)
 
 GPD WIN Mini 2025 – Save and Exit Confirm
 
@@ -179,49 +235,67 @@ Your [GPD WI](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-mini-2025/)[N
 
 **Power on** the [GPD Duo](https://gpdstore.net/laptops/gpd-duo/) and tap the **ESC** key on the keyboard until the **BIOS Main** page appears.
 
+![GPD Duo – BIOS Main](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-–-BIOS-Main-1200x675.jpg)
+
 GPD Duo – BIOS Main
 
 Press the **Right arrow key** to change the menu to **Advanced**. Then press the **Down** arrow key to highlight **AMD CBS** and press the **Enter** key to select it.
+
+![GPD Duo – Advanced Menu](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-–-Advanced-Menu-1200x675.jpg)
 
 GPD Duo – Advanced Menu
 
 Press the **Down** arrow key to highlight **UMC Common Options** and press **Enter**to select it.
 
+![GPD Duo – AMD CBS Menu](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-–-AMD-CBS-Menu-1200x675.jpg)
+
 GPD Duo – AMD CBS Menu
 
 You will not be able to navigate this menu, so go ahead and press **Enter**on **LPDDR Options**.
+
+![GPD Duo – UMC Common Options](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-–-UMC-Common-Options-1200x675.jpg)
 
 GPD Duo – UMC Common Options
 
 Highlight **LPDDR Timing Configuration** and press **Enter**to select it.
 
+![GPD Duo – LPDDR Options](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-–-LPDDR-Options-1200x675.jpg)
+
 GPD Duo – LPDDR Options
 
 You will now be presented with a warning screen. Please read through it and press the Down arrow key to scroll the text. Highlight Accept and press Enter to select it.
 
+![GPD Duo – LPDDR Timing Configuration Page 1](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-–-LPDDR-Timing-Configuration-Page-1-1200x675.jpg)
+
 GPD Duo – LPDDR Timing Configuration Page 1
 
-
+![GPD Duo – LPDDR Timing Configuration Page 2](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-–-LPDDR-Timing-Configuration-Page-2-1200x675.jpg)
 
 GPD Duo – LPDDR Timing Configuration Page 2
 
 Highlight **Active Memory Timing Settings** and press **Enter**to select it. Then highlight **Enabled**and press **Enter**to select it.
 
+![GPD Duo – Active Memory Timing Settings Auto](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-–-Active-Memory-Timing-Settings-Auto-1200x675.jpg)
+
 GPD Duo – Active Memory Timing Settings Auto
 
-
+![GPD Duo – Active Memory Timing Settings Enabled](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-–-Active-Memory-Timing-Settings-Enabled-1200x675.jpg)
 
 GPD Duo – Active Memory Timing Settings Enabled
 
 Highlight **Maximum Memory Data Clock Speed** and press **Enter**to select it. A menu will appear with clock speed options. Highlight the clock speed you want and press **Enter**to select it. Please note, DO NOT set the clock speed higher than 7500MT/s as this will cause system instability with random reboots and shutdowns.
 
+![GPD Duo – Adjust the Maximum Memory Data Clock Speed](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-–-Adjust-the-Maximum-Memory-Data-Clock-Speed-1200x675.jpg)
+
 GPD Duo – Adjust the Maximum Memory Data Clock Speed
 
 Now press the **ESC**key until you return to the **Advanced BIOS**page. Press the **Right**arrow key to change to the **Save & Exit** menu. Highlight **Save & Exit** and then choose **Yes**to save the configuration and exit the BIOS.
 
+![GPD Duo – Save and Exit](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-–-Save-and-Exit-1200x675.jpg)
+
 GPD Duo – Save and Exit
 
-
+![GPD Duo – Save and Exit Confirmed](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-–-Save-and-Exit-Confirmed-1200x675.jpg)
 
 GPD Duo – Save and Exit Confirmed
 

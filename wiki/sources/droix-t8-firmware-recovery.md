@@ -12,7 +12,7 @@ updated: 2026-04-22
 tags: [kb-article, droix]
 ---
 
-**This should help to recover your DROIX T8 if something went wrong during the upgrade procedure.**
+**This should help to recover your DROIX® T8 if something went wrong during the upgrade procedure.**
 
 #### This is only for the very first T8 model, if you have a T8-S, T8-S Plus, T8-S Plus v2, T8 Mini or any other variant that is not a DROIX T8, you should not flash this firmware. It will not work and may damage the device.
 
@@ -24,20 +24,27 @@ Click the link below to download two files: **Win32DiskImager-0.9.5-install.exe
 
 * Plug your SD card into your PC’s SD Card reader (look on the side of laptops)
 * Open the Win32DiskImager file you just downloaded and proceed with the installation
-* Right click on the freshly installed Win32DiskImager program and select Run as Administrator (in Windows 10, select the “More” menu first)
+* Right click on the freshly installed Win32DiskImager program and select Run as Administrator (in Windows 10, select the “More” menu first)  
+  ![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/xAeDnBYSzqMN2y.jpg)
 * Click the blue folder icon and navigate to the download folder where you stored the sd\_2g\_dump\_t8.img file. DO MAKE SURE the card reader is selected in the Device drop-down box (in the exampe below, the F:\ drive has been chosen)
+
+![Recovery SD card creation Amlogic S802 S812](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/n2YaQXdhLB0o26.jpg)
 
 * Click the Write button and wait for the process to complete
 * Once the process has completed, check the contents of your SD card, they should now show these file:
 
+![OriginalNamesExtensionsShown](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/OriginalNamesExtensionsShown.png)
+
 * Safely eject the SD card from your PC and plug it into your T8
-* Switch OFF your DROIX T8 device
+* Switch OFF your DROIX® T8 device
 * Press and **HOLD** the reset button on the right hand side of the device
 * Press the power button once whilst STILL holding the reset button
 * Release the reset button after 6 seconds
 * Leave the device for 2 minutes (the screen should still be black at this stage)
 * Switch off the device and take the SD card back to your computer.
 * Rename the file aml\_sdc\_burn.ini.bak to aml\_sdc\_burn.ini that is to say you remove the tSling .BAK extension leaving just .INI . Now it should look similar to image below:
+
+![NewNamesExtensionsShown](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/NewNamesExtensionsShown1.png)
 
 * Again safely eject the SD card and insert it back into your (turned off still) T8
 * Press and hold the reset button on the right hand side of the device

@@ -20,25 +20,40 @@ AMD offers a simple tool to uninstall their old graphics drivers. You can downlo
 **Run the AMD Cleanup Utility:**  
 After downloading the Cleanup Utility, run the application. If prompted for Administrator rights, click **YES**.
 
+![Open the Cleanup Utility software
+](https://gpdstore.net/wp-content/uploads/2024/09/AMD-Cleanup-Utility-1-1200x675.jpg)
+
 Open the Cleanup Utility software
 
 **Boot into Windows Safe Mode:**  
 The Cleanup Utility will prompt you to restart your device and boot into Windows Safe Mode, where no system drivers are in use. This makes it easier to uninstall drivers. Click **YES** to reboot.
+
+![Click Yes when prompted to boot to safe mode
+](https://gpdstore.net/wp-content/uploads/2024/09/AMD-Cleanup-Utility-2-1200x675.jpg)
 
 Click Yes when prompted to boot to safe mode
 
 **Uninstallation Process:**  
 After your device reboots into Safe Mode, the Cleanup Utility will automatically start and prompt you to begin the uninstallation. Click **YES** to proceed.
 
+![Click Yes to start the uninstallation
+](https://gpdstore.net/wp-content/uploads/2024/09/AMD-Cleanup-Utility-3-1200x675.jpg)
+
 Click Yes to start the uninstallation
 
 **Complete Uninstallation:**  
 The uninstallation process may take a few minutes. Do not close the software or shut down your system during this time. Once it’s finished, click **FINISH**.
 
+![Click Finish to complete the uninstallation
+](https://gpdstore.net/wp-content/uploads/2024/09/AMD-Cleanup-Utility-4-1200x675.jpg)
+
 Click Finish to complete the uninstallation
 
 **Reboot to Normal Windows:**  
 You will be prompted to restart your device again. Click **YES** to reboot back into normal Windows. At this point, your previous graphics drivers have been successfully uninstalled.
+
+![Choose Yes to reboot Windows
+](https://gpdstore.net/wp-content/uploads/2024/09/AMD-Cleanup-Utility-5-1200x675.jpg)
 
 Choose Yes to reboot Windows
 
@@ -49,10 +64,16 @@ This process will install the latest available graphics drivers for your device.
 **Download the Latest Drivers:**  
 You’ll need to download the latest AMD graphics drivers. It’s recommended to use the “Auto-Detect and Install Driver Updates for AMD Radeon™ Series Graphics and Ryzen™ Chipsets” option [[here](https://www.amd.com/en/support)], which will automatically find and install the correct drivers. If this doesn’t work, you can manually select your “Processor With Graphics” from the dropdown menus on the AMD website.
 
+![Open the graphics driver installation file
+](https://gpdstore.net/wp-content/uploads/2024/09/AMD-Graphics-Drivers-1-1200x675.jpg)
+
 Open the graphics driver installation file
 
 **Run the Driver Installation File:**  
 Once the driver software is downloaded, run the file to start the installation process.
+
+![Check that it has found your graphics and click Next
+](https://gpdstore.net/wp-content/uploads/2024/09/AMD-Graphics-Drivers-2-1200x675.jpg)
 
 Check that it has found your graphics and click Next
 
@@ -65,15 +86,24 @@ The software will display the detected graphics card. In this example, the AMD R
 **Optional Privacy View Tool:**  
 You’ll be given the option to install the Privacy View tool. This is optional, so decide whether you want to include it, then click **NEXT**.
 
+![You can optionally install Privacy View
+](https://gpdstore.net/wp-content/uploads/2024/09/AMD-Graphics-Drivers-3-1200x675.jpg)
+
 You can optionally install Privacy View
 
 **Chipset Drivers:**  
 You may also be prompted to install Chipset drivers. It’s recommended to install the latest versions, so select all available options and click **INSTALL**.
 
+![Install all the latest Chipset Drivers
+](https://gpdstore.net/wp-content/uploads/2024/09/AMD-Graphics-Drivers-4-1200x675.jpg)
+
 Install all the latest Chipset Drivers
 
 **Driver Installation:**  
 The software will now download and install the latest drivers. This process may take a few minutes depending on your internet speed. During the installation, your screen may briefly go black.
+
+![Graphics Drivers installing
+](https://gpdstore.net/wp-content/uploads/2024/09/AMD-Graphics-Drivers-5-1200x675.jpg)
 
 Graphics Drivers installing
 

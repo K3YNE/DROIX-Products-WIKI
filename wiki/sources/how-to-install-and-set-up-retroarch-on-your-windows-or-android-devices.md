@@ -12,13 +12,15 @@ updated: 2026-04-22
 tags: [kb-article, droix, windows, android, installation, emulation]
 ---
 
-In this guide, we will be showing how to install and set up the emulator frontend RetroArch on your Windows and Android-based devices such as [Gaming Handhelds](https://droix.net/product-category/handhelds/), [Mini PCs](https://droix.net/product-category/mini-pcs/) and [TV Boxes](https://droix.net/product-category/tv-and-home-cinema/android-powered-tv-devices-by-droix/). We will show how to download and install, how to install the emulator cores, how to add new ROMs to the game browser and much more!
+In this guide, we will be showing how to install and set up the emulator frontend RetroArch on your Windows and Android-based devices such as [Gaming Handhelds](https://droix.net/product-category/handhelds/), [Mini PCs](https://droix.net/product-category/mini-pcs/) and [TV Boxes](https://droix.net/product-category/tv-and-home-cinema/android-powered-tv-devices-by-DROIX/). We will show how to download and install, how to install the emulator cores, how to add new ROMs to the game browser and much more!
 
 ## How to download RetroArch?
 
 ### Windows
 
 For [Windows](https://www.microsoft.com/en-gb/windows/windows-11) devices, you can download the latest version from the official homepage at [https://www.retroarch.com/](https://www.retroarch.com/?page=platforms).
+
+![Windows RetroArch Download](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Windows-RetroArch-Download-300x214.jpg)
 
 Windows RetroArch Download
 
@@ -27,6 +29,8 @@ You can choose the very latest Nightly build which may have some bugs, or the St
 ### Android
 
 If your [Android](https://www.android.com/) device has the Google Play Store installed then you can simply download and install it from there. Search for **RetroArch** then click on install and all the work is done for you.
+
+![Android RetroArch Download](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/Android-RetroArch-Download-300x164.jpg)
 
 Android RetroArch Download
 
@@ -42,15 +46,21 @@ The first step we recommend is updating the configuration and data files. To do 
 
 Choose the menu items starting with **Update..** and each one will download and update their respective files to the very latest versions.
 
+![RetroArch Online Updater](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Online-Updater-300x163.jpg)
+
 RetroArch Online Updater
 
 ### Installing and Updating RetroArch Cores
 
 Once this has been completed you can now download the emulator Cores. These are essentially the different emulators available for your handheld. From the same **Settings** > **Online Updater** screen, choose **Core Downloader**.
 
+![RetroArch Core Downloader](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Core-Downloader-300x163.jpg)
+
 RetroArch Core Downloader
 
 A list of available cores will be shown. There may be multiple Cores for one system, such as for Arcade games there are twelve. Arcade is a generic term, some Cores support specific Arcade systems and some support multiple.
+
+![RetroArch Core Downloading](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Core-Downloading-300x163.jpg)
 
 A RetroArch Core Downloading
 
@@ -62,9 +72,13 @@ Once you have downloaded which Cores you want, you can now scan your storage for
 
 Once you have added some games to the device you can proceed with scanning your ROMS folder for games. From the main menu, choose **Import Content** and then **Scan Directory.**
 
+![RetroArch Import Content](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Inport-Content-300x163.jpg)
+
 RetroArch Import Content
 
 Locate your ROMS folder on your storage and you can either choose to scan all folders or choose a specific system if you have organised it this way. Choose **<Scan This Directory>** and RetroArch will scan the folder and add them to RetroArch.
+
+![RetroArch Scan Folder](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Scan-Folder-300x163.jpg)
 
 RetroArch Scan Folder
 
@@ -74,15 +88,21 @@ This can take some time depending on how many games you have to scan. Let it do 
 
 On the main menu, scroll down the list and you will see the gaming systems you previously scanned.
 
+![RetroArch Content Imported](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Content-Imported-300x163.jpg)
+
 RetroArch Content Imported
 
 Choose a gaming system and you will see a list of found games on the right side. Choose a game that you want to play.
+
+![RetroArch Game Menu](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Game-Menu-300x163.jpg)
 
 RetroArch Game Menu
 
 A menu will show with several options. From here you configure various settings, for now, we just want to play the game so choose **Run**.
 
 A new menu will appear with a list of potential compatible emulator Cores that will run the game. Depending on how many you installed, you may only have one or several to choose from. If you find the Core is not to your liking, you can always come back and try a different one.
+
+![RetroArch Choose Core](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Choose-Core-300x163.jpg)
 
 RetroArch Choose Core
 
@@ -96,13 +116,19 @@ RetroArch should automatically find your game controller or built-in controller 
 
 A hotkey allows you to use button combinations for shortcuts. To do this we need to first define what the hotkey should be. The most common hotkey is the **SELECT** button, but you can choose any other if you wish to. From the main menu, choose **Settings** then **Input**.
 
+![RetroArch Input](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Input-300x163.jpg)
+
 RetroArch Input
 
 Scroll down the menu until you see **Hotkeys** and choose this.
 
+![RetroArch Hotkeys](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Hotkeys-1-300x163.jpg)
+
 RetroArch Hotkeys
 
 Scroll down and choose the **Hotkey Enable** entry and a popup will prompt you to press a button on your controller. Press the **SELECT** button or whichever button you wish to use.
+
+![RetroArch Hotkey Enable](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Hotkey-Enable-300x163.jpg)
 
 RetroArch Hotkey Enable
 
@@ -113,6 +139,8 @@ Your hotkey is now enabled. Continue reading for how to use it!
 On the same hotkeys screen, you can scroll down the list of shortcuts you can use. We will show how to set up the Load and Save state function. This function allows you to save exactly where you are in a game and then return at a later date to resume exactly where you left off. We will be using the **L1** and **R1** buttons for the button combination, but again you can decide to use others.
 
 Scroll down the list until you see the Load State entry. Select this and a popup will appear prompting for a button input, press the L1 button once and the button will be set. Choose Save State below it and repeat the process but this time press the **R1** button.
+
+![RetroArch Load Save State](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Load-Save-State-300x163.jpg)
 
 RetroArch Load Save State
 
@@ -128,9 +156,13 @@ You can make the display window full-screen permanently or have a shortcut to to
 
 If however, you want RetroArch to always start fullscreen there is a setting you can use. From the main menu choose **Settings** then **Video**.
 
+![RetroArch Video Settings](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Video-Settings-300x163.jpg)
+
 RetroArch Video Settings
 
 Choose **Fullscreen Mode**
+
+![RetroArch Fullscreen Mode](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/08/RetroArch-Fullscreen-Mode-300x163.jpg)
 
 RetroArch Fullscreen Mode
 

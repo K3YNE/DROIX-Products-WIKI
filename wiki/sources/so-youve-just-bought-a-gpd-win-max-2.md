@@ -51,12 +51,18 @@ Now that you’ve got your tablet up and running, let’s take a look at the fan
 * [GPD Protective Case for Win Max 2](https://droix.net/product/gpd-protective-case-win-max-2/): This is a highly durable and resilient case, designed specifically for the GPD Win Max 2 handheld gaming device. It safeguards the gadget from scratches, dust, and minor falls while offering a perfect fit that does not hinder access to the device’s various ports and features.
 * [GuliKit KingKong 2 Pro Controller](https://droix.net/product/gulikit-kingkong-2-pro/): This high-quality game controller by GuliKit offers an advanced level of precision and control for avid gamers. It’s equipped with a high-speed chip for lower latency, dual vibration motors for immersive haptic feedback, and a powerful battery for extended gameplay sessions.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-edited.png)
+
 * [FX8S USB Type-C Hub](https://droix.net/product/fx8s-usb-type-c-hub/): The FX8S USB Type-C Hub is a versatile and portable device that extends your device’s connectivity. It includes a variety of ports, including HDMI, USB Type-A, USB Type-C, and SD card readers, providing comprehensive compatibility with a range of peripherals.
 * [Micro SD Card UHS-I TF Flash Memory Card – DROIX](https://droix.net/product/micro-sd-card-tf/): This is a high-speed, high-capacity MicroSD card from DROIX. Designed for fast data transfer and reliable storage, it’s perfect for expanding the memory capacity of a device for storing games, photos, music, and more. The card is UHS-I enabled, ensuring fast and efficient data transfer.
 * [GPD Pocket 3 & Win Max 2 Stylus 4096 – DROIX](https://droix.net/product/gpd-4096-stylus/): This precision stylus is designed for use with the GPD Pocket 3 and Win Max 2 devices. With 4096 levels of pressure sensitivity, it provides a smooth and responsive writing or drawing experience, making it ideal for note-taking, sketching, and more.
 
+![Stylus for GPD WIN Max 2 & Pocket 3](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-2-1024x555.png)
+
 * [BiWin 2230 NVMe Storage PCI-e SSD – DROIX](https://droix.net/product/biwin-2230/): The BiWin 2230 NVMe is a compact and high-speed SSD that uses the PCI Express interface for quick data transfer. The PCI-e SSD provides faster load times and improves the overall responsiveness of your device, making it ideal for gaming, content creation, and multitasking. It’s perfect for users looking to upgrade their device’s storage with a reliable and fast solution.
 * [15.6”4K Portable Monitor with touchscreen – DROIX](https://droix.net/product/portable-monitor-with-touchscreen/) | [15.6″ 4K portable monitor with stylus support – DROIX](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/): These portable monitors offer a stunning 4K resolution across their 15.6″ display. The monitor comes with touchscreen capabilities and even has an option stylus support fantastic for artists, note takers, handwriting enthusiasts and more. It’s the perfect addition to get that extra-screen real estate with your WIN Max 2. Its slim and lightweight design makes it easy to carry around.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-1-edited.png)
 
 * [GPD 4G LTE Module – DROIX](https://droix.net/product/gpd-win-4-4g-lte-module/): This is a 4G LTE module designed specifically for GPD gaming devices. It allows the device to connect to mobile broadband networks for online gaming and internet browsing, significantly enhancing your connectivity and versatility while on the go. Simply plug the device in, put in your SIM card and you’re good to go!
 

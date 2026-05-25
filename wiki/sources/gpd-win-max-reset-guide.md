@@ -22,9 +22,13 @@ A factory reset is faster than a reinstallation of Windows. However, to do this 
 
 With that in mind, to initiate the reset, simply press F7 when the device is powering on. You’ll be taken to the boot menu, like so:
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/WinMax_BootMenu-300x225.jpg)
+
 Select “UEFI OS (Biwin SSD)”.
 
 Press the big blue start button – and the device will proceed to reset and reboot automatically.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/WinMax_Reset1-300x225.jpg)
 
 (We highly suggest making sure the device is connected to the charge while the reset is underway, as if the device shuts off during this process it may cause issues)
 
@@ -49,6 +53,8 @@ This can be done natively in Windows 10, but also through a myriad of other free
 
 Once the drive is formatted, copy the contents of the extracted zip file onto the root of the USB. It should look something like this:
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/explorer_Ux65jZ6Lfo-300x93.png)
+
 Now your USB is ready for use!
 
 #### Method 2: Write a pre-made image
@@ -63,6 +69,8 @@ You’ll also need to download Win32DiskImager, which you can here: https://sour
 
 Once downloaded, insert the USB you plan to use into your PC, and start up Win32DiskImager. You’ll see a window like this.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Win32DiskImager_WgftBbgEks-300x209.png)
+
 Click the blue folder icon, then navigate to where you’ve downloaded the image file, and select it.
 
 Then – make sure the “Device” drive letter matches the USB you’ve inserted (you can check this in File Explorer).
@@ -75,11 +83,15 @@ Once finished, you’ll have a new USB called “WINPE” with all the requisite
 
 Insert the USB stick into either of the USB-A ports on the rear of the Win Max, as seen here.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/WinMax_RearPorts-300x225.jpg)
+
 Now turn on the device while pressing F7. As seen in the previous section, this will bring up the boot menu.
 
 Select the device that corresponds to the USB you’ve inserted (i.e., in this guide we’ve used a Toshiba memory stick, so we’ll select the Toshiba TransMemory option).
 
 Now the reinstallation will begin. Just sit back, make sure that the system is connected to a charger, and wait!
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/WinMax_Reinstall-300x225.jpg)
 
 Once finished, the system will reboot automatically into a fresh new installation of Windows 10.
 

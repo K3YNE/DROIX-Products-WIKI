@@ -16,33 +16,49 @@ The [Minisforum UN100](https://droix.net/product/minisforum-un100/) has space in
 
 Remove the four rubber feet caps and screws.
 
+![Remove the four rubber feet caps and screws](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Install-HDD-or-SSD-in-Minisforum-UN100-1-1024x576.jpg)
+
 Remove the four rubber feet caps and screws
 
 Lift the base off the mini PC. You may need to use a plastic spudger to free it.
+
+![Lift the base of the mini PC](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Install-HDD-or-SSD-in-Minisforum-UN100-2-1024x576.jpg)
 
 Lift the base of the mini PC
 
 Remove the four screws as indicated.
 
+![Remove the four screws as indicated](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Install-HDD-or-SSD-in-Minisforum-UN100-3-1024x576.jpg)
+
 Remove the four screws as indicated
 
 Gently lift the tray to the side. There is a short cable which you should lift to.
+
+![Lift the tray to the side](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Install-HDD-or-SSD-in-Minisforum-UN100-4-1024x576.jpg)
 
 Lift the tray to the side
 
 Remove the screw and remove the component.
 
+![Remove the screw and component](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Install-HDD-or-SSD-in-Minisforum-UN100-5-1024x576.jpg)
+
 Remove the screw and component
 
 Gently lift the main board from the case.
+
+![Gently lift the main board from the case](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Install-HDD-or-SSD-in-Minisforum-UN100-6-1024x576.jpg)
 
 Gently lift the main board from the case
 
 Match the ends of the SATA cable to the drive and connect them.
 
+![Match the ends of the SATA cable to the drive](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Install-HDD-or-SSD-in-Minisforum-UN100-7-1024x576.jpg)
+
 Match the ends of the SATA cable to the drive
 
 Place the drive into the holding tray.
+
+![Place the drive into the holding tray.](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Install-HDD-or-SSD-in-Minisforum-UN100-8-1024x576.jpg)
 
 Place the drive into the holding tray.
 

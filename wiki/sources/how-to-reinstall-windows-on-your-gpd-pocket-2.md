@@ -20,22 +20,38 @@ Download the GPD Pocket 2 firmware from: <https://drive.google.com/file/d/1y_fLd
 
 Connect your 16GB or larger USB Memory Stick to your PC. In Explorer, Right Click on the USB Memory Stick and choose the **Format** option.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Flash-GPD-Win-0-7-206x300.png)
+
 Change the File System to **NTFS**, and the Volume Label to **WINPE** as shown below or the firmware flash will not work.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Flash-GPD-Win-1-3-176x300.png)
 
 Extract the contents of the GPD Pocket 2 firmware file to the root of the USB Memory Stick (so don’t put the contents in a new folder, just at the very beginning of the drive). This process may take some time to complete as it copies all the files.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Flash-GPD-Win-3-3-300x155.png)
+
 Once completed, you can right click on the USB Memory Stick and choose **Eject**.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Flash-GPD-Win-2-3-237x300.png)
 
 Connect the USB Memory Stick to the USB 3.0 port on the right side of the GPD Pocket 2.
 
 Switch the GPD Pocket 2 on, immediately hold the **Fn** button and repeatedly tap the **F12** button until the Boot Manager screen appears. **NOTE: The display will be rotated 90 degrees and is perfectly normal in this process.**
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Boot-Menu-1-4-300x179.jpg)
+
 Using the **Up/Down** buttons on the GPD Pocket 2 keyboard, navigate to your USB Memory Stick and then press the **Enter** button to choose it.
 
 The firmware reflash will now proceed and is automated – you can now leave it until you see the Windows desktop again. The process will take around 20 to 30 minutes, do not switch the device off or press any buttons during this time.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Boot-Menu-3-3-169x300.jpg)
+
 Once you are on the desktop, press the **Cancel** button on the Window that appears, **do NOT press OK!**
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Boot-Menu-4-3-300x169.jpg)
+
 You can now double click on the **Cleanup Test** icon on the desktop to run a clean up.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Boot-Menu-5-scaled-1-2.jpg)
 
 The GPD will now perform some cleanup tasks, let them complete, and afterwards the device will switch off. Once this is done, you can now switch the device back on and it will boot to the Windows first use screen, it is now ready to use.

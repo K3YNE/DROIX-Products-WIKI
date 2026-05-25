@@ -22,6 +22,8 @@ At DROIX we pride ourselves on our high level of before and after-sales customer
 
 Before using your portable monitor, check that all the contents that should come with it are present. This may vary between models, check the *Box Contents* section on our product listing for your portable monitor to ensure everything is present with yours.
 
+![Portable monitor and accessories (Your model may differ)](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Portable-monitor-and-accessories-300x169.jpg)
+
 Portable monitor and accessories (Your model may differ)
 
 If something is missing or you are not sure, please [contact our customer service](https://droix.net/contact-us/) and we will be happy to assist.
@@ -68,15 +70,21 @@ There are two methods of connecting your device to the portable monitor; HDMI an
 * HDMI allows you to connect just about any modern device. This is the most common way and the most compatible. You can use the included HDMI to Mini HDMI cable to connect it from your device to the monitor.
 * [USB Type-C](https://uk.pcmag.com/laptop-how-to/40348/what-is-usb-c-an-explainer) is an excellent method to connect compatible devices such as a mini PC or handheld gaming PC to a portable monitor. Please refer to your device’s user manual to see if it supports video output via the USB Type-C port, You may have two or more ports and only one for example may support it. You may also have the added benefit of powering the monitor via your device with the same USB cable.
 
+![Portable monitor with AYA NEO Geek handheld gaming PC](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Portable-monitor-with-AYA-NEO-Geek-handheld-gaming-PC-300x169.jpg)
+
 Portable monitor with AYA NEO Geek handheld gaming PC
 
 ### Navigating the portable monitor menus
 
 You can access the portable monitor menu by pressing the rocker on the left side. The menus can be interacted with the rocker and tapping the power button, or far easier to touch the screen itself.
 
+![Portable monitor main menu](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Portable-monitor-main-menu-300x169.jpg)
+
 Portable monitor main menu
 
 You can navigate the menus by pressing their respective boxes on the screen and configure the portable monitor to your own preferences.
+
+![Portable monitor settings](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Portable-monitor-settings-300x169.jpg)
 
 Portable monitor settings
 
@@ -98,17 +106,25 @@ To change the display resolution, on the Windows search bar, type in *Display Se
 
 If the monitors’ settings are showing as “Duplicate these displays” then we recommend changing this to *Extend the displays* (have your desktop split across two monitors), or *Show only on the portable monitor* (usually display 2) for the best resolutions.
 
+![Changing how the displays are outputting](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Portable-Monitor-Getting-Started-Windows-Display-Settings-1-300x169.jpg)
+
 Changing how the displays are outputting
 
 Once you have chosen how to display, the monitor may show a black screen for a short period while switching resolutions. It will then show either your usual desktop if showing only on the portable monitor, or an empty desktop if extending the displays.
+
+![Desktop is now extended](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Portable-Monitor-Getting-Started-Windows-Display-Settings-3-300x169.jpg)
 
 The desktop is now extended
 
 As this is a 4K monitor, you can now change the screen resolution up to the highest your device supports.
 
+![Change your screen resolution to the best your device supports](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Portable-Monitor-Getting-Started-Windows-Display-Settings-9-300x176.jpg)
+
 Change your screen resolution to the best your device supports
 
 If you are having any display issues we recommend checking the refresh rate in case it is not set to 30 or 60Hz. You can do this from the *Advanced Display* menu option, then change the refresh rate to *60.00 Hz* for example.
+
+![Change the monitor refresh rate](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Portable-Monitor-Getting-Started-Windows-Display-Settings-7-300x175.jpg)
 
 Change the monitor refresh rate
 

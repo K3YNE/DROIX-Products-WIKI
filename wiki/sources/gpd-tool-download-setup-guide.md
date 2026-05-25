@@ -49,10 +49,17 @@ You can download the latest release as well as previous releases below.
 
 |  |  |
 | --- | --- |
+| GPD Tool v1.49 | [Download here](https://gofile.me/7AWvf/upccD3bJR) |
 | GPD Tool v1.45 | [Download here](https://gofile.me/7AWvf/EierB889A) |
 | GPD Tool v1.31 | [Download here](https://gofile.me/7AWvf/b85y8Njq1) |
 
-Changes in latest GPD Tools v1.45:
+**Changes in GPD Tools v1.49:**
+
+Fixed the feature of automatically hiding the desktop UI when clicked.  
+Fixed an external graphics card display bug  
+Fixed the GPD BOX fan read address.
+
+**Changes in GPD Tools v1.45:**
 
 * Brand-new redesigned UI
 * Added CPU frequency limit option
@@ -108,9 +115,13 @@ Changes in latest GPD Tools v1.45:
 
 You can open the GPD Tool overlay from the Windows system tray in the bottom right of the desktop, or by pressing **CTRL + SHIFT + F3**.
 
+![GPD Tool - Overlay Menu](https://droix.net/knowledge-base/wp-content/uploads/2026/03/GPD-Tool-Overlay-Menu-1024x576.jpg)
+
 GPD Tool – Overlay Menu
 
 You may find the text is by default in Chinese language, you can change it to your preferred language by following the steps in the below image:
+
+![GPD Tool - Change Language](https://droix.net/knowledge-base/wp-content/uploads/2026/03/GPD-Tool-Change-Language-1024x576.jpg)
 
 GPD Tool – Change Language
 
@@ -120,6 +131,8 @@ A quick run down over all the options you have.
 
 Use this section to adjust your device’s **Thermal Design Power (TDP)**. The available range depends on your specific GPD model.
 
+![GPD Tool - Change TDP](https://droix.net/knowledge-base/wp-content/uploads/2026/03/GPD-Tool-Change-TDP-1-1024x576.jpg)
+
 GPD Tool – Change TDP
 
 You can move the slider manually or use the **Low**, **Mid**, or **High** presets for faster changes.
@@ -127,6 +140,8 @@ You can move the slider manually or use the **Low**, **Mid**, or **High** preset
 ### Performance
 
 The **Performance** option requires **RivaTuner** to be installed. In some cases, [DirectX](https://www.microsoft.com/download/details.aspx?id=35) components may also be required before the overlay works correctly.
+
+![GPD Tool - Performance with RivaTuner](https://droix.net/knowledge-base/wp-content/uploads/2026/03/GPD-Tool-Performance-with-RivaTuner-1-1024x576.jpg)
 
 GPD Tool – Performance with RivaTuner
 
@@ -156,6 +171,8 @@ Use the sliders to adjust system volume and screen brightness without leaving th
 
 ### Settings
 
+![GPD Tool - Settings](https://droix.net/knowledge-base/wp-content/uploads/2026/03/GPD-Tool-Settings-1-1024x576.jpg)
+
 GPD Tool – Settings
 
 * **Auto Start** – Enable or disable the GPD Tool from launching when booting Windows
@@ -168,6 +185,8 @@ GPD Tool – Settings
 ### Back Button Configuration
 
 If your GPD device includes rear buttons, you can assign custom functions or button combinations from the **Back Button Configuration** menu. You can access the options by pressing the small GPD logo in the bottom left area of the overlay.
+
+![GPD Tool - Back Button Configuration](https://droix.net/knowledge-base/wp-content/uploads/2026/03/GPD-Tool-Back-Button-Configuration-1-1024x576.jpg)
 
 GPD Tool – Back Button Configuration
 

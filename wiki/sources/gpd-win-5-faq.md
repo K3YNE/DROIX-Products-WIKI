@@ -14,142 +14,118 @@ updated: 2026-04-21
 tags: [kb-faq, gpd, win-5, support]
 ---
 
-# GPD WIN 5 — FAQ
-
-First-party FAQ from the GPD Store knowledge base, maintained by Dave. Covers launch status, warranty, SKU specs, battery, display, emulation, peripherals, and common misconceptions for the [[gpd-win-5|GPD WIN 5]].
+You can find answers to many common questions we are asked or searched for by our visitors. This GPD WIN 5 FAQ is regularly updated with new Q&A.
 
 ## Frequently Asked Questions
 
-<details>
-<summary>Launch + Availability</summary>
-The GPD WIN 5 is currently shipping via GPD Store.
-</details>
+### GPD WIN 5
 
-<details>
-<summary>Warranty Information</summary>
-You get a 2-year warranty when purchasing via [[droix|DROIX]] or GPD Store (compared to only 1 year from other sellers).
-</details>
+* When will the GPD WIN 5 launch?
 
-<details>
-<summary>What processors does the GPD WIN 5 use?</summary>
-The GPD WIN 5 is available with the [[gpd-win-5-max-395|AMD Ryzen AI Max+ 395]] (Radeon 8060S) and [[gpd-win-5-max-385|AMD Ryzen AI Max 385]] (Radeon 8050S).
-</details>
+  The GPD WIN 5 is currently shipping, you can order at https://gpdstore.net/product/gpd-win-5/
+* What warranty do you get when buying the GPD WIN 5?
 
-<details>
-<summary>Size and Weight</summary>
-The device itself measures 26.7 × 11.1 × 2.4 cm and weighs 565 g. The external battery measures 11.07 × 11.03 × 1.81 cm and weighs 350 g.
-</details>
+  You get a two year warranty when buying from GPD Store, other sellers may only provide one year.
+* What processor does the GPD WIN 5 have?
 
-<details>
-<summary>Full Specification Summary</summary>
-- **RAM:** 32 / 64 / 128 GB LPDDR5X (8000 MT/s)
-- **Storage:** M.2 2280 up to 4 TB + Mini SSD up to 2 TB
-- **Display:** 7" 1920×1080 touchscreen, 120 Hz refresh rate
-- **OS:** Windows 11 Home
-</details>
+  The GPD WIN 5 has the choice of two processors with their respective GPUs:
 
-<details>
-<summary>Is the battery hot-swappable?</summary>
-Yes, the GPD WIN 5 features an 80 Wh external battery that is hot-swappable across multiple packs.
-</details>
+  + AMD Ryzen AI MAX + 395 with AMD Ryzen 8060S
+  + AMD Ryzen AI MAX 385 with AMD Ryzen 8050S
+* What is the GPD WIN 5’s size and weight? Is it portable?
 
-<details>
-<summary>Difference between Max+ 395 and Max 385 SKUs</summary>
-- **Max+ 395:** 16C/32T + 40-CU 8060S @ 2900 MHz
-- **Max 385:** 8C/16T + 32-CU 8050S @ 2800 MHz
-</details>
+  The GPD WIN 5 measures around 10.5 x 4.3 x 0.95 inches (26.7 x 11.1 x 2.4 cm) and weighs approximately 565g (1.24 lbs).
 
-<details>
-<summary>How does the Max+ 395 compare to the Ryzen 9 AI HX 370?</summary>
-Benchmarks show up to 189% uplift for the Max+ 395 depending on the test. See the [[gpd-win-5-blog-review]] for detailed data.
-</details>
+  In addition, the external battery pack measures around 4.36 x 4.34 x 0.71 inches (11.07 x 11.03 x 1.81 cm) and weighs about 350g (0.77 lbs), making this a very versatile portable gaming PC.
+* What are the key specifications of the GPD WIN 5?
 
-<details>
-<summary>Gaming Performance</summary>
-The integrated graphics are roughly comparable to an RTX 4060 class mobile GPU. For example, *DOOM: The Dark Ages* runs at 1080p Nightmare preset at approximately 120 fps.
-</details>
+  The GPD WIN 5 comes with a choice of two CPU and GPU configurations as well as RAM and Storage options  
+  AMD Ryzen AI MAX+ 395 / AMD Ryzen AI MAX 385  
+  AMD Radeon 800S / AMD Radeon 8050S  
+  RAM: 32GB / 64GB / 128GB LPDDR5x 8000 MT/s  
+  STORAGE:   
+  1TB / 2TB / 4TB PCIe 4.0 x 4 M.2 NVMe 2280 SSD  
+  512GB / 1TB / 2TB PCIe Gen4 x 1 Mini SSD
 
-<details>
-<summary>Emulation Capabilities</summary>
-Emulation performance is exceptional, handling up to PS4 and Switch (Eden) emulation (with some caveats depending on the title).
-</details>
+  DISPLAY: 72 touchscreen at 1920×1080 resolution supporting up to 120Hz refresh rate  
+  OS: Windows 11 Home
+* What is the battery capacity of the GPD WIN 5?
 
-<details>
-<summary>Power Supply Specifications</summary>
-The device comes with a 180 W barrel-jack PSU (5.2 × 2.5 mm, 100–240 V AC, 20 V / 9 A output). USB-C charging is also supported.
-</details>
+  The GPD WIN 5 has a 80Wh external battery which can be easily swapped with additional batteries.. Battery life will vary depending on usage .
+* What are the differences between the GPD WIN 5 AMD Ryzen AI MAX+ 395 and MAX 385 processors?
 
-<details>
-<summary>Do I need the external battery to run the device?</summary>
-No, the device can run from the power supply unit alone.
-</details>
+  The AMD Ryzen AI MAX+ 395 specs are:  
+  **CPU:**  
+  CORES: 16  
+  THREADS: 32  
+  MAX BOOST CLOCK: Up to 5.1 GHz  
+  **GPU:**  
+  AMD Radeon 8060S  
+  CORES: 40  
+  FREQUENCY: 2900MHz
 
-<details>
-<summary>RAM and Storage Upgradability</summary>
-- **RAM:** Soldered (not upgradable).
-- **M.2 2280 SSD:** User-upgradable up to 4 TB+.
-- **Mini SSD:** Slot accepts up to 2 TB. See our [[gpd-win-5-kb-mini-ssd-guide|Mini SSD (BIWIN) guide]] for installation.
-</details>
+  The AMD Ryzen AI MAX 385 specs are:  
+  **CPU:**  
+  CORES: 8  
+  THREADS: 16  
+  MAX CLOCK BOOST: Up to 5GHz  
+  **GPU:**  
+  AMD Radeon 8050S  
+  CORES: 32  
+  FREQUENCY: 2800MHz
+* How much faster is the AMD Ryzen AI MAX+ 395 than the Ryzen 9 AI HX 370
 
-<details>
-<summary>External Display and Multi-monitor Support</summary>
-The native screen is 1920×1080 @ 120 Hz. Using the [[gpd-win-5-smart-dock|GPD WIN 5 Smart Dock]], you can output up to 4K @ 144 Hz over HDMI 2.1. The device supports up to three external monitors total (HDMI 2.1 + 2× USB-C).
-</details>
+  The performance different between the AMD Ryzen AI MAX+ 395 and Ryzen 9 AI HX 370 is very large. Depending on the benchmark you can see as high as a 189% increase in performance. See our benchmarks in our [GPD WIN 5 review here](https://gpdstore.net/blog/gpd-win-5-review/).
+* What gaming performance can I expect from the GPD WIN 5?
 
-<details>
-<summary>Thermal Management and Noise</summary>
-Featuring a dual-fan + quad heat pipe system. Max fan noise is 67 dB, and max surface temperature is 48 °C under sustained load. The temperature delta between battery-attached and detached is minimal.
-</details>
+  The GPD WIN 5’s AMD Ryzen AI MAX 395+ with AMD Radeon 8060S provides excellent performance roughly equivalent to the Nvidia 4060. In many recent games you can expect to play AAA titles at 1080P on or above High settings in most cases. For example on DOOM Dark Ages, it can be set to 1080P on the default Nightmare graphics settings for 120 frames per second.
+* Is the GPD WIN 5 good for emulation?
 
-<details>
-<summary>Speaker and Audio Features</summary>
-Dual 2 W super-linear speakers with DTS:X Ultra support, simulating 7.1 surround sound on both speakers and headphones.
-</details>
+  The GPD WIN 5 is exceptional for emulation! You will be able to run up to the more recent console (PlayStation 4) and handheld emulators (i.e. Eden) with impressive performance. Please note that the actual emulators compatibility may not fully support all games and performance can vary in these instances.
+* How to install and set up the BIWIN Mini SSD?
 
-<details>
-<summary>Wireless Connectivity</summary>
-Includes Wi-Fi 6E and Bluetooth 5.3 as standard.
-</details>
+  We have prepared a guide on how to [install and set up the BIWIN Mini SSD here](https://gpdstore.net/kb/gpd-win-5-support-hub/kb-article/using-the-gpd-win-5-mini-ssd-card/).
+* What is the GPD Win 5 power supply specification and wattage?
 
-<details>
-<summary>eGPU Support</summary>
-Supported via USB4, though the high performance of the 8060S integrated GPU reduces the need for external graphics in many cases. See [[egpu-docking]] for more.
-</details>
+  The GPD WIN 5 comes with a 180W power supply with a 5.2×2.5mm barrel jack to connect to the device. Input:‌ 100–240V AC, 50Hz/60Hz; Output:‌ 180W (20V==9A Continuous)
 
-<details>
-<summary>Stylus Compatibility</summary>
-Standard capacitive styluses are supported, but GPD's own active stylus is not compatible with this screen.
-</details>
+  You can also use a USB-C charger to power the device or charge the external battery.
+* Does the external battery need to be connected to use the GPD WIN 5?
 
-<details>
-<summary>Windows Hello and Security</summary>
-Windows Hello is supported via a fingerprint scanner integrated into the power button.
-</details>
+  You do not need the external battery to be connected in order to power the GPD WIN 5. You can use the included power supply to power it.
+* Can the RAM and Storage be upgraded for the GPD WIN 5?
 
-<details>
-<summary>AI Performance (NPU)</summary>
-Features an XDNA2 NPU delivering ~61 TPS for local LLM token generation and up to 126 TOPS system-wide in optimized cases.
-</details>
+  It is not possible for the RAM to be upgraded as it is soldered to the board. It is possible to upgrade the storage to 4TB and theoriticaly higher capacaties once available. The storage is M.2 2280 SSD format. You also have the Mini SSD slot which supports up to 2TB SSD for additional storage.
+* What is the GPD WIN 5’s maximum display resolution?
 
-<details>
-<summary>Build Material</summary>
-The shell is made from LG-DOW 121H aviation-grade ABS resin, which is UL94 V-0 fire-retardant.
-</details>
+  The GPD WIN 5’s 7″ display supports up to 1920×1080 and a refresh rate up to 120Hz. When connected to an external display via the GPD WIN 5 Smart Dock, it can output up to 4K 144Hz via the HDMI 2.1 port.
+* How does the GPD WIN 5 handle multiple display setups?
 
-## When to use this page
+  You can connect to three external monitors such as the [DROIX PM14](https://gpdstore.net/portable-monitors/droix-pm14-portable-monitor/) via the HDMI 2.1 and two USB-C ports.
+* How does the GPD WIN 5 handle thermal management under load?
 
-Quote this FAQ as the canonical first-party reference for:
+  The GPD WIN 5 features a Dual-Fan and Quad-Heat-Pipe Configuration that in our tests works very well. In our fan noise and temperature tests, a highest fan noise of 67 dB was recorded. The highest temperature reached was 48°C without the battery, and not much difference was noted with the battery attached
+* What are the GPD WIN 5 speakers like
 
-- Any spec/compatibility question where the answer is a hard fact (ports, weight, battery capacity, RAM ceiling, etc.).
-- Customer-support responses — the FAQ's wording is vetted by GPD Store and safe to paraphrase.
-- Pre-purchase questions ingested by the wiki for customer-facing content.
+  The GPD WIN 5 is equipped with dual 2W super linear speakers. Both the headphones and built-in speakers support DTS: X Ultra audio technology, simulating physical 7.1-channel surround sound
+* What communications features does the GPD win 5 support?
 
-For performance claims (FPS, benchmark comparisons), the [[gpd-win-5-blog-review]] and [[2025-10-23-gpd-win-5-review-youtube]] are the preferred primary sources since they include controlled-conditions data.
+  For Wireless communication there is WiFi 6E and Bluetooth 5.3 built-in as standard.
+* Does the GPD WIN 5 support external GPUs?
 
-## Related
+  The GPD WIN 5’s 8060S GPU is roughly equivalent to an Nvidia 4060 in terms of performance, so an eGPU is not required. However, you can connect an eGPU via the USB 4 port.
+* Does the GPD WIN 5 support stylus?
 
-- [[gpd-win-5]] — product hub.
-- [[gpd-win-5-product-page]] — marketing page.
-- [[gpd-win-5-getting-started]] — first-boot onboarding article.
-- [[gpd-win-5-user-manual-2025-09-04]] — full user manual PDF.
-- [[gpd-win-5-blog-review]] — first-party written review with benchmark data.
+  The GPD WIN 5 supports a [capacative stylus](https://gpdstore.net/product/universal-stylus-pen-for-gpd/) . An Active stylus such as the [GPD Stylus](https://gpdstore.net/product/gpd-stylus/) will not work on the Win 5
+* Does the GPD WIN 5 support Windows Hello?
+
+  The GPD WIN 5 supports Windows Hello via the fingerprint scanner found on the power button.
+* What is the GPD WIN 5’s AI performance
+
+  The XDNA2 NPU, with high token generation (61 TPS) and fast time-to-first-token for local LLMs, reaching 126 TOPS system-wide in optimized cases.
+* What operating system does the GPD WIN 5 run?
+
+  The GPD WIN 5 runs the Windows 11 Home OS.
+* What is the GPD WIN 5’s shell made from?
+
+  The GPD WIN 5’s shell is made from ‌LG-DOW 121H Impact-Resistant Aviation ABS Synthetic Resin, UL94 V-0 Fire-Retardant Grade

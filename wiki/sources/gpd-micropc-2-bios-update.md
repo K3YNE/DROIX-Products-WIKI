@@ -31,11 +31,15 @@ Ways to identify your CPU on your device:
   Select **About your PC** from the results.  
   Look under “**Device specifications**” for the Processor entry, which lists your CPU model (e.g., Intel Core i7-10750H).
 
+![Task Manager CPU](https://gpdstore.net/wp-content/uploads/2025/08/Task-Manager-CPU-1200x675.jpg)
+
 Task Manager CPU
 
 ## Check which BIOS version you are currently on
 
 Power on the [GPD MicroPC 2](https://gpdstore.net/laptops/gpd-micropc-2/) and immediately and repeatedly tap the **Backspace** key on the keyboard. Keep doing this until the BIOS menu is shown. If it boots to Windows, repeat the process again.
+
+![GPD MicroPC 2 BIOS Main Page](https://gpdstore.net/wp-content/uploads/2025/08/GPD-MicroPC-2-BIOS-Main-Page-1200x675.jpg)
 
 GPD MicroPC 2 BIOS Main Page
 
@@ -61,9 +65,13 @@ After downloading, extract the contents of the .zip file. You should see a file 
 
 Run the .exe file by double-clicking it and approve any Administrator access requests that appear. After a moment, a command prompt window will open to begin the update.
 
+![Updating GPD MicroPC 2 BIOS - Pre-update information](https://gpdstore.net/wp-content/uploads/2025/07/Updating-GPD-MicroPC-2-BIOS-Step-1-1200x675.jpg)
+
 Updating GPD MicroPC 2 BIOS – Pre-update information
 
 Before proceeding, please verify that your device’s battery is full and the power adapter is connected. When you are ready, press any key to initiate the BIOS update.
+
+![Updating GPD MicroPC 2 BIOS - Reading Flash](https://gpdstore.net/wp-content/uploads/2025/07/Updating-GPD-MicroPC-2-BIOS-Reading-Flash-1200x675.jpg)
 
 Updating GPD MicroPC 2 BIOS – Reading Flash
 
@@ -71,9 +79,13 @@ After a brief wait, you will be prompted to reboot the device to proceed with th
 
 Once rebooted, the BIOS update will now proceed. Do not switch off the device during this process. It will take a couple of minutes to update.
 
+![GPD MicroPC 2 BIOS Update - Updating the firmware](https://gpdstore.net/wp-content/uploads/2025/07/GPD-MicroPC-2-BIOS-Update-Updating-the-firmware-1200x675.jpg)
+
 GPD MicroPC 2 BIOS Update – Updating the firmware
 
 When the update is complete, the GPD MicroPC 2 will reboot and show a blank screen. Do NOT switch off or press any buttons during this process. It may take a few minutes.
+
+![GPD MicroPC 2 LED On](https://gpdstore.net/wp-content/uploads/2025/07/GPD-MicroPC-2-LED-On-1200x675.jpg)
 
 GPD MicroPC 2 LED On
 
@@ -83,7 +95,11 @@ This concludes the BIOS update process, and your device is now ready for use.
 
 To verify that the update was successful, you can enter the BIOS menu and check the number displayed next to the EC Version. This number should match the version you just installed For example in the below photo, the Project Version shows 2.17 and the EC Version shows 2.13
 
+![GPD MicroPC 2 BIOS 2.17](https://gpdstore.net/wp-content/uploads/2025/07/GPD-MicroPC-2-BIOS-217-1200x675.jpg)
+
 GPD MicroPC 2 BIOS 2.17
+
+![GPD MicroPC 2 UMPC](https://gpdstore.net/wp-content/uploads/2025/06/GPD-MICROPC-2-INFOGRAPHICS-GENERIC-DONE-01.png)
 
 ## GPD MicroPC 2 UMPC
 

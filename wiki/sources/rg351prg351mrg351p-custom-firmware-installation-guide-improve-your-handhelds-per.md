@@ -37,11 +37,15 @@ To install the custom firmware, you will need:
 The latest 351ELEC firmware can be downloaded from here: <https://updates.351elec.org/releases/daily/>  
 There will be two versions of the firmware. One version for the **RG351P/RG351M,** and a separate one for the **RG351V** (which needs its own version due to hardware differences).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/msedge_QgeqQwaXvn.jpg)
+
 Download the .img.gz that matches your device.
 
 ## Extract the firmware
 
 With your image compression software of choice (WinZIP, WinRAR, 7zip, etc.), extract the img.gz file you have downloaded.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/explorer_aicBF1MJxY.jpg)
 
 You’ll then have a regular image file. Which can be used to install the firmware on your device in a moment.
 
@@ -60,6 +64,8 @@ Here is one way to do it (if you have an alternative way, feel free to do so):
 5. Under “Device”, select the drive letter that corresponds to your SD card (*note that if your card has multiple partitions, Win32DiskImager will copy them all*)
 6. Select “Read”, and the program will create an image file which you can use to restore the SD card, or prepare additional SD cards.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Win32DiskImager_GSgzOmY8hO.jpg)
+
 ## Format your SD Card (Optional)
 
 **Note: This step is only applicable if you are using an SD card that is unreadable due to it not being formatted. If you can already access the contents of your SD card, you can ignore this step.**
@@ -67,11 +73,15 @@ Here is one way to do it (if you have an alternative way, feel free to do so):
 Take your SD card and format it as NTFS (the actual format doesn’t *really* matter, as long as it is a format that your computer can read/write to).  
 Windows 10 can do this natively (right click the SD card in your navigation pane, and select format). However, there are a wide variety of third-party tools that you can also use to do this, such as [MiniTool’s PartitionWizard](https://www.partitionwizard.com/).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/explorer_vwb58wLV8E.jpg)
+
 This image is just provided as an example of how the format menu will look!
 
 ## Install the Custom Firmware
 
 Now that your SD card is ready, and you have your firmware file on hand, now you can install your image. Install Win32 Disk Imager, and start it up.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Win32DiskImager_3QK2GASPwf.jpg)
 
 Click the blue folder icon under “Image File” to navigate to your custom firmware image and select it.  
 Under “Device”, select the drive letter that corresponds to your SD card.  

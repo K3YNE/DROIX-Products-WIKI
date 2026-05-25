@@ -12,8 +12,10 @@ updated: 2026-04-22
 tags: [kb-article, droix]
 ---
 
-Ever wanted to play PC games on your TV but don’t want to connect your PC to TV? This video guide on how to install and use the Remotr with DROIX is for you then.
+Ever wanted to play PC games on your TV but don’t want to connect your PC to TV? This video guide on how to install and use the Remotr with DROIX® is for you then.
 
-We have prepared a video guide on how to install and use the (Windows) program Remotr, which allows you to stream PC games to play on your DROIX.
+![PC games on TV set top boxes based on Android](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/781415-300x185.jpg)
+
+We have prepared a video guide on how to install and use the (Windows) program Remotr, which allows you to stream PC games to play on your DROIX®.
 
 <https://youtu.be/F40JmQoaNEQ>

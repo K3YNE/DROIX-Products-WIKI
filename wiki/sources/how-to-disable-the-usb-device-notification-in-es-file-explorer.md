@@ -12,7 +12,7 @@ updated: 2026-04-22
 tags: [kb-article, droix]
 ---
 
-If you see a message pop up each time you turn on your DROIX, letting you know you have a USB storage device attached, this notification can be disabled.
+If you see a message pop up each time you turn on your DROIX®, letting you know you have a USB storage device attached, this notification can be disabled.
 
 Please watch the video below, which explains where to disable this message.
 

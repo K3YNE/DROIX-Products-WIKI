@@ -20,11 +20,15 @@ The first thing we’ll do is upgrade the controller firmware. If you’re alrea
 
 First is to download the Firmware. Head to [AYANEO’s super helpful downloads](https://www.ayaneo.com/support/download) site. This is what it looks like.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-12-1024x460.png)
+
 Find the ‘AYANEO Handle Firmware’ for your device. It will say underneath for which series of device each download is for. For example, ‘AYANEO 2 Series Only’ is only for the AYANEO 2 and its series of devices. Once you have located your device click ‘Download’ and download the file(s) necessary.
 
 This will download a .ZIP file with your update on it. Extract that and there will be a single .bin file. Hold onto that and remember where it’s stored. You now need to completely **shut down your device**, not restart, shut down. Once it’s shut down after a minute or so click down the left joystick, or LS and **hold it**. With it down, press the power button and let it boot.
 
 Once you’re into Windows, AYASpace, if you have it, will open and try to update. Ignore that and go to the desktop. Open File Explorer and go to ‘This PC’. You should see an additional drive called ‘AYANEO (D:)’. If you don’t, shut the device down again and hold down LS as you boot again.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-28.png)
 
 Copy the .bin file that you downloaded and extracted, and paste it into D drive. After a few moments the drive will automatically disconnect, this is good.
 
@@ -45,11 +49,19 @@ Now we can get to calibrating your joysticks. There are two main ways to do so, 
 
 To calibrate within Windows we need to first open up Windows Run, if you have a keyboard attached this can be done be pressing Windows+R, if not open the start menu and search for ‘Run’.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-08-17h41m43s349-1024x636.jpg)
+
 Once open type in joy.cpl and click ‘OK’.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-08-17h42m24s762-1024x636.jpg)
 
 It will open this window, Windows will see your controller as an XBOX 360 controller, and that’s okay.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-08-17h43m18s752-1024x636.jpg)
+
 Click on ‘Properties’. It will open up this screen.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-08-17h46m37s555-1024x636.jpg)
 
 You can use this to test your controller.
 
@@ -62,9 +74,13 @@ You can use this to test your controller.
 
 If they all work fine then chances are you don’t need to calibrate your device. But if you do, click over to ‘Settings’ and you’ll see this screen.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-09-09h11m24s374-1024x636.jpg)
+
 Click on ‘Calibrate’ to be taken through the calibration process.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-09-09h14m47s780-1024x636.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-09-09h15m10s224-1024x636.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-09-09h15m21s490-1024x636.jpg)
 
 Go through the process following the instructions to calibrate your controller. Once you’re done, you’ll be taken back to the Settings page, you can go over to the Test page to see how your work panned out. If you’re unhappy go back to Settings and click ‘Restore Default’. If you are then you can carry on and use your newly calibrated controller.
 
@@ -72,7 +88,11 @@ Go through the process following the instructions to calibrate your controller. 
 
 Gamepad Tester is a well-known website in the community, it offers an easy and accessible way to test your gamepad controllers. It even offers additional and more in-depth information than Windows. Head over to [the site](https://gamepad-tester.com/). You’ll be greeted with this screen.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-09-092518-1024x640.png)
+
 Press any button to begin, and the testing interface will load.
+
+![Testing AYANEO Joystick input](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-09-092623-1024x640.png)
 
 Testing AYANEO Joystick input
 

@@ -20,6 +20,8 @@ Fortunately, this is a very simple process — and no special software is necess
 
 Search for Windows Powershell in the Windows search interface. Once you’ve located it, right click it and run it as administrator.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/04/msedge_tth57AU5tD.jpg)
+
 The reason you need to run Powershell as an administrator is due to the elevated permissions Powershell will need for the next step.
 
 ## Step 2) Extract The Drivers
@@ -41,6 +43,10 @@ For example:
 
 Your system will then begin exporting all the drivers currently installed on your system.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/04/powershell_fUcvVYLF1R.jpg)
+
 Once finished, you’ll be able to freely move the drivers around between systems.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/04/explorer_uXvM07zI4R.jpg)
 
 For how to install these drivers, check out our [driver installation guide](https://droix.net/knowledge-base/article/installing-drivers-on-your-pc/).

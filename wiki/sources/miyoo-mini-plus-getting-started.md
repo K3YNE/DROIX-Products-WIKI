@@ -14,6 +14,8 @@ tags: [kb-article, miyoo]
 
 Congratulations on purchasing your [Miyoo Mini Plus+](https://droix.net/product/miyoo-mini-plus/) from us at DROIX. We have prepared a getting started guide to get you up and running as soon as possible. We also cover a few steps such as setting up and using your [retro gaming handheld](https://droix.net/product-category/handhelds/retro-gaming-handheld/), updating firmware, installing custom firmware and much more!
 
+![Retro Handheld Console Miyoo Mini Plus+ in its box on a blue background](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-1-300x225.jpg)
+
 These are the classic games you remember but not how you remember them. With the infinitely portable Miyoo Mini Plus+, you can play all your old favourites, recapturing your childhood. Except this time with a stunning IPS display, blistering [ARM Cortex-A7](https://droix.net/product-attribute/processor-cpu-model/cortex-a7/) processor and plenty of [LPDDR3 RAM](https://droix.net/product-attribute/memory-ram-technology/lpddr3/). Load up thousands of your favourites with up to 128 GB of expandable storage and play for hours with the 3000 mAh rechargeable battery. To top it all off download both new and old games and even play online over the stable and fast [Wi-Fi 5](https://droix.net/product-attribute/wi-fi/5/) connectivity. Every retro game you love I can be experienced like never before!
 
 Get started with your new window into retro gaming and get to playing as soon as possible.
@@ -24,45 +26,60 @@ At DROIX we pride ourselves on our high level of before and after-sales customer
 
 ## Device Overview
 
+![The contents of the retro Miyoo Mini Plus+ box displayed in front of a blue background](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-2-300x225.jpg)
+
 Inside the box is everything you need to get started. Your new Miyoo Mini+, the instruction manual to refer to, the charging cable sporting the [USB-C](https://uk.pcmag.com/laptop-how-to/40348/what-is-usb-c-an-explainer) standard, no proprietary ports here! The included 64GB [Micro SD card](https://droix.net/product-attribute/storage-technology/micro-sd/) and adapter. Store all of your vintage games onto the handheld console and even a tempered glass screen protector to ensure that your device stays looking and feels brand new for a long time to come.
 
 If something is missing or you are not sure, please [contact our customer service](https://droix.net/contact-us/) and we will be happy to assist.
+
+![The Vintage Miyoo Mini+ from four angles on a blue background](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-3-300x225.jpg)
 
 On each side of the device, you can find everything you need. On the front, you have your D-Pad, Select and Start buttons in addition to the circular Menu button as well as your A, B, X & Y buttons. This will be your primary way of interacting with the device and playing games.
 
 The top right-hand side contains the power button. On the left-hand side, you have the volume rocker to adjust the levels of sound output from the console. On the bottom you have, from left to right, a 3.5mm audio port to plug in headphones and speakers, the Micro SD card slot upon which you can store and add games and the [USB-C](https://uk.pcmag.com/laptop-how-to/40348/what-is-usb-c-an-explainer) port to charge the device.
 
+![The back of the Retro Miyoo Mini+ on a blue background](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-4-300x225.jpg)
+
 The battery is easy to replace if needed
 
 On the back of the Miyoo Mini Plus+, you can find the four tactile triggers for use in games, sitting above access to the battery. Over time batteries can degrade, and having access to the component allows you to get it swapped out ensuring that you can game on your retro handheld for years to come!
+
+![Focus on the Micro SD card slot of the Retro Miyoo Mini+](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-5-300x225.jpg)
 
 Make sure you insert the included Micro SD card all the way to access your games and files!
 
 ## Retro Gaming on the Miyoo Mini Plus+
 
+![Booting up!](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/miyoo-main-screen-cropped-300x225.jpg)
+
 Booting up!
 
 After it’s all charged and ready to go you can press the power button on the top of the device to boot it up. You will be greeted with the Miyoo Mini Plus+ boot screen.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-7-1024x768.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-8-1024x768.jpg)
 
 The handheld will boot to the main menu. Here you can find your recently played games, your favourite games, and your game library. As well as [RetroArch](https://www.retroarch.com/) (an additional emulation library), the app store and the settings menu.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-9-1024x768.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-10-1024x768.jpg)
 
 You can find all your retro games. They are sorted by the console that they were originally released on. Simply click A to play.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-11-1024x768.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-12-1024x768.jpg)
 
 Within Retro Arch you can find an additional menu of emulated vintage consoles each with their own encompassing collection of retro games. Decades of gaming in the palm of your hand.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-13-1024x768.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-14-1024x768.jpg)
 
 When playing a game, press the Menu button in the middle to pause the game. From here you can create up to 10 save states for any game, allowing you to go back and retread your steps and get to the end of that one level that you just can’t crack.
 
 You can also access the Native Menu and Netplay. These will be explored in a further, more in-depth guide. Click on ‘Exit Game’ to go back to the main menu.
 
-
+![Settings menu of the Retro Console Miyoo Mini+ on a blue background](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-15-1024x768.jpg)
+![settings menu of the Retro Console Miyoo Mini+ on a blue background](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/MiyooMiniPlus-16-1024x768.jpg)
 
 You can also access the settings to ensure that you’re able to tailor your device exactly how you want it, adjusting the theme, and language, and even mapping different keys to the functions that work best for you!
 

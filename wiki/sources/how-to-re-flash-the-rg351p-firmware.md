@@ -38,6 +38,8 @@ Because the stock image for the device is very large, we have split it into mult
 
 Once all 5 parts are downloaded and you have installed 7zip, right click the first one, and extract it. Like so:
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/explorer_a7ZwLjaMnx-300x56.png)
+
 An image file should then appear in the folder, which can then be used to flash a card.
 
 *05/07/2021 Update – Due to issues with the files becoming corrupted, we have now switched to providing a single .img file. Please disregard this section!*
@@ -48,13 +50,19 @@ We’d advise formatting your SD card first too.
 
 To format it, insert the SD card into your system, then right click it in File Explorer. Select “Format” from the context menu.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/explorer_cRkzl7hUq3-300x188.png)
+
 Make sure the card is formatted as NTFS, then click format.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/explorer_AgXk0Scl2W-165x300.png)
 
 Now your card is ready to be used.
 
 ## Flashing the Card
 
 For this guide we’ll be using Win32 Disk Imager. A lightweight program that can be used for both the writing and reading of image files and external storage devices.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Win32DiskImager_526tf37t43-300x209.png)
 
 Once you’ve opened up Win32 Disk Imager, click the blue folder and navigate to wherever you saved the image file for the RG351P, then select it.
 

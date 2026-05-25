@@ -24,14 +24,20 @@ You can either download it from our own DROIX Market or Google’s Play Store. T
 
 To start with, please make sure you have signed into Google’s Play Store on your DROIX device. Please see <https://droix.net/first-run-of-googles-play-store> if you need to sign in, but aren’t sure what to do.
 
-Open the Play Store and enter “Device ID” as a search term in the bar at the top.
+![Play Store Opened](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/1PlayStoreOpened-300x169.png)
 
-From the results, click on the Evozi version
+![Search Play Store For DeviceID](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/2SearchPlayStoreForDeviceID-300x169.png)Open the Play Store and enter “Device ID” as a search term in the bar at the top.
 
+![Search Results Device ID](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/3SearchResultsDeviceID-300x169.png)From the results, click on the Evozi version
+
+![Select Evozi Device ID Click Install](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/4SelectEvoziClickInstall-300x168.png)  
 Tap the install button
 
+![Accept Permissions For Evozi Device ID](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/5AcceptPermissionsForEvoziDeviceID-300x169.png)  
 You’ll be shown the permissions this application requires, accept them if you’re happy to do so.
 
+![Evozi Device ID Installed](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/6EvoziDeviceIDInstalled-300x167.png)  
 Once installed your screen should look like this.
 
+![Evozi Device ID Opened](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/7EvoziDeviceIDOpened-300x167.png)  
 You can open the app and either copy the Android Device ID and paste into an email, or copy the code (carefully please) manually.

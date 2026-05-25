@@ -12,13 +12,18 @@ updated: 2026-04-22
 tags: [kb-article, droix]
 ---
 
+![DroidBOXPlayRszdInstruction-1](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DroidBOXPlayRszdInstruction-1.png)
+
+![DroidBOXPlayRszdInstruction-2](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DroidBOXPlayRszdInstruction-2.png)
+
+![DroidBOXPlayRszdInstruction-3](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/DroidBOXPlayRszdInstruction-3.png)  
 Here Is How You Can Pair Your Gamepad To DROIX:
 
 <https://youtu.be/hB4Fw1EDu2s>
 
 We’re including the text from the above so people can find it more easily. This version has no formatting, refer to the images above for the table layouts.
 
-Thanks very much for choosing our DROIX Bluetooth gamepad. In order to give you a  
+Thanks very much for choosing our DROIX® Bluetooth gamepad. In order to give you a  
 great game playing experience, detail user manual is provided. Please read it carefully  
 before using and properly keep it for reference.  
 **1. Product Description**  

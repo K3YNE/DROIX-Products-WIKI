@@ -20,6 +20,8 @@ If you are looking to upgrade your DROIX Proteus G4, we at DROIX have put togeth
 
 ## Step 1 – Remove the rear panel
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220321_162512387_HDR-1024x768.jpg)
+
 To access the Proteus G4, you first need to remove the rear of the unit.
 
 To do so, remove the screws in the rear side. You will then be able to pry the lid off the unit. You may need to gently tap the base of the Proteus G4 in order to loosen it.
@@ -30,11 +32,15 @@ You will now be at the heart of the DROIX Proteus G4. From here, you can upgrade
 
 Unlike some other models, the Proteus G4 and G7 have interfaceson both sides of the PCB. Both the lid and the rear panel detach, and the Wi-Fi antennae are connected to the lid, so be careful when opening the device.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220321_162741643_HDR-1024x768.jpg)
+
 To remove the RAM, lightly pull the securing clips (circled in yellow) outward until the stick springs up by itself. You can then pull it out without resistance. There is one stick of RAM on both sides of the circuit board.
 
 To replace the M.2 SSD (circled in red), loosen the screw at the end of the socket, and you can then insert/remove the M.2 SSD as you please.
 
 The green circle is the Wi-Fi chip. Without this, the device will not be able to connect to networks wirelessly. The wires trailing off from it are antennae, and are essential for a good wireless connection.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220321_162656617_HDR-1-1024x768.jpg)
 
 The light blue circles indicates an mSATA port which can be used to connect an mSATA SSD.
 

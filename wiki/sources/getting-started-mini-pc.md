@@ -22,15 +22,21 @@ At DROIX we pride ourselves on our high level of before and after-sales customer
 
 Your mini PC will come with a power supply, and depending on the model, some accessories such as a HDMI cable, TV mounting bracket, and cables.
 
+![A Mini PC and power supply (Yours may differ)](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Mini-PC-and-power-supply-300x169.jpg)
+
 A Mini PC and power supply (Yours may differ)
 
 As mentioned this can vary between models, check the *Box Contents* section on our product listing for your mini PC to ensure everything is present with yours. If something is missing or you are not sure, please [contact our customer service](https://droix.net/contact-us/) and we will be happy to assist.
+
+![A Mini PC with accessories (Your contents may differ  depending on the model)](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Mini-PC-with-accessories-300x169.jpg)
 
 A Mini PC with accessories (Your contents may differ depending on the model)
 
 Connect the power supply to a wall socket and the mini PC, the HDMI (and/or DisplayPort) to your display(s). Then any peripherals such as a keyboard & mouse to the USB ports on the mini PC. And you are ready to go! Simply switch on the mini PC and it will boot to the Windows welcome and setup screen.
 
 This [Windows](https://www.microsoft.com/en-gb/windows/) setup varies a little depending on the version you have installed. You can follow the on-screen prompts. These can include entering your country, keyboard layout and user details. You can connect to the internet and automatically download the latest updates during the setup process.
+
+![Windows Setup Screens](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Windows-Setup-Screen-300x169.jpg)
 
 Windows Setup Screens
 
@@ -61,6 +67,8 @@ You can download benchmark software such as [PCMark](https://benchmarks.ul.com/p
 Depending on your mini PC model you may be able to upgrade the RAM and/or storage. This exact procedure does vary between devices but the process itself is similar.
 
 Before buying new RAM or storage, please ensure that it is compatible with your mini PC. Refer to the user manual or our product listing for the specifications. If you are not sure, please [contact us](https://droix.net/contact-us/) and we can confirm the specs.
+
+![Upgrading RAM on a mini PC](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-9-300x189.jpg)
 
 Upgrading RAM on a mini PC
 
@@ -100,6 +108,8 @@ It’s incredible, right? Your new mini PC can do so much already, what more is 
 
 [GuliKit KingKong 2 Pro Controller](https://droix.net/product/gulikit-kingkong-2-pro/): This high-quality game controller by GuliKit offers an advanced level of precision and control for avid gamers. It’s equipped with a high-speed chip for lower latency, dual vibration motors for immersive haptic feedback, and a powerful battery for extended gameplay sessions.
 
+![](https://droix.net/blogs/wp-content/uploads/2023/07/image-4.png)
+
 [FX8S USB Type-C Hub](https://droix.net/product/fx8s-usb-type-c-hub/): The FX8S USB Type-C Hub is a versatile and portable device that extends your device’s connectivity. It includes a variety of ports, including HDMI, [USB Type-A](https://en.wikipedia.org/wiki/USB_3.0), [USB Type-C](https://uk.pcmag.com/laptop-how-to/40348/what-is-usb-c-an-explainer), and SD card readers, providing comprehensive compatibility with a range of peripherals.
 
 ---
@@ -109,3 +119,5 @@ It’s incredible, right? Your new mini PC can do so much already, what more is 
 ---
 
 [15.6”4K Portable Monitor with touchscreen](https://droix.net/product/portable-monitor-with-touchscreen/) | [15.6″ 4K portable monitor with stylus support](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/): These portable monitors offer a stunning 4K resolution across their 15.6″ display. The monitor comes with touchscreen capabilities and even has an option for stylus support. It is fantastic for artists, note-takers, handwriting enthusiasts and more. It’s the perfect addition as a main or second monitor for your mini PC. Its slim and lightweight design makes it easy to carry around.
+
+![](https://droix.net/blogs/wp-content/uploads/2023/07/image-5.png)

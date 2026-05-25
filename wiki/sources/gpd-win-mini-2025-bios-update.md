@@ -27,6 +27,8 @@ Ways to identify your CPU on your device:
   Select **About your PC** from the results.  
   Look under “**Device specifications**” for the Processor entry, which lists your CPU model (e.g., Intel Core i7-10750H).
 
+![Task Manager CPU](https://gpdstore.net/wp-content/uploads/2025/08/Task-Manager-CPU-1200x675.jpg)
+
 Task Manager CPU
 
 
@@ -43,9 +45,13 @@ First extract the download archive. You will have two folders similar to below:
 
 HX 365 / HX 370 Files
 
+![GPD WIN Mini 2025 HX 365/370 update files](https://gpdstore.net/wp-content/uploads/2025/03/Upgrading-GPD-WIN-Mini-2025-BIOS-Extracting-the-files.jpg)
+
 GPD WIN Mini 2025 HX 365/370 update files
 
 8840U Files
+
+![GPD WIN Mini 2025 8840U update files](https://gpdstore.net/wp-content/uploads/2025/03/Upgrading-GPD-WIN-Mini-2025-8840U-BIOS-Extracting-the-files.jpg)
 
 GPD WIN Mini 2025 8840U update files
 
@@ -53,13 +59,19 @@ GPD WIN Mini 2025 8840U update files
 
 Enter the **MiniPro\_BIOS.Vx.xx** (or **Mini2025\_BIOS.Vx.xx** for 8840U model) folder and run the **MiniPro\_X.XX\_GPD.exe** (or **Mini2025\_x.xx\_GPD.exe** for 8840U model) file. A window with some information on what to do and not do during the BIOS update will be displayed.
 
+![BIOS update checklist](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-BIOS-update-checklist-1200x658.jpg)
+
 BIOS update checklist
 
 Once you have read the information, press any key to proceed with the upgrade. The first stage will take a few moments and once completed you will be prompted to confirm to restart the device to continue. Choose **Y**.
 
+![BIOS first stage update](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-BIOS-first-stage-update-1200x710.jpg)
+
 BIOS first stage update
 
 Your [GPD WIN Mini 2025](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-mini-2025/) will now reboot and proceed with the BIOS update. Do **NOT** switch off your device during this process!
+
+![BIOS updating main firmware](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-BIOS-updating-main-firmware-1200x720.jpg)
 
 BIOS updating main firmware
 
@@ -69,15 +81,21 @@ The process will take around 3 to 5 minutes to complete. Once completed, the GPD
 
 The second part of the process is to update the EC firmware. Enter the **MiniPro\_EC.Vx.xx** (or **Mini2025\_EC\_Vx.xx** for 8840U model) folder and copy all of the contents to your USB flash drive.
 
+![EC firmware files](https://gpdstore.net/wp-content/uploads/2025/03/GPD-WIN-Mini-2025-Updating-EC-1.jpg)
+
 EC firmware files
 
 Once the contents have copied over, switch off your [GPD WIN Mini 2025](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-mini-2025/). Now switch on the GPD WIN Mini and hold the **FN key + F7** key until the boot menu appears. In our image below, the USB flash drive is the second option on the menu. Your flash drives name and menu option may be different. Choose your flash drive to proceed.
+
+![BIOS Upgrade Boot Menu](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-BIOS-Upgrade-Boot-Menu-1200x753.jpg)
 
 BIOS Upgrade Boot Menu
 
 Some progress text will briefly appear on screen, you can wait a few seconds or press any key to continue.
 
 The upgrade process will start and the screen will update on the progress. The process should only take a minute or two.
+
+![BIOS EC Upgrade](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Pocket-4-BIOS-EC-Upgrade-2.jpg)
 
 BIOS EC Upgrade
 

@@ -17,6 +17,8 @@ In this detailed guide, we will walk you through the essentials of performance t
 
 Benchmarking is about pushing your computer to its limits to ensure it can handle demanding tasks. Essentially, it’s like giving your mobile gaming PC an intense workout to see how well it performs when under significant load. By placing the system under stress, far more than what it typically experiences in everyday use, we can identify both its strongest and weakest points. This process helps you prevent potential future issues and ensures your system remains reliable, particularly for heavy-duty applications or when determining the capabilities of your device.
 
+![PassMark on the GPD WIN Mini 2024](https://gpdstore.net/wp-content/uploads/2024/09/How-to-benchmark-your-GPD-WIN-Mini-1200x675.jpg)
+
 PassMark on the GPD WIN Mini 2024
 
 Whether you are a gamer striving for peak performance, a professional managing resource-heavy tasks, or simply someone who wants to ensure their system is reliable, understanding this process is essential for maintaining a robust and dependable computer.
@@ -30,6 +32,8 @@ To ensure the accuracy of your performance test results, it’s important to min
 Your BIOS (Basic Input/Output System) or UEFI system is the core of your device. Keeping your BIOS up to date often resolves issues and enhances performance, stability, and compatibility. However, be cautious—only install stable BIOS updates, as an incorrect or unstable update can lead to serious problems.
 
 For guidance on updating your BIOS, refer to our Getting Started guides tailored to your specific handheld gaming computer or compact laptop.
+
+![3DMark on the GPD WIN MAX 2 2024](https://gpdstore.net/wp-content/uploads/2024/09/How-to-benchmark-your-GPD-WIN-MAX-2-1200x675.jpg)
 
 3DMark on the GPD WIN MAX 2 2024
 
@@ -57,6 +61,8 @@ Close all unnecessary software before running to ensure the tests are accurate a
 
 #### PCMark
 
+![PCMark Benchmark](https://gpdstore.net/wp-content/uploads/2024/09/PCMark-1200x675.jpg)
+
 PCMark Benchmark
 
 [PCMark](https://benchmarks.ul.com/pcmark10) is a widely recognized industry standard for benchmarking overall PC performance. We recommend this benchmark because it evaluates tasks that reflect everyday use, such as working with large office documents, media playback, image and video rendering, and more. Much like its counterpart for graphics rendering, 3DMark, PCMark not only provides a detailed breakdown of your test results but also compares your performance against similar devices and hardware, giving you a comprehensive yet easy-to-understand analysis of your system’s capabilities.
@@ -68,6 +74,8 @@ PCMark Benchmark
 ## CPU & GPU Tests
 
 ### 3DMark
+
+![3DMark benchmark](https://gpdstore.net/wp-content/uploads/2024/09/3DMark-1200x675.jpg)
 
 3DMark benchmark
 
@@ -92,6 +100,8 @@ PCMark Benchmark
 ## Memory-Only Tests
 
 ### MemTest86
+
+![MemTest86 Benchmark](https://gpdstore.net/wp-content/uploads/2024/09/MemTest86-1200x675.jpg)
 
 MemTest86 Benchmark
 

@@ -26,10 +26,18 @@ The quickest and easiest program to use is FAT32 Format GUI. You can download an
 
 First, check and double check that the **Drive** letter matches your SD card or USB drive. If it does not match, choose it from the drop down menu. The **Allocation Size** setting can be left as default. Choose **Quick Format** to save a lot of time when formatting.
 
+![How to Format Micro SD Card to FAT32](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/FAT32-Format-Guide-1.png)
+
 Once these have been checked, you can press the **Start** button to proceed. Double check that the right **Drive** letter has been chosen correctly and then press **OK** to continue.
+
+![How to Format Micro SD Card to FAT32](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/FAT32-Format-Guide-2.png)
 
 The SD card/USB drive will now be begin to format to FAT32. This may take some time depending on the size of the card.
 
+![How to Format Micro SD Card to FAT32](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/FAT32-Format-Guide-3.png)
+
 Once the card has finished formatting, you can choose the **Close** button to exit the program.
+
+![How to Format Micro SD Card to FAT32](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/FAT32-Format-Guide-4.png)
 
 Your SD Card/USB Drive will now be formatted to FAT32 and ready to use on devices.

@@ -18,4 +18,4 @@ Continuing our video demo series of streaming and casting with mobile devices, w
 
 There are a variety of DLNA streaming apps to choose from but we recommend BubbleUPNP as there is both a free and paid version and it is very easy to set up. You can find more information on BubbleUPNP at <https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp>.
 
-You can read about and watch the first part of streaming on your DROIX which covers DROIX Share for Android and iOS devices at <https://droix.net/wordpress/droidbox-share-demonstration-video/>.
+You can read about and watch the first part of streaming on your DroidBOX® which covers DroidBOX® Share for Android and iOS devices at <https://droix.net/wordpress/droidbox-share-demonstration-video/>.

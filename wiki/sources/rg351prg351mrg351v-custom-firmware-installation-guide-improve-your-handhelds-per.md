@@ -53,6 +53,8 @@ There will be two versions of the firmware. One version for the **RG351P/RG351M
 
 With your image compression software of choice (WinZIP, WinRAR, 7zip, etc.), extract the img.gz file you have downloaded.
 
+![extract the img.gz file](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/explorer_aicBF1MJxY-1024x249-1.webp)
+
 extract the img.gz file
 
 You’ll then have a regular image file. Which can be used to install the firmware on your device in a moment.
@@ -72,6 +74,8 @@ Here is one way to do it (if you have an alternative way, feel free to do so):
 5. Under “Device”, select the drive letter that corresponds to your SD card (*note that if your card has multiple partitions, Win32DiskImager will copy them all*)
 6. Select “Read”, and the program will create an image file which you can use to restore the SD card, or prepare additional SD cards.
 
+![create an image file ](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/Win32DiskImager_GSgzOmY8hO-1024x700-1.webp)
+
 create an image file
 
 ## Format your SD Card (Optional)
@@ -86,6 +90,8 @@ Windows 10 can do this natively (right click the SD card in your navigation pane
 ## Install the Custom Firmware
 
 Now that your SD card is ready, and you have your firmware file on hand, now you can install your image. Install Win32 Disk Imager, and start it up.
+
+![Install Win32 Disk Imager](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/Win32DiskImager_3QK2GASPwf-1024x705-1.webp)
 
 Install Win32 Disk Imager
 

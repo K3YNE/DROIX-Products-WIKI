@@ -21,6 +21,8 @@ This walkthrough is compatible with:
 * [GPD WIN MINI series](https://gpdstore.net/product/gpd-win-mini-2025/ "GPD WIN MINI series")
 * GPD WIN 3
 
+![GPD WIN 5 Gaming Handheld PC](https://gpdstore.net/wp-content/uploads/2025/08/GPD-WIN-5-INFOGRAPHIC-01.png)
+
 ## GPD WIN 5 Gaming Handheld PC
 
 [Shop now](https://gpdstore.net/product/gpd-win-5/)
@@ -33,13 +35,19 @@ Save and unzip the most current release of the GPD Joystick Calibration Tool [he
 
 You will see two separate windows pop up, appearing as they do here. Click on the button highlighted in the image below to begin the calibration sequence.
 
+![GPD Joystick Calibration Tool](https://gpdstore.net/wp-content/uploads/2025/12/GPD-Joystick-Calibration-Tool-1200x675.jpg)
+
 GPD Joystick Calibration Tool
 
 Once you have clicked the button, the application will direct you to move both analog sticks to their outer limits and rotate them continuously, while simultaneously squeezing and letting go of the left and right analog triggers. These movements will be visualized in the corresponding sections on the display.
 
+![Calibrating the controls](https://gpdstore.net/wp-content/uploads/2025/12/GPD-Joystick-Calibration-Tool-Calibrating-1200x675.jpg)
+
 Calibrating the controls
 
 When the calibration sequence concludes, the green text will refresh to match the example shown below, signaling that the calibration was successful.
+
+![Calibration Successful](https://gpdstore.net/wp-content/uploads/2025/12/GPD-Joystick-Calibration-Tool-Calibration-Successful-1200x675.jpg)
 
 Calibration Successful
 
@@ -50,6 +58,8 @@ If you suspect that you did not reach the full range of the edges or the trigger
 Should the previous technique fail to resolve the issue, you can utilize the native calibration tool included in Windows, as described below. To perform the calibration directly in Windows, launch the “Run” dialog box. With a physical keyboard, use the **Windows + R** shortcut; otherwise, locate “Run” via the Start menu search bar. When the box appears, input `joy.cpl` and select “OK”.
 
 A new window will launch; do not be alarmed if Windows detects your input device as an Xbox 360 controller, as this is normal. Select “Properties” to proceed to the next interface.
+
+![Windows Game Controllers Info](https://gpdstore.net/wp-content/uploads/2025/12/Windows-Game-Controllers-Info-1200x675.jpg)
 
 Windows Game Controllers Info
 
@@ -62,13 +72,19 @@ This section allows you to verify the functionality of your gamepad inputs.
 * **Point of Video Hat** refers to the D-Pad directions.
 * **Buttons** covers all physical keys: A, B, X, Y, LB, RB, LS, RS, LC, and RC. These indicators will illuminate upon activation.
 
+![Windows Controller Test](https://gpdstore.net/wp-content/uploads/2025/12/Windows-Controller-Test-1200x675.jpg)
+
 Windows Controller Test
 
 If all inputs respond correctly, your device likely does not require further adjustment. However, if calibration is necessary, switch to the “Settings” tab to view the options shown here. Press the “Calibrate” button to initiate the wizard.
 
+![Windows Game Controller Calibration](https://gpdstore.net/wp-content/uploads/2025/12/Windows-Game-Controller-Calibration-1200x675.jpg)
+
 Windows Game Controller Calibration
 
 Follow the on-screen prompts to adjust your controller settings. Upon completion, you will return to the Settings tab; from there, navigate back to the Test tab to review the results of your adjustments. If the outcome is unsatisfactory, return to Settings and select “Restore Default.” If you are satisfied, you may proceed with using your newly calibrated device.
+
+![Windows Controller Calibration Process](https://gpdstore.net/wp-content/uploads/2025/12/Windows-Controller-Calibration-Process-1200x675.jpg)
 
 Windows Controller Calibration Process
 
@@ -76,8 +92,12 @@ Windows Controller Calibration Process
 
 Gamepad Tester is a widely recognized resource within the gaming community, providing a simple and user-friendly method for evaluating your controller hardware. It actually provides more detailed data than the standard Windows tools. Navigate to the website <https://hardwaretester.com/gamepad>. You will be presented with the display shown below.
 
+![Gamepad Tester Website](https://gpdstore.net/wp-content/uploads/2025/12/Gamepad-Tester-Website-1200x675.jpg)
+
 Gamepad Tester Website
 
 Push any key to recognise the controller and it will launch the diagnostic interface. On this screen, you can observe the exact angle and pressure intensity being detected for your thumbsticks, triggers, and face buttons. Using these details, you can pinpoint errors and accurately adjust your hardware.
+
+![Check all of your controls here](https://gpdstore.net/wp-content/uploads/2025/12/Gamepad-Tester-Check-all-of-your-controls-here-1200x675.jpg)
 
 Check all of your controls here

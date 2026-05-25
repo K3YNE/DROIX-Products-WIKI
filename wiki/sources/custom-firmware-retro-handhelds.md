@@ -40,9 +40,11 @@ This section of the guide will focus on the custom firmware options for the Miyo
 
 We will cover three custom options for firmware. Firstly the popular [OnionOS](https://github.com/OnionUI/Onion), which we have covered in another guide [here](https://droix.net/knowledge-base/article/how-to-install-onionos-for-retro-handhelds/), but we’ll briefly go over it again. Secondly, we’ll look at [Koriki](https://github.com/Rparadise-Team/Koriki) which, according to their GitHub page, is a fork of the SimpleMenu frontend. Koriki runs atop RetroArch and is adapted to the Miyoo Mini. Finally, we will take a look at [MiniUI](https://github.com/shauninman/MiniUI). MiniUI is an incredibly simple, even to a fault, custom launcher and integrated in-game menu for the Miyoo Mini and Miyoo Mini Plus+.
 
-Before starting to install your custom firmware ensure that your stock firmware is up to date. You can download the latest firmware from [here](https://droix.sharepoint.com/:u:/s/Purchasing/EdOIz4W8PtJJvbmtx6Riop8BlVnzN6lPB6CQzEDd_XJ_Ww?e=iMvEZ5) for the Miyoo Mini and [here](https://droix.sharepoint.com/:u:/s/Purchasing/EYmyYyGU0HxGlvsw_2qqMWQBH25IGACjCYO5kSJ5zY9nJg?e=MO9F7g)for the Miyoo Mini Plus+ and can install it by flashing the .img file within using [Balena Etcher](https://etcher.balena.io/).
+Before starting to install your custom firmware ensure that your stock firmware is up to date. You can download the latest firmware from [here](https://droidbox.sharepoint.com/:u:/s/Purchasing/EdOIz4W8PtJJvbmtx6Riop8BlVnzN6lPB6CQzEDd_XJ_Ww?e=iMvEZ5) for the Miyoo Mini and [here](https://droidbox.sharepoint.com/:u:/s/Purchasing/EYmyYyGU0HxGlvsw_2qqMWQBH25IGACjCYO5kSJ5zY9nJg?e=MO9F7g)for the Miyoo Mini Plus+ and can install it by flashing the .img file within using [Balena Etcher](https://etcher.balena.io/).
 
 ### OnionOS
+
+![GitHub - OnionUI/Onion: OS custom firmware overhaul for Miyoo Mini](https://repository-images.githubusercontent.com/505613691/5e91bc59-db79-4316-b031-67442b796263)
 
 OnionOS Custom Firmware
 
@@ -58,31 +60,46 @@ In-depth instructions for installing OnionOS can be found [here](https://droix.n
 
 Prepare the MicroSD Card:
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Install-OnionOS-1-edited.jpg)
+
 * Remove the microSD card from the bottom of your device and plug it into your PC using an SD card converter, microSD to USB adapter, or directly into the PC if it has a microSD card slot.
 
 * Confirm that your computer can detect the microSD card.
 * Format the microSD to “FAT32” within File Explorer.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-32.png)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-33.png)
+
 * Once formatting is complete, verify that the microSD card is recognized by your computer.
 
 Install OnionOS:
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-29.png)
+
 * Download the latest version of OnionOS compatible with your device from the [GitHub page](https://github.com/OnionUI/Onion/wiki/Installation).
 * Extract the downloaded zip file to a folder on your PC with [7Zip](https://www.7-zip.org/download.html)
 * Copy all the extracted folders to the formatted microSD card.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-01-111238-1024x620.png)
 
 * Safely eject the microSD card from your PC and insert it back into the Miyoo Retro Handheld.
 * Power on the device, and it will automatically begin installing OnionOS and RetroArch.
 * Once the installation is complete, you’ll be taken to a menu where you can scroll through options.
 * Select the emulators and apps you want to install by pressing ‘X’ for each item.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Install-OnionOS-14-edited.jpg)
+
 * Confirm your choices on the summary page by pressing ‘Start.’
 * The device will install your selected choices and once finished, you will be taken to the home page of OnionOS.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Install-OnionOS-4-edited.jpg)
 
 Congratulations! You have successfully installed OnionOS on your Miyoo Retro Handheld. From the home page, you can access your favorite games, game and app libraries, and customize settings according to your preferences.
 
 ### Koriki
 
+![GitHub - Rparadise-Team/Koriki: SimpleMenu frontend for Miyoo Mini](https://repository-images.githubusercontent.com/569233176/faa520fc-033d-4ec0-ab5e-0f8d4e369e5c)
 
 
 |  |  |
@@ -97,10 +114,16 @@ To install the Koriki Custom Firmware on the Miyoo Mini and Miyoo Mini Plus, fol
 
 Prepare the MicroSD Card and Install Koriki:
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-15-112446.png)
+
 * Download the Koriki firmware from this link: [Release Koriki v1.2 · Rparadise-Team/Koriki · GitHub](https://github.com/Rparadise-Team/Koriki/releases/tag/v1.4) and unzip the file with [7Zip](https://www.7-zip.org/download.html).
 * Use an SD card reader to connect the SD card to your computer.
 * Find the ‘bios’ folder in the SD card and copy it onto your PC.
 * Format the microSD to “FAT32” within File Explorer.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-32.png)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-33.png)
 
 * Open the Koriki folder you unzipped and copy its contents to the blank, unlabeled FAT32 SD card.
 * Find the “BIOS” folder you saved earlier and copy it over to the BIOS folder located at the root of the SD card.
@@ -117,7 +140,8 @@ Install the Firmware and ROMs:
 
 ### MiniUI
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-30.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/menu.png)
 
 
 |  |  |
@@ -131,12 +155,20 @@ Despite its simplicity, MiniUI offers extensibility through the addition of extr
 
 To get started, download MiniUI’s latest release from [here](https://github.com/shauninman/MiniUI/releases/tag/r20221023-0).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-15-113148.png)
+
 To install MiniUI, follow these straightforward steps:
 
 1. Remove the MicroSD card from your Miyoo device.
 2. Format an SD card to the FAT32 file system. It is recommended to use a fresh SD card for this purpose.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-32.png)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-33.png)
+
 1. Download the MiniUI archive and extract its contents using 7ZIP.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-01-152833-edited.png)
 
 1. Copy all the extracted files and folders, including the “miyoo” folder, to the root directory of the FAT32 formatted SD card.
 2. Insert the SD card into your Miyoo handheld device.
@@ -147,7 +179,8 @@ By following these steps, you can easily install MiniUI on your Miyoo handheld d
 
 ### DotUI
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-44.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-45.png)
 
 
 |  |  |
@@ -159,12 +192,20 @@ By following these steps, you can easily install MiniUI on your Miyoo handheld d
 
 To get started, download DotUI’s latest release from [here](https://github.com/Xpndable/DotUI/releases/tag/r20230405-2).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-43.png)
+
 To install DotUI, follow these straightforward steps:
 
 1. Remove the MicroSD card from your Miyoo device.
 2. Format an SD card to the FAT32 file system. It is recommended to use a fresh SD card for this purpose.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-32.png)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-33.png)
+
 1. Download the DotUI archive and extract its contents using 7ZIP.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-01-152833-edited.png)
 
 1. Copy all the extracted files and folders, including the “miyoo” folder, to the root directory of the FAT32 formatted SD card.
 2. Insert the SD card into your Miyoo handheld device.
@@ -178,6 +219,8 @@ By following these steps, you can easily install DotUI on your Miyoo handheld de
 It would be an understatement to say that Anbernic has a lot of Retro Handheld Consoles, so we will try to add information for as many as possible however the install process is very similar on all consoles and can easily be found. We will be looking at four different custom firmware options for Anbernic devices, GarlicOS, ArcOS, JELOS and AmberELEC. Each one has their own list of compatible devices and requires similar but different installation routines which will be covered below.
 
 ### GarlicOS
+
+![GarlicOS for Anbernic RG35XX | Patreon](https://c10.patreonusercontent.com/4/patreon-media/p/post/76561333/92e11a37a6f543f2ada8a4d61082116c/eyJ3IjoxNjAwfQ%3D%3D/1.jpg?token-time=1688083200&token-hash=84HEGzUfRGnGicOv6E_TWfUsHAEd_bQfjDrW25TKj48%3D)
 
 GarlicOS running on a Retro Handheld | Black-Seraph
 
@@ -197,14 +240,22 @@ For a single-card setup:
 * Visit Black Seraph’s website and find the [Anbernic RG35XX section](https://www.patreon.com/posts/garlicos-for-76561333) with the Patreon post for GarlicOS.
 * Scroll to the bottom and download both “RG35XX-Garlic-MicroSDCardImage.7z.001” and “RG35XX-Garlic-MicroSDCardImage.7z.002” ensuring that they are saved in the same location exactly like that.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-37.png)
+
 * Right-click on “RG35XX-Garlic-MicroSDCardImage.7z.001” and open with 7ZIP.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-38.png)
 
 * Extract both files to the same location, and find detailed instructions in README.txt
 * Use [Balena Etcher](https://etcher.balena.io/) to flash the “garlic.img” file onto your SD1 card.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-39.png)
+
 1. Open [MiniTool Partition Wizard](https://cdn2.minitool.com/?p=pw&e=pw-free) and locate your SD1 card, ensuring the FAT32 partition has a drive letter assigned.
 2. Access the FAT32 partition, which contains BIOS, ROMs, and CFW folders. Make a backup of these folders on your computer.
 3. Optionally, expand the FAT32 partition or create a new one named “ROMs” for better utilization of available space. Move the backed-up folders to this new partition.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-40.png)
 
 Note: Ignore pop-up warnings about formatting partitions when flashing the “garlic.img” file with Balena Etcher.
 
@@ -239,6 +290,7 @@ Insert the cards into your RG35XX device, and enjoy GarlicOS and your game libra
 
 ### ArkOS
 
+![](https://github.com/christianhaitian/arkos/raw/main/pics/gamemix.gif)
 
 
 |  |  |
@@ -268,6 +320,8 @@ To install ArkOS, follow these steps:
 
 * Download the image for your device from the provided links at the bottom of the page. Uncompress the image using 7zip.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-41.png)
+
 * Use a program like [USB Image Tool](https://www.alexpage.de/usb-image-tool/) (recommended) or [Win32DiskImager](https://win32diskimager.org/) to flash the image onto your micro SD card. **Do not use Balena Etcher** with this image, as it may cause strange issues and inconsistent performance.
 * **Do not format the SD card from here.**
 * Insert the micro SD card into your device and power it on. The device will reboot twice to expand the NTFS partition and convert it to exFAT to fill the remaining space on the card.
@@ -277,6 +331,8 @@ To install ArkOS, follow these steps:
 * Reinsert the SD card into your rk3326 device and power it on. If you removed it to load ROMs, simply reboot your device and enjoy!
 
 ### JELOS (Just Enough Linux OS)
+
+![GitHub - JustEnoughLinuxOS/distribution: Home of the JELOS Linux  distribution.](https://raw.githubusercontent.com/JustEnoughLinuxOS/distribution/dev/distributions/JELOS/logos/jelos-logo.png)
 
 |  |  |
 | --- | --- |
@@ -304,6 +360,7 @@ To install JELOS, you can follow these steps:
 
 ### AmberELEC
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-1.jpeg)
 
 
 |  |  |
@@ -342,7 +399,7 @@ You can download the custom firmware below.
 |  |  |
 | --- | --- |
 | **Compatible Devices** | **Download Link** |
-| RG ARC-D | [Download](https://droix.sharepoint.com/:u:/s/Purchasing/EVKcTMkFjsxGptvaZty28isBhARkFfiY-r6KLO39OzqCnA), [Alternative Link](https://win.anbernic.com/download/289.html) |
+| RG ARC-D | [Download](https://droidbox.sharepoint.com/:u:/s/Purchasing/EVKcTMkFjsxGptvaZty28isBhARkFfiY-r6KLO39OzqCnA), [Alternative Link](https://win.anbernic.com/download/289.html) |
 | RG353 | [Down](https://github.com/TheGammaSqueeze/GammaOS-RK3566)[l](https://github.com/TheGammaSqueeze/GammaOS-RK3566)[oad](https://github.com/TheGammaSqueeze/GammaOS-RK3566), [Alternative Link](https://win.anbernic.com/download/289.html) |
 
 #### Stock Firmware Download
@@ -350,8 +407,8 @@ You can download the custom firmware below.
 |  |  |
 | --- | --- |
 | **Compatible Devices** | **Download Link** |
-| RG ARC-D (Android) | [Download](https://droix.sharepoint.com/:u:/s/Purchasing/ES76eEEFlKVLjY0do5AK3R8B1P1TpZGea1837QLnMAmg7w?e=mpQcRc), [Alternative Link](https://win.anbernic.com/download/289.html) |
-| RG ARC-D (Linux) | [Download](https://droix.sharepoint.com/:u:/s/Purchasing/EbwP9KxMSsRFlop3HpabKA8BjUdf54nkEjq-atoDI98UQw?e=72toMv), [Alternative Link](https://win.anbernic.com/download/289.html) |
+| RG ARC-D (Android) | [Download](https://droidbox.sharepoint.com/:u:/s/Purchasing/ES76eEEFlKVLjY0do5AK3R8B1P1TpZGea1837QLnMAmg7w?e=mpQcRc), [Alternative Link](https://win.anbernic.com/download/289.html) |
+| RG ARC-D (Linux) | [Download](https://droidbox.sharepoint.com/:u:/s/Purchasing/EbwP9KxMSsRFlop3HpabKA8BjUdf54nkEjq-atoDI98UQw?e=72toMv), [Alternative Link](https://win.anbernic.com/download/289.html) |
 | RG353 Series (Android) | [Download](https://win.anbernic.com/download/233.html), [Alternative Link](https://win.anbernic.com/download/233.html) |
 | RG353 Series (Linux) | [Download](https://win.anbernic.com/download/233.html), [Alternative Link](https://win.anbernic.com/download/233.html) |
 

@@ -68,29 +68,43 @@ Take the text that follows and place it in a new file that you name `scan-device
 
 Perform a **right-click** on the **Windows Start** menu icon and from the context menu that appears, choose **Computer Management**.
 
+![Select Computer Management](https://gpdstore.net/wp-content/uploads/2025/10/Select-Computer-Management-224x600.png)
+
 Select Computer Management
 
 Inside the **Computer Management** window, navigate to and click on **Task Scheduler**. Afterward, find and select the **Import Task** option located in the right-hand pane.
+
+![Task Scheduler](https://gpdstore.net/wp-content/uploads/2025/10/Task-Scheduler-1200x862.png)
 
 Task Scheduler
 
 Browse to the location of the `scan-devices.xml` file you created or downloaded, select it, and then confirm by clicking **OK**.
 
+![Open scan-devices xml file](https://gpdstore.net/wp-content/uploads/2025/10/Open-scan-devices-xml-file-1200x716.png)
+
 Open scan-devices xml file
 
 In the provided text box labelled **Enter the object name to select**, type in the name of your Windows user account, then click the **Check Names**‘button to validate it.
+
+![Input your Windows account name](https://gpdstore.net/wp-content/uploads/2025/10/Input-your-account-name.png)
 
 Input your Windows account name
 
 After your Windows account name has been successfully verified, you may proceed by clicking the **OK** button.
 
+![Input your account name checked](https://gpdstore.net/wp-content/uploads/2025/10/Input-your-account-name-checked.png)
+
 Input your account name checked
 
 When the **Create Task** dialog box appears, you must ensure that the options for **Run whether user is logged on or not** and **Run with the highest privileges** are both ticked, as illustrated in the image. With these settings confirmed, press **OK** to continue.
 
+![Create task](https://gpdstore.net/wp-content/uploads/2025/10/Create-task-1200x911.png)
+
 Create task
 
 Returning to the main **Task Scheduler** interface, you are now able to exit the program. Restart your [GPD WIN MAX 2 2025](https://gpdstore.net/product/gpd-win-max-2-2025/ "GPD WIN MAX 2 2025 ") device, and upon rebooting, the battery indicator should be restored.
+
+![Task Scheduler Summary Confirmed](https://gpdstore.net/wp-content/uploads/2025/10/Task-Scheduler-Summary-Confirmed-1200x862.png)
 
 Task Scheduler Summary Confirmed
 

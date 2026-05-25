@@ -18,59 +18,42 @@ You can find answers to many common questions we are asked or searched for by ou
 
 ### GPD WIN 4
 
-<details>
-<summary>What accessories are recommended for the GPD WIN 4?</summary>
-Popular accessories include:
+* What accessories are recommended for the GPD WIN 4?
 
-- [GPD WIN 4 2024 LTE Module](https://gpdstore.net/shop/accessories/gpd-win-4-lte-module/)
-- [Screen protector](https://gpdstore.net/shop/accessories/gpd-win-4-screen-protector/)
-- [OCuLink Cable for eGPU](https://gpdstore.net/shop/accessories/gpd-oculink-sff8611-cable-m-2-8612-adapter-card/)
-- MicroSD card for expanded storage
-</details>
+  Popular accessories include:
 
-<details>
-<summary>How does the GPD WIN 4 compare to other handheld PCs like the Steam Deck?</summary>
-The GPD WIN 4 offers more raw performance than the Steam Deck, with a more powerful CPU and GPU. It runs full Windows rather than SteamOS, giving it broader software compatibility. However, the Steam Deck has a larger screen.
-</details>
+  + [GPD WIN 4 2024 LTE Module](https://gpdstore.net/shop/accessories/gpd-win-4-lte-module/)
+  + [Screen protector](https://gpdstore.net/shop/accessories/gpd-win-4-screen-protector/)
+  + [OCuLink Cable for eGPU](https://gpdstore.net/shop/accessories/gpd-oculink-sff8611-cable-m-2-8612-adapter-card/)
+  + MicroSD card for expanded storage
+* How does the GPD WIN 4 compare to other handheld PCs like the Steam Deck?
 
-<details>
-<summary>Is the GPD WIN 4 good for emulation?</summary>
-Yes, the GPD WIN 4 is excellent for emulation. It can handle emulators for systems up to PS3/Xbox 360 era quite well.
-</details>
+  The GPD WIN 4 offers more raw performance than the Steam Deck, with a more powerful CPU and GPU. It runs full Windows rather than SteamOS, giving it broader software compatibility. However, the Steam Deck has a larger screen.
+* Is the GPD WIN 4 good for emulation?
 
-<details>
-<summary>Can I connect an external GPU to the GPD WIN 4?</summary>
-Yes, the GPD WIN 4 supports external GPUs via its USB4 port. It’s compatible with the [GPD G1 eGPU dock](https://gpdstore.net/shop/accessories/gpd-g1/) for enhanced graphics performance via OCuLink.
-</details>
+  Yes, the GPD WIN 4 is excellent for emulation. It can handle emulators for systems up to PS3/Xbox 360 era quite well.
+* Can I connect an external GPU to the GPD WIN 4?
 
-<details>
-<summary>How do I update the BIOS and drivers on my GPD WIN 4?</summary>
-Follow our step-by-step guide [here](https://gpdstore.net/kb-article/how-to-update-the-gpd-win-4-bios/) for how to update the BIOS.
-</details>
+  Yes, the GPD WIN 4 supports external GPUs via its USB4 port. It’s compatible with the [GPD G1 eGPU dock](https://gpdstore.net/shop/accessories/gpd-g1/) for enhanced graphics performance via OCuLink.
+* How do I update the BIOS and drivers on my GPD WIN 4?
 
-<details>
-<summary>What gaming performance can I expect from the GPD WIN 4?</summary>
-The [GPD WIN 4](https://gpdstore.net/shop/gpd-handheld-gaming-pcs/gpd-win-4-2024/) is capable of running many modern AAA games at playable framerates on medium to high settings at 720p resolution. Performance will vary depending on the specific game and settings used
-</details>
+  Follow our step-by-step guide [here](https://gpdstore.net/kb-article/how-to-update-the-gpd-win-4-bios/) for how to update the BIOS.
+* What gaming performance can I expect from the GPD WIN 4?
 
-<details>
-<summary>What are the key specifications of the GPD WIN 4?</summary>
-The latest GPD WIN 4 model comes in different models with varying specs:
+  The [GPD WIN 4](https://gpdstore.net/shop/gpd-handheld-gaming-pcs/gpd-win-4-2024/) is capable of running many modern AAA games at playable framerates on medium to high settings at 720p resolution. Performance will vary depending on the specific game and settings used
+* What are the key specifications of the GPD WIN 4?
 
-- CPU: AMD Ryzen 7 8840U or 8640U
-- GPU: AMD Radeon 780M or 760M
-- RAM: 16GB/32GB/64GB LPDDR5X
-- Storage: Up to 4TB NVMe SSD
-- Display: 6-inch 1920×1080 touchscreen
-- Operating System: Windows 11
-</details>
+  The latest GPD WIN 4 model comes in different models with varying specs:
 
-<details>
-<summary>Does the GPD WIN 4 support external displays?</summary>
-The GPD WIN 4 series has a USB-C port that you can use with a hub for HDMI output to a TV or [portable monitor](https://gpdstore.net/category/portable-monitors/). See our [accessories](https://gpdstore.net/category/accessories/) for compatible hubs.
-</details>
+  + CPU: AMD Ryzen 7 8840U or 8640U
+  + GPU: AMD Radeon 780M or 760M
+  + RAM: 16GB/32GB/64GB LPDDR5X
+  + Storage: Up to 4TB NVMe SSD
+  + Display: 6-inch 1920×1080 touchscreen
+  + Operating System: Windows 11
+* Does the GPD WIN 4 support external displays?
 
-<details>
-<summary>Can I upgrade the RAM or storage on the GPD Win 4?</summary>
-The RAM is soldered and can not be upgraded. You can however upgrade the SSD.
-</details>
+  The GPD WIN 4 series has a USB-C port that you can use with a hub for HDMI output to a TV or [portable monitor](https://gpdstore.net/category/portable-monitors/). See our [accessories](https://gpdstore.net/category/accessories/) for compatible hubs.
+* Can I upgrade the RAM or storage on the GPD Win 4?
+
+  The RAM is soldered and can not be upgraded. You can however upgrade the SSD.

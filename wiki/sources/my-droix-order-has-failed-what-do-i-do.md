@@ -86,7 +86,7 @@ If this does fix your issue, drop us a line at support@droix.net along with any 
 
 ### Find us on Amazon!
 
-DROIX also operates on Amazon in a limited capacity. You can find the official [DROIX Amazon Store](https://www.amazon.co.uk/stores/DROIX/DROIX/page/36602649-64EF-4A06-8549-66111863B202) here.
+DROIX also operates on Amazon in a limited capacity. You can find the official [DROIX Amazon Store](https://www.amazon.co.uk/stores/DroiX/DroiX/page/36602649-64EF-4A06-8549-66111863B202) here.
 
 Through this store you can purchase some of our many products on offer through the comfort of everybody’s favourite international megacorporation.
 

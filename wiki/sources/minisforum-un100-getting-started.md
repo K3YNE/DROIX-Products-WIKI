@@ -40,6 +40,8 @@ Setting up your Minisforum mini PC is a straightforward process. To get started:
 
 Simply power on your device and you’ll dive straight into the world of [Windows 11 Pro](https://www.microsoft.com/en-gb/windows/business/windows-11-pro-onward-itdm). As soon as you switch on the mini PC, you’ll be greeted by the setup screen. This user interface will seamlessly guide you through the Windows configuration process. Start by choosing your location and language preference and selecting different keyboard layouts. Other options include enabling a range of accessibility features, allowing you to tailor your UN100 desktop experience. Additionally, during this initial setup, you will also have the opportunity to connect to Wi-Fi and begin downloading any updates to save you time.
 
+![Windows Setup Screen](https://droix.net/knowledge-base/wp-content/uploads/2023/08/Windows-Setup-Screen.jpg)
+
 Windows Setup Screen
 
 During the setup process, the mini PC may reboot once or twice. Once complete, you will be able to log into Windows.
@@ -64,6 +66,8 @@ You’ll need to download [Intel’s Driver & Support Assistant](https://www.int
 
 1. Navigate to the **Available Updates** tab.
 2. Select **Download All.**
+
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Untitled-design-1024x344.png)
 
 Intel’s Driver & Support Assistant (Intel DSA)
 
@@ -91,9 +95,11 @@ The primary storage of the UN100 accommodates an [M.2 2280 slot](https://en.wiki
 
 To install, remove and replace the current component (old storage or Wi-Fi/Bluetooth chip) with your M.2 storage drive (refer to *Images 1 & 2* below for guidance).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/2-1.jpg)
+
 1. M.2 (2280) slot
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/1-1-1.jpg)
 
 2. M.2 (2230) slot
 
@@ -112,6 +118,8 @@ Your new Minisforum UN100 mini PC can do so much already, what more is there? Wi
 [NH8 USB Hub with NVME](https://droix.net/product/droix-nh8-nvme-usb-hub/): The NH8 USB Type-C Hub with NVME is a versatile, portable device that extends your UN100’s connectivity. It includes a variety of ports, including HDMI, USB Type-A, USB Type-C, and SD card readers, providing comprehensive compatibility with a range of peripherals. But its highlight feature is the built-in [NVME slot](https://en.wikipedia.org/wiki/NVM_Express), allowing you to expand your storage with ease.
 
 [15.6″ 4K Portable Monitor](https://droix.net/product/15-6-4k-portable-monitor-with-touchscreen/) | [with Adobe RGB](https://droix.net/product/15-6-4k-portable-monitor-with-adobe-rgb/) | [with Stylus Support](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/): These portable monitors offer a stunning 4K resolution across their 15.6″ display. The monitor comes with touchscreen capabilities and even has an option for Adobe RGB or Stylus support. It is fantastic for artists, note-takers, handwriting enthusiasts and more. It’s the perfect addition as a main or additional monitor for your mini PC. Its slim and lightweight design makes it easy to carry around.
+
+![15.6″ 4K portable monitor with Adobe RGB](https://droix.net/knowledge-base/wp-content/uploads/2023/10/S23_B5-PORTABLE_MONITOR-IMAGE-LISTING-DONE-1.png)
 
 15.6″ 4K portable monitor with Adobe RGB
 

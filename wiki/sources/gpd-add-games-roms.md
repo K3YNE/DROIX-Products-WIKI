@@ -15,6 +15,8 @@ So, you’ve just purchased a brand-new GPD handheld gaming PC or mini laptop, a
 
 ## Where to Find Windows Games
 
+![Steam Store on GPD](https://gpdstore.net/wp-content/uploads/2024/09/HOW-TO-DOWNLOAD-GAMES-TO-YOUR-GPD-1-1200x675.jpg)
+
 Steam Store on GPD
 
 There are plenty of platforms where you can get both free and paid Windows games. Below are some of the most popular options:
@@ -26,6 +28,8 @@ There are plenty of platforms where you can get both free and paid Windows games
 * **Humble Bundle** – [Humble Bundle](https://www.humblebundle.com/) – Offers bundles of games at significantly reduced prices, with a portion of the proceeds going to charity.
 
 ## Where to Find Game ROMS
+
+![Antstream on GPD](https://gpdstore.net/wp-content/uploads/2024/09/HOW-TO-DOWNLOAD-GAMES-TO-YOUR-GPD-2-1200x675.jpg)
 
 Antstream on GPD
 
@@ -43,11 +47,15 @@ Setting up emulators for retro games is straightforward with [RetroArch](https:/
 
 First, create a new folder on your GPD’s storage and name it “ROMS.” Inside this folder, create subfolders for each game console you have games for. For instance, you might create a folder called “Genesis” for Sega Mega Drive/Genesis games.
 
+![Create folders for your ROMS](https://gpdstore.net/wp-content/uploads/2024/09/HOW-TO-ADD-ROMS-TO-YOUR-GPD-1-1200x675.jpg)
+
 Create folders for your ROMS
 
 ### **Import ROMs with RetroArch**
 
 Open RetroArch and use the *Import Content* option, followed by *Scan Directory*.
+
+![Import your ROMS by scanning them](https://gpdstore.net/wp-content/uploads/2024/09/HOW-TO-ADD-ROMS-TO-YOUR-GPD-2-1200x675.jpg)
 
 Import your ROMS by scanning them
 
@@ -55,9 +63,13 @@ Import your ROMS by scanning them
 
 Navigate to the ROMs folder you just created.
 
+![Navigate to your ROMS folder](https://gpdstore.net/wp-content/uploads/2024/09/HOW-TO-ADD-ROMS-TO-YOUR-GPD-3-1200x675.jpg)
+
 Navigate to your ROMS folder
 
 ### **Scan ROM Folders**
+
+![You can scan all ROMs or a specific folder](https://gpdstore.net/wp-content/uploads/2024/09/HOW-TO-ADD-ROMS-TO-YOUR-GPD-4-1200x675.jpg)
 
 You can scan all ROMs or a specific folder
 
@@ -66,6 +78,8 @@ To scan the ROMs for a single console, enter that specific folder and choose *Sc
 If you’d like to scan all console folders at once, select the ROMs folder itself. Keep in mind that scanning a large collection may take longer.
 
 ### **Access Your Games**
+
+![Browse your collection](https://gpdstore.net/wp-content/uploads/2024/09/HOW-TO-ADD-ROMS-TO-YOUR-GPD-5-1200x675.jpg)
 
 Browse your collection
 

@@ -109,6 +109,8 @@ To “combine” the multiple parts, **all you need to do is place all the part
 
 Inside the compressed file, assuming it is not an .img (in which case, skip to the Working with Images part of this guide), you will multiple files and folders, like so.
 
+![explorer_MvHHH4wc36.jpg](https://droix.zendesk.com/hc/article_attachments/360017762577/explorer_MvHHH4wc36.jpg)
+
 Copy all these files and folders onto the ROOT of your prepared USB drive. By “root”, we mean place the files directly. Do **not** put them all in one folder, and then place that folder onto the USB drive.
 
 Rename the USB drive to “WINPE”, and now you’re ready to go!
@@ -124,6 +126,8 @@ Either way, let’s continue…
 ### Using Win32 Disk Imager
 
 Win32 Disk Imager is a lightweight, powerful, and easy-to-use tool for both reading and writing image files.
+
+![1.jpg](https://droix.zendesk.com/hc/article_attachments/360017866597/1.jpg)
 
 Make sure your USB drive is inserted, and you have the image file downloaded.
 
@@ -160,6 +164,8 @@ This is no cause for concern – simply [update Windows](https://support.micros
 ### A note about some Beelink models
 
 Some beelink models may fail to install the first time you try to do so. This will most likely be the ones with the custom reinstall utility (instead of the command line appearing, a customized window with various buttons will appear), like so:
+
+![RECentral_OhMo7Sr1vw.png](https://droix.zendesk.com/hc/article_attachments/360017764617/RECentral_OhMo7Sr1vw.png)
 
 To fix this, change the target installation drive in the top left (Built-inDisk <GPT>) to eMMC or SSD depending on the model, so that the reinstallation will be carried out on the internal storage. Then hit “Apply”.
 

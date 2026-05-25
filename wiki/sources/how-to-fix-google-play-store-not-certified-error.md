@@ -24,18 +24,32 @@ Using a File Manager, locate the **DeviceID.apk** file that you downloaded and c
 
 Once it is installed, open the app and you will see **Android Device ID** and **Google Service Framework (GSF)** letters/numbers. The one you want is the **Google Service Framework (GSF)**, so make a note of these letters/numbers.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Play-Store-Fix-1-300x200.jpg)
+
 Open <https://www.google.com/android/uncertified/> in your browser and log in using the same Google account that you will be using with the Google Play Store.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Play-Store-Fix-7-300x153.jpg)
 
 Enter the **Google Service Framework (GSF)** you made a note of earlier in the respective field and click on **Register**. After a few moments the number will be generated below under Registered Android IDs.
 
 Back to your XD Plus. Go to **Settings,** then **Advanced Settings**
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Play-Store-Fix-2-300x200.jpg)
+
 Scroll down to **Apps** and choose this option.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Play-Store-Fix-3-300x200.jpg)
 
 Scroll down to **Google Play Store** and choose this app.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Play-Store-Fix-4-300x200.jpg)
+
 Click on **Storage**
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Play-Store-Fix-5-300x200.jpg)
+
 Click on **Clear Data**
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Play-Store-Fix-6-300x200.jpg)
 
 You should now be able to open the Google Play Store app.

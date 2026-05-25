@@ -12,7 +12,7 @@ updated: 2026-04-22
 tags: [kb-article, droix]
 ---
 
-If you’re not sure what a static IP address is, and don’t have any problems on your home network, you can probably safely ignore the steps in this post. If, however, you want to open up ports on your device to the internet (for example we’ll be writing a post about using a DROIX Q7 as a security camera soon), then your DROIX device will always need to have the same IP address on your home network.
+If you’re not sure what a static IP address is, and don’t have any problems on your home network, you can probably safely ignore the steps in this post. If, however, you want to open up ports on your device to the internet (for example we’ll be writing a post about using a DROIX® Q7 as a security camera soon), then your DROIX® device will always need to have the same IP address on your home network.
 
 Just to be clear, your external IP address is the same for all devices on your network at home. This IP address is how servers and other computers communicate with you via the internet, and your ISP assigns it to you.
 
@@ -32,19 +32,27 @@ If you’re not certain how to check the modem/router’s IP address, try lookin
 
 If that doesn’t help, click the Windows Start button on your PC (bottom left corner, normally an icon of a Windows flag), and then click Control Panel. In the Control Panel’s search box, type network and you should see in the results a heading called “Network and Sharing Center”. Within that list, click View Network Connections. From here, right click on the icon that is labelled with your PC’s method of network conneciton (so Local Area Connection for a cabled connection, or one that mentions WiFi for a wireless connection). After right clicking, a menu will appear, click on the Status entry. In the new window, click the Details button, and you’ll find your modem/router’s IP address listed in the IPv4 Default Gateway entry.
 
-With this information ready, turn your DROIX device on, and click on the Settings icon in the list of all apps.
+With this information ready, turn your DROIX® device on, and click on the Settings icon in the list of all apps.
 
-If you can see WiFi/Ethernet in a list on the left hand side, click on whichever your DROIX device is using. If you can’t see a long vertical list of Settings-related entries, click on the last tab on the right, and select the More/Advanced Settings button first.
+If you can see WiFi/Ethernet in a list on the left hand side, click on whichever your DROIX® device is using. If you can’t see a long vertical list of Settings-related entries, click on the last tab on the right, and select the More/Advanced Settings button first.
 
 If you’re using WiFi, then please:
 
 Long click on the name of your WiFi network name and select Modify network
 
+![Android Modify WiFi Network Details](/wp/wp-content/uploads/2014/11/WiFiModifyNetwork.jpg "Android Modify WiFi Network Details")
+
 Click on the single down arrow at the bottom of the page if the on screen keyboard is in the way
+
+![Minimize Android Keyboard](/wp/wp-content/uploads/2014/11/NetworkMinimizeKeyboard.jpg "Minimize Android Keyboard")
 
 Now tick the Show advanced options entry, leave Proxy at None, and change IP settings from DHCP to  to Static
 
-You’ll need to scroll the page down to see all the settings you need to enter. Once complete, click the Save button
+![WiFiChooseStatic](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/WiFiChooseStatic2.jpg)
+
+You’ll need to scroll the page down to see all the settings you need to enter. Once complete, click the Save button ![Android WiFi Enter Static Details](/wp/wp-content/uploads/2014/11/WifiEnterStaticDetails.jpg "Android WiFi Enter Static Details")
+
+![Android WiFi Save Static IP Details](/wp/wp-content/uploads/2014/11/WifiSaveStaticDetails.jpg "Android WiFi Save Static IP Details")
 
 If you’re using Ethernet (a network cable) instead of WiFi, then please:
 
@@ -52,9 +60,15 @@ Select the Ethernet entry
 
 Now click on Static IP Settings
 
+![Android Ethernet Choose Static](/wp/wp-content/uploads/2014/11/EthernetChooseStatic.jpg "Android Ethernet Choose Static")
+
 Tick the Use static IP box
 
+![Android Ethernet Tick Static](/wp/wp-content/uploads/2014/11/EthernetTickStatic.jpg "Android Ethernet Tick Static")
+
 Enter in all the details requested and click the go back/return key on your remote control
+
+![Android Ethernet Save Static](/wp/wp-content/uploads/2014/11/EthernetSaveStatic.jpg "Android Ethernet Save Static")
 
 Confirm you want to save these details
 
@@ -76,4 +90,4 @@ There is the outside chance that instead of 192.168.1.x or 192.168.0.x your home
 
 Also, using 192.168.x.250 is being a bit lazy/naughty, as we should really set up the X7’s IP address in your modem/router as static, and remove it from the DHCP pool. However, unless you’ve got hundreds of devices connected to your home network, a clash isn’t likely to occur.
 
-That’s it, you should be done. Different versions of Android may have slightly different labels, but the process above should hold true if you use a bit of logic. For example, the screenshots above will match most DROIX models, but the iMX6, when entering static IP details for an Ethernet connection, looks like this:
+That’s it, you should be done. Different versions of Android may have slightly different labels, but the process above should hold true if you use a bit of logic. For example, the screenshots above will match most DROIX® models, but the iMX6, when entering static IP details for an Ethernet connection, looks like this:![Android DROIX iMX6 Ethernet Static Details](/wp/wp-content/uploads/2014/11/EthernetStatic_iMX6.jpg "Android DROIX iMX6 Ethernet Static Details")

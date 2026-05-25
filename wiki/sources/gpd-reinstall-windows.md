@@ -41,39 +41,53 @@ Please note: if you receive a notification that the file has been downloaded too
 
 You will also need Rufus to create the bootable USB stick. You can download it from [here](https://rufus.ie/en/), or GPDs own version [here](https://drive.google.com/file/d/1lk__yZ55QZwLxYJbXSPltD4ZPYvjeiBD/view?usp=drive_link).
 
+![How to reinstall Windows on your GPD](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-Files-needed-1200x675.jpg)
+
 Files needed, Rufus and the correct Windows ISO
 
 ## Prepare the USB stick
 
 You should have Rufus and the Windows .ISO file for your GPD device. Load Rufus and if prompted click **Yes** to continue
 
+![Running Rufus GPD version](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-Running-Rufus-1200x675.jpg)
+
 Running Rufus GPD version
 
 On the device drop down box, select your USB stick drive. Double check to confirm it is the correct drive as the data will be wiped from it.
+
+![Choose your USB stick drive](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-Select-USB-stick-drive-1200x675.jpg)
 
 Choose your USB stick drive
 
 Next, select the ISO file by clicking on the **SELECT** button.
 
+![Press the SELECT button](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-Press-SELECT-1200x675.jpg)
+
 Press the SELECT button
 
-
+![Select the ISO file](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-Select-the-ISO-file-1200x675.jpg)
 
 Select the ISO file
 
 Double check you have selected the correct USB stick drive and then click on the **START** button.
 
+![Press START when ready to proceed](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-Press-START-1200x675.jpg)
+
 Press START when ready to proceed
 
 And if you sure everything is correct, press **OK** to begin the process
+
+![Click OK to proceed](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-Click-OK-to-proceed-1200x675.jpg)
 
 Click OK to proceed
 
 The process will take around 20 minutes, faster or slower depending on the speed of your USB stick. Do NOT remove the USB stick until the process is completed.
 
+![USB stick being prepared](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-USB-stick-being-prepared-1200x675.jpg)
+
 USB stick being prepared
 
-
+![Preparation completed](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-Preparation-completed-1200x675.jpg)
 
 Preparation completed
 
@@ -83,28 +97,40 @@ When completed you can safely eject the USB stick.
 
 Insert the USB stick into a USB port on your GPD. Power on the device and press the **F7** keyboard key repeatedly until the Boot Menu is displayed. Select the USB Stick from the menu and press **Enter**.
 
+![GPD Boot Menu](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-GPD-Boot-Menu-1200x675.jpg)
+
 GPD Boot Menu
 
 The device will reboot and load the software from the USB stick. This may take a few moments.
+
+![GPD Windows Install Menu](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-Install-Menu-1200x675.jpg)
 
 GPD Windows Install Menu
 
 Tick the **Format disk** checkbox and enter the size of your devices storage size which is shown on the left side. You can choose the Factory firmware mode optionally. Next, press the **START** button to begin.
 
+![Choose Format Disk, enter the size and press the START button](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-Choose-Format-Disk-1200x675.jpg)
+
 Choose Format Disk, enter the size and press the START button
 
 It will then begin the process to install Windows, first copying the files then applying them. The process will take around 20 minutes, do not switch off the device or remove the USB stick until it has completed. Once completed, you will be notified that the device will reboot.
 
+![Copying the files](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-Copying-image-files-1200x675.jpg)
+
 Copying the files
 
-
+![Device will restart once completed](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-Device-will-restart-once-completed-1200x675.jpg)
 
 Device will restart once completed
 
 The device may reboot once or twice, it will also take a little longer than usual to boot, this is fine and will return to normal boot speeds afterwards.
 
+![It may take a bit longer to load after rebooting](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-It-may-take-a-bit-longer-to-load-after-rebooting-1200x675.jpg)
+
 The first boot may take a bit longer to load than usual after rebooting
 
 After a few moments, the Windows setup screen will display. Follow the prompts to set up Windows.
+
+![Windows ready to be set up](https://gpdstore.net/wp-content/uploads/2024/09/Install-Windows-Windows-ready-to-be-set-up-1200x675.jpg)
 
 Windows ready to be set up

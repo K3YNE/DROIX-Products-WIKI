@@ -12,9 +12,9 @@ updated: 2026-04-22
 tags: [kb-article, droix, android, troubleshooting]
 ---
 
-If you find the time on your DROIX is incorrect, or have been advised to check it for some other reason, read on!
+If you find the time on your DROIX® is incorrect, or have been advised to check it for some other reason, read on!
 
-You’ll first need to click the Settings icon on your DROIX’s homescreen. It will normally be one or two cogs, or a series of sliders.
+You’ll first need to click the Settings icon on your DROIX®’s homescreen. It will normally be one or two cogs, or a series of sliders.
 
 If you can’t find an icon like that, open the list of installed applications and locate Settings there. Most devices will use an icon of a circle with six dots or a “My Apps” label to bring up that list of all your applications.
 
@@ -25,19 +25,23 @@ Click the **Other** tab. Now click the **More Settings** button. Scroll down an
 
 #### If you have a monochrome interface for Settings with options listed down the left
 
+![X7 Settings](https://droix.net/wp-content/uploads/2016/06/Settings-300x170.png)
+
 Scroll all the way to the bottom of the list of Settings entries. Click **Date & Time** and follow the same steps as above. Titles may differ by a few words but the options will have the same effect.
 
 #### If you have a monochrome interface with rows and columns of Settings shortcuts
 
-
-
-
+![3 Dial Launcher T8 T8-S T8-S Plus](https://droix.net/wp-content/uploads/2016/06/20160414_122647_0-300x170.png)
+![T8-S Plus Settings Clicked](https://droix.net/wp-content/uploads/2016/06/Settings-Clicked-300x169.png)
+![T8-S Plus Settings More Settings Date And Time Highlighted](https://droix.net/wp-content/uploads/2016/06/SettingsMoreSettingsDateAndTimeHighlighted-300x171.png)
+![T8-S Plus Date And Time Options](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Date-And-Time-Options-300x169.png)
 
 Go down one row and click on **Date & time**. As with the first device, check **Automatic date & time** is turned on.
 
-
-
+![T8-S Plus More Settings Clicked](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/More-Settings-Clicked-300x170.png)
+![T8-S Plus More Settings Clicked Second Screen](https://droix.net/wp-content/uploads/2016/06/More-Settings-Clicked-Second-Screen-300x168.png)
+![T8-S Plus More Settings Clicked Date And Time Clicked](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/More-Settings-Clicked-Date-And-Time-Clicked-300x167.png)
 
 If the time is correct, but off by some hours, you’ll need to return back one screen, and scroll to the right to click on **More Setting.**Click Date & time, and you will now be able to adjust the Time Zone to your current location. If it is set to GMT, but we are using British Summer Time when you read this post, please select BST/British Summer Time to have the clock match the correct time.
 
-If none of the above helped, try installing ClockSync – <https://play.google.com/store/apps/details?id=ru.org.amip.ClockSync&hl=en_GB> – from Google’s Play Store on your DROIX. If you’ve not used the Play Store before, please see <https://droix.net/first-run-of-googles-play-store/> . With this application you can force an update to be pushed through (again assuming your ISP is not blocking certain ports or specific time servers.
+If none of the above helped, try installing ClockSync – <https://play.google.com/store/apps/details?id=ru.org.amip.ClockSync&hl=en_GB> – from Google’s Play Store on your DROIX®. If you’ve not used the Play Store before, please see <https://droix.net/first-run-of-googles-play-store/> . With this application you can force an update to be pushed through (again assuming your ISP is not blocking certain ports or specific time servers.

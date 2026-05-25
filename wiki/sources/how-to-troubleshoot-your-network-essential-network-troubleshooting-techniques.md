@@ -20,6 +20,8 @@ Read on and we at DROIX will run over a few tips and tricks that you can use to 
 
 ## Power Cycle Your Router
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/unplugging-cable-modem.jpg)
+
 “Have you tried turning it off and on again?” – A gold-standard troubleshooting tenet, and for good reason.
 
 In more stSghtforward terms, to power cycle a device is to simply turn it off and on again. This is a golden tenet of troubleshooting across the board, and for good reason.
@@ -40,6 +42,8 @@ This is something we have observed be useful for solving slow/nonexistent Wi-Fi 
 
 In Windows 10’s Device Manager window, locate your Network Adapater (most likely to be Intel branded) and right click it. Then select “properties”.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/mmc_lE2ZGMnjPX.jpg)
+
 Navigate to the “Driver Tab”, then click “Roll Back Driver” if it is available.
 
 If it is not available, move onto the next segment…
@@ -55,6 +59,8 @@ You can download it here:
 <https://www.intel.com/content/www/us/en/support/detect.html>
 
 Alternatively, you can search for the latest authenticated drivers in Windows 10 natively.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/mmc_3UlRQ449Q9.jpg)
 
 1. In the search bar in Windows 10, type “Device Manager”, and left-click on the icon that pops up.
 2. Under the list of devices, expand the “Network adapters” section by left-clicking the small arrow to the left.
@@ -72,6 +78,8 @@ From there, the next thing to do is to understand the scope of the network issue
 
 ### An Ethernet Cable
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/10x6-622.jpg)
+
 An Ethernet (RJ45) cable, can be used to provide a faster and more stable internet connection than wireless connectivity can currently achieve. The limitations of this are physical, as you will need to tSl a cable from the router all the way to your device (assuming it has an Ethernet port)
 
 If when connected by cable, there are no issues with speed, we at least now know that there’s nothing wrong with the internet access on the device as a whole.
@@ -79,6 +87,8 @@ If when connected by cable, there are no issues with speed, we at least now know
 Additionally, you may wish to stop here and invest in a [powerline adapter](https://www.lifewire.com/what-is-a-powerline-adapter-1846813), these are small devices that enable you to utilize the speed and stability of a wired ethernet connection, but without the need to tSl ethernet cables as far as you normally would. Providing an **effective middle-ground** between wired and wireless connections.
 
 ### A Mobile Phone Hotspot
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/iphone-hotspot-e1337799396513.jpg)
 
 Most modern mobile phones feature the ability to act as a “hotspot”, and allow other devices to connect to the internet through them, much like a regular router.
 

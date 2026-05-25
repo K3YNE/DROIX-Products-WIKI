@@ -16,6 +16,8 @@ One of the great features of the [GPD Duo](https://gpdstore.net/laptops/gpd-duo/
 
 ## How to use the GPD Duo Video Input
 
+![GPD Duo Video Input](https://gpdstore.net/wp-content/uploads/2024/11/GPD-Duo-Video-Input-1200x675.jpg)
+
 USB-C and Brightness Controls
 
 On the left side of the top display is a USB-C port which you can connect compatible devices to (see the compatibility list below).
@@ -24,13 +26,17 @@ On the left side of the top display is a USB-C port which you can connect compat
 
 We recommend the [DROIX USB 4 Type-C cable](https://gpdstore.net/accessories/usb-4-0-type-c-cable/) for best compatibility. Connect one side of the USB-C cable to GPD Duo’s USB-C port and the other to the USB-C port on your device.
 
+![Connect the USB-C Cable](https://gpdstore.net/wp-content/uploads/2024/11/GPD-Duo-Video-Input-Connect-the-USB-C-Cable-1200x675.jpg)
+
 Connect the USB-C Cable
 
-
+![Connect the USB-C cable to your device](https://gpdstore.net/wp-content/uploads/2024/11/GPD-Duo-Video-Input-Connect-the-USB-C-cable-to-your-device-1200x675.jpg)
 
 Connect the USB-C cable to your device
 
 After a few moments, the display should switch from the GPD Duo’s Window desktop to whatever is showing on your connected device.
+
+![After a few moments the display will show the connected device](https://gpdstore.net/wp-content/uploads/2024/11/GPD-Duo-Video-Input-After-a-few-moments-the-display-will-show-the-connected-device-1200x675.jpg)
 
 After a few moments the display will show the connected device
 

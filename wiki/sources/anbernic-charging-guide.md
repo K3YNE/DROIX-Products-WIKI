@@ -14,6 +14,8 @@ tags: [kb-article, anbernic]
 
 Proper charging is crucial for the longevity and safety of your [Anbernic](https://droix.net/product-attribute/brands/anbernic/) device. Follow these guidelines to ensure safe charging and avoid potential damage.
 
+![Only use the supplied USB A to USB C cable](https://droix.net/knowledge-base/wp-content/uploads/2024/07/Anbernic-charge-guide-1024x576.jpg)
+
 Only use the supplied USB A to USB C cable
 
 ### Use Only the Supplied Cable
@@ -38,6 +40,8 @@ Only use the supplied USB A to USB C cable
 2. Use a standard USB-A port on your computer.
 3. Use older, lower-power phone chargers (e.g., older iPhone chargers rated at 5V/1A).
 
+![Anbernic devices have status LED, refer to the user manual for information](https://droix.net/knowledge-base/wp-content/uploads/2024/07/Anbernic-device-charging-1024x576.jpg)
+
 Anbernic devices have status LED, refer to the user manual for information
 
 ### Charging Best Practices
@@ -54,6 +58,8 @@ If you notice any of the following, stop using the device and contact support:
 * Unusual heat during charging
 * Rapid battery drain
 * Device not charging properly
+
+![Anbernic charge guide Battery Charging Indicator](https://droix.net/knowledge-base/wp-content/uploads/2024/07/Anbernic-charge-guide-Battery-Charging-Indicator-1024x576.jpg)
 
 Some Anbernic models have a charge indication by tapping the power button once
 

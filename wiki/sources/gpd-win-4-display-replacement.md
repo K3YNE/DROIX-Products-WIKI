@@ -29,6 +29,8 @@ Please be advised that while we permit customers to perform their own repairs, o
 
 <https://youtu.be/byPHtLyPhdc>
 
+![GPD WIN 4 2025 Gaming Handheld PC](https://gpdstore.net/wp-content/uploads/2024/12/GPD-WIN-4-2025-LISTING-GENERIC-01.png)
+
 ## GPD WIN 4 2025 Gaming Handheld PC
 
 [Shop now](https://gpdstore.net/gpd-handheld-gaming-pcs/gpd-win-4-2025/)

@@ -43,6 +43,8 @@ Disk image writing software: You can use any software such as Win32 DiskImager o
 
 There may be a security sticker covering the Micro SD Card slot. You can use your fingernail or similar to break the seal either side of the Micro SD Card as shown in the below photo.
 
+![Break the seal and remove sd card](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/06/image-0.jpeg)
+
 Break the seal and remove sd card
 
 Gently press the Micro SD card and it should click and pop up. You can now remove the card.
@@ -53,9 +55,13 @@ We’d advise formatting your media first before loading firmware onto it to min
 
 To format it, insert the media into your system, then right click it in File Explorer. Select “Format” from the context menu.
 
+![Formatting](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/06/explorer_cRkzl7hUq3-300x188-1.webp)
+
 Formatting
 
 Make sure the card is formatted as anything that’s readable – this will typically be NTFS or FAT32, then click format.
+
+![Format removable disk](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/06/explorer_AgXk0Scl2W-165x300-1.webp)
 
 Format removable disk
 
@@ -66,6 +72,8 @@ Now your media clean and ready to be used.
 It is possible to quickly duplicate a storage device’s contents through the method of “disc imaging”. With the image file (.img) you have downloaded, download imaging software. We highly suggest Win32DiskImager, as it is lightweight, straightforward and easy to use.
 
 *Note that as of writing, Win32 Disk Imager does not play nice with services that persistently scan for drives, such as Google Backup, or Linux File Systems for Windows by Paragon Software. If Disk Imager will not start, exit these programs/disable these services, then try it again.*
+
+![WIN32 disk imager](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/06/Win32DiskImager_UEASR68QLT.jpg)
 
 WIN32 disk imager
 

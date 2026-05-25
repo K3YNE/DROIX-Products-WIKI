@@ -12,7 +12,7 @@ updated: 2026-04-22
 tags: [kb-article, droix]
 ---
 
-In the first of a series of videos, we are demonstrating different ways to stream content to your DROIX from other devices. We start with how to stream media such as videos, music and photographs from your PC. We show how to cast videos from Youtube and then follow with a section on streaming videos, music and photos from your Windows 10 based device.
+In the first of a series of videos, we are demonstrating different ways to stream content to your DROIX® from other devices. We start with how to stream media such as videos, music and photographs from your PC. We show how to cast videos from Youtube and then follow with a section on streaming videos, music and photos from your Windows 10 based device.
 
 <https://youtu.be/xcU27-29MuU>
 

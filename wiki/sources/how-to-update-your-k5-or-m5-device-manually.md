@@ -14,6 +14,8 @@ tags: [kb-article, droix]
 
 If you have attempted to update your M5 device, but discovered that the OTA Updates application is not installed or out of date itself, read the instructions below to get you back on track.
 
+![M5 K5 Update Screen 3](https://droix.net/wp-content/uploads/2016/06/20160617_095713_0-300x169.png)
+
 The screenshot above is of the OTA Updates application – if you find this is not present, or doesn’t allow the update, please read on:
 
 You will need to download files for either method below. Do NOT extract the contents of these files
@@ -24,9 +26,11 @@ You will need an SD memory card, 2Gb or larger, and nothing on the card to start
 
 #### First method
 
+![M5 K5 Manual Update 3](https://droix.net/wp-content/uploads/2016/06/20160617_095805_0-300x169.png)
+
 Download 1 file – <https://droidboxcloud.com/index.php/s/5JwpgMWheefogLr> – when it is copied over it should still be one single file ( dbx.M5K5.20160617.V2.4.0.zip ), not multiple directories and files.
 
-Copy this ZIP file to your memory card, and insert it into your  DROIX device.
+Copy this ZIP file to your memory card, and insert it into your  DroidBOX® device.
 
 Boot up your K5 or M5 device as normal, and open up the list of installed applications. This will normally be an icon with “My Apps” as a label, or a circle with six dots in it. Now click on the Update & Backup application.
 
@@ -42,13 +46,19 @@ Switch off your K5 or M5 device as normal. Insert the SD card you previously cop
 
 Find the Restore button on the right side of your K5 or M5 device.
 
+![M5 Right Side View](https://droix.net/wp-content/uploads/2016/06/M61-300x96.jpg)
+
 M5 Reset Button
+
+![K5 Rightside View](https://droix.net/wp-content/uploads/2016/06/5_1_11-300x295.png)
 
 K5 Restore Button
 
 Press and hold the Restore button. You’ll need something non-metallic if possible, strong but thin. Whilst holding the Restore button down, turn the device on via the power button on the front of the case. After six seconds you can release the Restore button.
 
+![Firmware Updating](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/My-Great-Capture-Screenshot-2016-06-17-14-04-24-300x169.png)
+
 Once the firmware has been put in place, the system will restart and boot into Android. Once this boot up has completed, remove the SD card, leave the device alone for 20 minutes and then turn the device off and on.
 
 Whether you use the first or second update method, future firmware updates will now be accessible to your via the OTA application.  
-If you encounter any difficulties following this guide, please contact us via support@DROIX.co.uk . Include a link to this post, which method you attempted and exactly what was shown on screen that differed. Please also include your original order ID.
+If you encounter any difficulties following this guide, please contact us via support@DroidBOX.co.uk . Include a link to this post, which method you attempted and exactly what was shown on screen that differed. Please also include your original order ID.

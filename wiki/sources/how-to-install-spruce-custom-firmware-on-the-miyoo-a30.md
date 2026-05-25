@@ -27,6 +27,8 @@ Download the latest version of the spruce OS from [here](https://github.com/tenl
 
 Once extracted, you will have a list of folders and files similar to below
 
+![Spruce folder structure](https://droix.net/knowledge-base/wp-content/uploads/2024/07/Spruce-CFW-1.png)
+
 Spruce folder structure
 
 ## Transfer old card files to new card
@@ -34,6 +36,8 @@ Spruce folder structure
 If you want to transfer your games and save files from the original Miyoo A30 classic gaming handheld micro SD card you can do so now.
 
 Insert the original Micro SD card in to your PC and navigate to the correct drive for it. You will see a number of files and folders.
+
+![Miyoo A30 micro SD card structure](https://droix.net/knowledge-base/wp-content/uploads/2024/07/Spruce-CFW-2-1024x433.png)
 
 Miyoo A30 micro SD card structure
 
@@ -51,6 +55,8 @@ Load the MiniTool Partition Wizard software. Insert the micro SD card into your 
 
 Right click on the micro SD card drive and choose **Delete All Partition**s. Next, right click on the **Unallocated** space to the right and choose **Create**.
 
+![Format Options](https://droix.net/knowledge-base/wp-content/uploads/2024/07/Spruce-CFW-3.png)
+
 Format Options
 
 A menu will show with some options, for the **File System** option, change this to **FAT32**, then click on **OK**. Double and triple check you have chosen the correct drive for your micro SD card. Now click on **Apply**, the software will delete the original partitions, and then format the card to **FAT32**. This may take a short while if the card is large.
@@ -65,10 +71,14 @@ Everything will now be copied to your new micro SD card in one go. This may take
 
 Once all of the files have been copied to the micro SD card, you can safely eject it. Now insert it into the [Miyoo A30](https://droix.net/product/miyoo-a30/) mobile gaming handheld and switch it on.
 
+![Spruce CFW for Miyoo A30](https://droix.net/knowledge-base/wp-content/uploads/2024/07/Spruce-CFW-for-Miyoo-A30-1024x576.jpg)
+
 Spruce CFW for Miyoo A30
 
 The first boot will take longer than usual as it finishes setting up the software and scans for any games you copied over. Again this may take some time if you have a lot of games.
 
 Once completed you will now be able to use the [Miyoo A30](https://droix.net/product/miyoo-a30/) vintage gaming handheld with Spruce OS. Enjoy!
+
+![Spruce CFW Emulators Menus](https://droix.net/knowledge-base/wp-content/uploads/2024/07/Spruce-CFW-Emulators-Menus-1024x576.jpg)
 
 Spruce CFW Emulators Menus

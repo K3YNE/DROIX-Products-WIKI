@@ -20,11 +20,15 @@ If you are looking to upgrade your MinisForum HX90, we at DROIX have put togethe
 
 ## Step 1 – Remove the rear panel
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220323_180113185_HDR-1024x768.jpg)
+
 To access the mini PC, you will first need to remove the rear of the unit.
 
 First, loosen the four screws located in the corners of the rear panel. You will then need to pry away the panel using a plastic spudger or a similar tool.
 
 ## Step 2 – Replacing The Components
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220323_180738993-1024x768.jpg)
 
 The HX90’s design is slightly different from other mini PCs. When you first open it, you’ll be met with two slots.
 
@@ -35,5 +39,7 @@ To replace the M.2 SSD (circled in red), loosen the screw at the end of the sock
 The light blue circle indicates the interfaces for the SATA cables (which will be included in your package). Through these, you can connect up to two 2.5-inch SSDs or HDDs up to the unit on the drive bay.
 
 Now to access the rest of the device, you will need to lift the PCB out. Our suggested way to do this is to turn the device upside down, and try to lift up the shell. **Be very careful, as the PCB is attached to the shell on the side of the front panel (via a ribbon cable)**.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220323_181639468-1024x768.jpg)
 
 To change the RAM (outlined in yellow), you lightly pull the securing clips on the sides of the RAM sticks outward, until the stick springs up by itself. You can then pull it out without resistance.

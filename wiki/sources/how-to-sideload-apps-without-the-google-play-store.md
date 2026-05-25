@@ -34,13 +34,15 @@ The first method is sideloading directly from the device via the internet. We wi
 
 The first thing you need to do is open your web browser and search for your desired emulator or app (refer to *Image 2* below). Open their official webpage, and navigate to their downloads page (refer to *Image 3* below).
 
+![Android Handheld Home Screen](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Home-Screen-Ayn-1024x576.jpg)
+
 1. Open browser
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Device-2-1024x576.jpg)
 
 2. Search for emulator/app
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Device-3-1024x576.jpg)
 
 3. Navigate to downloads
 
@@ -48,41 +50,49 @@ Once on the download page, find your desired version and download it (refer to *
 
 When trying to download, you may be prompted that the file may be harmful, this happens because your device is unable to fully scan the files, so please ensure you are downloading from either the official webpage or a trusted source to avoid accidentally downloading any malware. Once you’re sure the file is safe, select ‘Download anyway’ and open the file once the download has been completed (refer to *Images 5 & 6* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Device-4-1024x576.jpg)
+
 4. Download emulator/app
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Device-5-1024x576.jpg)
 
 5. Download anyway
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Device-6-1-1024x576.jpg)
 
 6. Open downloaded file
 
 When sideloading apps for the first time on a device, you need to give your browser permission to install applications. You will only need to do this once for each browser you use. Once you try to open the APK file, a pop-up may appear (refer to *Image 7* below). Click ‘Settings’, which will take you to the settings for that browser where you can allow application installations (refer to *Image 8* below). Make sure you turn this on, so you can continue with the installation process.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Device-7-1024x576.jpg)
+
 7. Go to settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Device-8-1024x576.jpg)
 
 8. Allow from source
 
 A notification will appear asking you if you want to install the application you just downloaded. Select ‘Install’ (refer to *Image 9* below), which will begin the process of adding it to your app library. Once complete, you see a message letting you know whether the app was successfully installed or not, along with the option to open the application or not (refer to *Image 10* below). The latter is great for when you’re sideloading more applications at once, such as sideloading from an external storage device – which we will cover next.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Device-9-1024x576.jpg)
+
 9. Select Install
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Device-10-1-1024x576.jpg)
 
 10. Open/close app
 
 When you open a sideloaded app for the first time – just like any newly installed application, you need to grant the app permissions to function properly (refer to *Images 11 & 12* below). After this, your application is successfully installed!
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Device-11-2-1024x576.jpg)
+
 11. Select Ok
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Device-12-1024x576.jpg)
 
 12. Select Allow
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Device-13-1024x576.jpg)
 
 13. App installed successfully
 
@@ -94,37 +104,41 @@ The first thing to do is to format the MicroSD Card, simply insert it into the d
 
 The setup for the SD Card is now complete (refer to *Image 5* below) but we’re not finished yet! Go back to the control panel and eject the SD Card (refer to *Image 6* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/SD-Card-1-1024x576.jpg)
+
 1. Swipe down
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/SD-Card-2-1024x576.jpg)
 
 2. Set up
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/SD-Card-3b-1024x576.jpg)
 
 3. Swipe down
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/SD-Card-4-1024x576.jpg)
 
 4. Select ‘Portable Storage’
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/SD-Card-5-1024x576.jpg)
 
 5. Select ‘done’
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/SD-Card-Setup-5-1024x576.png)
 
 6. Setup complete
 
 The next thing you need to do is move over to the PC (or other device), and open the web browser to search for your desired emulator or app (refer to *Image* 7 below). Open their official webpage, and navigate to their downloads page (refer to *Images 8 & 9* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Desktop-1-1024x502.jpg)
+
 7. Search app/emulator
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Desktop-2-1024x553.jpg)
 
 8. Navigate to downloads
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Desktop-3-1024x500.png)
 
 9. Downloads page
 
@@ -132,49 +146,57 @@ On the download page, you must find the correct version and download it (refer t
 
 It is especially important to download the correct file when downloading from a different device, as a website may display and promote the download version for the device you are using, as it believes we will be looking to use the app on our current device – as we are using a PC, the desktop version will be displayed. However, we want to download the APK that will run on our Android device.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Desktop-3-1-1024x500.jpg)
+
 10. Download APK
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Desktop-4-1024x506.jpg)
 
 11. Save to external storage
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Desktop-5-1024x561.jpg)
 
 12. Safely eject external storage
 
 From here we will put the SD Card back into the Android device and select the ‘explore’ option from the control panel (refer to *Image 13* below) to quickly access the SD Card data in the file manager. Alternatively, you can access the SD Card by opening the file manager (refer to *Image 14* below), then tap the navigation icon, represented by 3 horizontal lines and select the SD Card (refer to Images *15 & 16* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Desktop-6-1024x576.png)
+
 13. Select ‘explore’
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/File-Manager-1-1024x576.jpg)
 
 14. Open the File manager
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/File-Manager-2-1024x576.jpg)
 
 15. Tap navigation icon
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/File-Manager-3-1024x576.jpg)
 
 16. Select SD Card
 
 Whilst accessing the SD Cards data, simply navigate to where you saved the APKs from before – we saved them in our downloads folder so that’s where we’re going (refer to *Images 17 & 18* below). Tap and open the APK file to begin the app installation.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Desktop-7-1024x576.png)
+
 17. SD Card (all folders)
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Desktop-8-1024x576.png)
 
 18. SD Card (downloads folder)
 
 After opening the APK file, like before, you may be prompted to be careful about installing any applications you are unsure about. If you’ve downloaded from an official or trusted source, you have nothing to worry about – select ‘continue’ and then ‘install’ to begin installing the application on your device (refer to *Images 19 & 20* below). Once the app has been successfully installed, you can open the app or close the message, so you can install more applications by clicking on their respective APK files.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Desktop-9-1024x576.jpg)
+
 19. Unknown apps reminder
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Desktop-10-1024x576.jpg)
 
 20. PPSSPP installation
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/From-Desktop-11-1024x576.jpg)
 
 21. Successfully installed
 

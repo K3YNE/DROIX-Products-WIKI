@@ -16,24 +16,24 @@ tags: [kb-article, droix]
 
 <https://youtu.be/qcXykn7tTfE>
 
-Please follow the links below to get DROIX Share installed on Apple Devices:  
-[Iphone](https://itunes.apple.com/gb/app/droix-share/id1002235210?mt=8)  
-[Ipad](https://itunes.apple.com/gb/app/droix-share-hd/id1002251489?mt=8)
+Please follow the links below to get DROIX® Share installed on Apple Devices:  
+[Iphone](https://itunes.apple.com/gb/app/droidbox-share/id1002235210?mt=8)  
+[Ipad](https://itunes.apple.com/gb/app/droidbox-share-hd/id1002251489?mt=8)
 
 Please note that with some phones/tablets and recent DROIX devices, you will need to turn off auto-correct/word suggestion features for proper functionality.
 
 If you’re unsure how to achieve this, please contact us with your order ID and details of the device(s) used to control your DROIX device and we’ll check what can be done.
 
-This video will guide you how you can remote control you DROIX T8-S/T8-S Plus from Android Phone or Tablet using DROIX Share app
+This video will guide you how you can remote control you DROIX® T8-S/T8-S Plus from Android Phone or Tablet using DROIX Share app
 
-You can get **DROIX Share** app into your  Android device from Google Play using following link:
+You can get **DROIX® Share** app into your  Android device from Google Play using following link:
 
-<https://play.google.com/store/apps/details?id=com.eshare.droix&hl=en_GB>
+<https://play.google.com/store/apps/details?id=com.eshare.droidbox&hl=en_GB>
 
-DROIX Share for Apple devices:
+DROIX® Share for Apple devices:
 
-**iPhone** – <https://itunes.apple.com/gb/app/droix-share/id1002235210?mt=8>
+**iPhone** – <https://itunes.apple.com/gb/app/droidbox-share/id1002235210?mt=8>
 
-**iPad** – <https://itunes.apple.com/gb/app/droix-share-hd/id1002251489?mt=8>
+**iPad** – <https://itunes.apple.com/gb/app/droidbox-share-hd/id1002251489?mt=8>
 
 <https://youtu.be/qcXykn7tTfE>

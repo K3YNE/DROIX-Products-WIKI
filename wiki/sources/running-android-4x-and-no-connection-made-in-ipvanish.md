@@ -18,6 +18,10 @@ Open the Play Store application on your device and search for [TUN.ko Installer]
 
 Click on the correct search result and select install.
 
+![TUN.ko Installer Play Store Entry](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/TUN.ko_Installer_Play_Store_Entry.png)
+
 Accept the permissions request. Once installed, you can either open it immediately, or if you’re not in the Play Store next time, you’ll find the app listed as normal amongst the other applications. Have a look for the app drawer icon on your launcher’s homepage. Often a circle with six dots, or an “Apps” or “My Apps” labelled icon.
 
 With TUN.ko Installer opened, proceed with the installation. Once this is done, reboot and try your VPN application once again. If no module was found, you will not be able to proceed.
+
+![TUN.ko Installer Module Installed](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/TUN.ko_Installer_Module_Installed-e1493039419999.jpg)

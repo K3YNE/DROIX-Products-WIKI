@@ -18,6 +18,11 @@ This Getting Started guide is here to help you set up, use, and troubleshoot you
 
 ## Device Overview
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/Layer-2.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/Layer-3.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/Layer-4-1.jpg)
+
+
 ONEXGPU Overview
 
 ## Setting Up The ONEXPLAYER ONEXGPU eGPU
@@ -44,9 +49,13 @@ Once ready, power on the ONEXPLAYER ONEXGPU docking station, wait a couple of se
 
 If you have the latest AMD graphics drivers, your ONEXGPU may automatically set up and install the necessary drivers. You can verify this by checking in the Windows Device Manager. If you see “AMD Radeon RX 7600M XT” listed under “Display adapters,” then the drivers have been successfully installed.
 
+![AMD Radeon RX 7600M XT Not Found & Found example](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/AMD-Radeon-RX-7600M-XT-Found-1024x541.png)
+
 AMD Radeon RX 7600M XT Not Found & Found example
 
 When using only a USB 4 connection, you will get a notification that the *AMD XConnect Technology* has been enabled.
+
+![AMD XConnect Enabled notification for USB 4 connection](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/AMD-XConnect-Enabled-1024x583.jpg)
 
 AMD XConnect Enabled notification for USB 4 connection
 
@@ -64,9 +73,13 @@ There are a few possible reasons why games are running slower than expected. Her
 
 Check that the game is using the [*AMD Radeon RX 7600M XT eGPU*](https://droix.net/product-attribute/graphics-gpu-model/radeon-rx-7600m-xt/) rather than the internal graphics, for example, an AMD Radeon 780M. Check in the game’s *Video* or *Display* settings and see if there is an option to select which graphics card. It may be under different names such as GPU, Monitor etc.
 
+![Change GPU to use in the game](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Change-GPU-to-use-in-the-game-1024x576.jpg)
+
 Change GPU to use in the game
 
 Check that the game video settings are not too high. Many games have *Recommended* graphics settings which you can select and it will automatically set the graphics based on the hardware. If you are still having issues, try running at a lower screen resolution such as 1440P, 1080P or 720P. Alternatively, change to the default lower graphics settings and increase them until you feel the game is running slow, then revert to the previous settings.
+
+![Many games have a Recommended quality setting and various levels of quality](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Reset-to-recommended-graphics-quality-1024x640.jpg)
 
 Many games have a Recommended quality setting and various levels of quality
 

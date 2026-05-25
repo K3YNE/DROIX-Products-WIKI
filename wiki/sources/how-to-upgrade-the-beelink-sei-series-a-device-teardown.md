@@ -16,11 +16,15 @@ If you are looking to upgrade your Beelink SEi (be it the SEi 8, SEi 10, or othe
 
 ## Step 1 – Remove the rear plate
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220318_094208214-1024x768.jpg)
+
 To access the SEi, first you must remove the bottom of the unit.
 
 The bottom of the SEi is held in place by four cross-head screws, one in each corner of the device (circled in red). Once these screws are removed, you can easily lift the rear plate up.
 
 ## Step 2 – Replacing Components
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220318_094427288_HDR-1024x768.jpg)
 
 You will now be at the heart of the Beelink SEi. From here, you can upgrade and replace the components as you wish.
 

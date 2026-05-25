@@ -76,13 +76,19 @@ Ideally, you should format your USB drive before performing any kind of imaging.
 
 To format your USB drive, first open MiniTool Partition Wizard.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/04/partitionwizard_zyvoKDj14r.jpg)
+
 You’ll see a bunch of different buttons, tabs and numbers. But you’ll only have to interact with a handful of options.
 
 First, **right click** your disk in the visualization overview, and select “Delete All Partitions”.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/04/partitionwizard_quwnky5LoC.jpg)
+
 Your drive should now appear as a single, large “unallocated” partition. This means that there is space there, but nothing can currently use it (like a plot of land with no house!).
 
 To fix this, right click the unallocated partition, then click “Create”.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/04/Teams_PGxWARLsOh.jpg)
 
 A new, smaller window will open asking you to specify details about the new partition you’re creating.
 
@@ -90,7 +96,11 @@ Simply click **OK**, and the Window will then close.
 
 **OPTIONAL:** You can set the partition label to “WINPE”. Only do this if you are going to copy-and-paste the firmware files onto the USB drive, instead of using imaging software.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/04/partitionwizard_6VqUb63Sv4.jpg)
+
 You’re now just about ready to begin the formatting process. Double check that you are formatting the correct USB drive, then click “Apply” to actually carry out the partition deletion and creation operations.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/04/partitionwizard_kcWPhU1o5c.jpg)
 
 Your USB will now be ready for imaging!
 
@@ -99,6 +109,8 @@ Your USB will now be ready for imaging!
 Now that you’ve formatted your USB. The next step is to actually image it.
 
 Open up Rufus and you’ll see a bunch of different options.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/04/rufus-3.15_nQhtwjmB6k.jpg)
 
 **First**, ensure that the **Device** chosen matches your USB (check the drive letter, the name, etc.)
 
@@ -116,18 +128,28 @@ Now that you’ve got your USB prepared, it’s time to boot into it and actuall
 
 Insert the USB into any free USB port of the device. In the picture below, we’ll be using a Beelink U55 as an example.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/04/IMG_20220404_114524624-1024x768.jpg)
+
 Now, power on the device. While the device is powering on, press the ESC key repeatedly. If successful, you’ll boot into the BIOS relatively quickly. If you fail, the device will boot into Windows — power it off and try again if so.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/04/obs64_Nlf3utlNtP-1024x565.jpg)
+
 In the BIOS, you will only be able to use the keyboard to navigate. The BIOS may look slightly different depending on the specific model of device you are using, but it should still be very similar. **Press the left and right arrow keys to switch between different tabs until you hit the “Save & Exit” tab.**
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/04/obs64_6TFa7hJzu5-1024x566.jpg)
 
 If you successfully created your install USB, it should appear in the list of bootable devices. The name will vary depending on your hardware (i.e., some Kingston USBs may show up as “Kingston DataTraveller”). **Use the up and down arrow keys to highlight the option corresponding to your USB drive, and then press ENTER to select it.**
 
 Your device will now begin installing Windows automatically. **Some firmware requires simple yes/no input** during installation in order to proceed, but for the most part it should be hands-off. Do not disconnect the power or turn off the device during this process.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/04/obs64_gSm4iBXMQH-1024x575.jpg)
 
 Once you’re finished, you’ll have a brand new installation of Windows ready to go!
 
 ### A note about some Beelink models
 
 Some Beelink models may fail to install the first time you try to do so. This will most likely be the ones with the custom reinstall utility (instead of the command line appearing, a customized window with various buttons will appear).
+
+![RECentral_OhMo7Sr1vw.png](https://droix.zendesk.com/hc/article_attachments/360017764617/RECentral_OhMo7Sr1vw.png)
 
 To fix this, change the target installation drive in the top left (**Built-inDisk <GPT>**) to **eMMC** or **SSD** depending on what your device has, so that the reinstallation will be carried out on the internal storage. Then hit “Apply”.

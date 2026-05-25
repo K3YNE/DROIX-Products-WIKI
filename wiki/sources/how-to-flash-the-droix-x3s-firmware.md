@@ -32,17 +32,27 @@ Inside this are two key files. The image file itself, and a file called “passw
 
 Install the Amlogic USB Burning Tool (included in the firmware download). You’ll be met with the main window once finished.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/1-1-300x194.png)
+
 Click “File” in the top left, and then “Import image”, and navigate to the image file you downloaded earlier.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/2-1.png)
 
 Once selected, it may take a moment to load up. Once that’s done, click “View” and then “InPut Password”.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/3-1-300x102.png)
+
 Click the 3 dots, then locate the password.bin file you downloaded earlier, then click “OK” if the window does not automatically close.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/4-1-300x124.png)
 
 Now that’s done, click “start”, and connect the X3 to your PC via the male-to-male USB cable.
 
 If you’ve inserted it into the correct port on the X3, it should appear in the main window of the USB burning tool.
 
 (Note: This may fail once or twice – this is nothing to be alarmed about, simply disconnect and reconnect to restart the process)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/5-1-300x56.png)
 
 *(It should look similar to this!)*
 

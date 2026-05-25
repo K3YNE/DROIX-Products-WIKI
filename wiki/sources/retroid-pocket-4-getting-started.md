@@ -30,6 +30,8 @@ If something is missing or you are unsure, please get in touch with our [Custome
 
 The Retroid Pocket 4 and Pocket 4 Pro offer peak performance thanks to its MediaTek Processor – the [Dimensity 900](https://droix.net/product-attribute/processor-cpu-model/pocket-4-dimensity-900/) and the [Dimesnity 1100](https://droix.net/product-attribute/processor-cpu-model/pocket-4-dimensity-1100/) respectively. Depending on your device model you’ll either get the [Mali-G68 MC4](https://droix.net/product-attribute/graphics-gpu-model/pocket-4-mali-g68-mc4/) (Standard model) or [Mali-G77 MC9](https://droix.net/product-attribute/graphics-gpu-model/pocket-4-pro-mali-g77-mc9/) GPU (Pro model), for all-day high-performance gaming. Your Retroid Pocket 4 features many buttons and connectors, all of which are promptly labelled in the user manual and below. It’s a good idea to familiarise yourself with your device.
 
+![Retroid Pocket 4 Device Overview](https://droix.net/knowledge-base/wp-content/uploads/2024/01/11111111111111111111111111111111111.jpg)
+
 Retroid Pocket 4 Device Overview
 
 ## Setting Up Retroid Pocket 4 / 4 Pro
@@ -64,41 +66,45 @@ This completely transforms your Pocket 4 device from a gaming console into so mu
 
 You will be greeted by a welcome screen and prompted to select the following; a preferred language, a Wi-Fi connection, and a timezone (*Images 2–6* below respectively). Don’t worry, all of these can be changed later on at any time.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Setup-1-1.jpg)
+
 1. Welcome screen
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Setup-2-1-1024x576.jpg)
 
 2. Language settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Setup-3-1.jpg)
 
 3. Internet settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Setup-4-1.jpg)
 
 4. Selected Wi-Fi
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Setup-5-1.jpg)
 
 5. Timezone settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Setup-6-1.jpg)
 
 6. Selected timezone
 
 You’re almost there! When connected to the internet, you’ll see an option to enable Google Play services (see *Image 7* below). While this is optional, enabling it grants access to the Google Play Store for direct app downloads – we recommend turning it on. Next, you have a choice of installing preloaded applications and emulators (see *Image 8* below). Lastly, select your preferred user interface: the RP4 Pro Launcher or the standard Android AOSP Launcher and then you can jump straight into using your handheld (refer to *Image 9* below). We suggest trying the AOSP for a familiar Android experience.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Setup-7-1.jpg)
+
 7. Google Play services
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Setup-8-1.jpg)
 
 8. Preinstalled application
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Setup-9-1.jpg)
 
 9. Select launcher
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/Setup-10-1.jpg)
 
 10. Setup complete
 
@@ -115,9 +121,11 @@ The virtual mouse feature on your device is a convenient tool that transforms yo
 
 To activate this, navigate to the Handheld Settings menu and enable it within the Virtual Mouse tab (refer to *Images 1 & 2* below). You will need to set a shortcut, allowing you to quickly toggle the virtual mouse on or off, without repeatedly going through the settings menu.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/112233-1.jpg)
+
 1. Handheld Settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/122233.jpg)
 
 2. Enable Virtual Mouse
 
@@ -127,9 +135,11 @@ If you need to modify or reconfigure your device’s initial setup without resor
 
 To access the Setup Wizard, navigate to the Advanced tab in the Handheld Settings and choose Re-enter Setup Wizard. This will take you back to the [Android Welcome Screen](#setupandroid), allowing you to adjust your device’s setup just like you did when you first received it.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/112233-1-1.jpg)
+
 3. Handheld Settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/01/132233.jpg)
 
 4. Enter Setup Wizard
 
@@ -184,17 +194,25 @@ You can enhance your setup further with compatible docks and hubs like the DROIX
 
 [15.6″ 4K Portable Monitor](https://droix.net/product/15-6-4k-portable-monitor-with-touchscreen/) | [with Adobe RGB](https://droix.net/product/15-6-4k-portable-monitor-with-adobe-rgb/) | [with Stylus Support](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/): These portable monitors offer a stunning 4K resolution across their 15.6″ display. The monitor comes with touchscreen capabilities and even has an option for Adobe RGB or Stylus support. It is fantastic for artists, note-takers, handwriting enthusiasts and more. It’s the perfect addition as a main or additional monitor for your mini PC. Its slim and lightweight design makes it easy to carry around.
 
+![15.6″ 4K portable monitor with Adobe RGB](https://droix.net/knowledge-base/wp-content/uploads/2023/10/S23_B5-PORTABLE_MONITOR-IMAGE-LISTING-DONE-1.png)
+
 15.6″ 4K Portable Monitor (with Adobe RGB)
 
 [NH8 USB Hub with NVME](https://droix.net/product/droix-nh8-nvme-usb-hub/): The NH8 USB Type-C Hub with NVME is a versatile, portable device that extends your device’s connectivity. It includes a variety of ports, including HDMI, USB Type-A, USB Type-C, and SD card readers, providing comprehensive compatibility with a range of peripherals. But its highlight feature is the built-in NVME slot, allowing you to expand your storage with ease.
+
+![DROIX NH8 USB Hub with NVMe](https://droix.net/knowledge-base/wp-content/uploads/2023/11/NH8-1-3.webp)
 
 DROIX NH8 USB Hub with NVMe
 
 [NT8 Clear USB Hub](https://droix.net/product/droix-nt8-clear-usb-hub/): Expand your Pocket 4’s connectivity with the DROIX NT8 Clear USB Hub. This accessory is a game-changer, offering multiple USB ports to connect various peripherals simultaneously. Its transparent, sleek design not only complements your Pocket 4 but also enables effective heat management. Whether for gaming enhancements or productivity, the DROIX NT8 is an essential add-on for maximizing your Pocket 4’s potential.
 
+![DROIX NT8 Clear USB Hub](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DROIX_8IN1_CLEAR-LISTING-IMAGE-1.webp)
+
 DROIX NT8 Clear USB Hub
 
 [SD1 Docking Station](https://droix.net/product/droix-sd1-gaming-handheld-docking/): Elevate your Pocket 4 gaming experience with the DROIX SD1 Docking Station. This station is specifically designed to integrate seamlessly with your Pocket 4, enhancing your gaming setup with direct ethernet internet access, 4K display output, and efficient charging. The multiple ports allow for easy connection of gaming accessories, transforming your handheld device into a comprehensive gaming console. Robust and stylish, the DROIX SD1 is more than just a docking station; it’s an essential extension for any gamer.
+
+![DROIX SD1 Docking Station](https://droix.net/knowledge-base/wp-content/uploads/2023/10/DROIX-SD1-LISTING-IMAGE-DONE-1.png)
 
 DROIX SD1 Docking Station
 

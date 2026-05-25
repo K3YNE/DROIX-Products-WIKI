@@ -22,19 +22,27 @@ The phone we’ve used here is a Samsung Galaxy Note 9 – running Android 10. W
 
 First of all, swipe down to open the settings tray, and click the “gear” in the top right.
 
+![open the settings tray](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/ab1-498x1024.jpg)
+
 open the settings tray
 
 Open the Connections/Wi-Fi sub menu, like so.
 
+![Connections/Wi-Fi sub menu](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/ab2.jpg)
+
 Connections/Wi-Fi sub menu
 
 Look for the section that mentions “Mobile Hotspot and Tethering”
+
+![Mobile Hotspot and Tethering](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/ab3.jpg)
 
 Mobile Hotspot and Tethering
 
 Toggle it on. From this screen, you’ll also be able to change properties such as the password used to connect, and the “band” the connection runs on.
 
 To keep things simple, 2.4GHz is more stable at longer distances, albeit slower. 5GHz is faster, but has a shorter effective range.
+
+![Mobile hotspot on](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/ab4.jpg)
 
 Mobile hotspot on
 

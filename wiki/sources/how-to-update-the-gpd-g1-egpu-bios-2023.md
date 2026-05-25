@@ -32,21 +32,25 @@ If you have any other issues with your docking station, please check out our [GP
 
 The initial step in updating your GPD G1 eGPU involves preparing a USB for BIOS flashing. Before proceeding, be aware that formatting the USB drive will erase all its contents. Hence, it’s best to use a USB drive that’s either empty or contains no essential data. Once you’ve connected the USB to your PC, navigate to the File Explorer, right-click on the USB drive, and select the ‘format’ option (see *Images 1 & 2* below). It’s important to note that your USB name may vary based on its brand, model, or any previous renaming.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Reformatting-USB-1.jpg)
+
 1. Right click USB device
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Reformatting-USB-2.jpg)
 
 2. Select ‘format’
 
 Initiating the format process will cause a window to appear – change the ‘File system’ to; NTFS, FAT32 or FAT16 and press ‘Start’ to begin formatting (refer to *Image 3* below). You may be warned that any contents on the USB will be erased. Select okay (refer to *Image 4* below) and the USB will begin formatting. Once the USB is successfully formatted, a notification window will pop up, confirming the completion of the process (see *Image 5* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Reformatting-USB-3-150x150.jpg)
+
 3. USB formatting menu
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Reformatting-USB-4.jpg)
 
 4. Warning message
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Reformatting-USB-5.jpg)
 
 5. Formatting complete
 
@@ -66,13 +70,15 @@ The vBIOS firmware files are intended for the 2023 model of the GPD G1 eGPU only
 
 Make sure to save the Firmware and Driver files onto the USB device. After downloading you may need to unzip any folders, which can be done by right-clicking on the folder and selecting ‘extract all’ (please refer to *Image 1* below). A window will open asking you where to extract your folder, simply continue without any changes until the process is completed (refer to *Images 2 & 3* below). Once complete, eject your USB and insert it into your handheld device.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/7-1024x554.png)
+
 1. Extract folder
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/8-1024x554.png)
 
 2. Select ‘extract’
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/9-1024x554.png)
 
 3. Extraction complete
 
@@ -82,21 +88,23 @@ Navigate to your vBios folder and run `AMDVBFlash_v5.0.638-standalone-NBD-window
 
 After running this file, the setup window will open (refer to *Image 1* below). Continue until the installation begins (refer to *Images 1, 2 & 3* below). Once the installation has finished, follow the on-screen instructions. Before finishing, you can uncheck the “open installed folder” option as we will not need to change anything there (refer to *Image 5* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/BIOS-2-1024x564.jpg)
+
 1. AMDVBFlash setup window
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/BIOS-3-1024x564.jpg)
 
 2. Install location
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/BIOS-4-1024x564.jpg)
 
 3. Start menu shortcut
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/BIOS-5-1024x564.jpg)
 
 4. Installation complete
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/BIOS-6-1024x564.jpg)
 
 5. Close setup window
 
@@ -115,18 +123,20 @@ If you are looking to modify the wattage, right-click the `Auto Updater.bat` fil
 
 Please check that any changes are correct (refer to *Image 4* below.). Once you are happy, save the `.bat` file and continue.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/BIOS-7-1024x553.jpg)
+
 1. Right-click `Auto Updater.bat`
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/BIOS-8-1024x553.jpg)
 
 2. Select edit
 
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/BIOS-9-1024x554.jpg)
 
 3. Find line
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/BIOS-10-1024x554.jpg)
 
 4. Change GPD G1 Wattage
 
@@ -134,9 +144,13 @@ Please check that any changes are correct (refer to *Image 4* below.). Once you 
 
 Run the `Auto Updater.bat` (refer to *Image 1* below) to begin the vBIOS flashing. This will open the Command Prompt, and whilst the screen looks daunting, you don’t have to do much!
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/BIOS-11.jpg)
+
 1. Run `Auto Updater.bat`
 
 In the Command Prompt, you’ll be asked to accept the End-User License Agreement (EULA). Simply type ‘**y**‘ and press **Enter** to agree, as shown in green (see *Image 2* below). Following this, the G1 eGPU BIOS flashing process will automatically initiate if everything is correct. During this time, it’s crucial not to press any keys to avoid accidental disruptions. Once the flashing completes, the Command Prompt will display a message, also highlighted in green (refer to *Image 2* below), to confirm whether the flash was successful.
+
+![Successful GPD G1 vBIOS flash](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Auto-Updater-1024x602.jpg)
 
 2. Successful BIOS flash
 
@@ -148,9 +162,11 @@ After a successful flash, Close the Command Prompt and restart your G1 eGPU by s
 
 In the Device Manager, the G1 eGPU should appear as `AMD Radeon RX 7600M XT` listed under Display Adapters (refer to *Image 2* below). If the GPD G1 dock isn’t recognized, or if there’s a warning sign ⚠️ next to it, the AMD Graphics Drivers may need to be installed or updated. If you have already installed/updated them prior, we recommend you do it again after completing the BIOS flash.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Connected-Notification-1024x640.jpg)
+
 1. Windows System Notification
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Device-Manager-Success.jpg)
 
 2. Connected in Device Manager
 
@@ -163,6 +179,8 @@ We already have a guide covering how to correctly [install the latest AMD Graphi
 <https://droix.net/knowledge-base/article/update-amd-graphics-drivers/embed/#?secret=5EBt75fvPm#?secret=8JFqfPtejH>
 
 After the installation of the latest AMD drivers is complete, a device restart is necessary to activate them. Post-reboot, it’s crucial to verify in the Device Manager whether the G1 docking station is successfully connected and functioning as intended – remember the GPD G1 eGPU should be recognised as the [AMD Radeon RX 7600M XT](https://www.amd.com/en/products/graphics/amd-radeon-rx-7600m-xt) (as shown below).
+
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Device-Manager-Success-2.jpg)
 
 5. Connected in Device Manager
 

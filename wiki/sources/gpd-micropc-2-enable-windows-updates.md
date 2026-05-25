@@ -16,13 +16,19 @@ If you’re seeing a “Windows is unable to run Windows Updates” 0x8007005 er
 
 To begin, make sure that Windows Update is repeatedly showing the “Retry” prompt, and error 0x8007005.
 
+![GPD MicroPC 2 Windows Update Retry Prompt](https://gpdstore.net/wp-content/uploads/2025/08/GPD-MicroPC-2-Windows-Update-Retry-Prompt-1200x675.jpg)
+
 GPD MicroPC 2 Windows Update Retry Prompt
 
 Download [Windows Update Blocker v1.8 here](https://gofile.me/7AWvf/JfWcxpcbz), extract all the contents and run the Wub\_x64.exe file
 
+![Windows Update Blocker v18](https://gpdstore.net/wp-content/uploads/2025/08/Windows-Update-Blocker-v18.png)
+
 Windows Update Blocker v1.8
 
 Click on the **Enable Updates** radio button, and then click on **Apply Now** button. Aafter a few moments the Service Status graphic will update to show the service has been enabled.
+
+![Windows Update Blocker Enabled Updates](https://gpdstore.net/wp-content/uploads/2025/08/Windows-Update-Blocker-Enabled-Updates.png)
 
 Windows Update Blocker Enabled Updates
 

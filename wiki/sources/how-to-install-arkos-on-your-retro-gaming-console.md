@@ -18,6 +18,8 @@ This guide on how to install the excellent ArkOS covers a variety of [Retro Gami
 
 [ArkOS](https://github.com/christianhaitian/arkos/) is a custom firmware for Rockchip-based handhelds such as the RG353V, it stands for Another Rockchip Operating System. ArkOS is based on Ubuntu and supports over [90 game systems](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information) ranging from Atari 2600 up to more recent handhelds such as the PlayStation Portable. It also supports over 70 game ports via PortMaster. ArkOS uses EmulationStation as the frontend, and RetroArch for the majority of the emulation.
 
+![First boot to the main menu](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-First-boot-300x169.png)
+
 ArkOS Main Menu
 
 Installing ArkOS means you get the best out of your retro gaming console. There are regular updates to the firmware which are installed via WiFi so you do not need to reformat micro SD cards etc. The initial process of installing ArkOS can be daunting for newcomers, but our below guide will walk you through step by step.
@@ -36,19 +38,27 @@ We also provide links to additional guides for how to copy games and afterwards 
 
 Once you have downloaded the custom firmware image, extract it to a folder on your PC. You will have a file ending in **.img** such as  **ArkOS\_RG353V\_v2.0\_10022022.img**
 
+![How to install ArkOS - Extract img file](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Extract-img-file.png)
+
 Extracted .img file
 
 Insert the micro SD card into your PC and choose **No** for any prompts that may appear.
 
 Open **Win32DiskImager** and select your micro SD card drive Letter from the **Device** drop-down menu. Please double and triple-check check it is the correct drive, otherwise, you can overwrite your PC hard drive!
 
+![Win32DiskImager Device](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Win32DiskImager-Device.png)
+
 Win32DiskImager Device
 
 Now click on the **folder icon** navigate to the **.img** file you extracted and select it.
 
+![Win32DiskImager IMG selected](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Win32DiskImager-IMG-select.png)
+
 Win32DiskImager IMG selected
 
 Double-check again that you have the correct **Device** drive letter. Press the **Write** button and **Yes** to continue and start the image file writing process. The process will take several minutes and varies on the speed of your micro SD card and PC.
+
+![Writing the img file](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Writing-imagePNG.png)
 
 Writing the img file
 
@@ -60,17 +70,25 @@ You can now safely eject the micro SD card and insert it into your handheld.
 
 Switch on, and after a few moments, it will notify that the device will reboot once. Let it reboot.
 
+![First reboot](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-First-reboot-1024x576.png)
+
 First reboot
 
 ArkOS will now proceed to set up the filesystem. Do not switch off or press any buttons during this time.
+
+![Setting up](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Setting-up-1024x576.png)
 
 Setting up
 
 After a few moments, it will then proceed to install the necessary files for the OS. This process will take 3 to 5 minutes, let it do its thing and do not switch off or press any buttons.
 
+![Installing OS](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Installing-OS-1024x576.png)
+
 Installing OS
 
 Once the installation process has finished you will be notified that the device will reboot again. Let it reboot.
+
+![Second reboot](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Second-reboot-1024x576.png)
 
 Second reboot
 
@@ -78,17 +96,25 @@ Second reboot
 
 The ArkOS will now boot up for the first time.
 
+![Boot logo](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Boot-logo-1024x576.png)
+
 Boot logo
 
 After a few moments, you will be presented with the ArkOS main menu
+
+![First boot to the main menu](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-First-boot-1024x576.png)
 
 First boot to the main menu
 
 Now we need to install some games. To do this we first need to safely shutdown the handheld. Press the **START** button on your device to bring up the **Settings** menu.
 
+![ArkOS Settings menu](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Settings-menu-1024x576.png)
+
 ArkOS Settings menu
 
 Choose **Quit** and then **Shutdown System**, the device will now safely shutdown.
+
+![Safely Shutdown the device](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Quit-1024x576.png)
 
 Safely Shutdown the device
 
@@ -98,9 +124,13 @@ Safely Shutdown the device
 
 Once the device has shutdown you can now remove the micro SD card and plug it back into your PC. If you are prompted to Format any drives, choose **No**. You will see a few new drives are visible on your PC. Do not click on the drives other than **EASYROMS** as you will not be able to access them.
 
+![ArkOS Drives](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Drives.png)
+
 ArkOS Drives
 
 Choose the **EASYROMS** drive and you will see a list of folders.
+
+![EasyROMS folder](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-EasyROMS-folder-300x152.png)
 
 EasyROMS folder
 
@@ -114,13 +144,19 @@ Once you have added your games you can Eject the micro SD card and insert it bac
 
 ArkOS will now boot up again.
 
+![ArkOS Boot logo](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Boot-logo-1-1024x576.png)
+
 ArkOS Boot logo
 
 The first boot will take longer than usual as it will scan your micro SD card for the newly added games. This process may take a while if you add many. Once the process is completed it will display the main menu and show new consoles or computers that the scan found.
 
+![New consoles added](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Second-boot-1024x576.png)
+
 New consoles added
 
 Browse to a console or computer and select it to display the list of games it found while scanning. Choose a game and it will load.
+
+![Games list](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/10/How-to-install-ArkOS-Games-list-1024x576.png)
 
 Games list
 

@@ -20,6 +20,8 @@ Your micro SD card used for game storage on the handheld can be removed and read
 
 Open File Explorer and you should see your micro SD card with a number of folders with familiar console names. There may be some differences in names or missing ones depending on what your handheld supports.
 
+![Micro SD Card folders](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/09/Game-Scraping-Micro-SD-Card-300x152.jpg)
+
 Micro SD Card folders
 
 You can now copy your game ROMs from your PC to the micro SD cards respective folder. For example Genesis / Mega Drive games goes into the “megadrive” folder. PC Engine games go into the “pcengine” folder and so on.
@@ -30,9 +32,13 @@ Depending on how many games you have added, you may notice that it is taking a l
 
 If you browse through the systems you will notice that new game system menus are now shown if there were previously no games for it.
 
+![New Game System](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/09/Game-Scraping-New-Game-System-300x169.jpg)
+
 New Game System
 
 When you choose that system, it will show the newly added games, but no box art or game information.
+
+![No game box art or description](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/09/Game-Scraping-No-game-boxart-or-description-300x169.jpg)
 
 No game box art or description
 
@@ -44,19 +50,27 @@ We now need to scrape the game data.
 
 First, check that you are connected to the internet. From the **Settings** menu, choose **Network Settings** and confirm the internet status is showing as **Connected**. If it is not, **enable the WiFi** and choose your **WiFi SSID** (access point) and enter your password.
 
+![Check connected to the internet](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/09/Game-Scraping-Check-connected-to-internet-300x169.jpg)
+
 Check you are connected to the internet
 
 ### Scraping Setup
 
 Return to the main **Settings** menu, and choose **Scrape**
 
+![Choose Scrape](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/09/Game-Scraping-Scrape-300x169.jpg)
+
 Choose Scrape
 
 There are two sources to scrape from which you can change between by pressing Left or Right on the **Scrape From** menu entry; ScreenScraper and TheGamesDB. ScreenScraper has more options for what content you want to download, and TheGamesDB is more simplified. Either one can be used, but be aware that both are free to use, they can be busy at some times or not working at all.
 
+![Screenscraper](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/09/Game-Scraping-Screenscraper-300x169.jpg)
+
 Screenscraper
 
 For the moment, leave the scraping settings as they are and scroll down to **Scrape Now** and choose that. A new menu will show with some settings for what to scrape. We recommend leaving it on these default settings.
+
+![Scrape Now Menu](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/09/Game-Scraping-Scrape-Now-300x169.jpg)
 
 Scrape Now Menu
 
@@ -64,9 +78,13 @@ Scrape Now Menu
 
 Choose **START** to return back and **Scrape Now** again to start scraping. A popup will show onscreen to show the progress of the game scraping.
 
+![Scraping in progress](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/09/Game-Scraping-Scraping-in-progress-300x169.jpg)
+
 Scraping in progress
 
 This can take some time depending on how busy the service is and how many games are being scraped. Leave the handheld on charge and check back every so often. Once the scraping has completed you will be notified.
+
+![Scraping Finished](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/09/Game-Scraping-Scraping-Finished-300x169.jpg)
 
 Scraping Finished
 
@@ -74,17 +92,25 @@ Scraping Finished
 
 Now you need to update the game database to include the scraped data. From the **Settings** menu, choose **Games Settings**
 
+![Games Settings](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/09/Game-Scraping-Games-Settings-300x169.jpg)
+
 Games Settings
 
 Then choose **Update Games Lists** from the menu
+
+![Update Games Lists](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/09/Game-Scraping-Update-Games-Lists-300x169.jpg)
 
 Update Games Lists
 
 The game database will now be updated with the newly scraped data including box art and description. Again, this may take some time depending on how many games need to be updated.
 
+![Updating Games Lists](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/09/Game-Scraping-Updating-Games-Lists-300x169.jpg)
+
 Updating Games Lists
 
 When this has completed you can now browse a game system and the box art and description will now be shown.
+
+![Box art and Description now showing](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/09/Game-Scraping-Boxart-and-Description-300x169.jpg)
 
 Box art and Description now showing!
 

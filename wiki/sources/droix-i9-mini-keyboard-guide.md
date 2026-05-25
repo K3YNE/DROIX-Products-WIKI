@@ -12,7 +12,7 @@ updated: 2026-04-22
 tags: [kb-article, droix]
 ---
 
-The DROIX i9 Mini Keyboard is perfect for people without acres of space, who still want to maintain complete control over their device!
+The DROIX® i9 Mini Keyboard is perfect for people without acres of space, who still want to maintain complete control over their device!
 
 #### Starting
 
@@ -22,7 +22,8 @@ Turn the i9 mini keyboard on with the power switch (left hand side of the contro
 
 If you have a long list to read on your TV, you can hold down the FN key (bottom left) and then use the touchpad to directly scroll around (the application on screen at the time will need to support this function).
 
-Please note that the i9 mini keyboard will save battery power by sleeping if not used. To wake it up again, simple press any button.
+Please note that the i9 mini keyboard will save battery power by sleeping if not used. To wake it up again, simple press any button.  
+![DROIX® i9 Mini Keyboard Premium Remote Control](https://droix.net/wp-content/uploads/2016/10/s-l16001-300x300.jpg)
 
 #### Other Key Combos
 

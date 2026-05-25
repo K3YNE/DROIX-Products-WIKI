@@ -26,6 +26,8 @@ For the various pairing modes for each remote, please see below:
 
 # 9118 Pairing Modes
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/1_c4bb9c8a-2417-409b-a827-450031f4571b_700x-300x211.png)
+
 ## Android
 
 ### Direct Play
@@ -47,6 +49,8 @@ Press and hold down the Y and HOME buttons until the top-right LED starts flashi
 Press and hold down the X and HOME buttons until the bottom-left LED starts flashing.
 
 # 9156 Pairing Modes
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/1-S_810a6c6f-6da6-4eff-ac1f-87802057a740_700x-300x198.png)
 
 ## Android
 
@@ -70,6 +74,8 @@ Press and hold down the iOS and HOME buttons until the second LED from the left 
 
 # 9087 Pairing Modes
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/1_0e742bd5-e2b3-4d0d-8900-7d167e773787_700x-300x111.png)
+
 ## Android
 
 ### Direct Play
@@ -85,6 +91,8 @@ Press and hold down the X and HOME buttons until the second LED starts flashing.
 Press and hold down the Y and HOME buttons until the third LED starts flashing.
 
 # 9120 Pairing Modes
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/1_76035646-e778-40d2-a863-c8039801ab7e_700x-300x173.png)
 
 ## Android
 

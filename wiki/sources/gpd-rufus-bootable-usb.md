@@ -17,33 +17,45 @@ To start, you will need to download and set up the most recent version of Rufus 
 
 Launch Rufus, and a user interface resembling the one in the image below will be displayed.
 
+![Rufus bootable USB software](https://gpdstore.net/wp-content/uploads/2025/10/Rufus-bootable-USB-software-450x600.jpg)
+
 Rufus bootable USB software
 
 Initially, you must click on the **Device** dropdown menu and choose your USB drive from the available options. This is the drive the .ISO file will be written to. It is critically important to double-check and even triple-check that you have selected the correct drive, as choosing the wrong one could erase your main Windows installation on the computer you are currently using.
+
+![Choose your drive](https://gpdstore.net/wp-content/uploads/2025/10/Choose-your-drive-450x600.jpg)
 
 Choose your drive
 
 After that, press the **SELECT** button, browse to the location of your .ISO image, and select it.
 
+![Choose your ISO file](https://gpdstore.net/wp-content/uploads/2025/10/Choose-your-ISO-file-450x600.jpg)
+
 Choose your ISO file
 
 You can then click the **START** button to commence the .ISO image writing operation.
+
+![Click START to begin writing the ISO](https://gpdstore.net/wp-content/uploads/2025/10/Click-START-to-begin-writing-the-ISO-450x600.jpg)
 
 Click START to begin writing the ISO
 
 A final pop-up will appear, warning you to confirm that you have selected the correct destination drive for the .ISO file. Choose **OK** to continue or **Cancel** to return to the setup screen.
 
+![Rufus Warning before proceeding](https://gpdstore.net/wp-content/uploads/2025/10/Rufus-Warning-before-proceeding.png)
+
 Rufus Warning before proceeding
 
 The writing procedure will then start. The duration of this process will depend on the size of your .ISO file and the speed of your USB drive, potentially taking several minutes or more. Wait for it to complete, at which point the green progress bar will indicate it is **READY**.
 
+![USB writing started](https://gpdstore.net/wp-content/uploads/2025/10/USB-writing-started.jpg)
+
 USB writing started
 
-
+![Copying the ISO to the USB](https://gpdstore.net/wp-content/uploads/2025/10/Copying-the-ISO-to-the-USB.jpg)
 
 Copying the ISO to the USB
 
-
+![ISO copy completed](https://gpdstore.net/wp-content/uploads/2025/10/ISO-copy-completed.jpg)
 
 ISO copy completed
 

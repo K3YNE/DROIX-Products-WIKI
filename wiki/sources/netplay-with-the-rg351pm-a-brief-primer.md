@@ -22,6 +22,8 @@ RetroArch enables multiplayer through the process of synchronizing the state of 
 
 Typically online multiplayer works something like this:
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/multiSystem-300x71.png)
+
 Everyone has their own console, their own game, and can easily join each-other through built in matchmaking or online party systems.
 
 RetroArch however instead does the following (approximately):
@@ -30,6 +32,8 @@ RetroArch however instead does the following (approximately):
 * Connected players each act as a different controller input.
 
 So in execution it acts as if someone plugged a controller with a REALLY long cable into the Player 2/3/4 port of whatever console you’re emulating, so something like this:
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/sameSystem-300x71.png)
 
 (There are also built in measures to combat lag in the form of “rollback”, but that’s beyond the scope of this guide.)
 
@@ -48,6 +52,8 @@ On the main screen of EmulationStation, press the **start button**. The main men
 
 Navigate to Network Settings, select it, then choose the “WIFI SSID” option. You’ll see a list of all visible nearby internet connections.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/networkSettings-300x207.jpg)
+
 Once you’ve located and selected the one you wish to connect to, select the “WIFI KEY” option, then input the password for the Wi-Fi connection (if applicable).
 
 Once finished, select the “BACK” button. The system will freeze for a minute, indicating it is currently attempting to connect.
@@ -58,11 +64,14 @@ If successful, when you open the Network Settings menu again, the “STATUS” s
 
 Enter the RetroPie Quick Menu (press the **left stick** and **right stick**) and press the **B button** to go up a level. Then press right on the **directional pad** or **analogue stick** until you see an icon that looks like a headset. This is the “**Netplay**” section.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/QuickMenu-300x197.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/NetplayMenu-300x200.jpg)
 
 Select the “**Host**” option. Then scroll down and tick the “**Publicly Announce Netplay**” option. Scroll back up and select the “**Start Netplay Host**” option.
 
 If successful, you should see a message pop up indicating as such (alongside your public-facing IP address).
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/successfulConnect-300x225.jpg)
 
 You are now hosting your room. Once someone joins, they’ll be able to manipulate whatever Player 2(or 3, or 4) can in the respective game.
 

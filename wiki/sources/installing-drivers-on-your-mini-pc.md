@@ -50,13 +50,23 @@ There are three main ways you can install drivers.
 
 **Step 2**: Open Windows Device Manager.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/msedge_oCTWVrYpgH.jpg)
+
 **Step 3:** Find the device you’re looking to install the drivers for. Right click it, and select “Update driver”.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/mmc_0DXAHbdEGg.jpg)
+
 **Step 4:** Select “Browse my computer for drivers”. You will then be given the option to navigate to the folder containing your drivers.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/mmc_20nKhdFtCi.jpg)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/mmc_9Wdl6oJ7Zr.jpg)
 
 (You can either browse an entire folder for all applicable drivers, or pick from a list of drivers already confirmed to be available on your computer.)
 
 If the drivers are eligible for install, Windows will then automatically install them. Or it may inform you that you already have the best drivers already installed. In which case, you won’t need to do anything further.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/mmc_4eIumHcckR.jpg)
 
 ### Running a Driver Installer
 
@@ -65,6 +75,8 @@ Many driver downloads — particularly those from manufacturers — will come wi
 Installing through these is delightfully simple. Just **run the batch file or executable, and the installation will proceed automatically**. If you’re required to do anything, the batch file or executable file will do so.
 
 **Example**: The ONEXPLAYER AMD drivers can all be installed at once using a handy **Setup.exe** program. This allows you to install a completely fresh version of Windows without losing the functionality of various peripherals such as the Fingerprint sensor.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/explorer_6nbfg3nxI1.jpg)
 
 ### Downloading a Driver Manager
 
@@ -78,3 +90,5 @@ While not an exhaustive list, some examples would be:
   + Checks for updated AMD CPU/GPU drivers. Also provides a number of other useful utilities such as system performance monitoring.
 * [NVIDIA GeForce Experience](https://www.nvidia.com/en-gb/geforce/geforce-experience/)
   + Like AMD Software, but for NVIDIA GPUs
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/msedge_n9tU2XPi0o-1024x344.jpg)

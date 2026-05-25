@@ -27,6 +27,8 @@ Ways to identify your CPU on your device:
   Select **About your PC** from the results.  
   Look under “**Device specifications**” for the Processor entry, which lists your CPU model (e.g., Intel Core i7-10750H).
 
+![Task Manager CPU](https://gpdstore.net/wp-content/uploads/2025/08/Task-Manager-CPU-1200x675.jpg)
+
 Task Manager CPU
 
 
@@ -41,25 +43,37 @@ After copying the contents to the USB flash drive, power off your [GPD Duo](http
 
 Next, turn on the [GPD Duo](https://gpdstore.net/laptops/gpd-duo/) and hold the **F7** key until the boot menu appears. In our example image, the USB flash drive appears as the second option in the menu. However, your flash drive’s name and position in the list may vary. Select your USB flash drive to continue with the update.
 
+![GPD Duo Boot Menu](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-Boot-Menu-1200x675.jpg)
+
 GPD Duo Boot Menu
 
 The BIOS update process will now begin. During the first stage, you will see progress text displayed on the screen.
+
+![GPD Duo BIOS Update first part](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-BIOS-Update-first-part-1200x675.jpg)
 
 GPD Duo BIOS Update first part
 
 Once this stage is complete, you will be prompted to press **Y** to continue.
 
+![GPD Duo BIOS Update first part prompt](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-BIOS-Update-first-part-prompt-1200x675.jpg)
+
 GPD Duo BIOS Update first part prompt
 
 After a brief pause, the second stage of the update will start. At this point, the screen may appear inactive for a short time—**do not turn off the GPD Duo.**
+
+![GPD Duo BIOS Update second part](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-BIOS-Update-second-part-1200x675.jpg)
 
 GPD Duo BIOS Update second part
 
 Shortly after, the update process will resume, and you will see progress indicators on the screen. This stage will take a few minutes to complete. **DO NOT power off the GPD Duo during this process.**
 
+![GPD Duo BIOS Update second part progress](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-BIOS-Update-second-part-progress-1200x675.jpg)
+
 GPD Duo BIOS Update second part progress
 
 Once the update is finished, the [GPD Duo](https://gpdstore.net/laptops/gpd-duo/) will automatically shut down. You can now turn it back on and enter the BIOS by pressing the **ESC** key during startup. On the BIOS screen, you can verify the update by checking the **BIOS Information Project Version.** In our example, the update has been successfully applied to version **2.16.**
+
+![GPD Duo BIOS Update complete](https://gpdstore.net/wp-content/uploads/2025/03/GPD-Duo-BIOS-Update-complete-1200x675.jpg)
 
 GPD Duo BIOS Update complete
 

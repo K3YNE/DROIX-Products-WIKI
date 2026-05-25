@@ -23,11 +23,15 @@ GPD WIN MAX 2 (2022, 2023, 2024 compatible) drivers – [Download here](https://
 
 Download and extract the **band11.rar** file on your GPD WIN MAX 2. You will see a **band11** folder and another containing some files.
 
+![ Touchpad firmware files](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/11/GPD-WIN-MAX-2-Touchpad-firmware-update-1-1024x331.png)
+
 Touchpad firmware files
 
 ## Running the firmware updater
 
 Double click on the **Pixart IAP Tool.exe** file and wait a few seconds for it to load.
+
+![GPD WIN MAX 2 Touchpad firmware update 2 software](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/11/GPD-WIN-MAX-2-Touchpad-firmware-update-2.png)
 
 GPD WIN MAX 2 Touchpad firmware update 2 software
 
@@ -35,9 +39,13 @@ We recommend connecting a charger before proceeding with the update. While the p
 
 Click on the **Update** button and the software will start to flash and update the touchpad.
 
+![Touchpad firmware updating](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/11/GPD-WIN-MAX-2-Touchpad-firmware-update-3.png)
+
 Touchpad firmware updating
 
 It will go through two procedures during the flashing and updating.
+
+![Touchpad firmware updating](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/11/GPD-WIN-MAX-2-Touchpad-firmware-update-4.png)
 
 Touchpad firmware updating
 

@@ -16,11 +16,15 @@ If you are looking to upgrade your Beelink GT-R, we at DROIX have put together a
 
 ## Step 1 – Remove the rear plate
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220317_142338810_HDR-1024x768.jpg)
+
 To access the GT-R, first you must remove the bottom of the unit.
 
 The bottom of the GT-R 4 is held in place by four cross-head screws, one in each corner of the device (circled in red). Once these screws are removed, you can easily lift the rear plate by pulling on the rubber tab (circledin yellow) that sticks up.
 
 ## Step 2 – Remove the Heatsink/Mounting Bracket
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220317_143047384-1024x768.jpg)
 
 Inside the GT-R is a large metal plate that serves as both the mounting bracket for a 2.5-inch drive, and a heatsink for the SSD and RAM.
 
@@ -31,6 +35,8 @@ Once the screws are removed, you will be able to lift out the plate.
 *Note: The metal plate has two thermal cooling pads located where the SSDs are. Overtime, these can “stick” to the SSD, so you may need to use some light force to lift the plate. This is normal.*
 
 ## Step 3 – Replacing Components
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220317_143332017_HDR-1024x768.jpg)
 
 You will now be at the heart of the Beelink GT-R. From here, you can upgrade and replace the components as you wish.
 

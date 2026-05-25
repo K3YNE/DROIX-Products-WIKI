@@ -33,7 +33,9 @@ If something is missing, or damaged or if you are unsure about anything, please 
 
 The AYN Super Dock comes with several ports and connections that allow it to be at the centre of your handheld gaming rig – some of which are promptly shown below. It’s a good idea to familiarise yourself with your device, as the [USB 2.0](https://en.wikipedia.org/wiki/USB#2.0) and [USB 3.0](https://en.wikipedia.org/wiki/USB_3.0) ports are distinctively separated, and the dock can even take an [M.2 NVMe/SATA](https://en.wikipedia.org/wiki/M.2) SSD which is hidden underneath the dock cover.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/AYN-ODIN-2-SUPER-DOCK-DONE-01.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/AYN-ODIN-2-SUPER-DOCK-DONE-03.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/AYN-ODIN-2-SUPER-DOCK-DONE-04.jpg)
 
 ## Setting Up the AYN Odin 2 Super Dock
 
@@ -61,21 +63,23 @@ At this point in the setup, you can power on your device and dive into any game 
 
 The AYN Odin 2 Super Dock supports one M.2 SSD (2280 slot), compatible with NVME and SATA SSDs. To install an SSD, open the dock enclosure, as shown in purple (see *Image 1* below), and make sure to remove the rubber nub. Next, install your M.2 SSD (see *Image 2* below) – you may need to insert the SSD at an angle but you shouldn’t need to exert any force. After installing the M.2, secure the SSD, using the rubber nub (see *Image 3* below). Once the NVME/SATA SSD is secured, you can close the enclosure using the magnetic dock (see *Images 4 & 5* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/1-1024x576.png)
+
 1. Open Dock enclosure
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/2-1024x576.png)
 
 2. Install M.2 SSD
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/3-1024x576.png)
 
 3. Secure M.2 SSD
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/4-1024x576.png)
 
 4. Check M.2 is secured
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/02/5-1-1024x576.png)
 
 5. Close Dock enclosure
 
@@ -129,6 +133,8 @@ So what devices does the AYN Odin 2 Super Dock support…? Well it’s in the na
 ## Accessories & Add-ons
 
 [15.6″ 4K Portable Monitor](https://droix.net/product/15-6-4k-portable-monitor-with-touchscreen/) | [with Adobe RGB](https://droix.net/product/15-6-4k-portable-monitor-with-adobe-rgb/) | [with Stylus Support](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/): These portable monitors offer a stunning 4K resolution across their 15.6″ display. The monitor has touchscreen capabilities and even has an option for Adobe RGB or Stylus support. It is fantastic for gamers, artists, office work and more. It serves as the ideal high-quality, portable external display, enhancing the ODIN 2 Super Dock with its slim and lightweight design. This makes it not only easy to carry around but also a stylish complement to your dock setup – perfect for achieving a modern and sleek aesthetic.
+
+![15.6″ 4K portable monitor with Adobe RGB](https://droix.net/knowledge-base/wp-content/uploads/2023/10/S23_B5-PORTABLE_MONITOR-IMAGE-LISTING-DONE-1.png)
 
 15.6″ 4K portable monitor with Adobe RGB
 

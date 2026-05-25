@@ -35,6 +35,8 @@ Extract the contents of all four zip files to their respective folders.
 
 Locate the folder “**SPD\_Driver\_R4.20.4201**” and navigate to the folder which correlates with your [Windows](https://www.microsoft.com/en-gb/windows/windows-11) system (Windows 7, 8 or 10). Unfortunately, there is not a folder for Windows 11 however Windows 10 will work. After you navigate to the correct folder find the “**DriverSetup.exe**” and run it. You will be met by an installer, just press next and then finish. Now we have the required drivers for the SPD software to communicate with our Retroid Pocket 2 Plus.
 
+![Driver Installation Package](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/How-to-Reflash-Retroid-Pocket-2-Plus-1-1024x780.jpg)
+
 Driver Installation Package
 
 ## **Installing the Pocket 2 Plus Firmware**
@@ -45,9 +47,13 @@ Locate the folder “**SPD Factory Tool**” and run the program “**FactoryDow
 
 If you receive the BMAFrame9.dll error message as shown below then please locate the folder “**Fix BMAFrame9.dll**”.
 
+![ BMAFrame9.dll error](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/How-to-Reflash-Retroid-Pocket-2-Plus-2-1024x354.jpg)
+
 BMAFrame9.dll error
 
 After you have located the folder, you will see 4 programs.
+
+![Install all four programs](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/How-to-Reflash-Retroid-Pocket-2-Plus-3-1024x333.jpg)
 
 Install all four programs
 
@@ -57,15 +63,21 @@ Please run each installer once and let them fully install. After the 4 have been
 
  Now that you have the program opened, press the “**Load Packet**” button with the single gear icon, go to the folder we have downloaded including everything and open the “**U2.5\_20211221\_user.pac**” file. Once the .pac file has been opened you will see a blue progress bar in the bottom middle, allow it to fully load before attempting to progress.
 
+![You will see a blue progress bar](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/How-to-Reflash-Retroid-Pocket-2-Plus-4-1024x113.jpg)
+
 You will see a blue progress bar
 
 In the meantime, make sure that your Retroid Pocket 2 Plus is fully turned off and you have your USB C – A cable connected to your PC, but not your Retroid Pocket 2 Plus yet. Once the .pac file is fully loaded you will see some text on the right of all the buttons in the top left. Now press the “**Ready**” button with the play icon, once you have done this now hold the volume down key and connect your Retroid Pocket 2 Plus to your PC using the USB C to A cable.
 
 You should see the download start and go through the different steps, once started you can let go of the volume key and put the device down and wait.
 
+![The updating process will start](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/How-to-Reflash-Retroid-Pocket-2-Plus-5-1024x146.jpg)
+
 The updating process will start
 
 After it has completed which can take around 5 minutes, you will see some green text informing you that it has “**Passed**”.
+
+![Flashing Passed](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/How-to-Reflash-Retroid-Pocket-2-Plus-6-1024x136.jpg)
 
 Flashing Passed
 
@@ -74,5 +86,7 @@ Now press the “**Stop Downloading**” button with the stop icon. Feel free to
 ## **Conclusion**
 
 After you turn the device on and go through the boot animation, you will be met with the Android setup. Some red text informing you to calibrate your joysticks might be displayed in the top left. If it is not, then after you move the joystick, it will pop up. Click the red text and follow the calibration steps.
+
+![Retroid Pocket 2+ Updated](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/How-to-Reflash-Retroid-Pocket-2-Plus-7.jpg)
 
 Retroid Pocket 2+ Updated

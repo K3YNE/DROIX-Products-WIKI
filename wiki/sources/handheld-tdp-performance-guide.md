@@ -30,9 +30,13 @@ All GPD models such as the [GPD WIN 4 2025](https://droix.net/product/gpd-win-4-
 
 There are several predefined TDP settings (1) you can simply click on and the TDP Limit (2) will update to show the current TDP setting.
 
+![Motion Assist TDP Change](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Motion-Assist-TDP-Change-1024x606.jpg)
+
 Motion Assist TDP Change
 
 You also have three custom TDP settings that you can use if you want a different TDP than the default ones.
+
+![Motion Assist Custom TDP Change](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Motion-Assist-Custom-TDP-Change-1024x606.jpg)
 
 Motion Assist Custom TDP Change
 
@@ -41,6 +45,8 @@ Motion Assist Custom TDP Change
 The CPU Boost toggle can be useful for providing some extra power to the CPU rather than the GPU. This can help for CPU hungry software where the GPU is not highly demanded. This can help boost performance in some games and may slow performance in others, its trial and error depending on the game and settings.
 
 Click on Disable CPU Boost (1) and it will show the current status on CPU Boost (2) as shown in the image.
+
+![Motion Assist CPU Boost Change](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Motion-Assist-CPU-Boost-Change-1024x606.jpg)
 
 Motion Assist CPU Boost Change
 
@@ -52,9 +58,13 @@ All AYANEO Windows devices such as the [AYANEO 3](https://droix.net/product/ayan
 
 You can acess the AYA Space overlay at any time via the associated button on your device. You have some pre-defined Performance settings that you can choose from.
 
+![AYANEO Windows AYA SPACE Overlay Profiles](https://droix.net/knowledge-base/wp-content/uploads/2025/05/AYANEO-Windows-AYA-SPACE-Overlay-Profiles-1024x576.jpg)
+
 AYANEO Windows AYA SPACE Overlay Profiles
 
 If you want to change the TDP Limit you can use the slider to go as low as 5W TDP up to the safe limit for your device (35W on this device).
+
+![AYANEO Windows AYA SPACE TDP Limit](https://droix.net/knowledge-base/wp-content/uploads/2025/05/AYANEO-Windows-AYA-SPACE-TDP-Limit-1024x576.jpg)
 
 AYANEO Windows AYA SPACE TDP Limit
 
@@ -64,9 +74,13 @@ The CPU Boost, known as **CPU Turbo** on AYANEO software, can be useful for prov
 
 On the overlay, click on the small **Edit** icon in the top right area.
 
+![AYANEO Windows AYA SPACE Edit Profiles](https://droix.net/knowledge-base/wp-content/uploads/2025/05/AYANEO-Windows-AYA-SPACE-Edit-Profiles-1024x576.jpg)
+
 AYANEO Windows AYA SPACE Edit Profiles
 
 You can create a **New Preset** or edit an existing profile, then enable or disable the **CPU Turbo** setting here.
+
+![AYANEO Windows AYA SPACE CPU Boost toggle](https://droix.net/knowledge-base/wp-content/uploads/2025/05/AYANEO-Windows-AYA-SPACE-CPU-Boost-toggle-1024x576.jpg)
 
 AYANEO Windows AYA SPACE CPU Boost toggle
 
@@ -78,13 +92,19 @@ All AYANEO Android devices such as the [AYANEO Pocket Ace](https://droix.net/pro
 
 You can acess the AYA Space overlay at any time via the associated button on your device. You have some pre-defined Performance settings that you can choose from. Slide your finger to the left to reveal more settings including a Max setting.
 
+![Android AYA Space Overlay](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Android-AYA-Space-Overlay-1024x576.jpg)
+
 Android AYA Space Overlay
 
 You can edit the Performance Mode profiles by selecting the small **Edit** icon.
 
+![Android AYA Space Overlay Edit Profile](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Android-AYA-Space-Overlay-Edit-Profile-1024x576.jpg)
+
 Android AYA Space Overlay Edit Profile
 
 The predefined modes are already comprehensive so you dont really need to change anything here. But you can alter the Scheduling mode, CPU Limit and Frequency. Please do remember to adjust fan speeds if you are making changes.
+
+![Android AYA Space Overlay Profile Edit](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Android-AYA-Space-Overlay-Profile-Edit-1024x576.jpg)
 
 Android AYA Space Overlay Profile Edit
 
@@ -94,13 +114,17 @@ AYN do have overlay software which comes with all their devices such as the [AYN
 
 Drag your finger from the top of the screen downwards to bring up the drop-down menu. Repeat the process to show the full menu.
 
+![AYN Performance Modes Drop-down Menu](https://droix.net/knowledge-base/wp-content/uploads/2025/05/AYN-Performance-Modes-Drop-down-Menu-1024x576.jpg)
+
 AYN Performance Modes Drop-down Menu
 
-
+![AYN Performance Modes Drop-down Full Menu](https://droix.net/knowledge-base/wp-content/uploads/2025/05/AYN-Performance-Modes-Drop-down-Full-Menu-1024x576.jpg)
 
 AYN Performance Modes Drop-down Full Menu
 
 You can now choose between Standard, Performance and High Performance Modes.
+
+![AYN Performance Modes Performance Modes](https://droix.net/knowledge-base/wp-content/uploads/2025/05/AYN-Performance-Modes-Performance-Modes-1024x576.jpg)
 
 AYN Performance Modes Performance Modes
 
@@ -110,6 +134,8 @@ All ONEXPLAYER Windows devices such as the [ONEXPLAYER X1 Pro](https://droix.net
 
 The overlay will now appear. You can move the performance slider left to right to adjust the TDP from 4W to its maximum TDP (based on the device).
 
+![ONEXPLAYER Overlay](https://droix.net/knowledge-base/wp-content/uploads/2025/05/ONEXPLAYER-Overlay-1-1024x576.jpg)
+
 ONEXPLAYER Overlay
 
 ### Changing the CPU Boost
@@ -117,5 +143,7 @@ ONEXPLAYER Overlay
 The CPU Boost, can be useful for providing some extra power to the CPU rather than the GPU. This can help for CPU hungry software where the GPU is not highly demanded. This can help boost performance in some games and may slow performance in others, its trial and error depending on the game and settings.
 
 Click on the **Turbo ON/OFF** to enable or disable the CPU boost.
+
+![ONEXPLAYER Overlay CPU Turbo](https://droix.net/knowledge-base/wp-content/uploads/2025/05/ONEXPLAYER-Overlay-CPU-Turbo-1024x576.jpg)
 
 ONEXPLAYER Overlay CPU Turbo

@@ -14,6 +14,8 @@ tags: [kb-article, gpd, gpd-win-4]
 
 The [GPD 4G LTE module](https://droix.net/product/gpd-win-4-2023/) is not just for gaming on the go with a [GPD WIN 4](https://droix.net/product/gpd-win-4-2023/) – it’s so much more versatile and can bring 4G LTE connectivity to any USB-compatible device. This guide will be your secret weapon for unstoppable gaming and seamless connectivity! Get ready to connect and explore the world of high-speed internet, anytime, anywhere!
 
+![GPD WIN 4 LTE Module](https://droix.net/knowledge-base/wp-content/uploads/2023/11/LTE-4G-LTE-Module-for-GPD-WIN4-International-Version-520200-0ready-4g-win4-module.jpg)
+
 GPD WIN 4 LTE Module
 
 ## What To Do?
@@ -38,9 +40,11 @@ After the download is complete, extract the files from the downloaded folder. Th
 
 Once your download is complete, you’ll find the driver files within a compressed folder. To proceed, you will need to extract these files. Right-click on the downloaded folder and select ‘*Extract All*‘ or ‘*Unzip*‘. After extraction has been completed, you’ll find the `setup.exe` file inside.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Installation-1.png)
+
 1. Extract Folder
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Installation-2.png)
 
 2. Extracted Folder
 
@@ -48,25 +52,27 @@ Once your download is complete, you’ll find the driver files within a compress
 
 Locate and run `setup.exe` from the extracted folder. A window will pop up on the screen with instructions that will guide you through the setup. It’s important to follow these steps carefully to ensure the drivers are installed correctly. You won’t need to change the default settings but feel free to adjust these settings if you have specific preferences such as install location. Once you’ve completed the steps, the drivers will be installed and ready for finalisation.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Installation-3.png)
+
 1. Run setup.exe
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Installation-4.png)
 
 2. Preparing to install
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Installation-5.png)
 
 3. Choose install location
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Installation-6.png)
 
 4.Review settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Installation-7.png)
 
 5. Driver installation
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Installation-8.png)
 
 6. Finish installation
 

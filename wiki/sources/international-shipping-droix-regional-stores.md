@@ -19,7 +19,7 @@ At DROIX, we are committed to providing a seamless and efficient shopping experi
 To cater to our customers in different regions, we have dedicated online stores. Choosing the correct store for your location will ensure the most accurate pricing, fastest shipping, and a hassle-free experience.
 
 * **For our customers in the United Kingdom:** Please visit our dedicated UK store at [droix.co.uk](https://droix.co.uk).
-* **For our customers within the European Union:** We recommend European customers shop at [droix.eu](https://droix.eu)
+* **For our customers within the European Union:** We recommend European customers shop at [DROIX.eu](https://droix.eu)
 * **For all other international customers, including the USA, Canada, and Australia:** Our global store at [droix.net](https://droix.net) is your destination.
 
 We also have dedicated stores for some of our most popular brands, including the specialised GPD retailer [gpdstore.net](https://gpdstore.net/) and official AYANEO products at [ayaneo.co](https://ayaneo.co/).
@@ -43,7 +43,7 @@ We are thrilled to have recently launchedthe [DROIX EU store](https://droix.eu).
 * **No Unexpected Customs Fees:** All prices are inclusive of VAT. When you shop on our EU store, the price you see at checkout is the final price you pay, with no surprise import duties or taxes upon delivery.
 * **Tailored Service:** Our store is specifically designed to comply with all EU regulations, ensuring a smooth and secure shopping experience.
 
-For the optimal experience, we urge our [European customers to shop at droix.eu](https://droix.eu).
+For the optimal experience, we urge our [European customers to shop at DROIX.eu](https://droix.eu).
 
 ### International Shipping from droix.net
 

@@ -18,23 +18,41 @@ Sometimes components need replacing or even upgrading. The WiFi card is one of t
 
 The first thing you’ll need to do is open up your computer. This is different for every model, but for the most part, it will involve removing a set of screws on the bottom and prying open the cover. So be sure to place the screws somewhere safe.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-1-1024x576.jpg)
+
 Opening the case can be difficult so I recommend using a [spudger](https://en.wikipedia.org/wiki/Spudger) or other such tool to help get it off.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-2-1024x576.jpg)
 
 Once it’s open you can see inside the PC. The location of the WiFi Card is different in every PC, refer to the manual to find the location of your device. In this PC it’s under the SSD so we’ll be removing that first.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-WIFI-1-1024x574.jpg)
+
 To remove the SSD, first, unscrew the screw at the top holding the device down. This will release the SSD and you can gently pull it out, revealing the WiFi Card.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-8-1024x576.jpg)
 
 The WiFi card can be easily recognised by the two antennae cables connecting to it.
 
+![WiFi Card Replacement](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-WIFI-2-1024x570.jpg)
+
 Carefully remove the two cables and remove the screw holding the chip in place.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-WIFI-3-1024x576.jpg)
 
 Once that is done you can remove the WiFi card and replace it with your new one. To install the card, slot it into the motherboard ensuring that the pins are aligned. Hold it down as you screw it in.
 
 Now you need to put the antennae cables back in. This is the trickiest part of the replacement. I would recommend using something like a pair of tweezers to hold them and gently coax them in. These cables can be quite fragile so it’s important to be gentle with them. Good luck.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-WIFI-4-1024x576.jpg)
+
 Once the cables are connected and the WiFi card is screwed in you can replace the SSD by following the steps to remove it in reverse. At an angle, gently slot it into the M.2 slot. Line up the pins with the layout on the motherboard. One side has fewer than the other so ensure that the SSD is oriented the right way.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-7-1024x592.jpg)
+
 Using the same screw it has before hold it down and secure it to the motherboard.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/MINIPC-SSDRAM-8-1024x576.jpg)
 
 Once the SSD is reattached you can close up your computer and screw the cover back on. Congratulations you have just replaced your WiFi card. Go forth and enjoy the wonder of the internet, wireless.
 

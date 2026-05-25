@@ -18,21 +18,31 @@ For any number of reasons, you may need to roll back your firmware and install t
 
 The first thing we need to do is prepare the [MicroSD Card](https://droix.net/product-attribute/storage-technology/micro-sd/).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-16-edited.png)
+
 Power off your device and remove the [MicroSD](https://droix.net/product/micro-sd-card-tf/) card by pushing it further in, it will click out and you will be able to pull it out.
 
 Once it’s out you can plug it into your PC, this can be done in a few different ways. You can use an SD card converter, as we did in the photos, the included MicroSD to USB adapter that comes in the box or even just straight into the PC if your computer has a MicroSD card slot. Any method is perfect.
 
 Once it’s in, make sure your computer can see it by going to This PC and confirming it’s there. This process will remove all data on the card, so it would be a good idea to back it up by going into the SD card and copying the contents to a folder on your computer.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-17.png)
+
 Once you’re sure the computer can read it, we’re going to format the card. This will delete everything currently saved on it. Optionally I recommend you make a backup. This is done by creating a new folder on your PC and dragging the contents over.
 
 Once you’re ready to format we need to install a piece of software called Rufus which will help us. You can download it from this link [here](https://rufus.ie/en/).
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-18.png)
 
 Scroll down and download the latest version for your PC. If you’re not sure what version is best go with the Standard Windows x64 platform as that is the most common. Run the .exe file when it downloads.
 
 When you open the program you’ll be greeted with this screen.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-19.png)
+
 We’ll need to ensure the format is set up first. Ensure your device is the microSD card you’ve plugged in. Set boot selection to ‘Non bootable’. Set the partition scheme to ‘MBR’. The target system to ‘BIOS or UEFI’. Give the volume an appropriate label, such as ‘Firmware-Installer’ and finally set the file system to ‘FAT32’. You’re ready to click ‘Start’. When you do so a warning will pop up letting you know the device will be erased. Click ‘OK’.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-20.png)
 
 Your device is now formatted, and we can get ready to install the stock firmware. This is where the process forks for all devices. Follow along with device-specific instructions.
 
@@ -50,6 +60,8 @@ This section will cover the [Miyoo products](https://droix.net/product-attribute
 
 The first thing you need to do is download the firmware, you can do this from [here](https://droidbox.sharepoint.com/:u:/s/Purchasing/EdOIz4W8PtJJvbmtx6Riop8BlVnzN6lPB6CQzEDd_XJ_Ww?e=iTBJFN). This will download a ZIP folder called ‘Firmware 0419’. Extract its contents by right-clicking and pressing ‘Extract All’. Follow the steps to extract the contents.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-21.png)
+
 Inside you will find three files, two ‘read me’ files and one .img file. The readme file is below:
 
 ```
@@ -65,6 +77,8 @@ To reiterate, copy the .img file to the now formatted SD card. Ensure that it is
 ### Installing Stock Firmware on your Miyoo Mini Plus+
 
 The process for installing stock firmware on the Miyoo Mini Plus+ is slightly different. Let’s get started. You can download the files necessary [here](https://droidbox.sharepoint.com/:u:/s/Purchasing/EbHEPDBP4gJLqN4hSmvX3aABLk-6PF8eoX94AQjxjLFSoA?e=9q6nFW). This will download a file called ‘MINI+No games.zip’. As it is a zip file you will need to extract its contents. Inside the extracted folder, you may need to go another folder deep, you will find the firmware contents, as seen below.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-22.png)
 
 You need to copy **all** of these folders to the **root** of the SD card. That means that the only thing stored on the SD are the files above, they shouldn’t be in any folders or anything like that. Just the files above. I believe in you.
 
@@ -99,6 +113,8 @@ The firmware download for all devices can be found below. The guide can be used 
 | RG Nano | [Anbernic-sdcard-1.0.1.img.zip (sharepoint.com)](https://droidbox.sharepoint.com/:u:/s/Purchasing/EVdJoOWQAp5GmClTitthE5kBRKYV7ujTiWU_SPaVogLGYA?e=84XXGu) |
 
 Open Rufus
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-24.png)
 
 Ensure that your MicroSD cards are selected under Device. click on ‘SELECT’ and find the .img file that you extracted and open it. Rufus will auto-fill the rest of the requirements. Click ‘START’. It will ask for permission, click OK. This will flash the stock firmware image file to your MicroSD card. Give it a minute or two to complete. Once it is done you can safely eject the MicroSD card and put it back into your device and boot up.
 
@@ -140,11 +156,15 @@ Now that you have all the files, we’ll get this guide started.
 
 Download and install the Android USB and MT65xx Preloader drivers.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/fjM5SHx4Ir.jpg)
+
 Extract the zip file, then right-click android\_winusb.inf. Click install.  
 You will probably see a pop-up window requiring you to confirm the installation. This is just a security measure (you should only install apps from trusted sources). Click “Install”.
 
 Download, extract the zip file, then click “install.exe”. The drivers will install, you’ll get a short message confirming they’re installed, and you’re good to go!  
 (If you get a warning indicating that the drivers may not have been installed correctly – ignore it)
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/explorer_sVID3uqxs1.jpg)
 
 First, download the backup tools (*RP2 Key Backup Tools.zip*). Extract the contents.
 
@@ -158,11 +178,15 @@ Then, power on your Retroid Pocket 2 and enable USB Debugging. You can do this b
 
 Now connect your Retroid Pocket 2 to your PC. Open the backup tools folder, and double-click the “RP2 Key Backup.bat” file to run the backup process. If successful, a “device\_key” file will be generated.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/8uRTcVwkLO.jpg)
+
 Important: **Make sure that your Retroid Pocket 2 is powered off during this step**, **and that the stock SD card (or a card you’ve prepared with the same files) is inserted.**
 
 First, download the firmware for Android 6.0 (*RP2-6.0v5.zip*) or Android 8.1 (*RP2-8.1v3.zip*) respectively. Extract them.
 
 Download, and extract SPFlash (*SPFlashWin.1832.zip*). Then run flash\_tool.exe to open the software. You’ll be met with a screen like this:
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/flash_tool_qXQswxMuNN.jpg)
 
 Under “Download-Agent”, select the “**MTK\_AllInOne\_DA.bin**” file, this will be found in the SPFlash folder.  
 For the Scatter-loading File, navigate to the 6.0 or 8.1 firmware folder you downloaded previously, and select the “**MT6580\_Android\_scatter.txt**” file.
@@ -173,6 +197,8 @@ Now depending on what firmware you have here, the next step will differ.
 * **If you are re-flashing or updating to the same version**, change the box to “**Download only**“, then scroll down the list of options and **uncheck** the “userdata” option.
 
 Now click the “Download” button at the top of the program. You can then connect your **powered-off** Retroid Pocket 2, and the process will automatically be carried out.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/flash_tool_zlOrObC40Q.jpg)
 
 Once finished, disconnect your Retroid Pocket 2 from your computer.**It will not boot if it is connected.**
 
@@ -188,21 +214,31 @@ The first time you reboot into Android, there may be missing apps. If you leave 
 
 Sometimes you don’t need to completely reinstall your firmware and operating system and just to want to get a fresh start on a device, Whether you’re selling it, giving it away, resolving an issue or just need a refresh this guide will show you how to reset all of your Retroid and Android devices.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-07-13h24m37s367-1024x576.jpg)
+
 From the home page of your Retroid device, you need to click on ‘Settings’. If you cannot find the Settings icon, swipe down the notification shade, and then swipe down again. You will find a settings icon in the bottom right of the extended shade.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-07-13h33m50s025-1024x576.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-07-13h33m54s732-1024x576.jpg)
 
 Once you’re in the settings, scroll all the way to the bottom and open ‘System’.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-07-13h35m50s693-1024x576.jpg)
+
 From here click on Advances -> Reset options
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-25.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-07-13h37m32s655-1024x576.jpg)
 
 Erase all data (factory reset)
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-07-13h38m13s546-1024x576.jpg)
+
 Press Erase data, if your battery is less than 30% you will get a warning. Simply ensure your device is plugged in and continue. Erase data.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-07-13h38m45s699-1024x576.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-26.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-07-13h39m03s728-1024x576.jpg)
 
 The device will now restart. If you are selling or giving your device away this is where you stop. Let it erase and restart and when it boots up again hold down the power button to turn it off and you’re done.
 
@@ -212,14 +248,19 @@ The device will now boot up, you will see the Retroid boot logo as it loads.
 
 The setup program will automatically boot and begin. Follow along with your preferred settings and options.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-07-13h54m18s340-1024x576.jpg)
+
 Connecting to the internet and enabling Google Play Services is recommended.
 
 You will come to a screen that asks which apps you wish to preinstall. Go through and select which ones you want. If you’re not sure I recommend selecting them all.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-07-13h56m17s518-1024x576.jpg)
 
 The selected apps will then begin installing.
 
 Select your launcher of choice. Retroid’s custom one and Android’s built-in one.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/vlcsnap-2023-06-07-13h58m08s558-1024x576.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/image-27.png)
 
 You’ve now finished and start enjoying your device!

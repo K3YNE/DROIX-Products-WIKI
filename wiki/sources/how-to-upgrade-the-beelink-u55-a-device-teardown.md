@@ -22,11 +22,15 @@ If you are looking to upgrade your Beelink U55, we at DROIX have put together a 
 
 ## Step 1 – Remove the rear panel
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220323_141030019-1024x768.jpg)
+
 To access the mini PC, you will first need to remove the rear of the unit.
 
 First, loosen the four screws located in the corners of the rear panel. The rear panel will then lift off with near-zero resistance. **Be careful, as the SATA cable may be attached to the lid.**
 
 ## Step 2 – Replacing Components
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220323_141229131_HDR-1024x768.jpg)
 
 You will now be at the heart of the mini computer. From here, you can upgrade and replace the components as you wish.
 

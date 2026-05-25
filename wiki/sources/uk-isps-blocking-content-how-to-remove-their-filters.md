@@ -24,17 +24,20 @@ If you’re a domestic BT customer (in terms of an internet provider), please wa
 
 <https://youtu.be/ApDsOmtgzC4>
 
-Please note the most important part of the process is to complete BT’s Smart Setup process. Until that Get Started button is clicked, BT won’t allow most data to be sent to your DROIX!
+Please note the most important part of the process is to complete BT’s Smart Setup process. Until that Get Started button is clicked, BT won’t allow most data to be sent to your DROIX®!
 
+![BT Residential Settings](/wp/wp-content/uploads/2014/11/original.png "BT Residential Settings")  
 If you have installed software from BT, please see <http://bt.custhelp.com/ci/fattach/get/2293980/1329825561/redirect/1> for details on how to alter your settings.
 
-Should you be using your DROIX device at non-domestic premises, and have a BT Business account for your internet connection, then <http://btbusiness.custhelp.com/app/hub/a_id/9000/c/2888,2165,2167> can guide you how to disable the filter.
+![BT Business Settings](/wp/wp-content/uploads/2014/11/isecp_firewall_settings_1_.gif "BT Business Settings")  
+Should you be using your DROIX® device at non-domestic premises, and have a BT Business account for your internet connection, then <http://btbusiness.custhelp.com/app/hub/a_id/9000/c/2888,2165,2167> can guide you how to disable the filter.
 
+![Virgin Web Safe Admin Page](/wp/wp-content/uploads/2014/11/2mmvj0l_1_.jpg "Virgin Web Safe Admin Page")  
 If you’re with Virgin, login here – <https://my.virginmedia.com/my-apps/websafe/overview.html> and first turn off the Child Safe filter. If that doesn’t help, you’ll need to try turning off Virus-safe. Please note that doing so will reduce your online protection, but as Virgin has included some sites in their blacklist that aren’t dangerous, this is the only simple approach.
 
 From our customers with Virgin who have made contact so far, disabling the filters worked well.
 
-If TalkTalk are the company you pay each month for the internet connection your DROIX uses, they have some articles at <http://help2.talktalk.co.uk/broadband-security/homesafe-0> that should assist.
+If TalkTalk are the company you pay each month for the internet connection your DROIX® uses, they have some articles at <http://help2.talktalk.co.uk/broadband-security/homesafe-0> that should assist.
 
 With customers using Sky as their internet provider, please visit <https://www.sky.com/help/articles/sky-broadband-shield-explained> to learn more about disabling your blocks.
 

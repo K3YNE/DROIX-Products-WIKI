@@ -27,6 +27,8 @@ Ways to identify your CPU on your device:
   Select **About your PC** from the results.  
   Look under “**Device specifications**” for the Processor entry, which lists your CPU model (e.g., Intel Core i7-10750H).
 
+![Task Manager CPU](https://droix.net/knowledge-base/wp-content/uploads/2025/03/Task-Manager-CPU-1024x576.jpg)
+
 Task Manager CPU
 
 ## GPD WIN 4 ***2022*** BIOS Update Video
@@ -42,6 +44,8 @@ For the GPD WIN 4 Stuttering fix, please see our guide [here](https://droix.net/
 You can download the latest GPD WIN 4 BIOS update file [here](https://droidbox.sharepoint.com/:u:/s/Purchasing/ERjXPLgc8qJKigLco-dW1goBclLVoRiNKe_N2zoluueSgQ?e=afv0lH). Once you have downloaded it, extract the contents of it to your PC. There should be an *Upgrade\_instructions.txt* and *startup.nsh* files, and two folders; *EFI* and *WIN4\_19\_0606A*, or a similar name depending on firmware version).
 
 You can now copy the files and folders to your FAT32-formatted USB stick.
+
+![GPD WIN 4 BIOS update files](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/04/GPD-WIN-4-BIOS-update.png)
 
 GPD WIN 4 BIOS update files
 

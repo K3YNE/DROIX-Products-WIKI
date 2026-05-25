@@ -24,13 +24,15 @@ If you follow this guide and find you do not have the option to add a new VPN c
 
 Using the VPN connection creation process within OpenELEC’s Configuration program Add-on is the simplest route as it involves no further downloading.
 
-The first step is to make sure your account is working OK on the DROIX using IPVanish’s official Android application. See <https://play.google.com/store/apps/details?id=com.ixolit.ipvanish&hl=en_GB> for a description of the app. Once configured and tested as OK in Android, next switch to the openELEC operating system (see <https://www.youtube.com/watch?v=BTjGdT0VKMU> for details).
+The first step is to make sure your account is working OK on the DROIX® using IPVanish’s official Android application. See <https://play.google.com/store/apps/details?id=com.ixolit.ipvanish&hl=en_GB> for a description of the app. Once configured and tested as OK in Android, next switch to the openELEC operating system (see <https://www.youtube.com/watch?v=BTjGdT0VKMU> for details).
 
 From the Program Add-ons (or under the System menu in the Confluence skin) start OpenELEC (Configuration)
 
+![Kodi System OpenELEC](https://droix.net/wp-content/uploads/2016/02/20160210_165923_0-300x169.png)
+
 Kodi System OpenELEC
 
-[Program Add-ons> Also Has openELEC’s Configuration” width=”300″ height=”169″>](https://droix.net/wp-content/uploads/2016/02/20160210_172844_0.png) Kodi>Program Add-ons> Also Has openELEC’s Configuration
+![Kodi><figcaption id=](https://droix.net/wp-content/uploads/2016/02/20160210_172844_0-300x169.png) Kodi>Program Add-ons> Also Has openELEC’s Configuration
 
 In the Network area, click on Add new VPN configuration
 
@@ -38,9 +40,12 @@ For now we are using PPTP, if we have more success with openVPN we will update t
 
 VPN Type: pptp
 
-[Virtual Private Networks > Add new VPN configuration” width=”300″ height=”169″>](https://droix.net/wp-content/uploads/2016/02/20160210_170023_0.png) Network > Virtual Private Networks > Add new VPN configuration
+![Network ><figcaption id=](https://droix.net/wp-content/uploads/2016/02/20160210_170023_0-300x169.png) Network > Virtual Private Networks > Add new VPN configuration
+![VPN Connection Creation](https://droix.net/wp-content/uploads/2016/02/20160210_170156_0-300x169.png)
 
 VPN Connection Creation
+
+![VPN Type](https://droix.net/wp-content/uploads/2016/02/20160210_170224_0-300x169.png)
 
 VPN Type
 
@@ -53,15 +58,27 @@ Passphrase: Your IPVanish password
 
 VPN DNS Domain: leave at the default value of  vpn  , don’t touch this
 
+![Select Network Name](https://droix.net/wp-content/uploads/2016/02/20160210_170301_0-300x169.png)
+
 Select Network Name
+
+![Something Descriptive You'll Remember Easily](https://droix.net/wp-content/uploads/2016/02/20160210_170357_0-300x169.png)
 
 Something Descriptive You’ll Remember Easily
 
+![Click the VPN Server entry to enter address](https://droix.net/wp-content/uploads/2016/02/20160210_170725_0-300x169.png)
+
 Click the VPN Server entry to enter address
+
+![Click Username and Passphrase](https://droix.net/wp-content/uploads/2016/02/20160210_170840_0-300x169.png)
 
 Click Username and Passphrase
 
+![Make sure capital letters, numbers etc are typed in carefully](https://droix.net/wp-content/uploads/2016/02/20160210_170907_0-300x169.png)
+
 Make sure capital letters, numbers etc are typed in carefully
+
+![Again, CASE MaTtErs](https://droix.net/wp-content/uploads/2016/02/20160210_170950_0-300x169.png)
 
 Again, CASE MaTtErs
 
@@ -74,9 +91,15 @@ Refuse EAP
 
 The other settings I left at default.
 
+![Click Show Advanced if you want this to work](https://droix.net/wp-content/uploads/2016/02/20160210_171024_0-300x169.png)
+
 Click Show Advanced if you want this to work
 
+![Copy these settings or check the text below](https://droix.net/wp-content/uploads/2016/02/20160210_171124_0-1024x576.png)
+
 Copy these settings or check the text below
+
+![Continuation of settings to be copied](https://droix.net/wp-content/uploads/2016/02/20160210_171135_0-1024x576.png)
 
 Continuation of settings to be copied
 
@@ -84,7 +107,11 @@ Then click the Save button.
 
 From here, go to the Connections list and click on the new VPN entry you created and named. Select Connect.
 
+![openELEC Connections Area](https://droix.net/wp-content/uploads/2016/02/20160210_171448_0-300x169.png)
+
 openELEC Connections Area
+
+![openELEC Connections Area Click And Connect](https://droix.net/wp-content/uploads/2016/02/20160210_172858_0-300x169.png)
 
 openELEC Connections Area Click And Connect
 

@@ -46,9 +46,13 @@ We’d advise formatting your SD card first too.
 
 To format it, insert the SD card into your system, then right click it in File Explorer. Select “Format” from the context menu.
 
+![ Select Format from the context menu](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/explorer_cRkzl7hUq3-300x188-1.webp)
+
 Select Format from the context menu
 
 Make sure the card is formatted as NTFS, then click format.
+
+![Make sure the card is formatted as NTFS, then click format](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/07/explorer_AgXk0Scl2W-165x300-1.webp)
 
 Make sure the card is formatted as NTFS, then click format
 
@@ -57,6 +61,8 @@ Now your card is ready to be used.
 ## Flashing the Card
 
 For this guide we’ll be using Win32 Disk Imager. A lightweight program that can be used for both the writing and reading of image files and external storage devices.
+
+![](https://droix.net/wp-content/uploads/2020/11/Win32DiskImager_526tf37t43-300x209.png)
 
 Once you’ve opened up Win32 Disk Imager, click the blue folder and navigate to wherever you saved the image file for the RG351P, then select it.
 

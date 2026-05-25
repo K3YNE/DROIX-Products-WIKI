@@ -29,25 +29,34 @@ The following guide is applicable to just about any Windows 10 computer. Many Wi
 
 First, open up the USB gamepad configurator application. You can do so by searching “USB game controller” in Windows.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/msedge_YVL9bSn4ud.jpg)
+
 You will then see a list of all connected gamepads. **The specific name will vary based on the controller (whether it is in-built or external, brand name, model name, and so on)**.
 
 Select your gamepad, and then click **Properties**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/rundll32_eCv0pSmmdB.jpg)
+
 Select the **Settings** tab, and now select Calibrate.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/rundll32_z5uSPlvZBN.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/rundll32_VJCb38z6Ln.jpg)
 
 This will bring you into the calibration utility.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/rundll32_FhM1TGU8fL.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/rundll32_dsGa5qSlyG.jpg)
 
 The aim of this utility is to set a “new centre” for your analogue stick. So if it is currently always leaning slightly to the right, this will reduce the odds of having a misinput.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/rundll32_eCaxr4SYT1.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/rundll32_uSqJ8xhbTo.jpg)
 
 After calibrating the right analogue stick, the next few options will have you doing the following:
 
 * Calibrating the left analogue stick (if applicable)
 * Calibrating the “Z-axis” — which is actually the left and right trigger respectively (primarily useful for analogue triggers, not so much for digital ones).
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/rundll32_DCYQFUq7QQ.jpg)
 
 After doing this, you **should** find that you experience the drawbacks of analogue drift a little bit less!

@@ -28,26 +28,26 @@ If you have an iMX6/MX2 then there is a [video showing a fix if your wifi will n
 
 <https://droix.net/uk-isps-blocking-content-how-to-remove-their-filters/> – Customers who use Virgin, BT, TalkTalk, Sky or EE as their internet provider should all check the link above. Some ISPs put blocks in place that will severely limit what you can watch.
 
-## The DROIX device
+## The DROIX® device
 
 For help with LibreELEC powered (MCE) devices please see <https://droix.net/topic/libreelec>
 
-**My DROIX doesn’t turn on or I can’t see anything on the TV?**  
+**My DROIX® doesn’t turn on or I can’t see anything on the TV?**  
 Visit <https://droix.net/your-tv-isnt-showing-any-picture/> to check through the basics to ensure all is set correctly.
 
-**I’m having a hard time using the infrared remote control that came with my DROIX. Is there anything else I can use to make navigating the DROIX Streaming Box and Kodi easier?**  
-The basic infrared controller that comes with your DROIX Streaming Box is designed to perform basic functions, but moving the on screen cursor and typing can take a while. Please see <https://droix.net/remote-control-infrared-basic-or-premium/> for more information.
+**I’m having a hard time using the infrared remote control that came with my DROIX. Is there anything else I can use to make navigating the DROIX® Streaming Box and Kodi easier?**  
+The basic infrared controller that comes with your DROIX® Streaming Box is designed to perform basic functions, but moving the on screen cursor and typing can take a while. Please see <https://droix.net/remote-control-infrared-basic-or-premium/> for more information.
 
-Although these USB controllers can be bought with all our devices, they are definitely not the only USB devices that can used to navigate and use your DROIX Streaming Box with Kodi. There are many types and options with USB controllers and most USB control devices will work with the DROIX units.
+Although these USB controllers can be bought with all our devices, they are definitely not the only USB devices that can used to navigate and use your DROIX® Streaming Box with Kodi. There are many types and options with USB controllers and most USB control devices will work with the DROIX® units.
 
 **How do I adjust display size for my TV?**  
 If videos or the entire interface is cropped, so there are sections missing from the top, left, right or bottom parts of the screen, please visit https://droix.net/screen-squashed-or-stretched/ to check how to reconfigure your device to match your TV’s capabilities.
 
 **How do I adjust the date & time?**  
-If you suspect the date is wrong on your DROIX, or the clock is always off by a few hours, then <https://droix.net/where-is-time/> should help.
+If you suspect the date is wrong on your DROIX®, or the clock is always off by a few hours, then <https://droix.net/where-is-time/> should help.
 
-**How to do I hook up my USB wireless keyboard and or mouse to my DROIX box?**  
-Simply plug in the USB dongle that comes with your wireless USB keyboard or mouse (look in the back of the keyboard) into one of the USB ports on the DROIX box. You do not need to reboot your Box; your USB device should begin working once you have plugged it in. If it doesn’t refer to the manual for the pairing procedure.
+**How to do I hook up my USB wireless keyboard and or mouse to my DROIX® box?**  
+Simply plug in the USB dongle that comes with your wireless USB keyboard or mouse (look in the back of the keyboard) into one of the USB ports on the DROIX® box. You do not need to reboot your Box; your USB device should begin working once you have plugged it in. If it doesn’t refer to the manual for the pairing procedure.
 
 ## XBMC/Kodi tips
 
@@ -77,7 +77,7 @@ Locate the File Manager HD or ES File Explorer apps on your device. If you canno
 **My videos buffer a lot** For all of these queries, please read through <https://droix.net/videos-buffering/> and watch <https://www.youtube.com/watch?v=5V6cZ9p045w>.
 
 **My Device is running slow, how can I fix this?**  
-Sometimes the Cache in XBMC/Kodi gets full. This can slow the performance of XBMC/Kodi and cause buffering issues. You can fix this by following these instructions: Click settings under  Apps > Click Apps > Find XBMC or Kodi and click on it > click Clear cache, wait for your cache to go get to 0. Restart XBMC/Kodi and let it complete its first run. Remember, each Add-Ons is separately managed by a Third Party that is not affiliated with DROIX.co.uk.  There will be times when these Add-Ons do not operate as they should and you may experience down time or slow rates which could cause buffering.  
+Sometimes the Cache in XBMC/Kodi gets full. This can slow the performance of XBMC/Kodi and cause buffering issues. You can fix this by following these instructions: Click settings under  Apps > Click Apps > Find XBMC or Kodi and click on it > click Clear cache, wait for your cache to go get to 0. Restart XBMC/Kodi and let it complete its first run. Remember, each Add-Ons is separately managed by a Third Party that is not affiliated with DroidBOX.co.uk.  There will be times when these Add-Ons do not operate as they should and you may experience down time or slow rates which could cause buffering.  
 **Resetting XBMC**  
 If for any reason XBMC/Kodi is not working properly, Freezing or you are getting Script Errors please follow the steps in this video.
 

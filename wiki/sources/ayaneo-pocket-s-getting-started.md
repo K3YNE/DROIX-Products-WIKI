@@ -14,6 +14,8 @@ tags: [kb-article, ayaneo, ayaneo]
 
 Congratulations on your new [AYANEO Pocket S](https://droix.net/product/ayaneo-pocket-s/)! Welcome to a revolutionary handheld gaming experience that brings the best of [retro gaming handhelds](https://droix.net/product-category/handhelds/retro-gaming-handheld) and cutting-edge technology. This device isn’t just for revisiting your favourite classics; it’s designed to deliver top-tier performance for modern gaming as well. Our comprehensive [Getting Started guide](https://droix.net/knowledge-base/tag/getting-started/) will help you unlock the full potential of your AYANEO Pocket S, ensuring a seamless and exhilarating gaming adventure from the very start. Dive into the world of gaming with confidence and discover what makes the AYANEO Pocket S truly exceptional.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/AYANEO-Pocket-S-（AR03）_Photograph_04_20240326-1-1024x684.jpg)
+
 AYANEO Pocket S
 
 At DROIX, we celebrate and support the spirit of retro gaming. We also stand by the principle of empowering our users. So, if you find any issues and feel confident enough to handle them, we fully support your Right to repair them! With no effect on your device warranty! But remember, [DROIX Customer Support](https://droix.net/contact-us/) is always happy to help with any questions or assistance you might need. We are here to ensure your queries are answered and issues are resolved as quickly as possible.
@@ -41,13 +43,15 @@ The AYANEO Pocket S features many different buttons and connectors, all of which
 8. Select/Start button
 9. Charging port
 
+![AYANEO Pocket S Device Overview 1](https://droix.net/knowledge-base/wp-content/uploads/2024/05/Device-overview-1-1.png)
+
 AYANEO Pocket S Device-overview 1
 
-
+![AYANEO Pocket S Device Overview 2](https://droix.net/knowledge-base/wp-content/uploads/2024/05/Device-overview-2-1.png)
 
 AYANEO Pocket S Device-overview 2
 
-
+![AYANEO Pocket S Device Overview 3](https://droix.net/knowledge-base/wp-content/uploads/2024/05/Device-overview-3-1.png)
 
 AYANEO Pocket S Device-overview 3
 
@@ -73,6 +77,8 @@ Next, let’s prepare your device’s expanded storage. You’ll need to insert 
 
 Now, let’s bring your Pocket S to life! Press and hold the power button to power your device (refer to *Device Overview*). Keep in mind, that the first boot might take a bit longer than usual — this is completely normal and part of the setup process. Once this initial setup is complete, subsequent boot times will be quicker, getting you into games faster. Patience is key here; your Android gaming handheld experience is just moments away!
 
+![AYANEO Pocket S](https://droix.net/knowledge-base/wp-content/uploads/2024/05/AYANEO-Pocket-S-（AR03）_Photograph_23_20240326-scaled.jpg)
+
 AYANEO Pocket S
 
 ## AYAHome / AYASpace
@@ -81,11 +87,15 @@ AYANEO Pocket S
 
 AYAHome is AYANEO’s proprietary launcher powered by [Android 13](https://droix.net/product-attribute/operating-system/android-13/), pre-installed on your AYANEO Pocket S. It is designed to make your handheld experience smooth and enjoyable. With AYAHome, you can easily access and organize your games and software, adjust system settings, and customize your gaming environment to suit your preferences. You can access AYAHome at any point using the dedicated AYAHome button (refer to Device Overview).
 
+![AYAHome](https://droix.net/knowledge-base/wp-content/uploads/2024/05/4-1024x576.jpg)
+
 AYAHome
 
 ### AYAspace Overlay
 
 Along with AYAHome, your Pocket S also comes with AYASpace, which acts as a central hub for all your gaming needs. You can quickly access AYASpace via its built-in overlay by pressing the dedicated AYASpace button (refer to Device Overview). From here, you can quickly adjust performance settings and more.
+
+![AYASpace Overlay](https://droix.net/knowledge-base/wp-content/uploads/2024/05/3-1024x576.jpg)
 
 AYASpace Overlay
 
@@ -98,9 +108,18 @@ You’ll also be able to quickly access any Controller, Handheld, and Widget set
 Screen Mapping can be accessed from the AYASpace Overlay, simply launch a game, and   
 Start any game and open the AYASpace Overlay. From here navigate to the Controller tab, and turn on Key Mapping. After this, select ‘Go to Configuration’ which will open up an overlay where you can configure the Screen mapping as you would like.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/1-1.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/2-1.png)
+
+
 Enabling the Key Mapping Overlay
 
 From here, you can drag and drop from ‘Add Mapping Point’ to however many on-screen inputs you require. After adding a mapping point, you will need to select which physical button will trigger this input. In the example below, we will be setting up player movement, so we mapped the digital joystick that controls player movement to ‘L’ (the left analogue stick). Repeat the process for each button/input you require for your game. After mapping each button you want to use, simply select ‘Save,’ and you should be all set to go.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/3-1.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/4-1.png)
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/5.png)
+
 
 Adding and Setting Mapping Points
 
@@ -136,6 +155,23 @@ If however, you’re experiencing issues with your Pocket 4 or simply want to st
 
 <https://droix.net/knowledge-base/article/factory-reset-android/embed/#?secret=O58YgolgLN#?secret=Sy9DFx7vnd>
 
+## Accessories & Add-Ons
+
+[DROIX NT8 Clear USB Hub](https://droix.net/product/droix-nt8-clear-usb-hub/): Maximize your AYANEO Pocket S’s connectivity with the DROIX NT8 Clear USB Hub! This versatile hub features multiple USB ports, allowing you to connect a variety of peripherals such as controllers, keyboards, and external storage devices. Its clear design adds a stylish touch to your setup, while its compact size ensures it fits seamlessly into your gaming environment. Enhance your gaming and productivity with the DROIX NT8 Clear USB Hub and unlock the full potential of your AYANEO Pocket S!
+
+[DROIX NH8 USB Hub with NVMe](https://droix.net/product/droix-nh8-nvme-usb-hub/): Or you can Expand your AYANEO Pocket S’s capabilities with the NH8 USB Hub! This powerful hub not only provides multiple USB ports for connecting peripherals like controllers, keyboards, and external drives, but it also includes an NVMe slot for lightning-fast storage expansion. Perfect for gamers and professionals alike, the DROIX NH8 USB Hub with NVMe ensures seamless connectivity and never-ending storage in one sleek, compact device.
+
+[15.6″ 4K Portable Monitor](https://droix.net/product/15-6-4k-portable-monitor-with-touchscreen/) | [with Adobe RGB](https://droix.net/product/15-6-4k-portable-monitor-with-adobe-rgb/) | [with Stylus Support](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/): Pair up your Hub with one of these portable monitors that offer a stunning 4K resolution across their 15.6″ display. Featuring touchscreen capabilities and even options for Adobe RGB or Stylus support, these monitors are fantastic for gamers, artists, office work and more. It serves as the ideal high-quality, portable external display, perfect for the small form factor and portability of the Pocket S with its slim and lightweight design. This makes it not only easy to carry around but also a stylish complement to your gaming setup – perfect for achieving a modern and sleek aesthetic.
+
+![15.6″ 4K portable monitor with Adobe RGB](https://droix.net/knowledge-base/wp-content/uploads/2023/10/S23_B5-PORTABLE_MONITOR-IMAGE-LISTING-DONE-1.png)
+
+15.6″ 4K portable monitor with Adobe RGB
+
+[DROIX USB-C 4.0 Cable](https://droix.net/product/usbc-4-cable): Enhance your gaming experience with our official USB-C 4.0 Cable! This high-quality cable ensures fast and reliable charging, as well as efficient data transfer, making it an essential accessory for your AYANEO Pocket S. Whether you’re updating your game library or playing for extended periods, the DROIX USB-C 4.0 Cable provides the durability and performance you need. Don’t miss out on this essential addition to your gaming setup—elevate your gaming experience to the next level!
+
+![DROIX USB Type-C 4.0 Cable](https://droix.net/knowledge-base/wp-content/uploads/2024/05/image.png)
+
+DROIX USB Type-C 4.0 Cable
 
 ---
 

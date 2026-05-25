@@ -22,19 +22,23 @@ At DROIX we pride ourselves on our high level of before and after-sales customer
 
 Before using your portable monitor, check that all the contents that should come with it are present. You will have the DROIX PM13 portable monitor, a soft carry case, user manual, USB power supply, USB power cable, USB-C to USB-C cable and a HDMI to Mini HDMI cable.
 
+![DROIX PM13 portable monitor](https://droix.net/knowledge-base/wp-content/uploads/2024/07/DroiX-PM13-portable-monitor-1024x576.jpg)
+
 DROIX PM13 portable monitor
 
-
+![DROIX PM13 carry case](https://droix.net/knowledge-base/wp-content/uploads/2024/07/DroiX-PM13-carry-case-1024x576.jpg)
 
 DROIX PM13 carry case
 
-
+![DROIX PM13 cables](https://droix.net/knowledge-base/wp-content/uploads/2024/07/DroiX-PM13-cables-1024x576.jpg)
 
 DROIX PM13 cables
 
 ## Connecting your DROIX PM13 to a device
 
 If you simply want to get up and running straight away, plug in the supplied HDMI cable to the [DROIX PM13](https://droix.net/product/droix-pm13-portable-monitor/) and your device, then connect the supplied power supply and USB cable to one of the USB-C ports on the monitor. Switch on your device and the monitor and you should be up and running.
+
+![DROIX PM13 HDMI and USB-C ports](https://droix.net/knowledge-base/wp-content/uploads/2024/07/DroiX-PM13-HDMI-and-USB-C-ports-1-1024x576.jpg)
 
 DROIX PM13 HDMI and USB-C ports
 
@@ -65,13 +69,17 @@ We have prepared a video guide on the best ways to connect your [DROIX PM13](htt
 
 Pressing the jog dial will activate the portable monitors menu. Pushing Up and Down on the dial will move the menu options up and down, pressing the dial will select and pressing the Power button will go back one menu option.
 
+![DROIX PM13 power button and jog dial](https://droix.net/knowledge-base/wp-content/uploads/2024/07/DroiX-PM13-power-button-and-jog-dial-1024x576.jpg)
+
 DROIX PM13 power button and jog dial
 
 There are a variety of options from changing the picture, colour and audio settings, language and input source.
 
+![DROIX PM13 Brightness Options](https://droix.net/knowledge-base/wp-content/uploads/2024/07/DroiX-PM13-Brightness-Options-1-1024x576.jpg)
+
 DROIX PM13 Brightness Options
 
-
+![DROIX PM13 Brightness Settings](https://droix.net/knowledge-base/wp-content/uploads/2024/07/DroiX-PM13-Brightness-Settings-1024x576.jpg)
 
 DROIX PM13 Brightness Settings
 
@@ -83,17 +91,25 @@ To change the display resolution, on the Windows search bar, type in *Display Se
 
 If the monitors’ settings are showing as “Duplicate these displays” then we recommend changing this to *Extend the displays* (have your desktop split across two monitors), or *Show only on the portable monitor* (usually display 2) for the best resolutions.
 
+![Changing how the displays are outputting](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Portable-Monitor-Getting-Started-Windows-Display-Settings-1-300x169.jpg)
+
 Changing how the displays are outputting
 
 Once you have chosen how to display, the monitor may show a black screen for a short period while switching resolutions. It will then show either your usual desktop if showing only on the portable monitor, or an empty desktop if extending the displays.
+
+![Desktop is now extended](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Portable-Monitor-Getting-Started-Windows-Display-Settings-3-300x169.jpg)
 
 The desktop is now extended
 
 As the [DROIX PM14](https://droix.net/product/droix-pm14-portable-monitor/) is a 2K monitor, you can now change the screen resolution up to the highest your device supports.
 
+![Change your screen resolution to the best your device supports](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Portable-Monitor-Getting-Started-Windows-Display-Settings-9-300x176.jpg)
+
 Change your screen resolution to the best your device supports
 
 If you are having any display issues we recommend checking the refresh rate in case it is not set to 30 or 60Hz. You can do this from the *Advanced Display* menu option, then change the refresh rate to *60.00 Hz* for example.
+
+![Change the monitor refresh rate](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Portable-Monitor-Getting-Started-Windows-Display-Settings-7-300x175.jpg)
 
 Change the monitor refresh rate
 

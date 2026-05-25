@@ -14,25 +14,37 @@ tags: [kb-article, droix, droix-proteus-11, installation]
 
 We know that some of you may like to add to your already great Proteus mini pc machines. However, some of you may not be computer geniuses like us, and that’s completely okay. Luckily for you we have come up with a simple step by step guide in how to install your hard drive into your Proteus 11 Mini PC.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/06/srcshot1-edited.png)
+
 ## **Step 1: Opening the PC**
 
 When you have taken the Proteus 11 out of the box, continue to stand it up so the two screws in the back of it are facing upright towards you. When you have done this, use a small screwdriver to take them out. You will then be able to carefully lift the cover from the PC.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/06/srcshot2-edited.png)
 
 ## **Step 2: the SATA cable**
 
 Following step 1, take the SATA cable supplied and slot it into the area highlighted, this is so you’ll be able to connect the hard drive to the PC.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/06/srcshot3-edited.png)
+
 ## **Step 3: Hard Drive and metal plate**
 
 Take the Hard Drive and screw it into the plate that has come along with it. This will keep the hard drive secure when putting it into the machine.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/06/srcshot4-edited.png)
 
 ## **Step 4: Connecting the SATA cable and Hard drive**
 
 Connect the hard drive via the SATA Cable and then slot it in place. This is a relatively easy process so don’t overthink it!
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/06/scrshot-7-2-edited.png)
+
 ## **Step 5: screwing in the Hard drive**
 
 Almost finished! Now screw the Hard drive plate into the pc screw slots. This is to keep the drive in place once you have closed up the Mini PC.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/06/scrshot6-edited.png)
 
 ## **Step 6: Finishing up and closing the Proteus 11**
 

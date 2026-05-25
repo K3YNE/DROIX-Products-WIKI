@@ -41,13 +41,19 @@ Natively resetting the device through Windows is something just about EVERY Wind
 
 To access this utility, simply search “Reset this PC” in the Windows search bar.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/msedge_BMAxhskCP7.jpg)
+
 Upon starting up the utility, you’ll be given the option to keep your personal files (i.e., photos, documents, etc.), or to remove everything.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/SystemSettingsAdminFlows_7byOIajv81.jpg)
 
 While this handy utility is universal – it does take substantially longer than just reinstalling windows, or performing the process via the second method.
 
 ### via Recovery Partition
 
 This second method of resetting is **not universal** and is instead dependent on the specific installation of Windows and the manufacturer of the device.
+
+![This image has an empty alt attribute; its file name is WinMax_Reset1-300x225.jpg](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/WinMax_Reset1-300x225.jpg)
 
 Pictured: The GPD reset utility on the original 2020 GPD WIN MAX
 
@@ -69,6 +75,8 @@ The exact steps for this will vary depending on the device you’re using.
 
 Most commonly, the way to do this is to press F7 while the device is powering up. You will know you’ve been successful when a blue window appears.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/WinMax_BootMenu-300x225.jpg)
+
 You can also enter the BIOS by pressing ESC, F1, F2 or whatever the specified key is for your device. From the BIOS, you’ll be able to navigate to the boot options via your keyboard and select the drive of your choice.
 
 In most cases, the partition will be called “UEFI OS”, although it may be different depending on the device.
@@ -77,9 +85,15 @@ In most cases, the partition will be called “UEFI OS”, although it may be di
 
 The quickest way to enter the advanced startup menu is by holding the LEFT SHIFT key, and then selecting the restart option from within the Windows start menu, like so:
 
+![Win 3 recovery image 1](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/IMG_20210525_123258244_HDR-1024x768.jpg)
+
 You’ll see several options, but the one you should pick is “Use a device”.
 
+![Win 3 recovery image 2](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/IMG_20210525_123358624_HDR-1024x768.jpg)
+
 Select UEFI OS from the list of options here (there may be a large number of different options, depending on how your hard drive is partitioned and/or what USB devices you have connected.
+
+![Win 3 recovery image 3](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/IMG_20210525_123441801_HDR-1024x768.jpg)
 
 The system will now reboot into the recovery partition. From here, you can begin the reset process — which is entirely automatic, although you will either need to connect a charger or ensure that the battery is over a certain percentage before it will start.
 

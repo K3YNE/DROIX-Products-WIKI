@@ -24,9 +24,15 @@ This guide is also applicable to the RG350. In this case, you’ll need to downl
 
 Firstly, make sure your RG350M is connected to your PC in via the USB/DC port.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/IMG_20200715_123430236-300x86.jpg)
+
 Then, open the Network app.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/obs64_Yw4KKbTSSW-300x169.jpg)
+
 Select “allow login without password”.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/obs64_BuHoAqIbMN-300x172.jpg)
 
 ## Transferring Files Over
 
@@ -34,17 +40,25 @@ We’re using [WinSCP](https://winscp.net/eng/index.php) here, but you can use a
 
 In WinSCP, create a “New Site” with the parameters that show up for you in the network app on the RG350M (in this case, the host name is the IP address – for us, 10.1.1.2 – and the username is root).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/WinSCP_CyWJS6p0OW-300x202.png)
+
 You’ll then be connected to the device.
 
 In the left pane, navigate to the folder where you’ve downloaded the mame4all.opk file.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/WinSCP_0pirpUBVjR-296x300.png)
 
 In the right pane, go to the root of the device (keep clicking the folder with two dots until you can’t go any further). Then follow the path: **media -> data -> apps**.
 
 Now you’re set, just copy over the mame4all.opk file to the apps folder on the right side.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/WinSCP_n93G1XIHEL-300x206.png)
+
 Once done, you can safely disconnect your device.
 
 If done correctly, mame4all should appear in the list of emulators, like so.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/obs64_GcwNbuxnXn-1-300x168.jpg)
 
 ## A Quicker Way?
 

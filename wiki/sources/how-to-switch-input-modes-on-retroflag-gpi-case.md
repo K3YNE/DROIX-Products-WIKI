@@ -22,8 +22,12 @@ To switch to **Axis** mode, simply hold the **LEFT** D-PAD and **SELECT** for ar
 
 NOTE – On some models this has now been updated to LEFT D-PAD and START. Please try this if SELECT does not work.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-case-axis-mode-183x300.jpg)
+
 ### Hat Mode
 
 To switch back to **Hat** mode, hold the **UP** D-PAD and **SELECT** for around five seconds until the Power LED flashes purple.
 
 NOTE – On some models this has now been updated to UP D-PAD and START. Please try this if SELECT does not work.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/gpi-case-hat-mode-183x300.jpg)

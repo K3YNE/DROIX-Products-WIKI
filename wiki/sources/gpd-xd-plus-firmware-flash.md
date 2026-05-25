@@ -26,29 +26,51 @@ Create a new folder on your PC hard drive and call it “**GPD XD Plus**” for 
 
 Extract the contents of both downloads to the newly created folder. Once extracted it should look similar to the below image:
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/explorer_2018-01-31_13-52-01.png)
+
 Navigate in the “**batch tool driver**” folder, then “**SP\_Driver\_V1524**” folder. And run the “**DriverInstall.exe”** driver installation file
 
 Follow and accept any prompts to install the drivers. Please ignore any Install Failed error messages like the one below. Once the installation is complete, restart your PC.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/dpinst64_2018-01-31_13-49-45.png)
+
 Navigate to the “**batch tool driver**” folder, then “**SP\_Flash\_Tool\_exe\_Windows\_v5.1720.00.000**” folder.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/explorer_2018-01-31_14-50-45-300x242.png)
 
 Choose the **flash\_tool.exe** application and wait a few moments for it to load. You can ignore any warning or error messages that may show.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/flash_tool_2018-01-31_14-00-49-300x197.png)
+
 Pick the “**Choose**” folder icon alongside the “Scatter-loading File” as shown below
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/flash_tool_2018-01-31_14-03-25-300x197.png)
 
 Navigate to “**GPD\_EN-images-v1.07\_20171228user**” folder, then “**images**”, and choose the “**MT8173\_Android\_scatter.txt**” file. It may take a few seconds for the data to load and you will see similar to the below image.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/flash_tool_2018-01-31_14-05-59-300x197.png)
+
 Click on the “**Download Only**” drop down menu and select “**Firmware Upgrade**”
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/flash_tool_2018-01-31_14-06-31-300x197.png)
+
 Click on the green **Download** button.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/flash_tool_2018-01-31_14-09-01-300x197.png)
 
 Switch off your GPD XD+ device if it is not already.
 
 Connect the USB cable to your PC, press and hold the **VOL-** button on the GPD XD+ and while doing so, insert the micro USB cable into the GPD XD+.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/IMG_20180131_150129-1-300x169.jpg)
+
 The software should now connect and begin the firmware update procedure. **DO NOT REMOVE ANY CABLES OR CLOSE THE SOFTWARE.**
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/flash_tool_2018-01-31_14-11-57-300x197.png)
+
 The update procedure usually takes around 10-15 minutes. Leave it running until you see the “**Download OK**” prompt below.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/flash_tool_2018-01-31_14-22-10-300x197.png)
 
 Once the firmware has been updated, you can now remove the USB cable, then power on the GPD XD+.
 

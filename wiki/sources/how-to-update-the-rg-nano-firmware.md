@@ -33,11 +33,15 @@ Download the latest firmware from above and extract the .zip file on your PC. Th
 
 If you have not already, switch off your RG Nano, eject the micro SD card and insert it into your PC. Copy the extracted firmware file the the root folder of the micro SD card. It will look similar to the image below. The filename may be slightly different depending on the firmware version.
 
+![RG Nano firmware location](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/RG-Nano-firmware-1.png)
+
 RG Nano firmware location
 
 Once the file has been copied, you can safely Eject the micro SD card from your PC and re-insert it into your RG Nano. You can now switch on the RG Nano to begin the firmware update.
 
 The update process will now start and take around 5 minutes. Please do not switch off your RG Nano during this process.
+
+![RG Nano firmware updating](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/06/RG-Nano-firmware-2-768x1024.jpg)
 
 RG Nano firmware updating
 

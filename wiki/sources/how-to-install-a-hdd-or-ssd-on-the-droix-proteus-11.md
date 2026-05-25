@@ -22,19 +22,35 @@ Installing a 2.5″ HDD or SSD into your [DROIX Proteus 11](https://droix.net/pr
 
 Remove the two screws located on the back on the DROIX Proteus 11.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/02/How-to-install-a-HDD-or-SSD-on-the-DROIX-Proteus-11-1-1024x576.jpg)
+
 Connect the SATA cable to the indicated port on the motherboard. It can only be inserted one way.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/02/How-to-install-a-HDD-or-SSD-on-the-DROIX-Proteus-11-2-1024x576.jpg)
 
 The metal plate which holds the HDD or SSD will have an arrow on one side indicating the direction that it should be fitted to the Proteus 11 case. The arrow should be facing the front of the case and visible from the top.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/02/How-to-install-a-HDD-or-SSD-on-the-DROIX-Proteus-11-4-1024x576.jpg)
+
 Turn over the metal plate and attach the four provided black screws to the HDD or SSD. The drive connector ports should be closest to the arrow.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/02/How-to-install-a-HDD-or-SSD-on-the-DROIX-Proteus-11-5-1024x576.jpg)
 
 Connect the SATA cable to the HDD or SSD, it can only be inserted one way.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/02/How-to-install-a-HDD-or-SSD-on-the-DROIX-Proteus-11-6-1024x576.jpg)
+
 Fit the metal plate to the Proteus 11 case, the arrow should be facing towards the front of the case.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/02/How-to-install-a-HDD-or-SSD-on-the-DROIX-Proteus-11-7-1024x576.jpg)
 
 Attach the four provided silver screws to the corner tabs to keep the metal plate secure.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/02/How-to-install-a-HDD-or-SSD-on-the-DROIX-Proteus-11-8-1024x576.jpg)
+
 Put the Proteus 11 lid back on the case and attach the two screws on the back of the case
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/02/How-to-install-a-HDD-or-SSD-on-the-DROIX-Proteus-11-9-1024x576.jpg)
 
 Your HDD or SSD is now installed and ready to be used.
 

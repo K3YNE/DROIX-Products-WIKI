@@ -27,7 +27,11 @@ Connect the Type-A to Type-C USB cable to your PC and the correct port on your d
 
 Switch on the device and navigate to the Settings menu and choose **Network**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Network-1-300x169.jpg)
+
 The app will load and present some information including the **IP address** and **login user name**. In the below photo you can see it is **10.1.1.2** and **root** respectively, these may be different for your device.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-Network-2-300x169.jpg)
 
 You can leave the password disabled. You do not need to set or change the password as the device does not connect over the internet, but you can change it if you wish to.
 
@@ -37,18 +41,32 @@ Open the **FileZilla** software on your PC. Enter the details from your device i
 
 Host: is the IP address, in this example it is **10.1.1.2**Username: is the Login, in this example it is **root**If you chose to set a password you can enter it in the Password field.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-FTP-1-300x155.png)
+
 A notification may appear which is safe to ignore, click on **OK** to continue.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-FTP-2-300x172.png)
 
 You should now be connected to your device. The two panels in the central area are your **PC (local site)** on the left and the **device (remote site)** on the right. They will show the storage contents of each on the panel.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-FTP-3-300x184.png)
+
 Change to the location of the files on your PC first, by navigating to the correct folder. You can now navigate to the SD Card on the device. The location will be **/media/sdcard/**, click on the respective folders to navigate to this location.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-FTP-4-300x184.png)
+
 You will now see your Micro SD Card contents. Depending which files you are copying over, you can choose the correct folder here. If for example you are copying game ROMs to the card, then you would choose **ROMS** folder and then the folder for the system for example **MD** for Mega Drive / Genesis games.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-FTP-5-300x184.png)
 
 On the left panel (PC) you can highlight a file by clicking on it once, or multiple files by selecting them all and **Right Click** to bring up the menu. Choose **Upload** from the options. The transfer process will now begin. Depending on the number and size of the files this process may take some time. If a file already exists on the device you may be prompted to Overwrite or Skip.
 
 You can check the status of the transfers on the bottom panel under **Queued Files**, **Failed Transfers** and **Successful Transfers**.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-FTP-8-300x184.png)
+
 Once the files have completed uploading you can press the **Disconnect** icon.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/RG350-FTP-9-300x184.png)
 
 You can now disconnect the USB cable from the device and exit the Network app. The files are now on the device and ready to access.

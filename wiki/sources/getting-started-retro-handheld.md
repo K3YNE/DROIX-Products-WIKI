@@ -22,9 +22,13 @@ At DROIX we pride ourselves on our high level of before and after-sales customer
 
 Many of our handhelds are essentially plug-and-play with minimal setup required. Your purchase will come with the device and charge cable, and depending on the model you may have an additional micro SD card, card reader and other accessories.
 
+![Retroid Pocket 3+ Metal edition](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retroid-Pocket-3-Metal-edition-300x169.jpg)
+
 Retroid Pocket 3+ Metal edition
 
 As mentioned this can vary between models, check the *Box Contents* section on our product listing for your handheld to ensure everything is present with yours. If something is missing or you are not sure, please [contact our customer service](https://droix.net/contact-us/) and we will be happy to assist.
+
+![Miyoo Mini Plus retro console with accessories](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/A-retro-gaming-handheld-with-accessories-300x169.jpg)
 
 Miyoo Mini Plus retro console with accessories
 
@@ -40,6 +44,8 @@ Depending on the model you have purchased you may have a Linux, Android or dual-
 
 The [Linux OS](https://www.linux.com/what-is-linux/) is perhaps the easiest way to play retro games. It is essentially plug-and-play if you have a micro SD card with ROMs on them. The menus and emulators are already set up and waiting for you. See further below for how to add games to your micro SD card.
 
+![Retro Gaming Handheld Linux OS](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retro-Gaming-Handheld-Linux-OS-300x169.jpg)
+
 Retro Gaming Handheld Linux OS
 
 You navigate the systems with the D-Pad and press A to enter that system for the games list. Then you use Up and Down on the D-Pad to scroll through the games. Once you have found a game, simply press A to load the emulator and run that game.
@@ -49,6 +55,8 @@ We will have a more in-depth guide for Linux-based OS soon!
 ### Android Operating System
 
 The [Android OS](https://www.android.com/) gives you a bit more freedom in what you can install. Think of it like a mobile phone running Android, with access to Google Play Store. From here you can download games, emulators, apps, books etc.
+
+![Retro Gaming Handheld Android OS](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/08/Retro-Gaming-Handheld-Android-OS-300x169.jpg)
 
 Retro Gaming Handheld Android OS
 
@@ -83,6 +91,8 @@ Not all handhelds have firmware updates, but if for example, you need to reinsta
 ## Installing Custom Firmware on your retro handheld
 
 Custom firmware is a great way to expand on the OS, emulators and features on your handheld. They usually have an optimised operating system, additional (and optimised) emulators and more features than the stock firmware.
+
+![Onion OS for Miyoo Mini Plus](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/05/Upgrade-OnionOS-10-300x169.jpg)
 
 Onion OS for Miyoo Mini Plus
 

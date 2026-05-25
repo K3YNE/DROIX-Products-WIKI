@@ -47,45 +47,57 @@ To start, download the [GammaOS](https://github.com/TheGammaSqueeze/GammaOS-RK35
 
 After downloading, locate and extract the downloaded file. **Right-click** the file and select **Extract All** (refer to *Images 1 & 2* below).”
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/1-1024x553.jpg)
+
 1. Extract folder
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/2-1024x553.jpg)
 
 2. Extract location
 
 Once extracted, open the folder if it does not automatically open. Inside, you’ll find a disk image file, a readme file, and a folder named **SSDiskTool** (see *Image 3* below). For now, open the **SSDiskTool** folder and run **`SD_Firmware_Tool.exe`** (refer to *Image 4* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/3-1024x553.jpg)
+
 3. Open SDDiskTool
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/4-1024x553.jpg)
 
 4. Run SD\_Firmware\_Tool.exe
 
 This will open the Rockchip firmware tool. First, ensure your MicroSD Card is **selected** as the removable disk. Enable **Upgrade Firmware** and then click the **Firmware** button (shown in *Image 5* below). A file explorer window will appear – here, locate and select the disc image file **`GammaOS_RGARC_Full_v133.img`** (see *Image 6* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/5.jpg)
+
 5. Select firmware
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/6-1024x665.jpg)
 
 6. Select disc img file
 
 Next, you should see the file path under the **Third** option. Double-check all the settings are correct (refer to *Image 7* below). At this point, click **Create**. A warning will appear about erasing the contents of the removable storage – click **Yes** to proceed (refer to *Images 7 & 8* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/7.jpg)
+
 7. Select Create
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/8-1024x553.jpg)
 
 8. Warning
 
 The tool will now use the `.img` file to convert your removable storage into a boot device for the custom firmware installation (see *Image 9* below). This process might take a while, so don’t worry if it’s taking a long time. Avoid doing anything that could affect disk writing during this time. Once complete, a confirmation window will pop up; click **OK** (refer to *Image 10* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/9.jpg)
+
 9. Writing in progress
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/10.jpg)
 
 10 Writing complete
 
 Finally, **Close** the software and check the SD Card’s contents to ensure everything is correctly loaded (see *Image 11* below). If all looks good, safely **Eject** the device.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/11.jpg)
 
 11. SD Card contents
 
@@ -93,17 +105,21 @@ Finally, **Close** the software and check the SD Card’s contents to ensure eve
 
 Now, we are all set to install the GammaOS firmware onto our portable gaming device. First, ensure your device is **powered down**. Then, insert the MicroSD card into the **TF1/INT** slot, which is conveniently located and labelled at the bottom of your Anbernic ARC-D (see *Image 1* below). After inserting the card, power on your device. The firmware upgrade screen should appear and begin the upgrade process automatically (see *Image 2* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/1.-TF1-Slot-1024x576.jpg)
+
 1. Insert MicroSD Card
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/2.-Initial-Boot-1024x576.jpg)
 
 2. Firmware upgrade screen
 
 This step took us about 10 minutes, so don’t worry if it takes a bit longer. Once the upgrade is complete, a message will confirm the successful firmware upgrade and provide the next steps (refer to *Image 3* below). Follow these instructions by **removing** the MicroSD Card from the **TF1/INT** slot while the device is still powered on. This action will trigger the initial boot process (see *Image 4* below). Note that this first boot might take some time, but subsequent boots will be significantly faster. After this initial setup, you will no longer need the MicroSD card.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/3.-Remove-SD-Card-1024x576.jpg)
+
 3. Firmware upgrade complete
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/4a.GammaOS-Setup-1024x576.jpg)
 
 4. GammaOS Boot screen
 
@@ -111,13 +127,15 @@ This step took us about 10 minutes, so don’t worry if it takes a bit longer. O
 
 With the initial boot completed, the last step is to finish configuring your device. Begin by pressing **Start** on the welcome screen. You’ll first be prompted to connect to a mobile network – choose to **Skip** this step (refer to *Images 1 & 2* below). Next, you have the option to **connect** to WiFi or **continue offline** (see *Image 3* below).
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/5.-Setup-Screen-1024x768.jpg)
+
 1. Welcome screen
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/6.-Mobile-Network-1024x576.jpg)
 
 2. Mobile Network settings
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/7.-WiFi-Settings-1024x576.jpg)
 
 3. WiFi settings
 
@@ -125,17 +143,21 @@ If you installed the **Full Version** of GammaOS, you’ll be asked to accept Go
 
 You’ll then be prompted to set up a password (see *Image 6* below). It’s **important** to select **Not Now** and skip this step to avoid potential complications later. Once these steps are completed, simply press **Start**, and this will launch the GammaOS Launcher.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/8.-Google-Services-1024x576.jpg)
+
 4. Google Sevices
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/9.-Password-1-1024x576.jpg)
 
 5. Skip password
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/10.-Select-Start-1024x576.jpg)
 
 6. Setup complete
 
 **Important Note**: From this point onward, the MicroSD Card is no longer needed for booting the device. The default firmware on your device has been replaced with GammaOS (refer to *Image 7* below). You can now power on and off your device as usual **without** the MicroSD card in the TF1/INT slot.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/12.-GammaOS-Home-scaled.jpg)
 
 7. GammaOS Home
 
@@ -152,6 +174,8 @@ Instead of installing the GammaOS custom firmware, download the stock firmware p
 | Linux OS | [Download](https://droidbox.sharepoint.com/:u:/s/Purchasing/EbwP9KxMSsRFlop3HpabKA8BjUdf54nkEjq-atoDI98UQw?e=72toMv), [Alternative Link](https://win.anbernic.com/download/289.html) |
 
 The stock firmware from Anbernic also includes a disk image file, so you can follow the same process as before in the **Create Firmware Upgrade Tool** section. Just remember to select the Android disk image file, named **`update.img`** at the time of writing (refer to *Image 1* below), instead of the custom firmware file.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/12/Restore-Stock-Android-Firmware.jpg)
 
 1. Stock Android Firmware provided by Anbernic
 

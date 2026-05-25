@@ -36,10 +36,18 @@ You can do this via any method you wish. We prefer [MiniTool PartitionWizard](ht
 
 See the below slideshow for the process of completely wiping a card in preparation for flashing.
 
-* Identify your microSD card, then wipe it completely.
-* Create a new partition on the microSD card afterwards.
-* No need to change anything here. We just want a blank partition with a letter.
-* Once done, click Apply to actually carry out the actions.
+* ![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/partitionwizard_I1lJcVAJxF.jpg)
+
+  Identify your microSD card, then wipe it completely.
+* ![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/partitionwizard_zrPQeaItJQ.jpg)
+
+  Create a new partition on the microSD card afterwards.
+* ![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/partitionwizard_dyc0RoIhPw.jpg)
+
+  No need to change anything here. We just want a blank partition with a letter.
+* ![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/partitionwizard_h6ESI2xFnY.jpg)
+
+  Once done, click Apply to actually carry out the actions.
 
 ## #2: Flash The MicroSD Card
 
@@ -55,6 +63,8 @@ After extracting the image, you will need to image the microSD card. There are m
 
 We’ll be using Win32 Disk Imager as it’s the simplest of the three to use.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/Win32DiskImager_ZbQ0MBCw3q.jpg)
+
 Win32 Disk Imager is popular due to its simplicity and versatility.
 
 Click the blue folder icon to select the image file you have downloaded.
@@ -68,6 +78,8 @@ Once sure, click “Write”, and the process will carry out automatically.
 Be patient during the device’s first boot, as it will take a while.
 
 Once the device has booted, you’ll be bought through a standard setup for Android, involving you setting your timezone, Wi-Fi, and other things.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/IMG_20210827_121931762-1024x768.jpg)
 
 The Wi-Fi can be temperamental. If if doesn’t connect initially, proceed through the setup and then reboot the device!
 

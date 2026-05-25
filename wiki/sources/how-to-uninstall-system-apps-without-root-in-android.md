@@ -26,7 +26,11 @@ For the third-party bloatware, most of them can be easily uninstalled.
 
 3. If there is an “Uninstall” button, tap it to begin.
 
+![Android Uninstall Bloatware Uninstall App](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/android-uninstall-bloatware-uninstall-app.png "Android Uninstall Bloatware Uninstall App")
+
 4. If you see a “Disable” button instead of an Uninstall button, this means that the apps cannot be uninstalled but can be disabled.
+
+![Android Uninstall Bloatware Disable App](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/android-uninstall-bloatware-disable-app.png)
 
 “Disabled” means that the app becomes dormant, won’t show up in your application list and won’t be recognized as an installed app.
 
@@ -36,7 +40,11 @@ Tap on the Disable button to disable the app.
 
 2. Go to “Manage applications” and find the application you want to disable.
 
+![Android Uninstall Bloatware Miui Hidden Settings](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/android-uninstall-bloatware-miui-hidden-settings.png "Android Uninstall Bloatware Miui Hidden Settings")
+
 3. Tap on the “Disable” button.
+
+![Android Uninstall Bloatware Miui Disable App](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/android-uninstall-bloatware-miui-disable-app.png)
 
 ## Uninstall system apps using adb
 
@@ -50,7 +58,11 @@ For Windows, follow [the instructions here](https://www.maketecheasier.com/get-
 
 2. Next, you need to enable “[Developer Options](https://www.maketecheasier.com/how-to-enable-developer-options-in-android/)” on your phone. Once enabled, go into the Developer Option, scroll down the list and enable “USB debugging.”
 
+![Android Uninstall Bloatware Usb Debugging](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/android-uninstall-bloatware-usb-debugging.png "Android Uninstall Bloatware Usb Debugging")
+
 3. Connect your phone to the desktop via USB. When prompted, change the “charge only” mode to “file transfer (MTP)” mode.
+
+![Android Uninstall Bloatware Usb Transfer Mode](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/android-uninstall-bloatware-usb-transfer-mode.jpg "Android Uninstall Bloatware Usb Transfer Mode")
 
 4. In [Windows](https://www.microsoft.com/en-gb/windows/windows-11), navigate to the adb directory and launch the command prompt in that folder. For Linux, just open the Terminal.
 
@@ -61,6 +73,8 @@ adb devices
 ```
 
 If you see an entry listed under the “List of devices” section, then your device is connected.
+
+![Android Uninstall Bloatware Adb Devices](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/android-uninstall-bloatware-adb-devices.png "Android Uninstall Bloatware Adb Devices")
 
 5. Start the adb shell.
 
@@ -74,21 +88,31 @@ adb shell
 pm list packages
 ```
 
+![Android Uninstall Bloatware Pm List Packages](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/android-uninstall-bloatware-pm-list-packages.png "Android Uninstall Bloatware Pm List Packages")
+
 The list will be very long. You can use `grep` to narrow down the list. For example, to only show Google packages, use the command:
 
 ```
 pm list package | grep 'google'
 ```
 
+![Android Uninstall Bloatware List Google Apps](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/android-uninstall-bloatware-list-google-apps.png "Android Uninstall Bloatware List Google Apps")
+
 7. Find the name of the app you want to uninstall. The name is the entry after `Package:`. For example, the package name for the Google Contact app is `com.google.android.contacts`.
 
+![Android Uninstall Bloatware Package Name](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/android-uninstall-bloatware-package-name.png "Android Uninstall Bloatware Package Name")
+
 If you have trouble identifying the package name, simply go to Google Play Store on your browser and search for the app. Check the URL for the package name.
+
+![Android Uninstall Bloatware Play Store Package Name](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/android-uninstall-bloatware-play-store-package-name.png "Android Uninstall Bloatware Play Store Package Name")
 
 8. Type the following command to uninstall the app.
 
 ```
 pm uninstall -k --user 0 package-name
 ```
+
+![Android Uninstall Bloatware Uninstall Packages](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2021/11/android-uninstall-bloatware-uninstall-packages.png "Android Uninstall Bloatware Uninstall Packages")
 
 You should see the word “Success” if the uninstallation is successful.
 

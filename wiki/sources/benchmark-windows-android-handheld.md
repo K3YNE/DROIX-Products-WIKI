@@ -41,17 +41,25 @@ Load the 3DMARK software and if you are prompted to update, please do so, you ma
 
 Click on the **Benchmarks** icon at the top.
 
+![Windows 3DMARK Home Page](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Windows-3DMARK-Home-Page-1024x606.jpg)
+
 Windows 3DMARK Home Page
 
 Scroll down the list and locate the **Time Spy** (not Time Spy Extreme) benchmark and click on that.
+
+![Windows 3DMARK Benchmarks Page](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Windows-3DMARK-Benchmarks-Page-1024x606.jpg)
 
 Windows 3DMARK Benchmarks Page
 
 Confirm that you are using the correct GPU for the test. This would normally be the internal GPU found inside the handheld unless you are testing external GPU cards performance. Click on the **Run** icon to begin the benchmark. The process will take around 10-15 minutes.
 
+![Windows 3DMARK Time Spy Page](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Windows-3DMARK-Time-Spy-Page-1024x606.jpg)
+
 Windows 3DMARK Time Spy Page
 
 Once the benchmark has completed, you will be presented with the results screen. Make a note of the Time Spy Score as well as the Graphics and CPU score to the right of it. Alternatively you can take a photo on your phone or a screeenshot (Print Screen key) to keep a copy of it.
+
+![Windows 3DMARK Time Spy Benchmarks result](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Windows-3DMARK-Time-Spy-Benchmarks-result-1024x606.jpg)
 
 Windows 3DMARK Time Spy Benchmarks result
 
@@ -61,13 +69,19 @@ You can then make any changes such as changes to the TDP and click the **Run Aga
 
 This may require the paid version to use. From the Home screen, click on the **Stress Test** icon at the top.
 
+![Windows 3DMARK Home Page Stress Test](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Windows-3DMARK-Home-Page-Stress-Test-1024x606.jpg)
+
 Windows 3DMARK Home Page Stress Test
 
 Check the Steel Nomad Light Stress Test has been selected. Confirm that you are using the correct GPU for the test. This would normally be the internal GPU found inside the handheld unless you are testing external GPU cards performance. Click on the **Run Stress Test** icon to begin the stress test. This process will generally take around 20 minutes.
 
+![Windows 3DMARK Windows Stress Test Page](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Windows-3DMARK-Windows-Stress-Test-Page-1024x606.jpg)
+
 Windows 3DMARK Windows Stress Test Page
 
 Once the stress test has completed, you will be presented with the results screen. Make a note of the Frame rate stability, Best loop score and Worst loop score. Alternatively you can take a photo on your phone or a screeenshot (Print Screen key) to keep a copy of it.
+
+![Windows 3DMARK Windows Stress Test Results Page](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Windows-3DMARK-Windows-Stress-Test-Results-Page-1024x606.jpg)
 
 Windows 3DMARK Windows Stress Test Results Page
 
@@ -85,17 +99,25 @@ Load the 3DMARK software. You may be prompted to download a benchmark or stress 
 
 By sliding your fingers on the indicated area in the image below, you can scroll through the available benchmarks and stress tests.
 
+![Android 3DMARK Home Page](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Android-3DMARK-Home-Page-1024x606.jpg)
+
 Android 3DMARK Home Page
 
 Locate the **Wild Life Extreme** benchmark test and click on it.
+
+![Android 3DMARK Benchmarks Page](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Android-3DMARK-Benchmarks-Page-1024x606.jpg)
 
 Android 3DMARK Benchmarks Page
 
 Click on the **Download** (if not already downloaded) and/or the **Run** icon to begin the benchmark test. This process will take around one minute to complete.
 
+![Android 3DMARK Wild Life Extreme Benchmarks Page](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Android-3DMARK-Wild-Life-Extreme-Benchmarks-Page-1024x606.jpg)
+
 Android 3DMARK Wild Life Extreme Benchmarks Page
 
 Once completed you will be presented with the results.
+
+![Android 3DMARK Wild Life Extreme Results Page](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Android-3DMARK-Wild-Life-Extreme-Results-Page-1024x606.jpg)
 
 Android 3DMARK Wild Life Extreme Results Page
 
@@ -105,17 +127,25 @@ You can then make any changes such as changes to the performance profile and cli
 
 By sliding your fingers on the indicated area in the image below, you can scroll through the available benchmarks and stress tests.
 
+![Android 3DMARK Home Page](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Android-3DMARK-Home-Page-1024x606.jpg)
+
 Android 3DMARK Home Page
 
 Locate the **Steel Nomad Light Stress Test** and click on it.
+
+![Android 3DMARK Stress Test Page](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Android-3DMARK-Stress-Test-Page-1024x606.jpg)
 
 Android 3DMARK Stress Test Page
 
 Click on the Download (if not already downloaded) and/or the **Run** icon to begin the benchmark test. This process will take around 20 minutes to complete.
 
+![Android 3DMARK Steel Nomad Light Stress Test Page](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Android-3DMARK-Steel-Nomad-Light-Stress-Test-Page-1024x606.jpg)
+
 Android 3DMARK Steel Nomad Light Stress Test Page
 
 Once the stress test has completed, you will be presented with the results screen. Make a note of the Best loop score, Worst loop score and Stability. Alternatively you can take a photo on your phone or a screeenshot (varies between device) to keep a copy of it.
+
+![Android 3DMARK Android Stress Test Results Page](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Android-3DMARK-Android-Stress-Test-Results-Page-1024x606.jpg)
 
 Android 3DMARK Android Stress Test Results Page
 

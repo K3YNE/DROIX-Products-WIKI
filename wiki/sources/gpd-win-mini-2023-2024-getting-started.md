@@ -38,7 +38,7 @@ We’ve got an article describing how to update Windows and its drivers [here](h
 
 | GPD WIN Mini Firmware | Download Link |
 | --- | --- |
-| [WIn-Mini\_22H2\_WIN11\_HOME\_\_20230801.zip](https://droix.sharepoint.com/:u:/s/Purchasing/EfdxVLqVkdVOs1DI1PJL0GoBXLPEDkJqFIDOD422zJQk-g?e=QlEl7b) | GPD WIN Mini Windows install if you want to reinstall a fresh version of Windows with GPD WIN Mini drivers included |
+| [WIn-Mini\_22H2\_WIN11\_HOME\_\_20230801.zip](https://droidbox.sharepoint.com/:u:/s/Purchasing/EfdxVLqVkdVOs1DI1PJL0GoBXLPEDkJqFIDOD422zJQk-g?e=QlEl7b) | GPD WIN Mini Windows install if you want to reinstall a fresh version of Windows with GPD WIN Mini drivers included |
 | Windows 11 Home (8840U/7840U/7640U) | Download |
 
 **Please only use the Windows install, firmware and BIOS updates on the GPD WIN Mini. These firmware files are intended only for the GPD WIN Mini and may cause issues or even render the device inoperable when installed on other devices.**
@@ -67,6 +67,8 @@ Alright, your device should be working properly, with no issues with the buttons
 
 ### AMD Graphics Issues
 
+![AMD Graphics issues](https://droix.net/knowledge-base/wp-content/uploads/2024/05/Screenshot-2024-05-28-093756.png)
+
 Example of graphical issues
 
 If you are experiencing display issues on your GPD device, such as graphical glitches or crashes, it might be due to changes in AMD HYPR-RX Profiles. Disabling these graphics profiles and reverting to the default graphics profile, along with updating to the latest AMD drivers, usually resolves the problem. Follow the steps below to address these issues:
@@ -75,9 +77,11 @@ If you are experiencing display issues on your GPD device, such as graphical gli
 2. Navigate the ‘Gaming’ tab and then select ‘Graphics’.
 3. Select ‘Default’ under the ‘Global Gaming Experience’ section.
 
+![AMD Software - Navigate to 'Gaming'](https://droix.net/knowledge-base/wp-content/uploads/2024/05/1.jpg)
+
 Navigate to ‘Gaming’
 
-
+![AMD Software -Navigate to 'Graphics' and select 'Default'](https://droix.net/knowledge-base/wp-content/uploads/2024/05/2.jpg)
 
 Navigate to ‘Graphics’ and select ‘Default’
 
@@ -143,6 +147,8 @@ It’s incredible, right? Your new gaming handheld can do so much already, what 
 
 [GuliKit KingKong 2 Pro Controller](https://droix.net/product/gulikit-kingkong-2-pro/): This high-quality game controller by GuliKit offers an advanced level of precision and control for avid gamers. It’s equipped with a high-speed chip for lower latency, dual vibration motors for immersive haptic feedback, and a powerful battery for extended gameplay sessions.
 
+![](https://droix.net/blogs/wp-content/uploads/2023/07/image-4.png)
+
 [FX8S USB Type-C Hub](https://droix.net/product/fx8s-usb-type-c-hub/): The FX8S USB Type-C Hub is a versatile and portable device that extends your device’s connectivity. It includes a variety of ports, including HDMI, USB Type-A, USB Type-C, and SD card readers, providing comprehensive compatibility with a range of peripherals.
 
 [Micro SD Card UHS-I TF Flash Memory Card – DROIX](https://droix.net/product/micro-sd-card-tf/): This is a high-speed, high-capacity MicroSD card from DROIX. Designed for fast data transfer and reliable storage. It’s perfect for expanding the memory capacity of a device for storing games, photos, music, and more. The card is UHS-I enabled, ensuring fast and efficient data transfer.
@@ -150,5 +156,7 @@ It’s incredible, right? Your new gaming handheld can do so much already, what 
 [BiWin 2230 NVMe Storage PCI-e SSD – DROIX](https://droix.net/product/biwin-2230/): The BiWin 2230 NVMe is a compact and high-speed SSD that uses the PCI Express interface for quick data transfer. The PCI-e SSD provides faster load times and improves the overall responsiveness of your device. It’s ideal for gaming, content creation, and multitasking. It’s perfect for users looking to upgrade their device’s storage with a reliable and fast solution.
 
 [15.6”4K Portable Monitor with touchscreen – DROIX](https://droix.net/product/portable-monitor-with-touchscreen/) | [15.6″ 4K portable monitor with stylus support – DROIX](https://droix.net/product/15-6-4k-portable-monitor-with-stylus-support/): These portable monitors offer a stunning 4K resolution across their 15.6″ display. The monitor comes with touchscreen capabilities and even has an option for stylus support. It is fantastic for artists, note-takers, handwriting enthusiasts and more. It’s the perfect addition to get that extra-screen real estate with your GGPD WIN Mini. Its slim and lightweight design makes it easy to carry around.
+
+![](https://droix.net/blogs/wp-content/uploads/2023/07/image-5.png)
 
 Whew! That was a long read. That should cover just about everything to get you up and running with your brand-new device. Go have fun and play all your faves! As well as this Knowledge Base, find more help at [gpdstore.net](https://gpdstore.net)

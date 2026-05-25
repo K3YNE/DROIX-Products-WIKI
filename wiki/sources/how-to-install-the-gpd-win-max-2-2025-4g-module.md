@@ -22,17 +22,25 @@ This guide will show how to install the [GPD WIN MAX 2 2025](https://droix.net/p
 
 When receiving your bew [GPD WIN MAX 2 2025 4G module](https://droix.net/product/gpd-win-max-2-2025-4g-lte-add-on/) and new back plate, it will require you to make a few adjustments. Upon receiving your back plate it will look like this:
 
+![GPD WIN MAX 2 2025 New Backplate](https://droix.net/knowledge-base/wp-content/uploads/2025/05/GPD-WIN-MAX-2-2025-New-Backplate-1024x768.jpg)
+
 GPD WIN MAX 2 2025 New Backplate
 
 When removing the old Win Max 2 back plate you will find two silver plates located in the picture below. We need to move the plates from the old to the new back plate.
+
+![GPD WIN MAX 2 2025 Original Backplate](https://droix.net/knowledge-base/wp-content/uploads/2025/05/GPD-WIN-MAX-2-2025-Original-Backplate-1024x768.jpg)
 
 GPD WIN MAX 2 2025 Original Backplate
 
 The silver plates can be disassembled by removing the 4 screws highlighted in red below. Please be aware that the silver plates are attached to the ribbon cable which can be damaged easily.
 
+![Four screws to remove](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Four-screws-to-remove-1024x768.jpg)
+
 Four screws to remove
 
 The golden connectors in the picture below, are stuck down to a small metal plate. This whole assembly is glued down and can easily be removed with a little bit of heat to loosen the glue. The glue isn’t strong but using a small amount of heat can make removing the ribbon cable safer.
+
+![Carefully disconnect the ribbon cable](https://droix.net/knowledge-base/wp-content/uploads/2025/05/Carefully-disconnect-the-ribbon-cable-1024x768.jpg)
 
 Carefully disconnect the ribbon cable
 
@@ -42,8 +50,10 @@ After you have removed them from the old device, please install them on the new 
 
 We recommend adding some double sided tape under the cable as indicated in the first image below. This will help keep the ribbon cable secure. If you have already installed the module and do not want to open it, you can apply some tape as indicated in the second image below.
 
+![Add double sided tape](https://droix.net/knowledge-base/wp-content/uploads/2025/05/GPD-WIN-MAX-2-2025-4G-Module-Add-double-sided-tape.jpg)
+
 Add double sided tape
 
-
+![Add tape](https://droix.net/knowledge-base/wp-content/uploads/2025/05/GPD-WIN-MAX-2-2025-4G-Module-Add-tape.jpg)
 
 Add tape

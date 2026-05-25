@@ -18,19 +18,27 @@ Changing the TDP on a device allows you to increase or decrease the power usage,
 
 Switch on the [GPD MicroPC 2](https://gpdstore.net/laptops/gpd-micropc-2/) and immediately and repeatedly tap the **Backspace** key on the keyboard. Keep doing this until the BIOS menu is shown. If it boots to Windows, repeat the process again.
 
+![GPD MicroPC 2 Keyboard](https://gpdstore.net/wp-content/uploads/2025/08/GPD-MicroPC-2-Keyboard-1200x675.jpg)
+
 GPD MicroPC 2 Keyboard
 
 ## Changing the TDP
 
 Using the **Up & Down** arrow keyboard keys, select **OEM System Configuration** and press the **Enter** key.
 
+![GPD MicroPC 2 BIOS Main Page](https://gpdstore.net/wp-content/uploads/2025/08/GPD-MicroPC-2-BIOS-Main-Page-1200x675.jpg)
+
 GPD MicroPC 2 BIOS Main Page
 
 On the **OEM System Configuration** menu, navigate to **Configurable TDP** and press **Enter**
 
+![GPD MicroPC 2 OEM System Configuration](https://gpdstore.net/wp-content/uploads/2025/08/GPD-MicroPC-2-OEM-System-Configuration-1200x675.jpg)
+
 GPD MicroPC 2 OEM System Configuration
 
 A menu will display with the available TDP settings (this may vary depending on the N250 or N300 model).
+
+![GPD MicroPC 2 TDP Selection](https://gpdstore.net/wp-content/uploads/2025/08/GPD-MicroPC-2-TDP-Selection-1200x675.jpg)
 
 GPD MicroPC 2 TDP Selection
 
@@ -38,9 +46,13 @@ A lower Wattage number will consume less power and in return lower performance, 
 
 Press the **ESC** keyboard key once to return to the main menu and then use the **Left & Right** keyboard keys to change the menu to **Save & Exit**. Choose the **Save Changes and Exit** option.
 
+![GPD MicroPC 2 Save & Exit](https://gpdstore.net/wp-content/uploads/2025/08/GPD-MicroPC-2-Save-Exit-1200x675.jpg)
+
 GPD MicroPC 2 Save & Exit
 
 Your [GPD MicroPC 2](https://gpdstore.net/laptops/gpd-micropc-2/) will now reboot with the newly chosen TDP and once booted into Windows you can continue to use your device.
+
+![GPD MicroPC 2 UMPC](https://gpdstore.net/wp-content/uploads/2025/06/GPD-MICROPC-2-INFOGRAPHICS-GENERIC-DONE-01.png)
 
 ## GPD MicroPC 2 UMPC
 

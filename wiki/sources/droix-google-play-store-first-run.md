@@ -12,7 +12,7 @@ updated: 2026-04-22
 tags: [kb-article, droix]
 ---
 
-Whether you have just received a DROIX device, or updated the Android operating system, it is always worth opening up Google’s Play Store app and signing in at least once.
+Whether you have just received a DROIX® device, or updated the Android operating system, it is always worth opening up Google’s Play Store app and signing in at least once.
 
 Keeping your apps up to date is good practise for a number of reasons. First, there may be bugs that cause crashing or freezing. There could be security issues that have been updated. Usually, and the best reason, is that new features have been added or improved on. So, keeping apps up to date is a good thing and very easy to do!
 

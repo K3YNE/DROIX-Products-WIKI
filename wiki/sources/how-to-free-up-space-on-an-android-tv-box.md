@@ -12,7 +12,7 @@ updated: 2026-04-22
 tags: [kb-article, droix, android]
 ---
 
-Whether you find Google’s Play Store won’t allow you to install a new big game, or system updates are failing, running low on storage space can cause your DROIX all sorts of problems.
+Whether you find Google’s Play Store won’t allow you to install a new big game, or system updates are failing, running low on storage space can cause your DROIX® all sorts of problems.
 
 Rather than factory resetting, finding the directories where these files are stored can be enough to determine whether they are safe to delete or not.
 

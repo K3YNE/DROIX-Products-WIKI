@@ -29,15 +29,21 @@ Run the firmware update file, at the time of writing it is named **GPD Gamepad W
 
 Once the software has loaded you will be presented with a screen similar to below. As you can see we are currently on **v4.06** firmware and there are updates to **4.08** and **4.07** for the two joystick components.
 
+![GPD WIN 4 joystick firmware update ](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/09/GPD-WIN-4-joystick-firmware-update-1-1024x1001.png)
+
 GPD WIN 4 joystick firmware update
 
 If your Device version number is higher than the File version numbers then you do not need to update the firmware. If it is lower, click on the **Update** button to start the update.
 
 Do not close the software or switch off the GPD WIN 4 2023 until the update has been completed. The progress bar will show on the left side column first, and after a few moments, it will confirm that it has updated.
 
+![First part of the update completed](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/09/GPD-WIN-4-joystick-firmware-update-3-1024x971.png)
+
 The first part of the update completed
 
 The second column will then start to update and again after a few moments, it will show that it has been completed. You will see that both Device versions match the File versions now.
+
+![Both updates completed](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/09/GPD-WIN-4-joystick-firmware-update-4-1024x941.png)
 
 Both updates completed
 
@@ -47,13 +53,19 @@ You can now close the program, **switch off** the GPD WIN 4 2023 (not reboot) an
 
 Run the **GPD WinControls v1.14.exe** (version number may be different in your download) and you will be prompted to install the software. Follow the prompts to install it. Reboot Windows and then run the **WinControls** software
 
+![WinControls software icon](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/09/GPD-WIN-4-joystick-firmware-update-5.png)
+
 WinControls software icon
 
 From the menu, you can customise the back buttons on the GPD WIN 4 2023 or configure the controls.
 
+![GPD WinControl Main Menu](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/09/GPD-WIN-4-joystick-firmware-update-6-1024x654.jpg)
+
 GPD WinControl Main Menu
 
 In this example we are changing the dead zone, so choose the **Mouse model customisation** menu option.
+
+![Mouse model customisation](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/09/GPD-WIN-4-joystick-firmware-update-7-1024x658.jpg)
 
 Mouse model customisation
 

@@ -14,6 +14,8 @@ tags: [kb-article, gpd]
 
 We’ve received several reports from customers experiencing missing SSD or storage issues on their new [GPD devices](https://droix.net/product-attribute/brands/gpd/). This article clarifies the situation and explains how GPD has configured these devices.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/Untitled-design.png)
+
 A 2TB GPD WIN Max 2 showing a capacity of 300GB
 
 So what’s the issue? Many customers believe their devices are missing storage because they cannot see the full capacity of the SSD. However, the storage may not actually be missing. Instead, GPD has been pre-configuring the SSD into two [partitions](https://en.wikipedia.org/wiki/Disk_partitioning) as described and shown below:
@@ -21,9 +23,11 @@ So what’s the issue? Many customers believe their devices are missing storage 
 1. A smaller partition, allocated to the C: drive, that contains the Windows Operating System (OS).
 2. Partition 2: This partition contains the remaining storage.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/20240509_103816-1024x768.jpg)
+
 File Explorer
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/20240509_103833-1024x768.jpg)
 
 Disk Manager
 
@@ -38,9 +42,11 @@ If you believe your device is missing storage, you can verify the partitions and
 2. **View Drives**
    * In File Explorer, you should be able to see 2 (or more) Drives. The first is usually labelled as “Windows (C:)”, which is a smaller designated partition for the OS. The second partition should comprise the remaining storage.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/1.png)
+
 Select “This PC”
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/2.png)
 
 Check Drives and total storage
 
@@ -53,9 +59,11 @@ Please note, there may be slight discrepancies due to differences in how storage
 2. **View Partitions:**
    * In Disk Management, you should see two partitions on your primary SSD. The first partition is usually labelled as “C:” and is smaller, designated for the OS. The second partition comprises the remaining storage.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/3-150x150.png)
+
 Select “Disk Management”
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2024/05/4.png)
 
 Check total disk storage
 

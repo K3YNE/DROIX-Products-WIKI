@@ -22,13 +22,19 @@ Having the choice of multiple OSs on the same SD card is a welcome additional op
 
 This process WILL format your MicroSD card so please, back up your BIOS and ROMs folders to your PC. You can simply drag and drop them onto your computer. If you fail to do this you will LOSE all of your games. If you wish, you can also backup other things such as save states, themes, images and more. These can be found either in the root of your SD card or the FAT32 partition if your SD card has multiple partitions.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/image.png)
+
 Once you’ve backed up every you need to we can get started with formatting the MicroSD Card.
 
 ### Format MicroSD Card
 
 In this guide we used [MiniTool Partition Wizard](https://www.minitool.com/partition-manager/), if you wish to use a different piece of software we cannot confirm your success with these instructions. It should be fine with any disk management software. To start, right-click all partitions on your MicroSD card and click ‘Delete’.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Screenshot-2023-07-10-104310.png)
+
 Next, we need to create a new partition. Right-click on the new empty drive and click ‘Create New Partition’. Set up a FAT32 partition to take up the entire drive. Once done click ‘Apply’ and allow the new setup to take form.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Screenshot-2023-07-10-104252.png)
 
 ### Flashing new fimware(s)
 
@@ -43,13 +49,21 @@ Since we want to use a MicroSD Card to launch the custom firmware – download b
 
 Once you’re ready, open Rufus, select your MicroSD card as a drive and the .img file downloaded as a source and click on ‘Start’. It will take a few minutes to flash.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Screenshot-2023-07-10-104354.png)
+
 ### Expand Games Partition
 
 Once it has finished flashing Rufus will have created several partitions on your MicroSD card, within MiniTool Partition Wizard find the one formatted as ‘FAT32’, this is the partition that will hold your ROMs and BIOS files… you remembered to back those up, right?
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Screenshot-2023-07-10-104621-1024x97.png)
+
 Once you’ve found the FAT32 partition, right-click and select ‘Extend.’
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Screenshot-2023-07-10-104626.png)
+
 Extend the partition to fill the rest of the disk, thus using the entirety of the remaining storage to store more games, saves and files.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Screenshot-2023-07-10-104639.png)
 
 Click ‘OK’ and then ‘Apply’ to allow the changes to take shape.
 
@@ -57,24 +71,40 @@ Click ‘OK’ and then ‘Apply’ to allow the changes to take shape.
 
 Congratulations! You’ve successfully installed the Stock Firmware and GarlicOS dual boot to your MicroSD card, but we’re not done yet. We need to restore your games and files unless you wish to use the device without any games, which I mean go for it you do you. But if you want to play games, find the partition of the drive you just extended, in FAT32 format, in Windows Explorer.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Screenshot-2023-07-10-104842.png)
+
 Inside you’ll find a few different folders, we’re interested in ‘Roms’ and ‘BIOS’.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Screenshot-2023-07-10-104847.png)
 
 If you open up Roms you will all of the consoles that you can emulate already set up. Simply copy the contents of the original folder you backed up to the new folder on the SD Card. Make sure you copy the contents of the folder within the other folder and not the folder itself, as shown below.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Screenshot-2023-07-10-104940-1024x644.png)
+
 Do that for all of them, however with the BIOS folder, you can simply just copy the contents of your old BIOS folder into the new one, skipping any duplicates.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/Screenshot-2023-07-10-105156-1024x652.png)
 
 ## Testing RG35XX Dual Boot
 
 Once everything is transferred you can safely eject your SD card and install it into the TF1 slot of your device. When you first boot up you will get into GarlicOS.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/RG35XX-DualBoot-1-edited-1.jpg)
+
 You will boot into GarlicOS as with any install. Once within the OS, to switch to the stock firmware, head to Consoles, Apps and then scroll to the bottom and select ‘Switch to Stock OS’
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/RG35XX-DualBoot-2-768x1024.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/RG35XX-DualBoot-3-1-768x1024.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/RG35XX-DualBoot-4-768x1024.jpg)
 
 You will now boot into the stock OS.
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/RG35XX-DualBoot-5-1-768x1024.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/RG35XX-DualBoot-6-1-768x1024.jpg)
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/RG35XX-DualBoot-7-1-768x1024.jpg)
 
 To switch back, head to ‘Settings’ and then at the bottom ‘Switch OS’.
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2023/07/RG35XX-DualBoot-8-1-768x1024.jpg)
 
 You can now use both Operating Systems and decide which one to play games and install files.

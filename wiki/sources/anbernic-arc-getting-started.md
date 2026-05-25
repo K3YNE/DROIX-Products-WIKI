@@ -31,6 +31,8 @@ When setting up your Anbernic device, it’s important to ensure you have all th
 * 1x [Micro SD Card](https://en.wikipedia.org/wiki/SD_card#microSD) (Storage)
 * 1x User Manual
 
+![What's inside the box?](https://droix.net/knowledge-base/wp-content/uploads/2023/11/bOX-scaled.jpg)
+
 What’s inside the box?
 
 ## Any Issues or Questions?
@@ -46,11 +48,15 @@ Both the Anbernic ARC-S and ARC-D models feature identical specifications with t
 * 1x HDMI port: allows you to connect your device to an external display.
 * 2x [MicroSD Card](https://droix.net/product-attribute/storage-technology/micro-sd/) slots: accommodate MicroSD cards, one primarily for the operating system (storing Linux) and the other for storage.
 
+![Anbernic ARC Device Overview](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Device-Overview-1-1.png)
+
 1. Anbernic ARC Overview
+
+![Anbernic ARC Device Overview (Top)](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Device-Overview-2.png)
 
 2. Anbernic ARC Overview (Top)
 
-
+![Anbernic ARC Device Overview (Bottom)](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Device-Overview-3.png)
 
 3. Anbernic ARC Overview (Bottom)
 
@@ -82,9 +88,11 @@ The Linux OS is conveniently pre-loaded on a MicroSD card, slotted into the TF1/
 
 Your Anbernic devices offer a clean and simple UI, allowing for a user-friendly experience. You can choose from five main options: Favourites; Recent; Apps; Emulators and RetroArch (refer to *Images 1 & 2* below). We’ll go into some more depth for each of these categories and more below.
 
+![Anbernic ARC Home Menu 1](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Home-Menu-1-1024x576.jpg)
+
 1. Home Menu 1
 
-
+![Anbernic ARC Home Menu 2](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Home-Menu-2-1024x576.jpg)
 
 2. Home Menu 2
 
@@ -109,17 +117,19 @@ The options menu (referred to as the Main Menu) on your Anbernic ARC-S & ARC-D d
 * System Settings
 * Shutdown Settings
 
+![Anbernic ARC Main Menu 1](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Main-Menu-1-1024x576.jpg)
+
 1. Main Menu 1
 
-
+![Anbernic ARC Main Menu 2](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Main-Menu-2-1024x576.jpg)
 
 2. Main Menu 2
 
-
+![Anbernic ARC Main Menu 3](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Main-Menu-3-1024x576.jpg)
 
 3. Quit System
 
-
+![Anbernic ARC Network Settings](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Network-Settings-1024x576.jpg)
 
 4. Network Settings
 
@@ -127,9 +137,11 @@ The options menu (referred to as the Main Menu) on your Anbernic ARC-S & ARC-D d
 
 The network setup can get a little tricky so here’s a step-by-step guide to setting it up. First, head over to the *Main Menu* by pressing the *Start* button and then select ‘*Network Settings*‘. The next step is to enable Wi-Fi — once enabled some more options should appear (refer to *Images 1 & 2* below). From here, simply select ‘*Wi-FI SSID*‘, choose your desired network connection and then select ‘Wi-FI Key’ and enter the correct Wi-Fi password (refer to *Image 2* below).
 
+![Anbernic ARC Network Settings](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Network-Settings-1024x576.jpg)
+
 1. Network Settings 1
 
-
+![Anbernic ARC Network Settings 2](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Network-Settings-2-1024x576.png)
 
 2. Network Settings 2
 
@@ -137,9 +149,11 @@ The network setup can get a little tricky so here’s a step-by-step guide to se
 
 The Apps menu is where you can manage all of your other applications.
 
+![Anbernic ARC Apps](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Apps-1024x576.jpg)
+
 1. Apps
 
-
+![Anbernic ARC Apps Setup](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Apps-Setup-1024x576.jpg)
 
 2. Apps Setup
 
@@ -147,9 +161,11 @@ The Apps menu is where you can manage all of your other applications.
 
 The ‘Emulators’ option contains the individual & independent emulators that you might install onto your device. First, you will see a list of the different installed emulators (refer to *Image 1* below). After selecting your emulator, it will provide a list of games installed for that emulator (refer to *Image 2* below).
 
+![Anbernic ARC Emulators 1](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Emulators-1-1024x576.png)
+
 1. Select Device
 
-
+![Anbernic ARC Emulators 2](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Emulators-2-1024x576.jpg)
 
 2. Select Game
 
@@ -157,9 +173,11 @@ The ‘Emulators’ option contains the individual & independent emulators that 
 
 [RetroArch](https://www.retroarch.com/index.php) is a free and open-source, frontend for emulators and games. It enables your device to run a wide range of games and devices whilst providing unified configurations and more advanced features such as custom shaders, rewinding and netplay. RetroArch is an alternative way to load emulators and games on your Anbernic ARC device that provides you with more customisation. RetroArch uses ‘[Cores](https://www.retroarch.com/?page=cores)‘, which acts as a plugin to load emulators. These ‘*Cores*‘ can essentially be looked at as the emulator itself. You will be able to install and update new cores as they become available on the RetroArch build.
 
+![Anbernic ARC RetroArch 1](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Retroarch-1-1024x576.jpg)
+
 1. Select Device
 
-
+![Anbernic ARC RetroArch 2](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Anbernic-ARC-Retroarch-2-1024x576.jpg)
 
 2. Select Game
 
@@ -177,13 +195,15 @@ When you launch the Android OS for the first time you will need to set up the de
 
 Your Anbernic’s device control centre can be accessed by sliding down from the top of the screen, similar to how you would on a smartphone (refer to Image 1 below). Swipe down again to expand the control panel if needed (refer to Images 2 & 3 below). from here you can easily and quickly access and modify device options such as Wi-Fi, Bluetooth, Mode Control, button keymapping and more.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Home-Screen-1.png)
+
 1. Swipe Down
 
-
+![Control Panel Swipe](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Control-Panel-1.1.png)
 
 2. Control Panel
 
-
+![Control Panel Expanded](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Control-Panel-2.png)
 
 3. Expanded Control Panel
 
@@ -191,13 +211,15 @@ Your Anbernic’s device control centre can be accessed by sliding down from the
 
 To access and connect Network settings, open the control centre and hold you’re finger on the Wi-Fi option. This will open the Wi-Fi menu and show all the different available network connections. Simply select your desired network, and enter the password.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/WiFi-0.png)
+
 1. Wi-Fi Control Panel
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/WiFi-1.png)
 
 2. Select Wi-Fi Network
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/WiFi-2.png)
 
 3. Enter Wi-Fi Password
 
@@ -207,13 +229,15 @@ To quickly start playing games on your Anbernic device with minimal setup, open 
 
 Opening it will bring up an overlay displaying a variety of emulators. Navigate through the emulators using the left and right buttons (or swiping) to find your desired option. After selecting an emulator, you will see a list of all compatible games available. Choose the game you want to play, and you’ll be launched straight into the action with preconfigured settings, ensuring a seamless gaming experience.
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Home-Screen-1.png)
+
 1. Swipe Down
 
-
+![Control Panel Swipe](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Control-Panel-1.1.png)
 
 2. Control Panel
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Control-Panel-3.png)
 
 3. Tap RG Launcher Icon
 
@@ -223,37 +247,41 @@ For those who prefer more control and customization over their gaming experience
 
 Like on an Android smartphone, swipe up from the bottom of the screen to open your app library. This is where all your installed applications, including emulators, are located. Now, scroll through to find the emulator you wish to set up and tap on its icon to open it. Typically, you won’t see any games listed initially. Instead, the emulator will prompt you to add a directory. To do this, select ‘Add directory’ and a new window will open. Here, tap the navigation icon (represented by three horizontal lines) to access different storage locations. Choose ‘SD Card’ from the menu, which is the MicroSD Card that you inserted into slot TF2/EXT earlier.
 
+![DuckStation Setup 1](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-0.png)
+
 2. Select Emulator
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/Home-Screen-2-1.png)
 
 1. Swipe Up
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-1.png)
 
 3. Select ‘Add Game Directory’
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-2.png)
 
 4. Tap Navigation Icon
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-3.png)
 
 5. Select Storage Device
 
 Now you need to navigate to the folder containing all the games corresponding with the emulator’s console. For example, for DuckStation (PS1 emulator), you will need to locate the folder with all your PS1 games. After selecting the folder, press ‘Use this folder’ at the bottom of the screen. This will cause a pop-up asking for access to the device. Select ‘Allow Access’ and the emulator will then begin scanning the folder for compatible games. Once complete, the games should appear in the emulator’s menu, ready for you to play!
 
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-4.png)
+
 6. Locate Console Games Folder
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-5.png)
 
 7. Select ‘Use This Folder’
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-6.png)
 
 8. Allow Access
 
-
+![](https://droix.net/knowledge-base/wp-content/uploads/2023/11/DuckStation-Setup-7.png)
 
 9. Games should appear
 

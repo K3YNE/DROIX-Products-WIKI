@@ -16,11 +16,15 @@ If you are looking to upgrade your DROIX CK1, we at DROIX have put together a sh
 
 ## Step 1 – Remove the lid
 
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220321_115806190_HDR-1024x768.jpg)
+
 To access the CK1, you first need to remove the lid of the unit.
 
 To do so, remove the screws in the rear side. You will then be able to pry the lid off the unit. You may need to gently tap the base of the CK1 in order to loosen it.
 
 ## Step 2 – Replacing Components
+
+![](https://droix.net/knowledge-base/wp-content/uploads/sites/3/2022/03/IMG_20220321_120436185_HDR-1024x768.jpg)
 
 You will now be at the heart of the DROIX CK1. From here, you can upgrade and replace the components as you wish.
 
